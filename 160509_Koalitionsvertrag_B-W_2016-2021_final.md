@@ -5766,10 +5766,7 @@ und Home-Treatment Angeboten besonders wichtig.
 Dabei spielen die Zentren für Psychiatrie eine besondere Rolle.
 Wir wollen unterschiedliche Hilfesysteme besser
 füreinander nutzbar machen und vor allem für ältere
-Menschen und junge Betroffene ausbauen. Jugendpsy-
-
-
-chiatrische Verbünde (JPV) sollen als feste Bestandteile
+Menschen und junge Betroffene ausbauen. Jugendpsychiatrische Verbünde (JPV) sollen als feste Bestandteile
 der Gemeindepsychiatrischen Verbünde besondere
 Bedeutung erhalten. Die Belange älterer Menschen
 mit psychischen Belastungen wollen wir in die Aufgabengebiete der Gemeindepsychiatrischen Verbünde
@@ -5849,17 +5846,14 @@ der Versorgung bleiben. Zur Sicherung des Krankenhauswesens im Rahmen der öffen
 in öffentlicher Trägerschaft sind ein wichtiges Element
 
 
+Wir werden die Förderung von Krankenhäusern nach
+transparenten Kriterien, unter besonderer Berücksichtigung von Strukturqualitätskriterien und Erreichbarkeit, weiterentwickeln.
+<!-- BUG: Text moved from below -->
+
 Wir wollen Angebote zur individuellen Schadensminderung für Drogenkonsumenten weiterentwickeln und
 unterstützen aufsuchende Programm, in denen Drogenkonsumenten erreicht und über Risiken aufgeklärt
 werden sollen. Dabei geht es uns um den Schutz vor
-Infektionskrankheiten, die Stabilisierung des Ge-
-
-
-Wir werden die Förderung von Krankenhäusern nach
-transparenten Kriterien, unter besonderer Berücksichtigung von Strukturqualitätskriterien und Erreichbarkeit, weiterentwickeln.
-
-
-sundheitszustandes und die Verbesserung der sozialen
+Infektionskrankheiten, die Stabilisierung des Gesundheitszustandes und die Verbesserung der sozialen
 Integration.
 Eine verantwortungsvolle Drogen- und Suchtpolitik,
 die gesundheitspolitisch konsequent handelt, bezieht
@@ -6572,8 +6566,7 @@ verlässliche Rahmenbedingungen. Dazu fördern wir
 neue, tierfreundliche Stallsysteme. Zusammen mit den
 Betrieben möchten wir die Tierhaltung weiter verbessern.
 Tierhaltung in ihrer Vielfalt ist eine tragende Säule der
-baden-württembergischen Landwirtschaft. Die Bür-
-gerinnen und Bürger in Baden-Württemberg erwarten einen Tierschutz mit erhöhten Tierwohlkriterien
+baden-württembergischen Landwirtschaft. Die Bürgerinnen und Bürger in Baden-Württemberg erwarten einen Tierschutz mit erhöhten Tierwohlkriterien
 (u.a. Auslauf und Weidehaltung) und gesellschaftlich
 akzeptierten Standards. Dies ist mit höheren Kosten
 verbunden, die nicht über Markterlöse erzielt werden
@@ -7137,10 +7130,7 @@ zu verstetigen wie auch Überlastungen zu vermeiden.
 
 Auch im Bereich der Verkehrsinfrastruktur gebieten
 die Zielsetzungen der Bewahrung der Schöpfung und
-des Erhalts der Biodiversität, konsequent alle erfor-
-
-
-derlichen Maßnahmen zum Schutz von Flora und
+des Erhalts der Biodiversität, konsequent alle erforderlichen Maßnahmen zum Schutz von Flora und
 Fauna zu ergreifen. Deswegen sind Grünbrücken und
 sonstige Querungshilfen zur Sicherung überregionaler
 Wildkorridore wichtiger Bestandteil von Planungen.
@@ -8085,8 +8075,7 @@ zurück. Um die wirtschaftliche Zusammenarbeit zu
 intensivieren, wollen wir bei Unternehmen aus dem
 Land für ein sozialverantwortungsvolles Engagement
 werben und damit auch die vorhandenen Instrumente
-der Außenwirtschaftsförderung nutzen. Die Ausrichtung nach dem Corporate Social Responsibility (CSR)
-- Ansatz unterstützt die nachhaltige wirtschaftliche
+der Außenwirtschaftsförderung nutzen. Die Ausrichtung nach dem Corporate Social Responsibility (CSR)-Ansatz unterstützt die nachhaltige wirtschaftliche
 Entwicklung.PARTNERSCHAFT MIT BURUNDI VERTIEFEN
 Die Partnerschaft mit Burundi als Graswurzelpartnerschaft mit der Zivilgesellschaft und den Kirchen
 setzen wir auch in Zeiten der politischen Konflikte und
@@ -8554,9 +8543,7 @@ Organisationen, die vom Verfassungsschutz beobachtet
 werden, können auf Antrag des Innenministeriums
 und nach Entscheidung des Ministerrats von der
 Gewährung freiwilliger Förderung durch das Land
-ausgeschlossen werden. Das Parlamentarische Kontrollgremium (PKG) wird unverzüglich informiert.131ZUSAMMENARBEIT
-## IN DER KOALITION
-
+ausgeschlossen werden. Das Parlamentarische Kontrollgremium (PKG) wird unverzüglich informiert.
 
 
 # 12.	ZUSAMMENARBEIT IN DER KOALITION BUNDESRAT
