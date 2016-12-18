@@ -78,8 +78,7 @@ den Mittelpunkt unserer Politik. Grundlage ist dabei
 der Wertekonsens einer sozialen und ökologischen
 Marktwirtschaft. Wir wollen das Wirtschaftswachstum vom Ressourcenverbrauch entkoppeln. Dadurch
 verbinden wir Ökologie und Ökonomie und machen
-unsere Unternehmen zur Nummer eins bei Ressour­
-ceneffizienz und Umwelttechnologien. So wird Nachhaltigkeit zum Markenzeichen unseres Landes.
+unsere Unternehmen zur Nummer eins bei Ressourceneffizienz und Umwelttechnologien. So wird Nachhaltigkeit zum Markenzeichen unseres Landes.
 Wir befinden uns mitten in der digitalen Revolution.
 Sie verändert grundlegend die Art und Weise, wie wir
 produzieren und konsumieren, wie wir arbeiten und
@@ -92,8 +91,7 @@ Baden-Württemberg zur dynamischsten Gründerregion Europas machen. Datenschutz 
 den Schutz vor Cyberkriminalität. Wir wollen Baden-Württemberg auch zum Marktführer datensicherer
 Lösungen machen. Wir werden die Digitalisierung
 als Nachhaltigkeitsmotor nutzen. Intelligente Systeme
-sollen Rohstoffe sparen und Kapazitäten besser nutzen
-- sei es in Unternehmen, im Verkehr, in der Medizin
+sollen Rohstoffe sparen und Kapazitäten besser nutzen - sei es in Unternehmen, im Verkehr, in der Medizin
 oder bei der Energieerzeugung.
 Damit unser Land im internationalen Wettbewerb
 mithalten kann, benötigt es eine leistungsfähige Infrastruktur – im ländlichen Raum genauso wie in den
@@ -144,8 +142,7 @@ Die Baden-Württemberger wünschen sich, dass Menschen, die Hilfe benötigen, au
 wollen, dass sich die Menschen in unserem Land auf
 ein starkes gesellschaftliches Netz verlassen können,
 das ihre Selbstbestimmung und Würde erhält. Wir
-verstehen unter Sozialpolitik die Hilfe zur Selbsthilfe –
-wo immer dies möglich ist. Wir wollen nicht entmündigen, sondern ermutigen und befähigen. Wir wollen
+verstehen unter Sozialpolitik die Hilfe zur Selbsthilfe – wo immer dies möglich ist. Wir wollen nicht entmündigen, sondern ermutigen und befähigen. Wir wollen
 eine Gesundheitsversorgung und Pflege, die sich am
 Bedarf der Menschen orientiert.
 In einer immer komplexeren Welt entstehen schnell
@@ -199,10 +196,7 @@ Eltern und Lehrern Verlässlichkeit und Planbarkeit.
 Baden-Württemberg ist das Land der Tüftler und Denker. Nirgendwo sonst in Deutschland gibt es eine solch
 vielfältige, innovative und exzellente Hochschullandschaft. Wir werden unsere Hochschulen weiter stärken
 – mit verlässlicher Finanzierung und klugen Investitionen. Aber auch mit Eigenverantwortung. Denn wir
-glauben fest daran: Kreativität und Innovation entste-
-
-
-hen dort, wo Menschen Freiräume haben. Wir sichern
+glauben fest daran: Kreativität und Innovation entstehen dort, wo Menschen Freiräume haben. Wir sichern
 deshalb die Qualität der Lehre an unseren Hochschulen und nutzen dabei konsequent die Chancen, die sich
 aus digitalen Lerninstrumenten ergeben.
 
@@ -2136,8 +2130,7 @@ Zur Verantwortung handlungsfähiger Hochschulleitungen gehört es, Beteiligung i
 Verfahren zu organisieren. Dies gilt für die Mitglieder
 der Hochschule in ihrem jeweiligen Interessens- oder
 Verantwortungsbereich ebenso wie für den Austausch
-zwischen Hochschule und Gesellschaft. Bei der Um-
-setzung innovativer Beteiligungsverfahren unterstützen
+zwischen Hochschule und Gesellschaft. Bei der Umsetzung innovativer Beteiligungsverfahren unterstützen
 wir die Hochschulen.
 
 
@@ -2288,10 +2281,7 @@ Männern und Frauen verbessern wir durch Qualitätsleitfäden für Berufungsverf
 den Hochschulen, dass sie den Anteil von Professorinnen signifikant erhöhen und werden sie auf dem Weg
 dahin unterstützen.
 Wir stärken Dual-Career-Angebote, auch um im
-internationalen Wettbewerb die besten Wissenschaft-
-
-
-lerinnen und Wissenschaftler gewinnen zu können.
+internationalen Wettbewerb die besten Wissenschaftlerinnen und Wissenschaftler gewinnen zu können.
 Wir wollen ermöglichen, dass das Studium so gestaltet
 werden kann, dass es individuelle Lebenslagen – etwa
 die Betreuung von Kindern oder Angehörigen oder
@@ -4663,8 +4653,8 @@ So werden von den Betreibern sozialer Netzwerke teilweise mit Hilfe von Algorith
 Für unsere Wirtschaft ist die Nutzung und Verarbeitung von Daten heute wichtiger denn je. Wettbewerber
 sollen sich durch die Verletzung von Datenschutzvorschriften keine Vorteile gegenüber ihren rechtstreuen
 Konkurrenten verschaffen können. Deshalb wollen
-wir sicherstellen, dass Verstöße gegen Datenschutzbe-
-
+wir sicherstellen, dass Verstöße gegen Datenschutzbe
+<!-- BUG -->
 
 Das Amt des beim Landtag angesiedelten unabhängigen Landesbeauftragten für den Datenschutz (LfD)
 besetzen wir zügig neu und wollen es aufgrund gewachsener Aufgaben entsprechend ausstatten. Um die
