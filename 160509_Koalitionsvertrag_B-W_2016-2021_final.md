@@ -4,6 +4,9 @@
     UND DER CDU BADEN-WÜRTTEMBERG
 % 2016 - 2021
 
+<!--
+Koalitionsvertrag zwischen Bündnis 90/Die Grünen Baden-Württemberg und der CDU Baden-Württemberg 2016 - 2021
+-->
 
 Baden-Württemberg lebt von seinen markanten
 Landschaften, seinen schönen Dörfern und Städten und vor allem von seinen Menschen. Mit ihrem
@@ -449,9 +452,7 @@ können. Die Clusterpolitik und die Innovationsallianz
 Baden-Württemberg wollen wir weiterentwickeln.
 
 
-## INNOVATIONSWERKSTATT
-
-BADEN-WÜRTTEMBERG – TRENDS NUTZEN
+## INNOVATIONSWERKSTATT BADEN-WÜRTTEMBERG – TRENDS NUTZEN
 
 
 In der globalisierten Welt prägen neue gesellschaftliche und technologische Entwicklungen gerade in den
@@ -763,7 +764,8 @@ Baden-Württemberg sowie gegebenenfalls weitere
 doppische Elemente einführen
 
 
-DIGITAL@BW
+## DIGITAL@BW
+
 Die Digitalisierung wird Baden-Württemberg entscheidend prägen. Wir verstehen die Digitalisierung als
 Gestaltungsaufgabe, die Wirtschaft, Politik und Gesellschaft gleichermaßen fordert. Dabei stellen wir die
 Chancen des digitalen Wandels in den Vordergrund,
@@ -865,8 +867,7 @@ Kommunen und die Vernetzung ihrer Daten zu ermöglichen. So können neue Synergi
 ermöglicht werden.
 
 
-BADEN-WÜRTTEMBERG ZUM DIGITALEN
-## LEITMARKT UND LEITANBIETER ENTWICKELN
+## BADEN-WÜRTTEMBERG ZUM DIGITALEN LEITMARKT UND LEITANBIETER ENTWICKELN
 
 Die Digitalisierung von Industrie, Handwerk und
 Mittelstand verändert unsere Arbeits- und Wirtschaftswelt grundlegend. Diese Entwicklung birgt große
@@ -882,8 +883,7 @@ den für unser Land zentralen Feldern zum digitalen
 Leitmarkt und Leitanbieter zu entwickeln.
 
 
-ALLIANZ WIRTSCHAFT 4.0 FÜR DIE
-## DIGITALISIERUNG IM MITTELSTAND
+## ALLIANZ WIRTSCHAFT 4.0 FÜR DIE DIGITALISIERUNG IM MITTELSTAND
 
 Dabei werden wir unserem starken heimischen Mittelstand bei diesem Transformationsprozess zur Seite
 stehen. Wir werden einen Rahmen schaffen, um gerade
@@ -918,7 +918,8 @@ für ein herstellerunabhängiges Software-Ökosystem.
 Diese Ansätze wollen wir unterstützen.
 
 
-DIGITAL AUS- UND WEITERBILDEN
+## DIGITAL AUS- UND WEITERBILDEN
+
 Als Industriestandort und Hightech-Land brauchen
 wir Nachwuchs vor allem in den technischen Berufen.
 Nur so können wir die Chancen der Digitalisierung
@@ -992,8 +993,7 @@ Schwerpunkt im Bereich „Verschlüsselungstechnologie“
 und einem „Baukasten für Datensicherheit“ legen.
 
 
-SICHERHEIT IM NETZ –
-## SICHERHEIT DER DATEN
+## SICHERHEIT IM NETZ – SICHERHEIT DER DATEN
 
 
 
@@ -1069,7 +1069,8 @@ sowohl die Interessen der Mieter als auch die Interessen
 der Vermieter und Eigentümer in Einklang zu bringen.
 
 
-WOHNRAUM-ALLIANZ GRÜNDEN
+## WOHNRAUM-ALLIANZ GRÜNDEN
+
 Nur gemeinsam wird uns der Aufbruch für mehr
 bezahlbaren Wohnraum gelingen. Der Bedarf an bezahlbarem Wohnraum kann nur gedeckt werden, wenn
 die Politik geeignete Rahmenbedingungen schafft und
@@ -1080,8 +1081,7 @@ gemeinsame Leitlinien für die verstärkte Schaffung von
 Wohnraum erarbeiten wird.
 
 
-VIELFALT, TRADITION UND INNOVATION
-## IN DER BAUKULTUR VERBINDEN
+## VIELFALT, TRADITION UND INNOVATION IN DER BAUKULTUR VERBINDEN
 
 Baukultur ist und schafft Identität und Heimat. Baukultur in ihrer regionalen Vielfalt prägt Lebensqualität
 in unseren Städten und Gemeinden und ist als Standortfaktor von strukturpolitischer Bedeutung. Mit dem
@@ -1110,8 +1110,7 @@ Diese wichtige landespolitische Aufgabe wollen wir
 auch künftig fortführen und weiterentwickeln.
 
 
-DIGITAL@BW: DIGITALES BAUEN
-## UND PLANEN UNTERSTÜTZEN
+## DIGITAL@BW: DIGITALES BAUEN UND PLANEN UNTERSTÜTZEN
 
 Architektinnen und Architekten, Planerinnen und
 Planer sowie Ingenieurinnen und Ingenieure schaffen
@@ -1668,8 +1667,7 @@ Wir wollen allen jungen Menschen eine berufliche
 Perspektive ermöglichen.
 
 
-ENQUETE-EMPFEHLUNGEN
-## WEITER UMSETZEN
+## ENQUETE-EMPFEHLUNGEN WEITER UMSETZEN
 
 An der weiteren Umsetzung der Empfehlungen der
 Enquete-Kommission „Fit fürs Leben in der Wissensgesellschaft – Berufliche Schulen, Aus- und Weiterbildung“ halten wir fest und werden diese verstetigen.
@@ -1693,7 +1691,8 @@ steht. Zudem wollen wir die Einrichtung eines Modellversuchs zur Einführung ein
 Gymnasiums ermöglichen.
 
 
-DIGITAL@BW: AUF DIE HERAUSFORDERUNGEN DER DIGITALISIERUNG VORBEREITEN
+## DIGITAL@BW: AUF DIE HERAUSFORDERUNGEN DER DIGITALISIERUNG VORBEREITEN
+
 Wir wollen dafür sorgen, dass die Schülerinnen und
 Schüler der beruflichen Schulen auf die vielfältigen
 Herausforderungen einer digitalisierten Arbeitswelt
@@ -1742,8 +1741,8 @@ insbesondere im Bereich der beruflichen Aus- und
 Weiterbildung. Diese Partnerschaft wollen wir fortführen und weiterentwickeln.
 
 
-BERUFSSCHULEN –
-BETRIEBS- UND WOHNORTNAH
+## BERUFSSCHULEN – BETRIEBS- UND WOHNORTNAH
+
 Wir wollen eine stabile betriebs- und wohnortnahe
 Ausbildung nach dem Leitprinzip „So viel Berufsschulunterricht vor Ort wie möglich“ in der Fläche gewährleisten. Im Rahmen der regionalen Schulentwicklung
 mit Schulträgern, Kammern und Ausbildungsbetrieben setzen wir auf Lösungen, die der demografischen
@@ -1847,8 +1846,7 @@ Beruf und ihre Arbeitsbedingungen beim Berufseinstieg verbessern.
 Die Verbesserung der Gesundheitsprävention für Lehrkräfte ist uns ein wichtiges Anliegen.
 
 
-LEHRERVERSORGUNG –
-## VERLÄSSLICH UND GERECHT
+## LEHRERVERSORGUNG – VERLÄSSLICH UND GERECHT
 
 Wir sichern unseren Schulen in Baden-Württemberg
 eine verlässliche Unterrichtsversorgung zu. Neben dem
@@ -2100,7 +2098,8 @@ unterstützen wir ausdrücklich.
 
 # 4. EXZELLENT, VIELFÄLTIG, VERANTWORTLICH IN WISSENSCHAFT, FORSCHUNG UND KUNST
 
-HOCHSCHULLAND(SCHAFT)
+## HOCHSCHULLAND(SCHAFT)
+
 Baden-Württemberg zeichnet sich durch ein besonders
 dichtes, leistungsstarkes und vielfältiges Hochschulund Forschungssystem aus.
 Wir stärken die Hochschulen mit ihren jeweiligen
@@ -2142,7 +2141,8 @@ setzung innovativer Beteiligungsverfahren unterstützen
 wir die Hochschulen.
 
 
-UNBÜROKRATISCH, STRATEGISCH, FLEXIBEL
+## UNBÜROKRATISCH, STRATEGISCH, FLEXIBEL
+
 Um die Strategiefähigkeit von Land und Hochschulen
 zu stärken sowie die Verwaltungseffizienz zu erhöhen,
 werden wir die kontinuierlich gewachsenen administrativen Aufgaben der Hochschulen reduzieren. Dies
@@ -2230,8 +2230,7 @@ Wir werden uns auf Bundesebene für die Einführung
 einer steuerlichen Forschungsförderung einsetzen.
 
 
-BAUEN, SANIEREN UND
-## ENERGIE EINSPAREN
+## BAUEN, SANIEREN UND ENERGIE EINSPAREN
 
 Wir planen im Rahmen der finanziellen Möglichkeiten
 einen Hochschulinvestitionspakt (HIP) für den Neubau-, Sanierungs- und Investitionsbedarf sowie den
@@ -2307,9 +2306,7 @@ andere Formen flexibler Studiengestaltung fördern und
 ausbauen.
 
 
-LEISTUNGSFÄHIG, FORTSCHRITTLICH,
-MENSCHLICH - UNIVERSITÄTSMEDIZIN
-## STÄRKEN
+## LEISTUNGSFÄHIG, FORTSCHRITTLICH, MENSCHLICH - UNIVERSITÄTSMEDIZIN STÄRKEN
 
 Die Universitätsmedizin in Baden-Württemberg bietet
 Krankenversorgung und medizinische Wissenschaft
@@ -2344,7 +2341,8 @@ Universitätskliniken begegnen. Dabei soll die wissenschaftliche Profilierung de
 berücksichtigt werden.
 
 
-FORSCHUNGSLAND(SCHAFT)
+## FORSCHUNGSLAND(SCHAFT)
+
 Wir brauchen die Ideen der Wissenschaft, um die großen gesellschaftlichen Herausforderungen zu meistern
 und den Wohlstand unseres Landes zu erhalten. Wir
 sorgen dafür, dass Baden-Württemberg die europäische
@@ -2367,9 +2365,7 @@ tragen wir durch eine weitere Stärkung seiner Autonomie und seiner Handlungsspi
 Budget und Bau Rechnung und nutzen die neuen
 Spielräume des Artikels 91b Grundgesetz (Bund-Länder-Zusammenarbeit bei Hochschulen).
 
-
-VERNETZEN, KOOPERIEREN,
-## TRANSFERIEREN
+## VERNETZEN, KOOPERIEREN, TRANSFERIEREN
 
 Die angewandte Forschung an den Hochschulen für
 angewandte Wissenschaften und an der Dualen Hochschule Baden-Württemberg (DHBW) bauen wir aus.
@@ -2674,11 +2670,8 @@ Die Dirigenten- und Chorleiterpauschalen wollen wir
 schrittweise erhöhen.
 
 
+## DIGITAL@BW: KULTURELLES BADEN-WÜRTTEMBERG DIGITAL ERLEBEN
 
-
-
-DIGITAL@BW: KULTURELLES
-BADEN-WÜRTTEMBERG DIGITAL ERLEBEN
 Neue digitale Technologien eröffnen neue Möglichkeiten für künstlerisches Schaffen sowie für die Erforschung, Archivierung, Präsentation und Vermittlung
 von Kunst. Wir wollen unsere Kunsteinrichtungen,
 insbesondere Museen, Bibliotheken, Archive, Hochschulen und Akademien, dabei unterstützen, die
@@ -2688,8 +2681,7 @@ Dabei werden wir die international herausragende Position des ZKM Karlsruhe bei 
 digitaler Kunst berücksichtigen.
 
 
-DAS KULTURELLE BADEN-WÜRTTEMBERG
-## DIGITAL ERLEBBAR ZU MACHEN
+## DAS KULTURELLE BADEN-WÜRTTEMBERG DIGITAL ERLEBBAR ZU MACHEN
 
 Wir setzen uns für ein modernes und praktikables
 Urheberrecht ein, das die Kunsteinrichtungen in die
@@ -2711,8 +2703,8 @@ reiche baden-württembergische Medienlandschaft ausmachen. Diese Landschaft woll
 erhalten und stärken.
 
 
-RUNDER TISCH „MEDIENZUKUNFT
-BADEN-WÜRTTEMBERG“
+## RUNDER TISCH „MEDIENZUKUNFT BADEN-WÜRTTEMBERG“
+
 Wir möchten Förderangebote ausbauen, die dem
 Erhalt der Vielfalt, der Anpassung der Geschäftsmodelle an digitale Herausforderungen und der Sicherung
 der journalistischen Qualität dienen. Um hier geeignete Maßnahmen zu identifizieren, rufen wir unter
@@ -2730,8 +2722,8 @@ Fördermöglichkeiten für private lokale und landesweite
 Radio- und Fernsehanbieter sowie die nicht-kommerziellen Hörfunksender.
 
 
-STARK, UNABHÄNGIG, STAATSFERN –
-RUNDFUNK IN BADEN-WÜRTTEMBERG
+## STARK, UNABHÄNGIG, STAATSFERN – RUNDFUNK IN BADEN-WÜRTTEMBERG
+
 Unsere rundfunkpolitische Leitlinie ist die eines starken, unabhängigen und staatsfernen Rundfunks. Wir
 unterstützen den Südwestrundfunk bei der weiteren
 Anpassung an sich verändernde Rahmenbedingungen.
@@ -2839,7 +2831,8 @@ vereinen und es Unternehmen ermöglichen, neueste
 Effizienztechnologien zu erproben.
 
 
-UMWELTTECHNIK BW UND UMWELTFORSCHUNG STÄRKEN
+## UMWELTTECHNIK BW UND UMWELTFORSCHUNG STÄRKEN
+
 Die Landesagentur Umwelttechnik BW möchten wir
 als zentralen Ansprechpartner für die Unternehmen im
 Land in Fragen von Umwelttechnik und Ressourceneffizienz stärken und ihre regionale Präsenz ausbauen.
@@ -2867,8 +2860,7 @@ Umstieg in eine klimafreundliche Wirtschaft und
 Gesellschaft.
 
 
-ENERGIE- UND KLIMAPOLITISCHEN
-## RAHMEN VERBESSERN
+## ENERGIE- UND KLIMAPOLITISCHEN RAHMEN VERBESSERN
 
 Wir werden uns beim Bund, bei der EU und auf internationaler Ebene deshalb für die ambitionierte Umsetzung des Klimaschutzabkommens und die entsprechende Gestaltung der energie- und klimapolitischen
 Rahmenbedingungen einsetzen.
@@ -2878,16 +2870,15 @@ erreichen. Dazu werden wir auf Grundlage des Paris-Abkommens und der europäisch
 Klimaschutzinstrumente das Klimaschutzgesetz (KSG)
 und das Integrierte Energie- und Klimaschutzkonzept
 (IEKK) unter frühzeitiger und umfassender Beteiligung der Öffentlichkeit fortschreiben. Hierzu wird die
-Landesregierung zeitnah eine interministerielle Arbeits48
-
-
+Landesregierung zeitnah eine interministerielle Arbeits
 gruppe einsetzen, um Vorschläge für ambitionierte
 Ziele für 2030 und die Optimierung der Steuerungswirkung von KSG und IEKK vorzulegen, damit wir
 bis 2050 eine Treibhausgasminderung um 90 Prozent
 erreichen.
 
 
-CO2-AUSSTOSS REDUZIEREN
+## CO2-AUSSTOSS REDUZIEREN
+
 Für eine konsequente Umsetzung einer Klima- und
 Nachhaltigkeitspolitik wollen wir zudem prüfen,
 inwiefern bei öffentlichen Projektfinanzierungen und
@@ -2910,8 +2901,7 @@ Klimaabkommen „Memorandum of Understanding“
 Regionen und Städte beigetreten sind.
 
 
-DEKARBONISIERUNG VON STROM,
-## WÄRME UND VERKEHR
+## DEKARBONISIERUNG VON STROM, WÄRME UND VERKEHR
 
 Wir wollen die Dekarbonisierung von Strom, Wärme
 und Verkehr bis zur Mitte des Jahrhunderts vorantreiben. Wir setzen uns daher für einen verbindlichen
@@ -2934,8 +2924,7 @@ Baden-Württemberg begrenzt werden können. Soweit erforderlich, sind bestehende
 auszubauen.
 
 
-PREISGÜNSTIG, UMWELTFREUNDLICH,
-## SICHER BEI DER ENERGIEWENDE
+## PREISGÜNSTIG, UMWELTFREUNDLICH, SICHER BEI DER ENERGIEWENDE
 
 Die Energiewende beruht auf einem breiten gesellschaftlichen Konsens. Wir wollen den eingeschlagenen
 Weg weiterentwickeln und uns sowohl im Land, aber
@@ -3088,8 +3077,7 @@ stoffliche Verwertung dieser Ressource mit optimaler
 Energieausbeute sicher.
 
 
-GEOTHERMIE – FACHKOMPETENZ
-## WEITER AUFBAUEN
+## GEOTHERMIE – FACHKOMPETENZ WEITER AUFBAUEN
 
 Mit über 30.000 realisierten Wärmesonden ist die
 oberflächennahe Geothermie in Baden-Württemberg
@@ -3125,8 +3113,7 @@ der Bevölkerung aufgegriffen werden, um Konflikte
 vor Ort zu minimieren.
 
 
-DIGITAL@BW: INTELLIGENTE NETZE UND
-## FLEXIBLE LÖSUNGEN VORANTREIBEN
+## DIGITAL@BW: INTELLIGENTE NETZE UND FLEXIBLE LÖSUNGEN VORANTREIBEN
 
 Wir wollen die Technologieführerschaft bei der Implementierung von Smart-Grid und Smart-Metering bei
 Verteilnetzen in Deutschland und Europa erreichen.
@@ -3206,8 +3193,7 @@ Abschreibung energetischer Sanierung im Gebäudebereich. Unabhängig davon werde
 Fördermaßnahmen hier eigene Impulse setzen.
 
 
-ERNEUERBARE-WÄRME-GESETZ
-## FORTENTWICKELN
+## ERNEUERBARE-WÄRME-GESETZ FORTENTWICKELN
 
 Mit dem Erneuerbare-Wärme-Gesetz hat Baden-Württemberg seit 2008 bundesweit eine Vorreiterposition
 eingenommen. Das jetzige EWärmeG werden wir einer
@@ -3352,7 +3338,8 @@ Endlagers für schwach- und mittelradioaktive Abfälle
 Schacht Konrad ein.
 
 
-STRAHLENSCHUTZ BÜNDELN
+## STRAHLENSCHUTZ BÜNDELN
+
 Angesichts zusätzlicher Aufgaben wie dem erhöhten
 Schutz vor Radon und der risikoorientierten Aufsicht
 in der Medizin und der gewerblichen Wirtschaft
@@ -3421,7 +3408,8 @@ landesweiten Deponiekonzeption gemeinsam mit den
 diese zeitnah umgesetzt werden.
 
 
-WASSER, BODEN UND LUFT SCHÜTZEN
+## WASSER, BODEN UND LUFT SCHÜTZEN
+
 Der Schutz unserer natürlichen Lebensgrundlagen
 ist nicht nur Selbstzweck und eine Verpflichtung den
 nachfolgenden Generationen gegenüber, sondern dient
@@ -3429,8 +3417,7 @@ auch der Gesundheit der Menschen im Lande und dem
 Erhalt wichtiger Produktionsmittel.
 
 
-EU-WASSERRAHMENRICHTLINIE
-## UMSETZEN
+## EU-WASSERRAHMENRICHTLINIE UMSETZEN
 
 Das System der SchALVO hat sich bewährt und zur
 Verbesserung der Grundwassersituation beigetragen,
@@ -3480,8 +3467,8 @@ Förderprogramm in wasserwirtschaftlich besonders
 sensiblen Gebieten erste Erfahrungen sammeln.
 
 
-TRINKWASSER SCHÜTZEN,
-FRACKING VERHINDERN!
+## TRINKWASSER SCHÜTZEN, FRACKING VERHINDERN!
+
 Wir befürworten ein Verbot von Fracking zur Gewinnung von Erdöl und -gas aus unkonventionellen Lagerstätten, insbesondere im für die Trinkwasserversorgung
 von Millionen Bürgerinnen und Bürgern zentral wichtigen trinationalen Bodenseeraum. Sauberes Trinkwasser und die Gesundheit der Menschen haben für uns
 absoluten Vorrang. Baden-Württemberg ist zudem zu
@@ -4035,8 +4022,7 @@ Bei der Umsetzung der bundesgesetzlichen Regelungen
 werden wir in Baden-Württemberg die in den Asylpaketen vereinbarten Möglichkeiten bestmöglich nutzen.
 
 
-HUMANITÄRE BEHANDLUNG,
-## MENSCHENWÜRDIGE UNTERBRINGUNG
+## HUMANITÄRE BEHANDLUNG, MENSCHENWÜRDIGE UNTERBRINGUNG
 
 Wir müssen dafür Sorge tragen, den Bedürfnissen
 besonders schutzbedürftiger Flüchtlinge gerecht zu
@@ -4143,7 +4129,8 @@ Unterbringung im Weg der nachlaufenden Spitzabrechnung ausgleichen, wie dies bis
 Land und den kommunalen Landesverbänden vereinbart ist. Dies werden wir fortlaufend evaluieren.
 
 
-NEUE HEIMAT BADEN-WÜRTTEMBERG
+## NEUE HEIMAT BADEN-WÜRTTEMBERG
+
 Jeder vierte Baden-Württemberger hat einen Vertriebenenhintergrund. Es ist eine gesamtgesellschaftliche
 Aufgabe, das Schicksal der Vertriebenen im Bewusstsein zu halten und auf das bestehende Leid in der Welt,
 auf Flucht, Vertreibung und Völkerrechtsverbrechen
@@ -4345,7 +4332,8 @@ landesweite Dialog braucht eine Verankerung und
 Rückkopplung vor Ort.
 
 
-ONLINE-PETITIONEN ERMÖGLICHEN
+## ONLINE-PETITIONEN ERMÖGLICHEN
+
 Wir stärken das Petitionsrecht und modernisieren das
 Petitionswesen im Landtag von Baden-Württemberg.
 Über das Instrument der Online-Petition werden wir
@@ -4427,7 +4415,8 @@ wollen wir intensiv nutzen und benutzerfreundlich
 gestalten.
 
 
-DIGITAL@BW: MODERNE INFORMATIONSTECHNOLOGIE FÜR EIN MODERNES LAND
+## DIGITAL@BW: MODERNE INFORMATIONSTECHNOLOGIE FÜR EIN MODERNES LAND
+
 Die Informationstechnologie in der öffentlichen
 Verwaltung ist ein zentraler Hebel für die Umsetzung
 dieser Ziele. Investitionen in die IT der Behörden- und
@@ -4527,8 +4516,8 @@ die Gesundheit der Beamten und Angestellten. Aus
 diesem Grund werden wir den Fokus auf das Gesundheitsmanagement und präventive Maßnahmen legen.
 
 
-BÜROKRATIEABBAU: WENIGER
-VORSCHRIFTEN, WENIGER FOLGEKOSTEN
+## BÜROKRATIEABBAU: WENIGER VORSCHRIFTEN, WENIGER FOLGEKOSTEN
+
 Zu einer leistungsstarken Verwaltung gehört auch der
 Abbau von Bürokratie. Nach dem Prinzip „One In,
 One Out“ werden wir keine zusätzlichen Verwaltungsvorschriften machen. Für jede neue Vorschrift streichen
@@ -4549,8 +4538,7 @@ Wir wollen das System der Widerspruchsverfahren
 Wahrung aller rechtsstaatlichen Belange.
 
 
-DIGITAL@BW: ELEKTRONISCHE
-## ENTBÜROKRATISIERUNG
+## DIGITAL@BW: ELEKTRONISCHE ENTBÜROKRATISIERUNG
 
 Wir passen den öffentlichen Dienst an die moderne
 Arbeitsgesellschaft an. Dazu gehört projektorientiertes,
@@ -4717,7 +4705,8 @@ Phishing, Viren etc.) sensibilisiert. Im Schulfach
 werden.
 
 
-DIALOGFÄHIG MIT KIRCHEN, RELIGIONEN UND WELTANSCHAUUNGEN
+# DIALOGFÄHIG MIT KIRCHEN, RELIGIONEN UND WELTANSCHAUUNGEN
+
 Die Zusammenarbeit zwischen Staat und Kirche ist
 uns sehr wichtig. Wir begrüßen, dass die Kirchen
 in Baden-Württemberg in aktuellen Fragen Stellung
@@ -4975,11 +4964,9 @@ Resozialisierung zu schaffen.
 Der bisherige freie Träger der Bewährungshilfe –
 Neustart – hat gute Arbeit geleistet und Strukturen
 geschaffen, die wir erhalten wollen. Nachdem sie keinen Bestand mehr hat, wollen wir die Bewährungshilfe
-INNOVATIV, NACHHALTIG, SOZIAL:
-FÜR FAMILIE, JUGEND UND SENIOREN
 
 
-# 8.	 INNOVATIV, NACHHALTIG, SOZIAL: FÜR FAMILIE, JUGEND UND SENIOREN
+# 8. INNOVATIV, NACHHALTIG, SOZIAL: FÜR FAMILIE, JUGEND UND SENIOREN
 
 Den gesellschaftlichen Zusammenhalt in unserem
 Land wollen wir stärken. Unsere Sozialpolitik, mit
@@ -5332,8 +5319,7 @@ behalten. Nahtlose Übergänge durch eine enge Vernetzung der Akteure wollen wir
 zeitnahen Beginn der Rehabilitation ermöglichen.
 
 
-HOSPIZ- UND PALLIATIVVERSORGUNG –
-## ANGST VOR DEM LETZTEN WEG NEHMEN
+## HOSPIZ- UND PALLIATIVVERSORGUNG – ANGST VOR DEM LETZTEN WEG NEHMEN
 
 Uns ist es wichtig, dass die Menschen sich gut versorgt
 wissen und ihnen so die Angst vor dem letzten Weg genommen wird. Um dies zu erreichen, müssen Angebote
@@ -5357,8 +5343,8 @@ entsprechend gefördert werden. Das Ehrenamt im
 stationären Bereich werden wir ebenfalls fördern.
 
 
-GUTE RAHMENBEDINGUNGEN FÜR PFLEGE:
-DAS WOHN-, TEILHABE UND PFLEGEGESETZ
+## GUTE RAHMENBEDINGUNGEN FÜR PFLEGE: DAS WOHN-, TEILHABE UND PFLEGEGESETZ
+
 Das Wohn-, Teilhabe- und Pflegegesetz (WTPG) soll
 entlang der Ergebnisse der Evaluation weiter entwickelt
 werden. Uns ist dabei der Abbau bürokratischer Hürden, wie zum Beispiel in der Umsetzung dezentraler
@@ -5374,8 +5360,7 @@ werden wir ausbauen und Konzepte für bürgergestützte
 Wohngruppen stärken.
 
 
-MUTIG, GERECHT, MODERN
-## FÜR FRAUEN UND MÄNNER
+## MUTIG, GERECHT, MODERN FÜR FRAUEN UND MÄNNER
 
 Gleiche Verwirklichungschancen für Frauen und Männer auf allen politischen und beruflichen Ebenen und
 in allen gesellschaftlichen Bereichen sind Ausdruck
@@ -5530,9 +5515,8 @@ Behinderung wollen wir aktiv unterstützen, sich zu
 modernen Kompetenzzentren für Teilhabe und Inklusion weiterzuentwickeln.
 
 
-## FÜR EIN RESPEKTVOLLES MITEINANDER
+## FÜR EIN RESPEKTVOLLES MITEINANDER IN BADEN-WÜRTTEMBERG
 
-IN BADEN-WÜRTTEMBERG
 Baden-Württemberg ist ein modernes, vielseitiges und
 weltoffenes Land. Wir wollen mit unserer Politik dazu
 beitragen, den sozialen Zusammenhalt zu stärken und
@@ -5542,8 +5526,7 @@ entfalten können, wächst gleichzeitig die gesellschaftliche Teilhabe aller Bü
 arbeiten wir gemeinsam daran, dass Baden-Württemberg gleiche Chancen für alle bietet.
 
 
-FÜR GLEICHBEHANDLUNG –
-## GEGEN DISKRIMINIERUNG
+## FÜR GLEICHBEHANDLUNG – GEGEN DISKRIMINIERUNG
 
 Es ist ein Gewinn für die ganze Gesellschaft, wenn
 alle Menschen in Baden-Württemberg selbstbestimmt
@@ -5583,12 +5566,8 @@ mit den Opfern zum Gegenstand haben.
 
 
 
-QUALITATIV HOCHWERTIG,
-ZUVERLÄSSIG,
-SEKTORENÜBERGREIFEND:
-## GESUNDHEITSVERSORGUNG
+## QUALITATIV HOCHWERTIG, ZUVERLÄSSIG, SEKTORENÜBERGREIFEND: GESUNDHEITSVERSORGUNG IN BADEN-WÜRTTEMBERG
 
-IN BADEN-WÜRTTEMBERG
 Alle Menschen sollen einen gleichberechtigten und
 barrierefreien Zugang zu einer bedarfsorientierten
 Gesundheitsversorgung haben. Für eine gute Gesundheitsversorgung ist es unerlässlich, dass alle strukturellen Maßnahmen vom Menschen aus gedacht
@@ -5634,7 +5613,8 @@ Gesundheitswesen anstoßen. Wir wollen mehr Handlungsautonomie für die Gesundhe
 setzen uns deshalb im Bund für eine Weiterentwicklung der Heilkundeübertragungsrichtlinie ein.
 
 
-MORBI-RSA
+## MORBI-RSA
+
 Der morbiditätsorientierte Risikostrukturausgleich
 (Morbi-RSA) soll als optimaler Verteilungsschlüssel die
 Gelder dorthin fließen lassen, wo sie vonnöten sind.
@@ -5653,8 +5633,7 @@ der Kommunen wird bei der Entwicklung zukünftiger
 Versorgungsstrukturen gestärkt.
 
 
-DIGITAL@BW: CHANCEN DER DIGITALEN
-## ENTWICKLUNG SEHEN
+## DIGITAL@BW: CHANCEN DER DIGITALEN ENTWICKLUNG SEHEN
 
 Die fortschreitende Digitalisierung im Gesundheitswesen bietet, gerade auch in ländlichen Regionen, gute
 Möglichkeiten, die medizinische Versorgung der Bevölkerung, auch sektoren- und institutionsübergreifend
@@ -5724,7 +5703,8 @@ und in den Leistungskatalog der gesetzlichen Krankenversicherung aufgenommen wer
 Wir wollen im Land einen Lehrstuhl für Komplementärmedizin einrichten.
 
 
-FRAUEN- UND MÄNNERGESUNDHEIT
+## FRAUEN- UND MÄNNERGESUNDHEIT
+
 Gesundheitsverhalten, Erkrankungen, Reaktionen auf
 Medikamente und Symptomatiken sind geschlechtsspezifisch. Wir werden daher die geschlechtsspezifische
 Gesundheitsforschung ausbauen, das Differenzbewusstsein an medizinischen Fakultäten fördern, eine
@@ -5833,9 +5813,8 @@ in der von Trägerpluralität getragenen Krankenhauslandschaft und dürfen auch 
 kartellrechtliche Regelungen gefährdet werden.
 
 
-PRÄVENTIV, BERATEND,
-VERANTWORTUNGSVOLL –
-IN DER DROGEN- UND SUCHTPOLITIK
+## PRÄVENTIV, BERATEND, VERANTWORTUNGSVOLL – IN DER DROGEN- UND SUCHTPOLITIK
+
 Wir stehen für eine verantwortungsvolle Drogen- und
 Suchtpolitik, die auf den bewährten Säulen von Prävention und Beratung, Hilfeangeboten und Therapie
 sowie Schadensminderung und Überlebenshilfen
@@ -5903,8 +5882,8 @@ von Spielhallen und Wettvermittlungsstellen genauso
 wie das Glücksspiel im Internet.
 
 
-GERECHT, VORBILDLICH, SOZIAL:
-ARBEIT IN BADEN-WÜRTTEMBERG
+## GERECHT, VORBILDLICH, SOZIAL: ARBEIT IN BADEN-WÜRTTEMBERG
+
 Baden-Württemberg hat immer eine Vorreiterrolle
 eingenommen, wenn die Arbeitswelt im Umbruch war.
 Veränderungen haben den baden-württembergischen
@@ -6142,8 +6121,7 @@ Mit dem EFRE-Programm „Spitze auf dem Land“
 im ländlichen Raum, die das Potenzial zur Technologieführerschaft haben.
 
 
-ORTSKERNE STÄRKEN, BÜRGER BETEILIGEN,
-## IDENTITÄT STIFTEN
+## ORTSKERNE STÄRKEN, BÜRGER BETEILIGEN, IDENTITÄT STIFTEN
 
 Die Gemeinden im Ländlichen Raum werden wir
 mit dem Entwicklungsprogramm Ländlicher Raum
@@ -6168,8 +6146,7 @@ Bei der geplanten staatlichen Förderung des Wohnungsbaus muss der ländliche Ra
 Ländlichen Raums berücksichtigt werden.
 
 
-VORSORGE, BILDUNG, MODELLPROJEKTE –
-## POTENZIAL FÜR DEN LÄNDLICHEN RAUM
+## VORSORGE, BILDUNG, MODELLPROJEKTE – POTENZIAL FÜR DEN LÄNDLICHEN RAUM
 
 Die Gemeinden, die vom demografischen Wandel
 besonders betroffen sind, sollen außerdem mit einer
@@ -6218,8 +6195,8 @@ Weiterentwicklung des Ländlichen Raumes entwickeln.
 
 ## TOURISMUSLAND
 
-VIELFALT FÜR ALLE SINNE - TOURISMUS IN
-BADEN-WÜRTTEMBERG VORANBRINGEN
+## VIELFALT FÜR ALLE SINNE - TOURISMUS IN BADEN-WÜRTTEMBERG VORANBRINGEN
+
 Der Tourismus in seiner gesamten Bandbreite und in
 seiner Funktion im magischen Dreieck spielt in ganz
 Baden-Württemberg eine bedeutende und besondere
@@ -6237,8 +6214,7 @@ Baden-Württemberg. Die Unterstützung der verschiedenen Tourismuseinrichtungen,
 Tourismus ist dabei grundlegend.
 
 
-INDIVIDUELL, REGIONAL, INTERNATIONAL:
-## TOURISMUSINFRASTRUKTUR UND WERBUNG WEITERENTWICKELN
+## INDIVIDUELL, REGIONAL, INTERNATIONAL: TOURISMUSINFRASTRUKTUR UND WERBUNG WEITERENTWICKELN
 
 Neben der Fortführung von erfolgreichen Programmen
 für Nachhaltigkeit und Regionalität wie „Schmeck den
@@ -6253,8 +6229,8 @@ Wir wollen die Mittel für das Tourismusmarketing
 erhöhen.
 
 
-KOMMUNIKATION HEUTE:
-TOURISMUS 4.0 AUSBAUEN
+## KOMMUNIKATION HEUTE: TOURISMUS 4.0 AUSBAUEN
+
 Neue Möglichkeiten für Marketing, die Kommunikation zwischen Gästen und Anbietern und für die
 Gewinnung von Fachkräften ergeben sich aus einem
 verstärkten Ausbau der digitalen Infrastruktur speziell
@@ -6262,8 +6238,7 @@ in den ländlichen Gebieten. Wir wollen prüfen, wie
 durch eine Kooperation der unterschiedlichen Leistungserbringer neue tourismuspolitische Handlungsgrundlagen geschaffen werden können.
 
 
-STAATS- UND HEILBÄDER –
-## TOURISTISCHE LEUCHTTÜRME
+## STAATS- UND HEILBÄDER – TOURISTISCHE LEUCHTTÜRME
 
 Die Staats- und Heilbäder des Landes, aber auch diejenigen in kommunaler Verantwortung, sind herausragende Leuchttürme für den Kur- und Bädertourismus.
 Diese besonderen Einrichtungen, die bereits bisher
@@ -6321,8 +6296,7 @@ Wir bekennen uns ausdrücklich zum Respekt vor dem
 Eigentum und seiner Gemeinwohlorientierung.
 
 
-WETTBEWERBSFÄHIGKEIT STÄRKEN,
-## AUF REGIONALE HERKUNFT SETZEN
+## WETTBEWERBSFÄHIGKEIT STÄRKEN, AUF REGIONALE HERKUNFT SETZEN
 
 Inwieweit die Wettbewerbsfähigkeit über die Kostenführerschaft, die Qualitätsführerschaft oder über
 Einkommenskombinationen zu erreichen ist, entscheidet die landwirtschaftliche Unternehmerfamilie selbst.
@@ -6443,8 +6417,8 @@ in der Pflicht, die erforderlichen zusätzlichen Mittel
 bereitzustellen.
 
 
-ORDNUNGSPOLITIK – SO WENIG WIE
-MÖGLICH, SO VIEL WIE NÖTIG
+## ORDNUNGSPOLITIK – SO WENIG WIE MÖGLICH, SO VIEL WIE NÖTIG
+
 Die Einbindung von Land- und Forstwirtschaft in die
 EU-Vorgaben (Cross Compliance, Greening, Richtlinien zu (Nitrat)-Düngung und Pflanzenschutz usw.) erhöht den bürokratischen Aufwand erheblich. Deshalb
 unterstützen wir „Entbürokratisierungsinitiativen“,
@@ -6500,8 +6474,7 @@ Pflanzen und Tiere dürfen nicht dem Patentrecht
 unterworfen werden.
 
 
-MARKT UND EU: DIE LANDWIRTSCHAFT
-## MUSS WETTBEWERBSFÄHIG BLEIBEN
+## MARKT UND EU: DIE LANDWIRTSCHAFT MUSS WETTBEWERBSFÄHIG BLEIBEN
 
 Die Rahmenbedingungen für die Landwirtschaft werden auf EU-Ebene gesetzt. Wir setzen uns dafür ein,
 dass die 2014 beschlossene GAP-Reform (Gemeinsame
@@ -6546,8 +6519,8 @@ Beihilfebeträge in der De-minimis-Regelung für unsere
 Betriebe erreichen.
 
 
-DIGITAL@BW: BILDUNG UND BERATUNG
-AUF DEM WEG ZUR LANDWIRTSCHAFT 4.0
+## DIGITAL@BW: BILDUNG UND BERATUNG AUF DEM WEG ZUR LANDWIRTSCHAFT 4.0
+
 Grundlage für die Zukunft der baden-württembergischen Landwirtschaft ist eine gute duale Bildung
 durch Berufs- und Fachschulen. Wir werden eine
 Zukunftskonzeption dazu erarbeiten, wie – neben den
@@ -6595,8 +6568,8 @@ Gründen wollen wir Frauen im Ländlichen Raum in
 allen Bereichen weiter aktiv begleiten.
 
 
-NATURLAND(SCHAFT)
-TIERE SIND MITGESCHÖPFE. WIR VERPFLICHTEN UNS ZU IHREM BESONDEREN SCHUTZ
+## NATURLAND(SCHAFT) TIERE SIND MITGESCHÖPFE. WIR VERPFLICHTEN UNS ZU IHREM BESONDEREN SCHUTZ
+
 Völlig zu Recht hat diese Verpflichtung Verfassungsrang. Uns liegen die Lebensbedingungen aller Tiere im
 Land am Herzen – die landwirtschaftlich genutzten
 ebenso wie exotische Heimtiere oder Versuchstiere.
@@ -6610,8 +6583,6 @@ neue, tierfreundliche Stallsysteme. Zusammen mit den
 Betrieben möchten wir die Tierhaltung weiter verbessern.
 Tierhaltung in ihrer Vielfalt ist eine tragende Säule der
 baden-württembergischen Landwirtschaft. Die Bür-
-
-
 gerinnen und Bürger in Baden-Württemberg erwarten einen Tierschutz mit erhöhten Tierwohlkriterien
 (u.a. Auslauf und Weidehaltung) und gesellschaftlich
 akzeptierten Standards. Dies ist mit höheren Kosten
@@ -6662,9 +6633,7 @@ Die Arbeit der Stabsstelle der Landesbeauftragten für
 Tierschutz hat sich bewährt.
 
 
-UNSER WALD IST WERTVOLL:
-PRODUKTIONSSTÄTTE, ERHOLUNGS- UND
-## NATURRAUM
+## UNSER WALD IST WERTVOLL: PRODUKTIONSSTÄTTE, ERHOLUNGS- UND NATURRAUM
 
 Wald ist Produktionsstätte, Erholungs- und Naturraum in einem. Er liefert den wertvollen klimaneutralen Rohstoff Holz, ist Lebensraum für zahlreiche
 Tier- und Pflanzenarten, dient dem Klimaschutz und
@@ -6739,8 +6708,7 @@ Leistungen“ gilt auch im Wald. Nutz-, Schutz- und Erholungsfunktion des Waldes
 angemessen berücksichtigen.
 
 
-JAGD – NATUR- UND TIERSCHUTZ
-## ZUSAMMENBRINGEN
+## JAGD – NATUR- UND TIERSCHUTZ ZUSAMMENBRINGEN
 
 Die Jägerinnen und Jäger in unserem Land leisten einen wichtigen Beitrag für unsere Natur- und
 Kulturlandschaft. Das Jagdrecht hat sich in seiner
@@ -6767,7 +6735,8 @@ jagdgenossenschaftlicher Wildschadenskassen ersetzt
 werden kann.
 
 
-DIE SCHÖPFUNG BEWAHREN BIODIVERSITÄT, NATUR- UND ARTENSCHUTZ
+## DIE SCHÖPFUNG BEWAHREN BIODIVERSITÄT, NATUR- UND ARTENSCHUTZ
+
 Baden-Württemberg hat durch die Naturparke, die
 Biosphärengebiete und den Nationalpark sowie die
 vielen Wälder, Bannwaldgebiete und weitere geschützte Habitate zahlreiche Naturräume. Sie sind
@@ -6924,16 +6893,14 @@ Tierärzten erreichen, dass der Einsatz von Antibiotika
 in der Nutztierhaltung weiter reduziert wird.
 
 
-OBST, GEMÜSE, MILCH - GESUNDES ESSEN
-## KANN MAN LERNEN
+## OBST, GEMÜSE, MILCH - GESUNDES ESSEN KANN MAN LERNEN
 
 Die gesunde Ernährung unserer Kinder ist für uns
 zentral. Für die Ernährungserziehung unserer Schülerinnen und Schüler und die Versorgung mit frischem
 Obst, Gemüse und Milch ist das neu aufgestellte
 EU-Schulprogramm ein besonderes Angebot, das wir
 verstärkt für möglichst viele Kinder nutzen wollen.
-Das Land wird dabei weiterhin seinen Beitrag leisten
-- bei der pädagogischen Begleitung mit den Aspekten
+Das Land wird dabei weiterhin seinen Beitrag leisten - bei der pädagogischen Begleitung mit den Aspekten
 gesunde Ernährung und vielfältige, regionale Landwirtschaft.
 Immer mehr Menschen fragen nach guter Qualität
 bei der Außer-Haus-Verpflegung. In den Kantinen,
@@ -7238,7 +7205,8 @@ bundeseigenen Bahnen und die Verstetigung einer
 auskömmlichen Finanzierung über das Landeseisenbahnfinanzierungsgesetz (LEFG) an.
 
 
-STUTTGART 21
+## STUTTGART 21
+
 Das Ergebnis der Volksabstimmung aus dem Jahr 2011
 ist für uns bindend.
 Das Land unterstützt die planmäßige und zügige Umsetzung des Projekts. Das Land Baden-Württemberg
@@ -7481,7 +7449,8 @@ ländlichen Raum die Einrichtung von kommunalen
 und regionalen Netzwerken bzw. Mobilitätsagenturen.
 
 
-CAR-SHARING AUSBAUEN
+## CAR-SHARING AUSBAUEN
+
 Wir werden aufbauend auf bereits begonnenen Modellprojekten die Intermodalität weiterentwickeln.
 Im Car-Sharing sehen wir einen wichtigen Baustein
 integrierter und vernetzter Mobilität. Wir unterstützen
@@ -7489,7 +7458,8 @@ die Bundesregierung bei der Erstellung eines Car-Sharing-Gesetzes zur Schaffung 
 öffentlichen Straßenraum.
 
 
-RAD- UND FUSSVERKEHRSLAND
+## RAD- UND FUSSVERKEHRSLAND
+
 Wir werden die seit 2006 begonnene, erfolgreiche Förderung des Radverkehrs im Alltags- und Freizeitverkehr fortsetzen und wollen Baden-Württemberg noch
 fahrradfreundlicher machen. Dabei dient uns die in
 einem breiten Beteiligungsprozess erstellte Radstrategie
@@ -7770,7 +7740,8 @@ Landesvertretung weiter stärken und sächlich und
 personell anpassen.
 
 
-DIALOG UND ZUSAMMENARBEIT - PARLAMENTARISCHE GESTALTUNG STÄRKEN
+## DIALOG UND ZUSAMMENARBEIT - PARLAMENTARISCHE GESTALTUNG STÄRKEN
+
 Wir wollen unsere Mitarbeit im Ausschuss der Regionen (AdR) verstärken, die Zusammenarbeit mit
 den Organen der Europäischen Union ausbauen und
 insbesondere die Verzahnung mit den Mitgliedern des
@@ -7845,9 +7816,7 @@ der EU-Außengrenzen zur Eindämmung von illegaler
 Migration und Schleuserkriminalität.
 
 
-EUROPÄISCH, NATIONAL, REGIONAL,
-LOKAL - DIE DONAURAUMSTRATEGIE
-## WEITER VERTIEFEN
+## EUROPÄISCH, NATIONAL, REGIONAL, LOKAL - DIE DONAURAUMSTRATEGIE WEITER VERTIEFEN
 
 Baden-Württemberg hat den Gründungsimpuls für
 die EU-Donauraumstrategie gegeben. Seitdem kam es
@@ -7890,9 +7859,7 @@ eine Finanzierung aus Drittmitteln, privaten Mitteln
 wie auch öffentlichen Mitteln enthalten wird.
 
 
-MAGISTRALE FÜR EUROPA: DIE TEN-ACHSE
-„PARIS–BUDAPEST/BRATISLAVA“ SCHAFFT
-## VERBINDUNG
+## MAGISTRALE FÜR EUROPA: DIE TEN-ACHSE „PARIS–BUDAPEST/BRATISLAVA“ SCHAFFT VERBINDUNG
 
 Die Magistrale für Europa verbindet als zentrale
 Ost-West-Achse Budapest/Bratislava mit Paris. Ihre Bedeutung geht weit über den Verkehrskorridor hinaus.
@@ -7903,10 +7870,8 @@ Kunst, Kultur und Gesellschaft. Dadurch wollen wir
 Europa noch enger zusammenführen.
 
 
-GEMISCHTE KOMMISSIONEN:
-## IMPULSGEBER FÜR PARTNERSCHAFTEN ZU
+## GEMISCHTE KOMMISSIONEN: IMPULSGEBER FÜR PARTNERSCHAFTEN ZU MITTEL- UND SÜDOSTEUROPA
 
-MITTEL- UND SÜDOSTEUROPA
 Die Gemischten Regierungskommissionen haben sich
 als Instrument zur Vertiefung der partnerschaftlichen
 Beziehungen zu Ländern Mittel- und Südosteuropas
@@ -7920,8 +7885,7 @@ prüfen, ob mit weiteren Partnern in Osteuropa Gemischte Regierungskommissionen 
 können.
 
 
-ECKPFEILER UNSERER EUROPAPOLITIK:
-## GRENZÜBERSCHREITENDE ZUSAMMENARBEIT AUSBAUEN
+## ECKPFEILER UNSERER EUROPAPOLITIK: GRENZÜBERSCHREITENDE ZUSAMMENARBEIT AUSBAUEN
 
 Die Weiterentwicklung der grenzüberschreitenden
 Zusammenarbeit bleibt eine wichtige Aufgabe baden-württembergischer Europapolitik. Die Landesregierung wird die bestehenden grenzüberschreitenden
@@ -8028,13 +7992,7 @@ Jugendverbände für die Nutzung des Programms
 gewinnen.
 
 
-VERANTWORTUNGSBEWUSST,
-NACHHALTIG, UNTERSTÜTZEND AUF
-## INTERNATIONALER EBENE
-
-FÜR FRIEDEN, DEMOKRATIE UND
-MENSCHENRECHTE – GLOBALE
-## VERANTWORTUNG ÜBERNEHMEN
+## VERANTWORTUNGSBEWUSST, NACHHALTIG, UNTERSTÜTZEND AUF INTERNATIONALER EBENE FÜR FRIEDEN, DEMOKRATIE UND MENSCHENRECHTE – GLOBALE VERANTWORTUNG ÜBERNEHMEN
 
 Die Landesregierung fühlt sich der Förderung einer
 nachhaltigen globalen Entwicklung, der Sicherung
@@ -8079,8 +8037,7 @@ REZ werden wir die Entwicklungspolitik noch stärker
 am Ziel der Bekämpfung von Fluchtursachen ausrichten.
 
 
-ZUSAMMENARBEIT MIT LEBEN FÜLLEN:
-## KOOPERATIONEN AUF ALLEN EBENEN
+## ZUSAMMENARBEIT MIT LEBEN FÜLLEN: KOOPERATIONEN AUF ALLEN EBENEN
 
 Wir werden den Dialogprozess „Welt:Bürger gefragt!“
 und das bürgerschaftliche Engagement durch Beratungsangebote weiterentwickeln und stärken. Gemeinsam mit der Wirtschaft werden wir den Unternehmensdialog fortsetzen und insbesondere kleinere
@@ -8186,7 +8143,8 @@ Bereich keine Produkte genutzt werden, die durch
 ausbeuterische Kinderarbeit hergestellt werden.
 
 
-INNOVATIV UND WELTOFFEN: INTERNATIONALE PARTNERSCHAFTEN STÄRKEN
+## INNOVATIV UND WELTOFFEN: INTERNATIONALE PARTNERSCHAFTEN STÄRKEN
+
 Wir wollen bestehende internationale Partnerschaften gemeinsam mit den Partnern thematisch stärken.
 Für neue Partnerschaften sind wir offen. Wir werden
 Anregungen dazu aus dem Land berücksichtigen. Der
@@ -8683,13 +8641,9 @@ Ressorts.
 Stuttgart, 9. Mai 2016
 
 
-BÜNDNIS 90/DIE GRÜNEN
-BADEN-WÜRTTEMBERG
+BÜNDNIS 90/DIE GRÜNEN BADEN-WÜRTTEMBERG
 
-
-## CHRISTLICH DEMOKRATISCHE UNION
-
-BADEN-WÜRTTEMBERG
+CHRISTLICH DEMOKRATISCHE UNION BADEN-WÜRTTEMBERG
 
 
 Winfried Kretschmann
@@ -8775,9 +8729,7 @@ Sicher leben in Baden-Württemberg..............................................
 Offenherzig und realistisch in der Flüchtlingspolitik...................................................................................................................... 63
 Neue Heimat Baden-Württemberg................................................................................................................................................. 65
 Land der Kommunen...................................................................................................................................................................... 65
-
-
-136Land der Zivilgesellschaft............................................................................................................................................................... 67
+Land der Zivilgesellschaft............................................................................................................................................................... 67
 Digital, attraktiv, unbürokratisch in der Verwaltung .....................................................................................................................68
 Ausgewogen in Datenschutz und Datensicherheit .......................................................................................................................... 70
 Dialogfähig mit Kirchen, Religionen und Weltanschauungen ....................................................................................................... 72
