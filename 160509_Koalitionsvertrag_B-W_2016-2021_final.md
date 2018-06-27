@@ -829,9 +829,6 @@ Vorreiter für E-Government und eine Verwaltung
 in Baden-Württemberg werden wir fortsetzen. Die
 Bürgerinnen und Bürger sowie Unternehmen sollen
 mit der Verwaltung einfach und sicher durch E-Government-Angebote in Kontakt treten können, damit
-
-
-
 den Nutzern eine orts- und zeitunabhängige sowie
 medienbruchfreie Erledigung ihrer Verwaltungsangelegenheiten ermöglicht werden kann. Wir streben
 eine Integration der Open-Data-Portale von Land und
@@ -973,36 +970,9 @@ werden auch Modellvorhaben des autonomen Fahrens
 im ÖPNV anstoßen.
 
 
-mein. Unser Ziel ist es deshalb, Sicherheit und Vertrauen und damit einen festen Grund für eine zunehmend digitale Welt zu schaffen. Auf die zunehmenden
-Gefahren muss das Land durch hohe IT-Sicherheitsund Datenschutz-Standards reagieren und somit auch
-Vorbild für kommerzielle Internetdienste sein. Bei
-Sicherheitslösungen in Soft- und Hardware finden sich
-enorme Marktpotenziale, die wir gemeinsam mit den
-Unternehmen heben wollen. Die IT-Sicherheitsagentur
-am Forschungszentrum Informatik des KIT in Karlsruhe wollen wir weiter ausbauen und als Anlaufstelle
-für den Mittelstand stärken. Die Agentur soll erste
-Hilfe bei Cyberattacken leisten. Gemeinsam mit den
-Forschungseinrichtungen im Land werden wir einen
-Schwerpunkt im Bereich „Verschlüsselungstechnologie“
-und einem „Baukasten für Datensicherheit“ legen.
 
 
 ## SICHERHEIT IM NETZ – SICHERHEIT DER DATEN
-
-
-
-Der digitale Wandel hat großen Einfluss auf die Arbeitswelt. Es entsteht größere Flexibilität, zu welcher
-Zeit und an welchem Ort die Arbeitsleistung erbracht
-wird. Es werden aber auch neue Herausforderungen
-entstehen, etwa ein angemessener Schutz von Soloselbständigen oder Clickworkern bei Arbeitslosigkeit,
-Krankheit sowie im Alter. In diesem Zusammenhang
-werden wir die Tarifpartner und Gesetzgeber darin unterstützen, sinnvolle Lösungen zu entwickeln. Zudem
-werden wir die Unternehmen dabei unterstützen, den
-Beschäftigten gute Aus- und Weiterbildungsangebote
-zu ermöglichen, um sich für verändernde und neu
-entstehende Arbeitsplätze zu qualifizieren. Wir werden
-den digitalen Verbraucherschutz und die Verbraucherbildung für digitale Themen ausbauen. Die erfolgreiche
-Arbeit des Online-Schlichters werden wir verstetigen.
 
 
 Das Internet ist kein rechtsfreier Raum. Die Rechte der
@@ -1023,7 +993,19 @@ Sicherheitslücken bei IT-Angriffen und der Schutz von
 Staat und Bürger vor Cyberattacken.
 Die Digitalisierung braucht und erzeugt Daten. Viele
 Bürgerinnen und Bürger blicken mit Sorge auf die
-Sicherheit ihrer Daten und die Datensicherheit allge20
+Sicherheit ihrer Daten und die Datensicherheit allgemein. Unser Ziel ist es deshalb, Sicherheit und Vertrauen und damit einen festen Grund für eine zunehmend digitale Welt zu schaffen. Auf die zunehmenden
+Gefahren muss das Land durch hohe IT-Sicherheitsund Datenschutz-Standards reagieren und somit auch
+Vorbild für kommerzielle Internetdienste sein. Bei
+Sicherheitslösungen in Soft- und Hardware finden sich
+enorme Marktpotenziale, die wir gemeinsam mit den
+Unternehmen heben wollen. Die IT-Sicherheitsagentur
+am Forschungszentrum Informatik des KIT in Karlsruhe wollen wir weiter ausbauen und als Anlaufstelle
+für den Mittelstand stärken. Die Agentur soll erste
+Hilfe bei Cyberattacken leisten. Gemeinsam mit den
+Forschungseinrichtungen im Land werden wir einen
+Schwerpunkt im Bereich „Verschlüsselungstechnologie“
+und einem „Baukasten für Datensicherheit“ legen.
+
 
 
 Die europäische Datenschutzgrundverordnung werden
@@ -1033,6 +1015,20 @@ gelingen kann („gestaltender Datenschutz“).
 
 
 ## DIGITALE ARBEITSWELT GESTALTEN
+
+
+Der digitale Wandel hat großen Einfluss auf die Arbeitswelt. Es entsteht größere Flexibilität, zu welcher
+Zeit und an welchem Ort die Arbeitsleistung erbracht
+wird. Es werden aber auch neue Herausforderungen
+entstehen, etwa ein angemessener Schutz von Soloselbständigen oder Clickworkern bei Arbeitslosigkeit,
+Krankheit sowie im Alter. In diesem Zusammenhang
+werden wir die Tarifpartner und Gesetzgeber darin unterstützen, sinnvolle Lösungen zu entwickeln. Zudem
+werden wir die Unternehmen dabei unterstützen, den
+Beschäftigten gute Aus- und Weiterbildungsangebote
+zu ermöglichen, um sich für verändernde und neu
+entstehende Arbeitsplätze zu qualifizieren. Wir werden
+den digitalen Verbraucherschutz und die Verbraucherbildung für digitale Themen ausbauen. Die erfolgreiche
+Arbeit des Online-Schlichters werden wir verstetigen.
 
 
 
@@ -1086,8 +1082,6 @@ Stärkung der Baukultur umgesetzt. Wir werden die
 Landesinitiative Baukultur fortsetzen und ausbauen.
 Das Land als Bauherr wird sich eine Leitlinie Baukultur geben und eine Vorreiterrolle beim nachhaltigen
 Bauen und Sanieren, bei der Barrierefreiheit und bei
-
-
 der Stärkung von Wettbewerbsverfahren einnehmen.
 Außerdem wollen wir Baden-Württembergs Position als Holzbauland stärken sowie zur Förderung des
 Handwerks und der innovativen Holzbau-Unternehmen weiter ausbauen.
@@ -2901,7 +2895,10 @@ bundesweiten Dialogprozess anstoßen, mit dem das
 Ziel verfolgt werden soll, mit einem realistisch zeitlich
 gestuften Plan, der die Fragen von Strukturwandel,
 Versorgungssicherheit und Bezahlbarkeit beinhaltet,
-die Dekarbonisierung zu erreichen.KLIMASCHUTZ-PLUS AUFSTOCKEN
+die Dekarbonisierung zu erreichen.
+
+## KLIMASCHUTZ-PLUS AUFSTOCKEN
+
 Das für Kommunen, Vereine und kleine und mittelständische Unternehmen wichtige Förderprogramm
 Klimaschutz-Plus werden wir aufstocken, um es ganzjährig zu verstetigen.
 
@@ -3187,10 +3184,7 @@ Fördermaßnahmen hier eigene Impulse setzen.
 
 Mit dem Erneuerbare-Wärme-Gesetz hat Baden-Württemberg seit 2008 bundesweit eine Vorreiterposition
 eingenommen. Das jetzige EWärmeG werden wir einer
-umfassenden Evaluierung unterziehen und ggf. weiter52
-
-
-entwickeln und hier auch die Erfahrungen der betroffenen Verbände einfließen lassen. Um Hindernisse, die
+umfassenden Evaluierung unterziehen und ggf. weiterentwickeln und hier auch die Erfahrungen der betroffenen Verbände einfließen lassen. Um Hindernisse, die
 einem zeitnahen Heizungsaustausch entgegenstehen,
 zu identifizieren, wollen wir zuvor im Rahmen eines
 Workshops erste Erfahrungen mit dem novellierten
@@ -3245,8 +3239,6 @@ Baden-Württemberg und Partner bei Erzeugung, Versorgung und Beratung.
 
 ## TRANSPARENZ UND BÜRGERBETEILIGUNG GEWÄHRLEISTEN
 
-
-
 Abfälle für uns höchste Priorität.
 Bei der Überwachung der Sicherheit der Kernkraftwerke während des restlichen Betriebs und des Abbaus
 werden wir keine Abstriche bei der Sicherheit machen.
@@ -3256,8 +3248,6 @@ fortgesetzt.
 
 
 ## ÖFFENTLICHKEITSBETEILIGUNG IM ATOMRECHTLICHEN VERFAHREN VERBESSERN
-
-
 
 Transparenz und Bürgerbeteiligung sind für die
 künftige Akzeptanz der Energiewende von besonderer
@@ -3320,8 +3310,6 @@ und der Bearbeitung und Lagerung der radioaktiven
 
 
 ## ENDLAGERUNG KLÄREN
-
-
 
 Wir setzen uns für eine zügige Inbetriebnahme des
 Endlagers für schwach- und mittelradioaktive Abfälle
@@ -3431,8 +3419,7 @@ Spurenstoffe aus Arzneimitteln, Kosmetikprodukten, Haushalts- und Industriechemi
 Eintrag von Nährstoffen, vor allem Phosphat, und die
 Belastung mit Mikroplastik, stellen für den Schutz und
 die Reinhaltung unserer Gewässer große Herausforderungen dar.
-Wir wollen daher die Kommunen beim Ausbau der
-4. Reinigungsstufe bei den Kläranlagen weiter unterstützen und die Förderung des Kompetenzzentrums
+Wir wollen daher die Kommunen beim Ausbau der 4. Reinigungsstufe bei den Kläranlagen weiter unterstützen und die Förderung des Kompetenzzentrums
 Spurenstoffe fortführen. Den Ausbau der Kläranlagen
 zur Phosphatentnahme und die Umsetzung einer
 nachhaltigen Regenwasserbewirtschaftung wollen wir
@@ -4248,10 +4235,13 @@ Rechnung zu tragen.
 Um bei Kommunalwahlen zu erreichen, dass die
 Sitzverteilung möglichst nah am Wahlergebnis liegt
 und um zu vermeiden, dass Kleinstgruppen bevorteilt
-werden, werden wir das Auszählverfahren nach Sainte-Laguë/Schepers weiterentwickeln.LAND DER ZIVILGESELLSCHAFT
-## MIT BÜRGERBETEILIGUNG DIE VIELFALT
+werden, werden wir das Auszählverfahren nach Sainte-Laguë/Schepers weiterentwickeln.
 
-## DER DEMOKRATIE STÄRKEN
+
+## LAND DER ZIVILGESELLSCHAFT
+
+
+## MIT BÜRGERBETEILIGUNG DIE VIELFALT DER DEMOKRATIE STÄRKEN
 
 Baden-Württemberg hat eine starke Tradition der
 repräsentativen Demokratie, des bürgerschaftlichen
@@ -4577,12 +4567,13 @@ prüfen. Zudem schaffen wir eine gesetzliche Regelung
 zur Durchführung sogenannter Zuverlässigkeitsüberprüfungen, um in diesem grundrechtssensiblen Bereich
 für Rechtsklarheit zu sorgen.
 Der Begriff Datenschutz hat viele Facetten, die gerade
-auch die Datenverarbeitung betreffen und den Einzel-nen in einer zunehmend automatisierten und computerisierten Welt vor Datenmissbrauch schützen sollen.
+auch die Datenverarbeitung betreffen und den Einzelnen in einer zunehmend automatisierten und computerisierten Welt vor Datenmissbrauch schützen sollen.
 Im Kern soll durch Datenschutz der gläserne Bürger
 verhindert werden. Das Bedürfnis nach Datenschutz
 ergibt sich aus dem Recht auf informationelle Selbstbestimmung, das sich wiederum aus dem Allgemeinen
 Persönlichkeitsrecht ableitet. Diese Rechte gilt es, zu
 schützen.
+
 Wir setzen uns dafür ein, dass im Grundsatz jede
 Bürgerin und jeder Bürger jederzeit darüber Auskunft
 erhält, was mit seinen eigenen Daten geschieht. Jeder
@@ -4593,6 +4584,7 @@ werden. Dabei wahrt nur ein Einwilligungsvorbehalt
 alleinige Widerspruchslösung (Opt-out) reicht nicht
 aus. Nur ein hohes Maß an Transparenz kann garantieren, dass die Menschen den Nutzen erkennen, den
 Datensammlungen haben können.
+
 Wir werden uns für bessere Informations- und Aufklärungsarbeit und stärkere Regulierung bei dem
 sogenannten digital fingerprinting einsetzen. Auf den
 Computern von Nutzern werden bei dem Besuch von
@@ -4603,23 +4595,8 @@ ebenfalls über das Mittel des Einwilligungsvorbehalts
 eingeschränkt werden.
 
 
-stimmungen im Wettbewerb durch andere Marktteilnehmer und Verbraucherschutzverbände abgemahnt
-werden können.
-Datenschutz darf nicht zum Täterschutz werden.
-Deshalb ist es wichtig, dass staatliche Organe in einem
-klar festgelegten Rahmen Informationen erhalten,
-austauschen und verarbeiten können, die zur Kriminalitätsbekämpfung sachdienlich sind.
-Wir betonen, dass der hohe Datenschutzstandard in
-Deutschland eine Chance für Unternehmen darstellt.
-So besteht gerade für diejenigen Unternehmen, die ihre
-Daten und Softwaredienste in sogenannten Cloud-Servern ausgelagert haben, ein großes Interesse an hoher
-Datensicherheit. Der deutsche Datenschutz könnte
-hiermit zum Geschäftsmodell für Serverangebote
-werden.
-Wir werden die Bundesregierung dabei unterstützen,
-zügig eine Nachfolgeregelung nach dem Safe-Harbour
-Urteil des Europäischen Gerichtshofs (EuGH) zu
-schaffen.
+## DIGITALE BÜRGERRECHTE STÄRKEN
+
 
 
 Daten betrachten wir als zentralen „Rohstoff“ für die
@@ -4653,19 +4630,31 @@ So werden von den Betreibern sozialer Netzwerke teilweise mit Hilfe von Algorith
 Für unsere Wirtschaft ist die Nutzung und Verarbeitung von Daten heute wichtiger denn je. Wettbewerber
 sollen sich durch die Verletzung von Datenschutzvorschriften keine Vorteile gegenüber ihren rechtstreuen
 Konkurrenten verschaffen können. Deshalb wollen
-wir sicherstellen, dass Verstöße gegen Datenschutzbe
-<!-- BUG -->
+wir sicherstellen, dass Verstöße gegen Datenschutzbestimmungen im Wettbewerb durch andere Marktteilnehmer und Verbraucherschutzverbände abgemahnt
+werden können.
+
+Datenschutz darf nicht zum Täterschutz werden.
+Deshalb ist es wichtig, dass staatliche Organe in einem
+klar festgelegten Rahmen Informationen erhalten,
+austauschen und verarbeiten können, die zur Kriminalitätsbekämpfung sachdienlich sind.
+
+Wir betonen, dass der hohe Datenschutzstandard in
+Deutschland eine Chance für Unternehmen darstellt.
+So besteht gerade für diejenigen Unternehmen, die ihre
+Daten und Softwaredienste in sogenannten Cloud-Servern ausgelagert haben, ein großes Interesse an hoher
+Datensicherheit. Der deutsche Datenschutz könnte
+hiermit zum Geschäftsmodell für Serverangebote
+werden.
+Wir werden die Bundesregierung dabei unterstützen,
+zügig eine Nachfolgeregelung nach dem Safe-Harbour
+Urteil des Europäischen Gerichtshofs (EuGH) zu
+schaffen.
+
 
 Das Amt des beim Landtag angesiedelten unabhängigen Landesbeauftragten für den Datenschutz (LfD)
 besetzen wir zügig neu und wollen es aufgrund gewachsener Aufgaben entsprechend ausstatten. Um die
 digitalen Bürgerrechte bekannter zu machen, sollte die
 Öffentlichkeitsarbeit des LfD verstärkt werden und die
-
-
-## DIGITALE BÜRGERRECHTE STÄRKEN
-
-
-
 Durchsetzung des Datenschutzrechts noch effektiver
 erfolgen. Wo erforderlich, muss, vermehrt von Sanktionierungsmöglichkeiten bei Datenschutzverstößen
 Gebrauch gemacht werden.
@@ -4741,8 +4730,7 @@ Der demokratische Rechtsstaat lebt von einer bürgernahen und leistungsfähigen 
 effiziente Justizstandortpolitik und eine angemessene,
 moderne Ausstattung der Gerichte und Staatsanwaltschaften werden wir flächendeckend den Justizgewährungsanspruch, also den Anspruch des Einzelnen,
 sichern, zur umfassenden Wahrung seiner Rechte
-ungehindert die staatlichen Gerichte in Anspruch nehmen zu können. Der Zugang zu Recht und Justiz muss
-- unabhängig von wirtschaftlichen und persönlichen
+ungehindert die staatlichen Gerichte in Anspruch nehmen zu können. Der Zugang zu Recht und Justiz muss - unabhängig von wirtschaftlichen und persönlichen
 Umständen - allen offen stehen.
 
 
@@ -6068,8 +6056,6 @@ der Anteil von über 65-Jährigen, die sich freiwillig bei
 unterschiedlichsten Einrichtungen engagieren, bei über
 30 Prozent liegt.
 
-## ATTRAKTIV, STARK, LEBENDIG IM LÄNDLICHEN RAUM, IN LANDWIRTSCHAFT, TOURISMUS SOWIE NATUR- UND VERBRAUCHERSCHUTZ
-
 
 # 9.	 ATTRAKTIV, STARK,LEBENDIG IM LÄNDLICHEN RAUM, IN LANDWIRTSCHAFT, TOURISMUS SOWIE NATUR- UND VERBRAUCHERSCHUTZ
 
@@ -6190,9 +6176,6 @@ Wirtschaftszweige im Land. Aufgrund seiner Vielschichtigkeit ist er außerdem ei
 Stadt und Land.
 Wir wollen die Stärken Baden-Württembergs im Hinblick auf unsere Landschaften und auf die vielschichtigen touristischen Besonderheiten erhalten und weiter
 entwickeln. Destinations- und Erlebnismarken sowie
-
-
-
 eine gemeinsame Tourismuswerbung im In- und Ausland sind dabei wichtige Ziele für das Tourismusland
 Baden-Württemberg. Die Unterstützung der verschiedenen Tourismuseinrichtungen, aber auch die Förderung neuer, innovativer und nachhaltiger Segmente im
 Tourismus ist dabei grundlegend.
@@ -6270,7 +6253,7 @@ bilden das „magische Dreieck” aus Land- und Waldwirtschaft, Naturschutz und 
 steht die Landwirtschaft heute vor großen sozialen,
 ökonomischen und ökologischen Herausforderungen.
 Während sich die Agrarpreise am Weltmarkt orientieren, sind die landwirtschaftlichen Familienbetriebe
-in einem dicht besiedelten Industrieland mit unterschiedlichen und hohen Anforderungen bei Naturund Artenschutz, Flächenkonkurrenz, Tierschutz und
+in einem dicht besiedelten Industrieland mit unterschiedlichen und hohen Anforderungen bei Natur und Artenschutz, Flächenkonkurrenz, Tierschutz und
 Lebensmittelqualität konfrontiert.
 Unsere Agrarpolitik folgt deshalb den zwei Grundsätzen „Stärkung der Wettbewerbsfähigkeit“ und
 „öffentliches Geld für öffentliche Leistungen“, um der
@@ -6736,8 +6719,6 @@ Baden-Württemberg.
 
 ## BIOLOGISCHE VIELFALT VON TIEREN, PFLANZEN UND LEBENSRÄUMEN ERHALTEN UND VERBESSERN
 
-
-
 Bisherige Erfahrungen mit dem Gesetz greifen wir auf.
 Wir wollen eine unbürokratische Möglichkeit schaffen, dass in der allgemeinen Schonzeit im März das
 Schwarzwild auch bei günstigen Schneelagen im Wald
@@ -6806,8 +6787,7 @@ finanziell. Einen hohen Stellenwert haben auch die
 Institutionen außerhalb der klassischen Naturschutzkategorien wie die Geoparke.
 Wir bekennen uns zur Umsetzung internationaler
 und europäischer Vereinbarungen und Vorgaben im
-Naturschutz auf Landesebene, darunter auch Natura
-2000. Dabei legen wir Wert auf Transparenz und Partizipation. Dies gilt besonders auch für die vorgesehene
+Naturschutz auf Landesebene, darunter auch Natura 2000. Dabei legen wir Wert auf Transparenz und Partizipation. Dies gilt besonders auch für die vorgesehene
 rechtliche Sicherung der betroffenen Gebiete und bei
 der aktuell stattfindenden FFH-Managementplanung.
 Ohne einen offenen Dialog mit Kommunen, Nutzerverbänden und Naturschutzvereinigungen ist ein gutes
