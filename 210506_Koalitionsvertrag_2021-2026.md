@@ -1,13 +1,13 @@
 % JETZT FÜR MORGEN DER ERNEUERUNGSVERTRAG FÜR BADEN-WÜRTTEMBERG
-
-BÜNDNIS 90/DIE GRÜNEN BADEN-WÜRTTEMBERG CDU BADEN-WÜRTTEMBERG
+% BÜNDNIS 90/DIE GRÜNEN BADEN-WÜRTTEMBERG \\CDU BADEN-WÜRTTEMBERG
+% 
 
 Über diesen Entwurf des Koalitionsvertrags 2021-2026 von BÜNDNIS 90/DIE GRÜNEN Baden-Württemberg und der CDU Baden-Württemberg wird auf den digitalen Parteitagen am 8. Mai 2021 beraten und abgestimmt.
 
-### JETZT FÜR MORGEN DER ERNEUERUNGSVERTRAG
+JETZT FÜR MORGEN DER ERNEUERUNGSVERTRAG
 
-# Präambel 6 Jetzt für morgen – Der Erneuerungsvertrag für Baden-Württemberg
 
+0. Präambel 6 Jetzt für morgen – Der Erneuerungsvertrag für Baden-Württemberg
 1. Haushalt und Verwaltung 13 Die nächsten Generationen im Blick: Für nachhaltige Finanzen und eine moderne Verwaltung A. Haushalt, Liegenschaften und Beteiligungen, B. Finanzpolitik, C. Öffentlicher Dienst
 2. Klima- und Naturschutz 23 Erhalten, was uns erhält: Für ein klimaneutrales Baden-Württemberg A. Klimaschutz und Energiepolitik, B. Umweltschutz, C. Naturschutz und Artenvielfalt, D. Nachhaltigkeit
 3. Wirtschaft und Arbeit 35 Mutig den Wandel gestalten: Für eine Wirtschaft mit Zukunft A. Wirtschaft und Innovation, B. Mittelstand, Handel, Handwerk und Dienstleistungen, C. Arbeit, D. Baden-Württemberg im weltweiten Wettbewerb
@@ -23,14 +23,14 @@ BÜNDNIS 90/DIE GRÜNEN BADEN-WÜRTTEMBERG CDU BADEN-WÜRTTEMBERG
 13. Föderalismus 155 Für einen lebendigen Föderalismus
 14. Zusammenarbeit 159 Zusammenarbeit in der Koalition
 
-
-### JETZT FÜR MORGEN DER ERNEUERUNGSVERTRAG FÜR BADEN-WÜRTTEMBERG
+# Präambel
+## JETZT FÜR MORGEN DER ERNEUERUNGSVERTRAG FÜR BADEN-WÜRTTEMBERG
 
 Baden-Württemberg ist ein einzigartiges Land mit großartigen Menschen und wunderschöner Natur. Wir alle leben gerne hier. Wir schätzen den Zusammenhalt – dass man füreinander da ist und dass man sich gegenseitig unterstützt. Nirgendwo sonst in Deutschland engagieren sich so viele Menschen ehrenamtlich im Sportverein, in der Nachbarschaftshilfe, in der Freiwilligen Feuerwehr oder in Parteien und Bürgerinitiativen. Wir schätzen den Wohlstand, der auf dem Fleiß und dem Erfindungsreichtum der Menschen, der Unternehmen und Betriebe gründet. Und wir leben in einer der sichersten Regionen der Welt.
 
 Gleichzeitig verändert sich auch unsere Welt rasant. Die globalen wirtschaftlichen, technologischen und gesellschaftlichen Umbrüche machen nicht an den Grenzen Baden-Württembergs Halt. Wir alle sehen und spüren das. Vieles, was lange Zeit als gegeben galt, gerät nun in Bewegung. Die Corona-Pandemie hat diese Bewegung noch einmal beschleunigt. Die Digitalisierung verändert die Art, wie wir leben, wie wir lernen, arbeiten und produzieren. Neue Technologien krempeln unsere Wirtschaft um, der Wettbewerb auf den Weltmärkten wird härter. Wie wir die Klimakrise bewältigen, entscheidet darüber, ob die Erde ein lebenswerter Ort bleibt. Die Risse in unserer Gesellschaft nehmen zu, und die liberale Demokratie wird herausgefordert. All diese Umbrüche erfordern ein neues Denken und neue Lösungen. Sie erfordern eine große Transformation.
 
-### DER VERÄNDERUNG EINE RICHTUNG GEBEN
+## DER VERÄNDERUNG EINE RICHTUNG GEBEN
 
 Klar ist: Wenn die Veränderungen zu einem guten Ergebnis führen sollen, wenn wir nicht wollen, dass sie unsere Zukunft aufs Spiel setzen, müssen wir diesen Veränderungen eine Richtung geben und sie politisch gestalten. Nur so schaffen wir heute die Voraussetzungen dafür, dass wir auch in Zukunft gut leben können.
 
@@ -38,7 +38,7 @@ Mit dieser Absicht haben Bündnis 90/Die Grünen und die CDU beschlossen, gemein
 
 Wir haben einen klaren Kompass: Wir wollen unsere Lebensgrundlagen sichern und zukunftsfest machen. Das gilt für die natürlichen Lebensgrundlagen ebenso wie für die wirtschaftlichen und sozialen. Wir wollen Baden-Württemberg klimaneutral machen und die Artenvielfalt schützen, damit auch unsere Kinder und Enkelkinder noch einen lebenswerten Planeten vorfinden. Wir wollen den Strukturwandel der Wirtschaft in Baden-Württemberg meistern, indem wir die Basis unseres Wohlstands erneuern und sichere Arbeitsplätze von morgen schaffen. Wir wollen den Zusammenhalt unserer Gesellschaft stärken, damit alle in Würde, Freiheit und Sicherheit leben können. Konsequenter Klimaschutz, eine neue wirtschaftliche Stärke und echter Zusammenhalt – dieser Dreiklang steht im Zentrum unserer Politik.
 
-### EIN NEUER AUFBRUCH FÜR BADEN-WÜRTTEMBERG
+## EIN NEUER AUFBRUCH FÜR BADEN-WÜRTTEMBERG
 
 Die Koalition von Bündnis 90/Die Grünen und CDU geht in ihre zweite Legislaturperiode. Wir haben in den letzten fünf Jahren das Land verlässlich und erfolgreich regiert. Deshalb führen wir das Bündnis in der gleichen Konstellation weiter. Aber angesichts der gewaltigen Herausforderungen werden wir nicht nur das Land, sondern auch unser Bündnis erneuern. Es geht um einen echten Neuanfang, um ein neues Kapitel in der Erfolgsgeschichte des Landes. Wir wollen die große Transformation meistern, vor der wir alle stehen. Der Neuanfang zeigt sich in den politischen Inhalten und in den konkreten Lösungen, die wir in diesem Vertrag zwischen GRÜNEN und CDU vereinbart haben.
 
@@ -48,7 +48,7 @@ Denn die Aufgaben, die vor uns liegen, sind gewaltig. Es genügt nicht, allein a
 
 GRÜNE und CDU wollen die gesellschaftlichen Kräfte zusammenführen. Wir wollen gemeinsam Wege freimachen und Neues ermöglichen. Wir wollen die ganze Kraft unseres Landes entfesseln und für eine gute Zukunft nutzbar machen. Wir wollen neue Chancen für ein nachhaltiges Leben und für besseres Wachstum schaffen. Wir ermutigen zu neuen Ideen und Innovationen. Und wir wollen einen handlungsfähigen und modernen Staat, der eine starke Daseinsfürsorge sichert und der Freiheit, Sicherheit und Teilhabe für alle garantiert. So wappnen wir unser Land gut für die Zukunft und machen Baden-Württemberg einmal mehr zum Wegbereiter der neuen Zeit.
 
-### AUF UNSERE STÄRKEN VERTRAUEN UND MIT ZUVERSICHT ANPACKEN
+## AUF UNSERE STÄRKEN VERTRAUEN UND MIT ZUVERSICHT ANPACKEN
 
 So groß die Herausforderungen auch sind – wir haben allen Grund zur Zuversicht. Denn Baden-Württemberg ist ein starkes Land. Wir bringen alles mit, was es jetzt braucht. Ein gut funktionierendes Gemeinwesen und erfolgreiche Unternehmen. Eine weltweit führende Innovationslandschaft mit hervorragenden Hochschulen. Und vor allem viele kreative, fleißige und engagierte Bürgerinnen und Bürger. Wir können auf diese Stärken vertrauen und so gemeinsam ein Fundament für eine gute Zukunft bauen – für uns und für die Generationen, die nach uns kommen.
 
@@ -56,7 +56,7 @@ Noch stecken wir in der Corona-Pandemie, die uns allen viel abverlangt. Diese La
 
 Aber die Pandemie hinterlässt uns einen Berg an Problemen, die uns noch lange beschäftigen werden. Viele Unternehmen und Selbständige stehen mit dem Rücken zur Wand und können sich nur mit staatlichen Hilfen über Wasser halten. Noch ist nicht genau abzusehen, welche langfristigen Folgen das für den Arbeitsmarkt hat. Familien mit Kindern leiden besonders unter der Pandemie, da sie Distanzunterricht und Beruf unter einen Hut bringen müssen. Bei vielen Kindern und Jugendlichen haben sich Lernrückstände angehäuft. Die Staatsausgaben sind durch die Hilfsprogramme massiv gestiegen, die Steuereinnahmen in der Pandemie deutlich gesunken. Die Folge: Der finanzielle Spielraum im Haushalt ist sehr klein. Wir müssen in den kommenden Jahren noch sehr viel genauer abwägen: Welche Ausgaben müssen und wollen wir tätigen? Und welche können wir uns erst einmal nicht mehr leisten? Das bedeutet ausdrücklich nicht, dass wir deshalb unseren Gestaltungsanspruch aufgeben. Im Gegenteil. Aber es bedeutet, dass wir sehr genau unterscheiden müssen zwischen Dingen, die notwendig und geboten sind, um unser Land voranzubringen, und Dingen, die zwar wünschenswert, aber derzeit nicht finanzierbar sind.
 
-### BÜNDNIS FÜR DIE GROSSE TRANSFORMATION
+## BÜNDNIS FÜR DIE GROSSE TRANSFORMATION
 
 Uns ist klar: Der Übergang ins postfossile Zeitalter, die Bewältigung des wirtschaftlichen Strukturwandels und die menschliche Gestaltung der Digitalisierung stellen uns alle vor große Herausforderungen, die gleichzeitig bewältigt werden müssen. Die Politik kann Regeln setzen und Leitplanken aufstellen. Aber den Umbruch aktiv zu gestalten und zu einem Erfolg zu machen, das geht nur in einem vertrauensvollen Miteinander. Wir laden deshalb alle Bürgerinnen und Bürger, alle Unternehmen und Betriebe ein, Teil dieser Veränderungen zu werden, Teil eines Bündnisses für die große Transformation zu sein. Jede und jeder kann etwas dazu beitragen – unabhängig vom Geldbeutel, von der Herkunft oder von der Weltanschauung. Gemeinsam können und werden wir über uns hinauswachsen.
 
@@ -68,28 +68,23 @@ Wir wissen, dass der notwendige Wandel nur gelingen kann, wenn allen klar ist, w
 
 Wir werden uns daran messen lassen, was wir wirklich erreicht haben. Vorgenommen haben wir uns viel:
 
-CORONA BEWÄLTIGEN – STÄRKER AUS DER KRISE KOMMEN
+## CORONA BEWÄLTIGEN – STÄRKER AUS DER KRISE KOMMEN
 
-Die Corona-Pandemie ist die größte Krise in der Geschichte der Bundesrepublik. Sie und ihre Folgen stellen die Gesellschaft vor gewaltige Aufgaben – in vielerlei Hinsicht. Viele Menschen haben Angehörige verloren. Die Langzeitfolgen von Covid-19-Erkrankungen sind noch nicht absehbar. Kinder und Jugendliche mussten monatelang ohne Präsenzunterricht und Kontakte zu Gleichaltrigen auskommen. Für den Handel, die Gastronomie, die Kunst und die Kultur stellen sich nach Schließungen und Einschränkungen existenzielle Fragen. Zugleich hat die Pandemie gezeigt, wie wichtig unser Gesundheitssystem, starke Institutionen,
-
-
-Kreativität und Innovationsgeist sowie nicht zuletzt der gesellschaftliche Zusammenhalt sind.
+Die Corona-Pandemie ist die größte Krise in der Geschichte der Bundesrepublik. Sie und ihre Folgen stellen die Gesellschaft vor gewaltige Aufgaben – in vielerlei Hinsicht. Viele Menschen haben Angehörige verloren. Die Langzeitfolgen von Covid-19-Erkrankungen sind noch nicht absehbar. Kinder und Jugendliche mussten monatelang ohne Präsenzunterricht und Kontakte zu Gleichaltrigen auskommen. Für den Handel, die Gastronomie, die Kunst und die Kultur stellen sich nach Schließungen und Einschränkungen existenzielle Fragen. Zugleich hat die Pandemie gezeigt, wie wichtig unser Gesundheitssystem, starke Institutionen, Kreativität und Innovationsgeist sowie nicht zuletzt der gesellschaftliche Zusammenhalt sind.
 
 Wir tun weiterhin alles, um die Corona-Krise zu bewältigen und das Leben und die Gesundheit der Bürgerinnen und Bürger zu schützen. Wenn wir das Virus im Griff haben, wollen wir mit einem Neustart-Programm dafür sorgen, dass unser Einzelhandel und unsere Innenstädte gut aus der Krise kommen. Wir werden das öffentliche Gesundheitswesen stärken. Mit ambitionierten Lernbrücken geben wir Schülerinnen und Schülern die Möglichkeit, die durch die Corona-Krise verursachten Lernrückstände schnell aufzuholen. Den Digitalisierungsschub aus der Krise nehmen wir mit – in der Arbeitswelt wie in der Verwaltung. Zudem wollen wir im Landtag eine EnqueteKommission einrichten. Sie soll Vorschläge erarbeiten, was Staat und Gesellschaft aus der Corona-Krise lernen können, wie wir mehr Vorsorge leisten und unser Gemeinwesen krisenfester machen.
 
-NACHHALTIGES HAUSHALTEN – VERANTWORTUNG ÜBERNEHMEN FÜR DIE, DIE NACH UNS KOMMEN
+## NACHHALTIGES HAUSHALTEN – VERANTWORTUNG ÜBERNEHMEN FÜR DIE, DIE NACH UNS KOMMEN
 
 Wir stehen für eine generationengerechte Politik. Deshalb bedeutet Nachhaltigkeit für uns auch, dass eine solide Haushaltspolitik die Grundlage unseres politischen Handelns ist. In der vergangenen Legislaturperiode haben wir die Schuldenbremse in der Landesverfassung verankert. Wir werden sie nun selbstverständlich einhalten. Schulden nehmen den Generationen nach uns ihre Gestaltungsmöglichkeiten. Deshalb sind sie ungerecht. Die Corona-Krise und deren Bewältigung stellt uns vor die Herausforderung, mit stark geschrumpften finanziellen Spielräumen auskommen zu müssen. Das erfordert eine Priorisierung, das erfordert Haushaltsdisziplin. Gleichzeitig haben wir die Aufgabe, jetzt in die Vorhaben zu investieren, die das Land voranbringen und unseren Kindern und Enkelkindern eine gute Zukunft ermöglichen.
 
-KLIMA SCHÜTZEN, NATUR BEWAHREN, NACHHALTIG SEIN
+## KLIMA SCHÜTZEN, NATUR BEWAHREN, NACHHALTIG SEIN
 
 Die Klimakrise ist die Menschheitsaufgabe des 21. Jahrhunderts. Sie entscheidet darüber, ob unsere Kinder und Enkelkinder noch einen lebenswerten Planeten vorfinden. Auch bei uns in Baden-Württemberg bekommen wir die Auswirkungen der globalen Erhitzung längst zu spüren. Das Wetter wird extremer, die Starkregenfälle und Überschwemmungen aus dem Jahr 2016 sind vielen noch in Erinnerung. Unsere Wälder leiden unter großer Sommerhitze und fehlendem Niederschlag – uns droht ein massives Waldsterben.
 
-Wir stellen uns diesen Herausforderungen mutig und entschlossen. Für uns gilt das Prinzip Verantwortung: Wir dürfen nicht heute die Freiheit und das gute Leben nachfolgender Generationen gefährden – das hat nicht
+Wir stellen uns diesen Herausforderungen mutig und entschlossen. Für uns gilt das Prinzip Verantwortung: Wir dürfen nicht heute die Freiheit und das gute Leben nachfolgender Generationen gefährden – das hat nicht zuletzt auch das Bundesverfassungsgericht den politisch Verantwortlichen in beeindruckender Klarheit mit auf den Weg gegeben. Baden-Württemberg soll deshalb das führende Klimaschutzland werden. Wir wollen zeigen, was machbar ist, und Maßstäbe setzen.
 
-zuletzt auch das Bundesverfassungsgericht den politisch Verantwortlichen in beeindruckender Klarheit mit auf den Weg gegeben. Baden-Württemberg soll deshalb das führende Klimaschutzland werden. Wir wollen zeigen, was machbar ist, und Maßstäbe setzen.
-
-Baden-Württemberg klimaneutral machen
+### Baden-Württemberg klimaneutral machen
 
 Damit Baden-Württemberg so schnell wie möglich klimaneutral wird, setzen wir gleich zu Beginn der Legislaturperiode ein umfassendes Klimaschutz-Sofortprogramm auf. Wir werden eine Solarpflicht für alle neuen Gebäude festschreiben, ein Flächenziel für Windkraft- und Freiflächenphotovoltaikanlagen in Höhe von zwei Prozent der Landesfläche festlegen, neue Windkraftstandorte im Staatswald und auf Landesflächen ausweisen, Photovoltaikprojekte entlang von Autobahnen und Zugstrecken starten und die Finanzpolitik des Landes auf das 1,5-Grad-Ziel ausrichten.
 
@@ -97,28 +92,23 @@ Zum Klimaschutz gehört auch eine neue, nachhaltige Mobilität – auch hier mac
 
 Wir werden Baden-Württemberg zum Klimaschutzland machen – zum Klimaschutzland Nummer eins in Deutschland und Europa. Um diese Herausforderungen zu meistern, müssen wir alle Kräfte mobilisieren. Politik und Verwaltung, Wirtschaft und Wissenschaft, Vereine und Verbände, Kirchen und Religionsgemeinschaften: die ganze Gesellschaft. Baden-Württemberg zusammenhalten und nach vorne bringen – das ist unser Anspruch. Innovative Spitzentechnologie aus Baden-Württemberg wird unser Beitrag zum weltweiten Kampf gegen den Klimawandel und seine Folgen sein. Das heißt auch: neue Arbeitsplätze. Auf dem anspruchsvollen Weg dorthin beteiligen wir die Menschen, zeigen Ziele auf und eröffnen neue Chancen. Nur dann kann Klimaschutz gelingen – wenn er nicht nur verordnet, sondern auch gelebt wird. Wir streben deshalb eine starke Partnerschaft von Land und Kommunen auf einer größtmöglichen partei-, wirtschafts- und gesellschaftspolitischen Basis an – eine Allianz für Nachhaltigkeit. Wir wollen Baden-Württemberg für unser gemeinsames Ziel begeistern.
 
-Erhalten, was uns erhält
+### Erhalten, was uns erhält
 
-Der Klimawandel ist nicht die einzige ökologische Krise, die uns herausfordert. Weltweit vollzieht sich ein massives Artensterben. Auch bei uns ist mehr als jede dritte heimische Art gefährdet. GRÜNE und CDU wollen die reiche Vielfalt unserer Natur mit aller Kraft bewahren. Wir streben deshalb einen neuen Gesellschaftsvertrag zwischen Bäuerinnen und Bauern, den Verbraucherinnen und Verbrauchern, dem Naturschutz und dem Handel. Damit wollen wir Naturschutz und Landwirtschaft
+Der Klimawandel ist nicht die einzige ökologische Krise, die uns herausfordert. Weltweit vollzieht sich ein massives Artensterben. Auch bei uns ist mehr als jede dritte heimische Art gefährdet. GRÜNE und CDU wollen die reiche Vielfalt unserer Natur mit aller Kraft bewahren. Wir streben deshalb einen neuen Gesellschaftsvertrag zwischen Bäuerinnen und Bauern, den Verbraucherinnen und Verbrauchern, dem Naturschutz und dem Handel. Damit wollen wir Naturschutz und Landwirtschaft zusammenbringen, den Artenschutz fördern und für faire Preise für gesunde, nachhaltig produzierte Lebensmittel sorgen. Die ökologische Landwirtschaft wollen wir bis zum Jahr 2030 auf 40 Prozent ausbauen und den Nationalpark Schwarzwald erweitern.
 
-
-zusammenbringen, den Artenschutz fördern und für faire Preise für gesunde, nachhaltig produzierte Lebensmittel sorgen. Die ökologische Landwirtschaft wollen wir bis zum Jahr 2030 auf 40 Prozent ausbauen und den Nationalpark Schwarzwald erweitern.
-
-Vorreiter bei nachhaltiger Produktion und grünen Technologien
+### Vorreiter bei nachhaltiger Produktion und grünen Technologien
 
 Als führendes Industrieland wollen wir beweisen, dass Klimaschutz und wirtschaftlicher Erfolg in Zukunft zusammengehören. Dabei setzen wir uns hohe Ziele: Baden-Württemberg soll weltweit die erste Region mit einer klimaneutralen Produktion werden. Mit einer gezielten Innovationsoffensive werden wir unsere kleinen und mittelständischen Unternehmen auf dem Weg zur Klimaneutralität fördern. Wir schaffen eine ressortübergreifende Green-Tech-Plattform, entwickeln eine Recycling-Strategie und treiben mit unserer Wasserstoff-Roadmap die Erforschung, Entwicklung und Nutzung von Wasserstofftechnologien voran. So machen wir Baden-Württemberg zum weltweiten Vorreiter bei Umwelttechnologien, Ressourceneffizienz und Kreislaufwirtschaft und legen die Grundlagen für Durchbrüche für nachhaltiges Wirtschaften in allen Branchen.
 
-DEN WIRTSCHAFTLICHEN WANDEL MEISTERN – UNSEREN WOHLSTAND SICHERN
+## DEN WIRTSCHAFTLICHEN WANDEL MEISTERN – UNSEREN WOHLSTAND SICHERN
 
 In Baden-Württemberg hat wirtschaftlicher Erfolg Tradition. Aber die Stärke unserer Wirtschaft und ihre Innovationskraft müssen immer wieder neu erarbeitet werden. Das gilt umso mehr, als wir uns inmitten eines tiefgreifenden Umbruchs befinden – vor allem durch die Digitalisierung und den schrittweisen Abschied von den fossilen Energieträgern. Jetzt geht es darum, den Strukturwandel zu meistern und das Industrieland Baden-Württemberg langfristig stark aufzustellen. Deshalb setzen wir voll auf Innovation. Denn Innovation ist der Schlüssel für den Wohlstand der Zukunft.
 
-Das Auto neu erfinden – emissionsfrei und intelligent
+### Das Auto neu erfinden – emissionsfrei und intelligent
 
-Baden-Württemberg ist das Autoland schlechthin. Hier soll – rund 150 Jahre nach dem ersten Mal – das Auto neu erfunden werden: emissionsfrei und intelligent. Wir bringen alles dafür mit: starke Automobilhersteller, kreative Zulieferer, fleißige und gut ausgebildete Arbeitskräfte. Um auch in Zukunft ein weltweit führender Automobil- und Mobilitätsstandort zu sein, gehen wir unseren Weg mit dem „Strategiedialog Automobilwirtschaft BW“ konsequent weiter. Die zentralen Schlüsseltechnologien für Fahrzeuge von morgen fördern wir konsequent und technologieoffen: von der Batterieforschung, der Brennstoffzelle und synthetischen Kraftstoffen bis hin zur Fahrzeug-Elektronik und dem autonomen Fahren. Das
+Baden-Württemberg ist das Autoland schlechthin. Hier soll – rund 150 Jahre nach dem ersten Mal – das Auto neu erfunden werden: emissionsfrei und intelligent. Wir bringen alles dafür mit: starke Automobilhersteller, kreative Zulieferer, fleißige und gut ausgebildete Arbeitskräfte. Um auch in Zukunft ein weltweit führender Automobil- und Mobilitätsstandort zu sein, gehen wir unseren Weg mit dem „Strategiedialog Automobilwirtschaft BW“ konsequent weiter. Die zentralen Schlüsseltechnologien für Fahrzeuge von morgen fördern wir konsequent und technologieoffen: von der Batterieforschung, der Brennstoffzelle und synthetischen Kraftstoffen bis hin zur Fahrzeug-Elektronik und dem autonomen Fahren. Das flächendeckende Ladenetz für Elektroautos werden wir weiter ausbauen.
 
-flächendeckende Ladenetz für Elektroautos werden wir weiter ausbauen.
-
-Digitalisierung, Künstliche Intelligenz, Masterplan digitale Verwaltung
+### Digitalisierung, Künstliche Intelligenz, Masterplan digitale Verwaltung
 
 Nicht nur der Klimawandel verändert die Welt massiv, sondern auch die Digitalisierung aller Lebensbereiche. Wir in Baden-Württemberg gestalten den digitalen Wandel mit aller Kraft und gehen weiter so entschlossen voran wie kein anderes Land. Unser Grundsatz heißt: Die Digitalisierung soll dem Menschen und dem Gemeinwohl dienen und neue Chancen schaffen. Ultraschnelles Breitband und Mobilfunknetze der neusten Generation sind die Basis für eine erfolgreiche Digitalisierung.
 
@@ -126,16 +116,13 @@ Wir werden das Cyber Valley als das führende Forschungszentrum Europas für Kü
 
 Und schließlich: Die Digitalisierung dient dem Menschen auch in seinem Verhältnis zum Staat. Mit einem Masterplan für die digitale Transformation der Verwaltung setzen wir die konsequente und durchgehende Digitalisierung der Landesverwaltung um.
 
-Wissenschaft, Forschung und Innovation: die Erfolgsformel Baden-Württembergs
+### Wissenschaft, Forschung und Innovation: die Erfolgsformel Baden-Württembergs
 
 Baden-Württemberg ist führend in Forschung und Wissenschaft. Dort wachsen die Rohstoffe der Zukunft: Wissen, Kreativität und Innovation. Deshalb geben wir unseren Hochschulen finanzielle Verlässlichkeit und stellen sie so langfristig und stark auf. Unsere „Green High-Tech-Agenda für Schlüsseltechnologien und Zukunftsfelder“ schlägt wichtige Brücken in die Zukunft. Nach dem Vorbild des Cyber Valley werden wir zwei weitere Innovationscampusprojekte vorantreiben: eines zu Gesundheits- und Lebenswissenschaften in der Region Rhein-Neckar und eines zur Produktions- und Mobilitätsforschung in Stuttgart und Karlsruhe. Wir werden die Bürokratiekosten für unseren Mittelstand senken und eine Innovationsbeschleunigungsinitiative auf den Weg bringen. Wir wollen Baden-Württemberg zum Magneten für kreative Menschen und zu einem führenden, internationalen Hotspot für Start-ups machen.
 
-Gesundheitswirtschaft zu einem starken wirtschaftlichen Standbein machen
+### Gesundheitswirtschaft zu einem starken wirtschaftlichen Standbein machen
 
-Schon heute ist Baden-Württemberg der bundesweit führende Standort der Gesundheitswirtschaft. Neben unseren traditionellen Schlüsselindustrien Maschinenbau und Automobilindustrie wächst sie zu einer neuen Leitindustrie heran. Daraus ergeben sich großen Chancen: Die Biotechnologie macht riesige Fortschritte, etwa bei
-
-
-der Krebsforschung oder bei neuen Impfstoffen. Die Digitalisierung eröffnet neue Möglichkeiten, Krankheiten zu behandeln. Und in der Medizintechnik hat Baden-Württemberg schon heute die Nase vorn. Wir werden diese Säule unseres Wohlstands weiter stärken. Mit dem Forum Gesundheitsstandort bringen wir technologische und medizinische Innovationen voran und stärken unsere Gesundheitsunternehmen auf den internationalen Märkten.
+Schon heute ist Baden-Württemberg der bundesweit führende Standort der Gesundheitswirtschaft. Neben unseren traditionellen Schlüsselindustrien Maschinenbau und Automobilindustrie wächst sie zu einer neuen Leitindustrie heran. Daraus ergeben sich großen Chancen: Die Biotechnologie macht riesige Fortschritte, etwa bei der Krebsforschung oder bei neuen Impfstoffen. Die Digitalisierung eröffnet neue Möglichkeiten, Krankheiten zu behandeln. Und in der Medizintechnik hat Baden-Württemberg schon heute die Nase vorn. Wir werden diese Säule unseres Wohlstands weiter stärken. Mit dem Forum Gesundheitsstandort bringen wir technologische und medizinische Innovationen voran und stärken unsere Gesundheitsunternehmen auf den internationalen Märkten.
 
 ### DEN ZUSAMMENHALT DER GESELLSCHAFT STÄRKEN UND DIE LIBERALE DEMOKRATIE VERTEIDIGEN
 
@@ -143,19 +130,17 @@ Die liberale Demokratie steht weltweit unter Druck. Und auch, wenn das Miteinand
 
 Miteinander erreichen wir viel mehr als gegeneinander. Wir setzen deshalb auf eine Politik, die die Abwehrkräfte gegen Polarisierung und Spaltung stärkt und die Menschen befähigt, mit den Umbrüchen der Zeit gut umzugehen. So stärken wir den Zusammenhalt der Gesellschaft und schaffen Sicherheit im Wandel.
 
-In Sicherheit, Freiheit und Würde leben
+### In Sicherheit, Freiheit und Würde leben
 
 In Baden-Württemberg leben, heißt sicher leben: Das Land belegt bundesweit einen Spitzenplatz bei der Inneren Sicherheit. Im Land haben wir die niedrigste Kriminalitätsrate seit 30 Jahren. Und auch bei der Aufklärungsquote liegt Baden-Württemberg weit vorn. Wir sorgen dafür, dass das so bleibt. Damit alle Menschen in Baden-Württemberg frei und sicher leben können. Das ist die Grundlage für unseren gesellschaftlichen Zusammenhalt. Wir sind eine wehrhafte Demokratie und verteidigen unsere offene Gesellschaft gegen ihre Feinde.
 
 Deshalb setzen wir auf die Stärke des Rechtsstaats und auf eine bürgernahe Polizei und Justiz. Wir werden die Polizei personell und technisch weiter kräftig stärken und die Sicherheit im öffentlichen Raum erhöhen. Wir gehen neue Formen der Kriminalität entschlossen an und verbessern die Cybersicherheit. Ein besonderes Augenmerk legen wir dabei auf den Kampf gegen sexualisierte Gewalt gegen Kinder.
 
-Wir stehen für eine Gesellschaft, in der jede und jeder in Freiheit und Würde leben kann – unabhängig vom sozialen Hintergrund, von körperlichen Voraussetzungen oder einer Behinderung, von Geschlecht und sexueller Identität, von Religion und Herkunft. Mit einem eigenständigen Antidiskriminierungsgesetz und dem Landesaktionsplan
-
-gegen Rassismus und Diskriminierung stärken wir das gleichberechtigte Miteinander im Land.
+Wir stehen für eine Gesellschaft, in der jede und jeder in Freiheit und Würde leben kann – unabhängig vom sozialen Hintergrund, von körperlichen Voraussetzungen oder einer Behinderung, von Geschlecht und sexueller Identität, von Religion und Herkunft. Mit einem eigenständigen Antidiskriminierungsgesetz und dem Landesaktionsplan gegen Rassismus und Diskriminierung stärken wir das gleichberechtigte Miteinander im Land.
 
 Dazu gehört auch eine humanitäre, pragmatische, verantwortliche und geordnete Flüchtlingspolitik. Das Land wird künftig alle Möglichkeiten nutzen, um gut integrierten, geduldeten Flüchtlingen ein Bleiberecht zu ermöglichen. Gegenüber denjenigen, die Straftaten begehen oder eine Gefahr für die öffentliche Sicherheit darstellen, sollen die rechtsstaatlichen Instrumente konsequent angewendet werden.
 
-Antworten auf die sozialen Fragen der Gegenwart: beste Bildung für alle Kinder und bezahlbarer Wohnraum für alle
+### Antworten auf die sozialen Fragen der Gegenwart: beste Bildung für alle Kinder und bezahlbarer Wohnraum für alle
 
 Kinder sind das Wertvollste, was wir haben. Wir wollen allen Kindern die bestmögliche Bildung ermöglichen. Der Bildungserfolg darf nicht von der Herkunft abhängen. Alle Kinder sollen ihre Talente entfalten und Leistung erbringen können. Denn Bildungsgerechtigkeit und Leistung sind kein Gegensatz, sondern gehören zusammen. Für uns steht deshalb die Qualität im Zentrum – damit die Lehrkräfte sich auf das Wichtigste konzentrieren können: guten Unterricht.
 
@@ -163,7 +148,7 @@ Wir starten eine Digitalisierungsoffensive an den Schulen – und zwar ganzheitl
 
 Neben Bildung ist die Frage bezahlbaren Wohnraums eine zentrale soziale Frage der Gegenwart. Und es geht dabei um mehr als ein Dach über dem Kopf. Wohnen bedeutet, ein Zuhause zu haben. Deshalb setzen wir unsere Wohnraumoffensive fort und richten die Wohnraumförderung des Landes so aus, dass mehr preisgünstige Wohnungen entstehen. Mit einem neuen Strategiedialog gehen wir gemeinsam mit allen relevanten Akteuren drei Herausforderungen an: bezahlbaren Wohnraum schaffen, Bauen ökologischer machen und die Digitalisierung der Bauwirtschaft voranbringen.
 
-Zusammenhalten, was uns zusammenhält: Ehrenamt unterstützen, Bürgerbeteiligung ausbauen, Demokratie stärken
+### Zusammenhalten, was uns zusammenhält: Ehrenamt unterstützen, Bürgerbeteiligung ausbauen, Demokratie stärken
 
 Noch immer liegt der Frauenanteil im Landtag von Baden-Württemberg bei unter 30 Prozent. Dies hängt auch stark mit dem Wahlrecht zusammen. Wir werden deshalb ein modernes personalisiertes Verhältniswahlrecht mit einer geschlossenen Landesliste einführen. Zudem senken wir das Wahlalter auf Landesebene auf 16 Jahre ab.
 
@@ -174,91 +159,74 @@ Ehrenamtliches Engagement ist eine tragende Säule unserer Gesellschaft. Wir wer
 
 Die Politik des Gehörtwerdens ist inzwischen ein Markenzeichen unseres Landes. Baden-Württemberg ist führend bei der Bürgerbeteiligung. Diesen Weg gehen wir konsequent weiter. So wird es künftig zu wichtigen Gesetzen ein beratendes Bürgerforum aus zufällig ausgewählten Bürgerinnen und Bürgern geben. Damit sind wir Vorreiter in Deutschland.
 
-Zusammenhalt europäisch denken
+### Zusammenhalt europäisch denken
 
 Zusammenhalt – das denken wir auch über unsere Landesgrenzen hinaus. Kaum ein Land hat dem europäischen Einigungswerk so viel zu verdanken wie Baden-Württemberg. Über 70 Jahre Frieden, Freiheit und Wohlstand wären ohne Europa undenkbar. Die Europäische Integration gehört für uns in Baden-Württemberg zur Staatsräson. Wir wollen eine starke und bürgernahe Europäische Union, die ihre Kräfte für die großen Aufgaben bündelt – sei es der Klimawandel, internationale Krisen, die Digitalisierung oder die Migration. Diese fundamentalen Herausforderungen lassen sich nur auf europäischer Ebene wirksam angehen. Gleichzeitig muss Europa mehr Subsidiarität leben: Jene Probleme, die eben nicht besser europäisch gelöst werden können, sollten die Kommunen, Regionen oder Staaten selbst regeln.
 
-### JETZT FÜR MORGEN
+## JETZT FÜR MORGEN
 
 Jetzt für morgen – unter diese Maxime haben wir unser Regierungsprogramm gestellt. Damit formulieren wir einen klaren Auftrag an uns selbst, aber auch an die Menschen im Land: Schützen wir jetzt konsequent das Klima und die Artenvielfalt, damit unsere Kinder und Enkelkinder auch morgen einen lebenswerten Planeten und eine reiche Natur vorfinden. Setzen wir jetzt voll auf Innovation, damit unser Wirtschaftsstandort auch morgen spitze bleibt und den Menschen gute Arbeitsplätze bietet. Stärken wir jetzt den Zusammenhalt der Gesellschaft, damit wir auch morgen gemeinsam in Freiheit, Würde und Sicherheit leben können. Diesen Aufgaben werden wir uns in den kommenden fünf Jahren mit all unserer Kraft widmen. Und wir bitten alle Baden-Württembergerinnen und Baden-Württemberger: Machen Sie mit – lassen Sie uns das Land gemeinsam erneuern.
 
 
-13
+# 1. Haushalt und Verwaltung
 
-01 DIE NÄCHSTEN GENERATIONEN IM BLICK:
-
-### FÜR NACHHALTIGE FINANZEN
-
-
-1. DIE NÄCHSTEN GENERATIONEN IM BLICK: FÜR NACHHALTIGE FINANZEN UND EINE MODERNE VERWALTUNG
+01 DIE NÄCHSTEN GENERATIONEN IM BLICK: FÜR NACHHALTIGE FINANZEN UND EINE MODERNE VERWALTUNG
+<!--
+1. DIE NÄCHSTEN GENERATIONEN IM BLICK: FÜR NACHHALTIGE FINANZEN UND EINE MODERNE VERWALTUNG-->
 
 Die Corona-Pandemie und ihre Bewältigung stellen uns alle auf allen Ebenen vor enorme Herausforderungen. Angesichts der bisherigen immensen finanziellen Anstrengungen zur Abfederung der Corona-Pandemie bei gleichzeitig sinkenden Einnahmen ist auch die Finanzsituation des Landes sehr angespannt. Die aktuelle mittelfristige Finanzplanung weist für die kommenden Jahre eine große Lücke zwischen Einnahmen und Ausgaben auf. Demnach sind die Ausgaben in den Folgejahren deutlich höher als die Einnahmen. Hinzu kommt die Ungewissheit über den weiteren Verlauf der Pandemie, die wirtschaftliche Entwicklung, die Situation auf dem Arbeitsmarkt und die Entwicklung der Steuereinnahmen. Deshalb ist eine strenge Ausgabendisziplin erforderlich.
 
 Gleich zu Beginn der Legislaturperiode wird die Koalition ein Programm zur Abmilderung der Corona-Folgen auflegen: Kinder und Jugendliche mit Lernlücken werden wir mit gezielten Fördermaßnahmen unterstützen und hierfür einen Kinder- und Jugendgipfel einberufen. Zudem starten wir ein Aktionsprogramm für Kunst und Kultur sowie ein Neustart-Programm, um Impulse für die Innenstädte zu setzen. Eine Enquete-Kommission wird sich den Konsequenzen aus der Pandemie widmen. Die Landesverwaltung machen wir pandemiefest – insbesondere den öffentlichen Gesundheitsdienst und die Gesundheitsämter. Darüber hinaus legen wir ein Programm zur digitalen Arbeitswelt nach Corona auf. Sämtliche zusätzlichen finanzwirksamen Maßnahmen, die nicht der Bekämpfung der Pandemie und ihrer Folgen dienen, stehen unter Haushaltsvorbehalt. Mehrausgaben benötigen eine solide Gegenfinanzierung. Das Prinzip „one in, one out“ kann hierfür ein hilfreiches Instrument sein. Ansonsten ist eine Umsetzung erst möglich, wenn sich die Einnahmesituation des Landes wieder verbessert. Finanzielle Spielräume werden wir prioritär dafür nutzen, die finanzrelevanten Maßnahmen aus dem Sondierungsergebnis – gegebenenfalls in Stufen – umzusetzen. Ebenso wollen wir Wachstum durch Innovation, durch eine Modernisierung der Verwaltung, Verfahrensbeschleunigung und Bürokratieabbau, durch Digitalisierung und Klimaschutz ermöglichen. Gemeinsam mit den Kommunen wollen wir auch in Zukunft die Lebensqualität sichern.
 
-Der Vermögenserhalt hat für uns einen hohen Stellenwert. Deshalb werden wir die Infrastruktur des Landes weiter konsequent instand halten und den Sanierungsstau im Gebäudebestand weiter abbauen. Zentral ist hierbei die energetische Ertüchtigung der Liegenschaften und eine zukunftsfähige Ausrichtung der Energieversorgung. Durch effizientere Nutzung der Gebäudeflächen werden wir den
-
-Ressourcen- und Energieverbrauch zusätzlich begrenzen. Die Haushaltspolitik und die Finanzanlagestrategie werden wir auch an Nachhaltigkeitskriterien ausrichten.
+Der Vermögenserhalt hat für uns einen hohen Stellenwert. Deshalb werden wir die Infrastruktur des Landes weiter konsequent instand halten und den Sanierungsstau im Gebäudebestand weiter abbauen. Zentral ist hierbei die energetische Ertüchtigung der Liegenschaften und eine zukunftsfähige Ausrichtung der Energieversorgung. Durch effizientere Nutzung der Gebäudeflächen werden wir den Ressourcen- und Energieverbrauch zusätzlich begrenzen. Die Haushaltspolitik und die Finanzanlagestrategie werden wir auch an Nachhaltigkeitskriterien ausrichten.
 
 Gerade jetzt kommt es auf die engagierten Beschäftigten in der Landesverwaltung an: gut ausgebildet, verantwortungsbewusst, motiviert, angemessen bezahlt und mit effizienten und vor allem digitalen Verwaltungsabläufen. So arbeiten wir für die Bürgerinnen und Bürger sowie für die Unternehmen in Baden-Württemberg. Digital, flexibel und vernetzt: Das ist unser Ziel für eine moderne Verwaltung von morgen.
 
-A. HAUSHALT, LIEGENSCHAFTEN UND BETEILIGUNGEN
+## A. HAUSHALT, LIEGENSCHAFTEN UND BETEILIGUNGEN
 
 Die Auswirkungen der Corona-Pandemie stellen die öffentlichen Haushalte vor enorme Herausforderungen. Der weitere Verlauf der Pandemie ist unklar und kann zu weiteren, nicht vorhersehbaren Haushaltsfolgen führen. Deshalb treten wir für Vorsorge und Vorsicht ein. Wir bekennen uns zu den nötigen Maßnahmen, um die Pandemie zu überwinden. Ebenso wollen wir Wachstum durch Innovation, Modernisierung und Klimaschutz ermöglichen. Denn davon hängen die künftigen finanziellen Spielräume des Landes ab. Durch eine grundlegende Aufarbeitung der Corona-Krise und ihrer Folgen für Gesundheit und Pflege, Wirtschaft und Gesellschaft wollen wir die richtigen Schlüsse für künftiges Handeln ziehen.
 
 Den Landeshaushalt entwickeln wir mit Blick auf die Pariser Klimaschutzziele sowie Umwelt-, Sozial- und Menschenrechtsstandards weiter. Wir wollen, dass alle finanzpolitischen Entscheidungen auch am Kriterium der Einhaltung des 1,5-Grad-Ziels und der globalen Nachhaltigkeitsziele gemessen werden. Neue und fortzuschreibende Förderprogramme des Landes müssen auch auf ihre Klimarelevanz geprüft werden.
 
-Nachhaltige Haushaltspolitik für Baden-Württemberg
+### Nachhaltige Haushaltspolitik für Baden-Württemberg
 
-Schuldenbremse: Wir halten die im Grundgesetz und in der Landesverfassung verankerte Schuldenbremse ein. Unser Ziel ist eine nachhaltige Finanzpolitik, die das Landesvermögen erhält, notwendige Investitionen tätigt und zugleich auf ökologische Schäden verzichtet. Dazu gehören auch rechtzeitige Investitionen zum Schutz vor Klimafolgeschäden, denn sonst werden wir in Zukunft einen viel höheren Preis bezahlen müssen. Wir schließen die in der aktuellen mittelfristigen Finanzplanung ausgewiesene Deckungslücke. Das erfordert strikte Ausgabendisziplin und stellt alle zusätzlichen finanzwirksamen Maßnahmen unter Haushaltsvorbehalt. Mehrausgaben brauchen deshalb eine solide Gegenfinanzierung. Wir streben die Regelung „one in, one out” an. Darüber hinaus ist vorgesehen, in Summe hinsichtlich Anzahl und Kosten keine Neustellen in der Landesverwaltung zu schaffen,
-
-
-den bereits geplanten Wegfall von Stellen (sogenannte kw-Stellen) zu vollziehen, und durch Kompetenzbündelung und Digitalisierung der Verwaltung Effizienzressourcen zu erreichen. Sämtliche Ausgaben stehen auf dem Prüfstand.
+Schuldenbremse: Wir halten die im Grundgesetz und in der Landesverfassung verankerte Schuldenbremse ein. Unser Ziel ist eine nachhaltige Finanzpolitik, die das Landesvermögen erhält, notwendige Investitionen tätigt und zugleich auf ökologische Schäden verzichtet. Dazu gehören auch rechtzeitige Investitionen zum Schutz vor Klimafolgeschäden, denn sonst werden wir in Zukunft einen viel höheren Preis bezahlen müssen. Wir schließen die in der aktuellen mittelfristigen Finanzplanung ausgewiesene Deckungslücke. Das erfordert strikte Ausgabendisziplin und stellt alle zusätzlichen finanzwirksamen Maßnahmen unter Haushaltsvorbehalt. Mehrausgaben brauchen deshalb eine solide Gegenfinanzierung. Wir streben die Regelung „one in, one out” an. Darüber hinaus ist vorgesehen, in Summe hinsichtlich Anzahl und Kosten keine Neustellen in der Landesverwaltung zu schaffen, den bereits geplanten Wegfall von Stellen (sogenannte kw-Stellen) zu vollziehen, und durch Kompetenzbündelung und Digitalisierung der Verwaltung Effizienzressourcen zu erreichen. Sämtliche Ausgaben stehen auf dem Prüfstand.
 
 Wir machen eine positive permanente Aufgabenkritik: Neue Ausgaben haben eine klare Ergebnis-Orientierung: Förderungen sollen sich wann immer möglich an konkreten Zielen orientieren und messbar sein: Wir überführen nach Prüfung Förderprogramme in Regelprogramme und prüfen, ob verschiedene Förderprogramme zusammengelegt werden können. Alle Förderprogramme werden nach und nach auf ihre Zukunftsfähigkeit untersucht. Es wird geprüft, ob sie sinnvoll und effizient sind und ob sie zur Erreichung der Klimaschutzziele beitragen. Hierzu analysieren wir auch die weiter anwachsenden Haushaltsreste und straffen Zuschussprogramme, um Einsparungen zu erzielen.
 
 Wir prüfen die Einführung der Doppik im Land. In einem ersten Schritt erstellen wir eine Ergebnisrechnung. Mit ihrer Hilfe lässt sich neben der Vermögenslage, die seit 2017 durch die Vermögensrechnung detailliert abgebildet wird, auch die Ertragslage des Landes transparent darstellen.
 
-Vertrauensvolle Zusammenarbeit zwischen Land und Kommunen
+### Vertrauensvolle Zusammenarbeit zwischen Land und Kommunen
 
 Die verlässliche Zusammenarbeit zwischen dem Land und den Kommunen hat sich in den vergangenen Jahrzehnten bewährt. Insbesondere in Krisenzeiten wie der Flüchtlingskrise und Corona-Pandemie hat die lösungsorientierte Partnerschaft im Interesse der Bürgerinnen und Bürger einen besonderen Mehrwert. Auf Bundesebene wird sich die Landesregierung weiterhin für die Interessen der baden-württembergischen Kommunen einsetzen. Auch in Zukunft verfolgen wir das Ziel, einen gemeinsamen Empfehlungsbeschluss der Gemeinsamen Finanzkommission (GFK) im Vorfeld der jeweiligen Haushaltsberatungen an den Landtag herbeizuführen. Zu Beginn der Legislaturperiode wird die GFK die Rahmenbedingungen für die kommenden fünf Jahre beraten. An den Grundsätzen des bewährten Systems des kommunalen Finanzausgleichs wollen wir festhalten.
 
 Bei neuen Aufgaben und Programmen des Landes sollen zukünftig vorab die Verantwortlichkeiten der jeweiligen Ebene und die Frage der Finanzierung geklärt werden. Wir wollen gemeinsam mit der kommunalen Familie Standards überprüfen und, wo erforderlich, nachsteuern.
 
-Bau und Liegenschaften: Abbau Sanierungsstau
+### Bau und Liegenschaften: Abbau Sanierungsstau
 
-Der Vermögenserhalt hat für uns einen hohen Stellenwert. Die Gebäude und die Infrastruktur des Landes werden wir weiterhin konsequent instand halten und den Sanierungsstau weiter abbauen. Die jährlichen Investitionen müssen
-
-auch dauerhaft die Höhe der Abschreibungen übersteigen. Bei der Mittelbewirtschaftung des Gebäudebestands gilt grundsätzlich das Ziel „Erhaltung und Sanierung gehen vor Neubau“. Die vier Universitätsklinika in Freiburg, Heidelberg, Tübingen und Ulm haben einen hohen Sanierungsbedarf, der auf Grundlage der begonnenen Planungen abgebaut werden soll. Auch bei Wohnungen im Besitz des Landes bauen wir den Sanierungsstau ab, vermieten sie vorrangig an Bedienstete des Landes und sichern beim Verkauf von Grundstücken Belegungsrechte für Bedienstete des öffentlichen Dienstes. Dies stellt eine große Herausforderung dar. Deshalb kauft bzw. übernimmt das Land grundsätzlich keine weiteren sanierungsbedürftigen Immobilien (wie Schlösser, Bäder, Klinika).
+Der Vermögenserhalt hat für uns einen hohen Stellenwert. Die Gebäude und die Infrastruktur des Landes werden wir weiterhin konsequent instand halten und den Sanierungsstau weiter abbauen. Die jährlichen Investitionen müssen auch dauerhaft die Höhe der Abschreibungen übersteigen. Bei der Mittelbewirtschaftung des Gebäudebestands gilt grundsätzlich das Ziel „Erhaltung und Sanierung gehen vor Neubau“. Die vier Universitätsklinika in Freiburg, Heidelberg, Tübingen und Ulm haben einen hohen Sanierungsbedarf, der auf Grundlage der begonnenen Planungen abgebaut werden soll. Auch bei Wohnungen im Besitz des Landes bauen wir den Sanierungsstau ab, vermieten sie vorrangig an Bedienstete des Landes und sichern beim Verkauf von Grundstücken Belegungsrechte für Bedienstete des öffentlichen Dienstes. Dies stellt eine große Herausforderung dar. Deshalb kauft bzw. übernimmt das Land grundsätzlich keine weiteren sanierungsbedürftigen Immobilien (wie Schlösser, Bäder, Klinika).
 
 Priorisierung nach fachlichen Kriterien: Bauprojekte, auch Neubauten für Hochschulen insbesondere für Zwecke der Forschung, werden nach fachlichen Kriterien priorisiert. Die Regelung zur Kofinanzierung nach Artikel 91b Grundgesetz werden wir überprüfen mit dem Ziel, dass baden-württembergische Universitäten und Hochschulen einen möglichst hohen Anteil an Bundesmitteln abrufen können.
 
 Kulturschätze bewahren und öffnen: Wir nehmen unsere Verantwortung für die landeseigenen Monumente wahr, bewahren die Kulturschätze des Landes und öffnen sie für die Bürgerinnen und Bürger. Um möglichst viele Menschen zu erreichen, setzen wir die Digitalisierung der Monumente der Staatlichen Schlösser und Gärten (z. B. Virtual-Reality-Anwendungen) fort.
 
-Gebäude des Landes klimaneutral machen
+### Gebäude des Landes klimaneutral machen
 
 Die Gebäude des Landes sollen möglichst schnell klimaneutral werden. Die Landesgebäude werden energetisch saniert. Wir streben vorbildliche Energiestandards an und betreiben ein ehrgeiziges Energiemanagement. Deshalb werden wir das Energie- und Klimaschutzkonzept für landeseigene Liegenschaften konsequent umsetzen und fortentwickeln. Die Mittel für energetische Sanierung müssen für eine Sanierungsrate von über zwei Prozent ausreichen und vor allem für die Gebäude mit den größten energetischen Sanierungsbedarfen zur Verfügung stehen. Dazu gehören Photovoltaik (PV)-Anlagen und Solarthermie auf Dächern ebenso wie fassadenintegrierte und gebäudenahe PV-Anlagen und eine zukunftsfähige Ausrichtung der Energieversorgung. Wir ermöglichen die Installation von PV-Anlagen und Solarthermie grundsätzlich auch auf denkmalgeschützten Gebäuden, auch bei Gebäuden im Privateigentum.
 
-Ressourcen und Energieverbrauch begrenzen: Durch eine effizientere Nutzung der Gebäudeflächen werden wir den Ressourcen- und Energieverbrauch begrenzen. Hierzu nutzen wir die Chancen der digitalen Arbeitswelt in der Landesverwaltung und entwickeln neue, flächensparsame Unterbringungskonzepte. Wir nutzen nachhaltige Materialien (Holzbau, Recyclingbeton und andere) und
-
-
-legen künftig bei Neubauten einen Schwerpunkt auf die Kreislauffähigkeit der verwendeten Materialien.
+Ressourcen und Energieverbrauch begrenzen: Durch eine effizientere Nutzung der Gebäudeflächen werden wir den Ressourcen- und Energieverbrauch begrenzen. Hierzu nutzen wir die Chancen der digitalen Arbeitswelt in der Landesverwaltung und entwickeln neue, flächensparsame Unterbringungskonzepte. Wir nutzen nachhaltige Materialien (Holzbau, Recyclingbeton und andere) und legen künftig bei Neubauten einen Schwerpunkt auf die Kreislauffähigkeit der verwendeten Materialien.
 
 Wir vollenden die Digitalisierung des Gebäudebestands des Landes und streben im Laufe der Legislaturperiode die Nutzung von „Building Information Modeling“ (BIM) bei größeren Bauprojekten des Landes an. Der BIM-Prozess ermöglicht eine vernetzte Planung und Bewirtschaftung der 8.000 landeseigenen Gebäude.
 
-Wir planen mit einem realistischen CO 2 -Preis
+### Wir planen mit einem realistischen CO 2 -Preis
 
-Unser Ziel ist, als Bauherr und bei Vergaben einen CO 2 -
+Unser Ziel ist, als Bauherr und bei Vergaben einen CO 2 - Schattenpreis von mindestens 180 Euro pro Tonne CO 2 systematisch zu berücksichtigen. Die ökologischen Kosten sind bei der Entscheidung über Baumaßnahmen – beispielsweise zur Wärmeversorgung oder der Entscheidung Sanierung/Neubau – und Beschaffungen in der Wirtschaftlichkeitsberechnung zu berücksichtigen.
 
-Schattenpreis von mindestens 180 Euro pro Tonne CO 2
-
-systematisch zu berücksichtigen. Die ökologischen Kosten sind bei der Entscheidung über Baumaßnahmen – beispielsweise zur Wärmeversorgung oder der Entscheidung Sanierung/Neubau – und Beschaffungen in der Wirtschaftlichkeitsberechnung zu berücksichtigen.
-
-Einsatz für Arten- und Klimaschutz
+### Einsatz für Arten- und Klimaschutz
 
 Auf Landesflächen wird das Land seiner Vorbildfunktion für Klimaschutz und für den Erhalt der Biodiversität gerecht. Ökologisch wertvolle Flächen im Landeseigentum werden gesichert und gepflegt. Der Ankauf natur- und klimaschutzwichtiger Flächen wird fortgesetzt (Moorerwerbskonzept und andere). Beim Ankauf achten wir darauf, dass möglichst keine zusätzliche Flächenkonkurrenz mit landwirtschaftlich genutzten Flächen entsteht. Moore werden renaturiert und auch andere landeseigene Flächen werden mit Humusaufbau und der Anwendung von Pflanzenkohle als Kohlenstoffspeicher genutzt. Außerdem werden Landesflächen für Freiflächen-PV (Agri-Photovoltaik) genutzt.
 
-Die Beteiligungen des Landes – zukunftsfähig, nachhaltig, erfolgreich
+### Die Beteiligungen des Landes – zukunftsfähig, nachhaltig, erfolgreich
 
 Landesdomänen und -betriebe sowie Unternehmen, an denen das Land beteiligt ist, werden wir unter Beachtung der gesellschaftsrechtlichen Rahmenbedingungen noch konsequenter zur Einhaltung der Ziele des Klima- und Artenschutzes verpflichten. Der Public Corporate Governance Kodex wird dazu weiterentwickelt. Vorstandsvergütungen bei Landesbetrieben, landeseigenen Unternehmen und landesbeteiligten Unternehmen orientieren sich auch an der Erreichung von Nachhaltigkeitszielen.
 
@@ -268,23 +236,7 @@ Wir wollen die Beteiligungsverwaltung stärken. Damit diese ihre Aufgabe im Inte
 
 Wir sorgen für umfassende Transparenz bei allen Landeseinrichtungen. So werden künftig auch die Gehälter der Leiterinnen und Leiter von Staatstheatern, Museen etc. veröffentlicht.
 
-Klimaschutzstiftung als Drehscheibe für Kompensation: Auf dem Weg zur dauerhaften Klimaneutralität durch CO
-
-2 -Reduktion kommt der Klimaschutzstiftung eine wichti-
-
-ge Rolle zu. Sie fungiert als Drehschreibe für die Kompensation der aktuell noch unvermeidbaren CO
-
-2 -Emissionen.
-
-Über die Maßnahmen, die über die Stiftung realisierten werden, soll der Atmosphäre CO
-
-2 entnommen werden. Ziel
-
-ist es, möglichst viel des in Baden-Württemberg verursachten CO
-
-2 über die Beteiligung von Kommunen, Firmen sowie
-
-Bürgerinnen und Bürgern zu kompensieren. Das Land und seine Verwaltung haben dabei eine Vorbildfunktion.
+Klimaschutzstiftung als Drehscheibe für Kompensation: Auf dem Weg zur dauerhaften Klimaneutralität durch CO 2 -Reduktion kommt der Klimaschutzstiftung eine wichti- ge Rolle zu. Sie fungiert als Drehschreibe für die Kompensation der aktuell noch unvermeidbaren CO 2 -Emissionen. Über die Maßnahmen, die über die Stiftung realisierten werden, soll der Atmosphäre CO 2 entnommen werden. Ziel ist es, möglichst viel des in Baden-Württemberg verursachten CO 2 über die Beteiligung von Kommunen, Firmen sowie Bürgerinnen und Bürgern zu kompensieren. Das Land und seine Verwaltung haben dabei eine Vorbildfunktion.
 
 Staatsbäder als kulturelles Erbe: Wir wissen um die Bedeutung der vier Staatsbäder des Landes, erhalten diese und schützen dieses kulturelle Erbe. Hierbei konzentriert sich das Land auf die denkmalgeschützten historischen Bauten. Wir setzen uns für eine zukunftsfähige Weiterentwicklung der Staatsbäder ein.
 
@@ -294,14 +246,11 @@ Stiftungen stärken: Wir stärken die kleineren Stiftungen des Landes, indem wir
 
 So unterstützen wir diese Stiftungen des Landes dabei, sich im Bereich der Finanzanlagen zukunftsfähig und zielorientiert aufzustellen. Durch einheitliche und auf Nachhaltigkeit abzielende Anlagerichtlinien sorgen wir für mehr Transparenz bei der Anlage von Stiftungskapital und leisten einen wichtigen Beitrag zur Nachhaltigkeitsstrategie des Landes.
 
-Gemeinwohlbilanzierung in landesbeteiligten Unternehmen
+### Gemeinwohlbilanzierung in landesbeteiligten Unternehmen
 
-Wir wollen Unternehmen bei der Einführung einer Gemeinwohlbilanz unterstützen und diese Initiativen bekannter machen. Als Land wollen wir vorbildhaft vorangehen und nach dem erfolgreichen Pilotprojekt beim Landesbetrieb Forst Baden-Württemberg in weiteren Landesunternehmen
+Wir wollen Unternehmen bei der Einführung einer Gemeinwohlbilanz unterstützen und diese Initiativen bekannter machen. Als Land wollen wir vorbildhaft vorangehen und nach dem erfolgreichen Pilotprojekt beim Landesbetrieb Forst Baden-Württemberg in weiteren Landesunternehmen eine Gemeinwohlbilanzierung etablieren. Bis zum Ende der Legislaturperiode sollen mindestens fünf weitere Landesbetriebe und Unternehmen mit Landesbeteiligung folgen.
 
-
-eine Gemeinwohlbilanzierung etablieren. Bis zum Ende der Legislaturperiode sollen mindestens fünf weitere Landesbetriebe und Unternehmen mit Landesbeteiligung folgen.
-
-Finanzanlagen an Klimaschutz ausrichten
+### Finanzanlagen an Klimaschutz ausrichten
 
 Baden-Württemberg soll nicht nur bei der Kreditwürdigkeit beste Noten bekommen, sondern auch bei Nachhaltigkeitsratings an der Spitze stehen.
 
@@ -315,9 +264,9 @@ Die Koalitionspartner setzen sich in der Finanzmarktregulierung dafür ein, dass
 
 Mit Green Bond BW in Umwelt und Klimaschutz investieren: Das neue Anleihenprogramm des Green Bond Baden-Württemberg setzen wir mit einem Volumen von jährlich mindestens 300 Millionen Euro fort und schichten so bestehende konventionelle Finanzierungsformen des Landes durch eine regelmäßige, jährliche Ausgabe von ökologischen Anleihen sukzessive um. Wir prüfen die Öffnung für Privatpersonen.
 
-### B. FINANZPOLITIK
+## B. FINANZPOLITIK
 
-Steuerhinterziehung verhindern, Geldwäsche bekämpfen
+### Steuerhinterziehung verhindern, Geldwäsche bekämpfen
 
 Wir setzen uns dafür ein, Steuerhinterziehung effektiv und konsequent zu verfolgen. Dazu werden wir die Steuerverwaltung in allen Bereichen personell und technisch gut ausstatten. Eine starke, hochqualifizierte und modern ausgestattete Finanz- und Steuerverwaltung ist der Schlüssel zu mehr Steuergerechtigkeit und soliden Finanzen. Dafür wollen wir offene Stellen in der Steuerverwaltung schnell besetzen und auch dort die Digitalisierung weiter vorantreiben.
 
@@ -327,15 +276,11 @@ Wir sorgen dafür, dass angezeigte Steuerstraftaten von den Staatsanwaltschaften
 
 Wir sagen Geldwäsche und Terrorfinanzierung den Kampf an. Wir wollen Kompetenzen bündeln und die Zusammenarbeit der betroffenen Organisationen Financial Intelligence Unit, Polizei, Steuerfahndung, Zoll und Staatsanwaltschaft vertiefen. Soweit dies möglich ist, wollen wir mit Notarinnen und Notaren kooperieren.
 
-Verantwortlich entscheiden im Bund
+### Verantwortlich entscheiden im Bund
 
 Auf Bundesebene setzen wir uns für Steuergerechtigkeit und Steuerrechtsvereinfachungen ein.
 
-Nachhaltige Steuern und Subventionen: Uns sind eine Ökologisierung des Steuerrechts sowie die Überprüfung und der Abbau ökologisch schädlicher Subventionen wichtig. So wird sich Baden-Württemberg auf Bundesebene für eine deutliche Steigerung des CO
-
-2 -Preises über die Ver-
-
-abredungen im Vermittlungsausschuss im Herbst 2019 hinaus einsetzen. Dieser muss eine stärkere Lenkungswirkung entfalten. Mit den entstehenden Mehreinnahmen möchten wir Bürgerinnen und Bürger und Unternehmen entlasten.
+Nachhaltige Steuern und Subventionen: Uns sind eine Ökologisierung des Steuerrechts sowie die Überprüfung und der Abbau ökologisch schädlicher Subventionen wichtig. So wird sich Baden-Württemberg auf Bundesebene für eine deutliche Steigerung des CO 2 -Preises über die Verabredungen im Vermittlungsausschuss im Herbst 2019 hinaus einsetzen. Dieser muss eine stärkere Lenkungswirkung entfalten. Mit den entstehenden Mehreinnahmen möchten wir Bürgerinnen und Bürger und Unternehmen entlasten.
 
 Bei umfangreichen Reformvorhaben im Steuerrecht (z. B. Unternehmenssteuerreform) setzt sich Baden-Württemberg für eine angemessene Gegenfinanzierung des Bundes für Mindereinnahmen bei Ländern und Kommunen ein.
 
@@ -346,7 +291,7 @@ Bürokratiekosten senken: Wir wollen uns auf Bundesebene für eine verwaltungsö
 
 Es ist notwendig, die bislang geltenden Grundsätze im Haushaltsrecht zu erweitern: Neben Wirtschaftlichkeit und Sparsamkeit soll auch Nachhaltigkeit als Kriterium bei der Aufstellung und Umsetzung der Haushalte von Bund und Ländern berücksichtigt werden. Die Landesregierung wird ihre bereits in der vergangenen Legislaturperiode begonnenen Anstrengungen für eine entsprechende Änderung des Gesetzes über die Grundsätze des Haushaltsrechts des Bundes und der Länder weiter intensivieren.
 
-Kundennahe Banken und transparente Regeln für den Finanzmarkt
+### Kundennahe Banken und transparente Regeln für den Finanzmarkt
 
 Wir bekennen uns zum dreigliedrigen Bankensystem und setzen uns auf europäischer und nationaler Ebene für diese kundennahen und mittelstandsfinanzierenden Banken ein. Ein besonderes Augenmerk gilt dem Erhalt der kundennahen kleinen und mittleren Banken. Kleine und mittlere Banken sind verlässliche Partner für kleine und mittlere Unternehmen sowie für Privatkundinnen und -kunden. Wir setzen uns dafür ein, dass kleine und mittlere Banken bei Regulierungsvorgaben proportional zu ihrer Größe entlastet werden.
 
@@ -358,7 +303,7 @@ Auf Bundesebene wirken wir darauf hin, die private Altersvorsorge einfacher und 
 
 ### C. ÖFFENTLICHER DIENST
 
-Das Land bleibt attraktiver Arbeitgeber
+### Das Land bleibt attraktiver Arbeitgeber
 
 Wir wollen die Arbeitsbedingungen im öffentlichen Dienst des Landes so gestalten, dass Baden-Württemberg ein attraktiver Arbeitgeber bleibt.
 
@@ -374,12 +319,9 @@ Wir wollen den öffentlichen Dienst attraktiver für technische Berufe und Mange
 
 Wir setzen uns für einen Einstieg in ein Lebensarbeitszeitkonto ein, bei dem Mehrarbeitsstunden über einen begrenzten Zeitraum angespart und abgebaut werden können (beispielsweise innerhalb von drei oder fünf Jahren).
 
-Die sachgrundlose Befristung im öffentlichen Dienst werden wir weiter zurückdrängen.
+### Die sachgrundlose Befristung im öffentlichen Dienst werden wir weiter zurückdrängen.
 
-Verwaltung zukunftsfähig machen: Es ist uns wichtig, dass die Landes- und Kommunalverwaltungen angesichts der demografischen Veränderungen auch in Zukunft
-
-
-leistungsfähig sind. Wir werden daher die möglichen quantitativen und qualitativen Folgen dieser Entwicklung frühzeitig bewerten und dadurch sicherstellen, dass Personalgewinnung und Personaleinsatz weiterhin bedarfsgerecht gesteuert werden können. Wir wollen darauf hinwirken, dass die landeseigenen Hochschulen für öffentliche Verwaltung in Kehl und Ludwigsburg ihre Bildungsangebote auf Bachelor- und Masterebene vor diesem Hintergrund weiterentwickeln. Dem Thema des lebenslangen Lernens kommt besondere Bedeutung zu.
+Verwaltung zukunftsfähig machen: Es ist uns wichtig, dass die Landes- und Kommunalverwaltungen angesichts der demografischen Veränderungen auch in Zukunft leistungsfähig sind. Wir werden daher die möglichen quantitativen und qualitativen Folgen dieser Entwicklung frühzeitig bewerten und dadurch sicherstellen, dass Personalgewinnung und Personaleinsatz weiterhin bedarfsgerecht gesteuert werden können. Wir wollen darauf hinwirken, dass die landeseigenen Hochschulen für öffentliche Verwaltung in Kehl und Ludwigsburg ihre Bildungsangebote auf Bachelor- und Masterebene vor diesem Hintergrund weiterentwickeln. Dem Thema des lebenslangen Lernens kommt besondere Bedeutung zu.
 
 Wir wollen die Entscheidungsfreude in den Verwaltungen erhöhen und die Übernahme von Führungsverantwortung stärken. Dafür wollen wir die Möglichkeiten von Zulagen verstärkt nutzen. Zudem prüfen wir, ob und an welchen Stellen zukünftig Führungspositionen vermehrt auf Zeit vergeben werden können.
 
@@ -387,11 +329,9 @@ Wir werden in den nächsten Jahren ein größeres Augenmerk darauf legen, die Mi
 
 Gesetzliche Krankenversicherung öffnen: Die Prämien der privaten Krankenversicherung orientieren sich nicht wie bei der gesetzlichen Krankenversicherung am Einkommen, sondern am Beitrittsalter und am Gesundheitszustand. Beamtinnen und Beamte mit niedrigen und mittleren Einkommen sowie Teilzeitkräfte werden dadurch überproportional belastet. Wir wollen Beamtinnen und Beamten des Landes Baden-Württemberg daher die Möglichkeit bieten, sich ohne finanzielle Nachteile für die gesetzliche Krankenversicherung zu entscheiden. Hierzu wird das Land den Arbeitgeberanteil übernehmen, wenn die Voraussetzungen für eine Mitgliedschaft in der gesetzlichen Krankenversicherung bestehen und ein Betritt zur gesetzlichen Krankenversicherung erfolgt. Die Koalition sieht in dieser Entscheidung keine Veränderung der bundesrechtlichen Normen für die Mitgliedschaft in der gesetzlichen Krankenversicherung sowie des Beihilfesystems.
 
-Effiziente, bürgerfreundliche und digitale Verwaltung
+### Effiziente, bürgerfreundliche und digitale Verwaltung
 
-Durch straffere Verfahren, gebündelte Kompetenzen und mehr Entscheidungsfreude ebnen wir den Weg zu einer modernen, lösungsorientiert denkenden Verwaltung. Verbindlichkeit, Vereinfachung, Beschleunigung und Digitalisierung stehen für uns dabei im Zentrum. Wir beschleunigen Entscheidungen und schaffen durch gelungene Bürgerbeteiligung mehr Transparenz, Verständnis und Akzeptanz bei den Bürgerinnen und Bürgern. Wir vernetzen Politikfelder und stärken die Zusammenarbeit in der Landesverwaltung. In ausgewählten Politikfeldern von strategischer Bedeutung sollen innerhalb der
-
-Landesverwaltung neue Formen der Zusammenarbeit unter anderem im Sinne einer Mehrlinienorganisation und des agilen Arbeitens entwickelt und erprobt werden. Dabei setzen wir – im Sinne einer starken Partnerschaft von Land und Kommunen – auch auf das erprobte Miteinander mit der kommunalen Ebene.
+Durch straffere Verfahren, gebündelte Kompetenzen und mehr Entscheidungsfreude ebnen wir den Weg zu einer modernen, lösungsorientiert denkenden Verwaltung. Verbindlichkeit, Vereinfachung, Beschleunigung und Digitalisierung stehen für uns dabei im Zentrum. Wir beschleunigen Entscheidungen und schaffen durch gelungene Bürgerbeteiligung mehr Transparenz, Verständnis und Akzeptanz bei den Bürgerinnen und Bürgern. Wir vernetzen Politikfelder und stärken die Zusammenarbeit in der Landesverwaltung. In ausgewählten Politikfeldern von strategischer Bedeutung sollen innerhalb der Landesverwaltung neue Formen der Zusammenarbeit unter anderem im Sinne einer Mehrlinienorganisation und des agilen Arbeitens entwickelt und erprobt werden. Dabei setzen wir – im Sinne einer starken Partnerschaft von Land und Kommunen – auch auf das erprobte Miteinander mit der kommunalen Ebene.
 
 Spätestens die Corona-Pandemie hat gezeigt, dass die derzeitigen Verwaltungsstrukturen und -gliederungen modernisierungsbedürftig sind. Hierzu wollen wir externen Sachverstand von Praktikerinnen und Praktikern sowie von Wissenschaftlerinnen und Wissenschaftlern einbeziehen, die mit Unterstützung einer Geschäftsstelle Vorschläge für eine Optimierung von Strukturen und Zuständigkeiten erarbeiten. Die Einhäusigkeit und Dreigliedrigkeit des Verwaltungsaufbaus werden gewahrt.
 
@@ -399,10 +339,7 @@ Weniger Bürokratie durch Digitalisierung: Wir wollen den erfolgreich eingeschla
 
 Masterplan für die digitale Transformation der Verwaltung: In jedem Ministerium wird ein Chief Digital Officer (CDO) ernannt, der die Digitalisierung dort konsequent vorantreibt und unterstützt. Zudem werden wir mit einem ressortübergreifenden Masterplan für die digitale Transformation der Verwaltung die Modernisierung staatlichen Handelns auf Landesebene und im Zusammenspiel mit den Kommunen vorantreiben und dabei auch Lehren aus der Corona-Krise ziehen. Dieser Masterplan wird im Rahmen der für Bürokratieabbau bestehenden Strukturen gebündelt und unter Einbindung von externem Sachverstand und des InnoLab_bw erarbeitet und umgesetzt. Bis 2023 werden zentrale Projekte abgeschlossen bzw. in der Umsetzung sein. Gesetze, Richtlinien und Verwaltungsvorschriften, die dem Once-Only-Prinzip entgegenstehen, werden identifiziert und Lösungsvorschläge zu deren Änderung erarbeitet. Wir wollen durch einen konsequenten Digitalisierungscheck laufend prüfen, inwieweit die Digitalisierung den Workflow in der Verwaltung verbessern kann. So wollen wir Bürokratiekosten durch digitale Lösungen minimieren. Die konsequente und durchgehende Digitalisierung der Verwaltung ist unser Ziel für die 17. Legislaturperiode. Den bereits eingeschlagenen Weg des Abbaus von Schriftformerfordernissen werden wir konsequent weitergehen.
 
-Die Landesverwaltung steht hier vor einer enormen Herausforderung. Momentan sind zwei große
-
-
-Digitalisierungsprojekte in der Implementierung, mit denen sich die Arbeit der Landesverwaltung grundlegend verändern wird. Mit der schrittweisen Einführung der E-Akte und dem Restrukturierungsprojekt BW werden sich die Arbeitsabläufe neu gestalten. Das Haushaltsmanagement sowie das Kassenverfahren werden zukünftig vollständig über Standardprozesse abgebildet und ermöglichen es, finanzielle Transaktionen von täglich rund drei Milliarden Euro effizienter zu bewältigen. Damit gehören die Papierakten und Offline-Belege der Vergangenheit an. Die Koalitionspartner sind sich der Herausforderung bewusst, die diese Umstellung für die öffentliche Verwaltung bedeutet. Wir werden diesen Modernisierungs- und Digitalisierungsprozess tatkräftig unterstützen und die Prozesse innerhalb der Verwaltung entsprechend anpassen.
+Die Landesverwaltung steht hier vor einer enormen Herausforderung. Momentan sind zwei große Digitalisierungsprojekte in der Implementierung, mit denen sich die Arbeit der Landesverwaltung grundlegend verändern wird. Mit der schrittweisen Einführung der E-Akte und dem Restrukturierungsprojekt BW werden sich die Arbeitsabläufe neu gestalten. Das Haushaltsmanagement sowie das Kassenverfahren werden zukünftig vollständig über Standardprozesse abgebildet und ermöglichen es, finanzielle Transaktionen von täglich rund drei Milliarden Euro effizienter zu bewältigen. Damit gehören die Papierakten und Offline-Belege der Vergangenheit an. Die Koalitionspartner sind sich der Herausforderung bewusst, die diese Umstellung für die öffentliche Verwaltung bedeutet. Wir werden diesen Modernisierungs- und Digitalisierungsprozess tatkräftig unterstützen und die Prozesse innerhalb der Verwaltung entsprechend anpassen.
 
 Verwaltungshandeln digital denken: Wir wollen Verwaltungshandeln konsequent digital denken und neue Formate für agiles und innovatives Arbeiten erschließen. Einen Schwerpunkt bilden dabei bessere Verwaltungsabläufe. Dazu führen wir eine prinzipielle Digitalisierungspflicht ein: Es soll eine Begründungspflicht geben, wenn Digitalisierung nicht möglich ist. Ein Digital-TÜV für digitale Verwaltungslösungen ist allen Gesetzesentwürfen beizufügen und die notwendigen Digitalisierungserfordernisse, Datenfolgenbewertungen und -bereitstellungen sind auszuführen. Über die weitere Umsetzung des Onlinezugangsgesetzes hinaus wollen wir eine vollständige End-to-End-Digitalisierung aller im Land angebotenen Verwaltungsleistungen. Dabei denken wir die nötigen Sicherheitsanforderungen stets mit.
 
@@ -410,22 +347,20 @@ Effizienz durch automatisierte Entscheidungen: Wir wollen daten- und information
 
 Öffentliche Daten nutzbar machen: Schrittweise werden alle Daten mit öffentlicher Relevanz in maschinenlesbarer Form zur Verfügung gestellt (Open Data) und Schnittstellen (API) zu ihrer Nutzung bereitgestellt. Hierzu legen alle Häuser einen Fahrplan vor, der durch Datenbeauftragte in allen Ministerien unterstützt, begleitet und koordiniert wird. Das Statistische Landesamt wird dabei vorangehen und federführend Datenräume und Schnittstellendefinitionen erstellen.
 
-Spürbare Entlastung durch Digitalisierung: Durch den Masterplan für die digitale Transformation der Verwaltung, die Modernisierung bestehenden Rechts und durch
-
-schlanke und verständliche Regelungen wollen wir Wirtschaft, Bürgerinnen und Bürger sowie die Verwaltung bis zum Ende der Legislaturperiode in Höhe von mehreren hundert Millionen Euro entlasten. Schätzungen zeigen ein Potenzial von 200 bis 500 Millionen Euro auf. Dabei setzen wir auf eine Beschleunigung von E-Government-Angeboten und des Once-Only-Prinzips. Zur Unterstützung der Digitalisierungsprozesse in den Kommunen setzen wir uns beim Bund für die Bereitstellung von Digitalisierungsgutscheinen ein und kofinanzieren diese. Der Normenkontrollrat Baden-Württemberg wird mit Blick auf diese Schwerpunkte weiterentwickelt.
+Spürbare Entlastung durch Digitalisierung: Durch den Masterplan für die digitale Transformation der Verwaltung, die Modernisierung bestehenden Rechts und durch schlanke und verständliche Regelungen wollen wir Wirtschaft, Bürgerinnen und Bürger sowie die Verwaltung bis zum Ende der Legislaturperiode in Höhe von mehreren hundert Millionen Euro entlasten. Schätzungen zeigen ein Potenzial von 200 bis 500 Millionen Euro auf. Dabei setzen wir auf eine Beschleunigung von E-Government-Angeboten und des Once-Only-Prinzips. Zur Unterstützung der Digitalisierungsprozesse in den Kommunen setzen wir uns beim Bund für die Bereitstellung von Digitalisierungsgutscheinen ein und kofinanzieren diese. Der Normenkontrollrat Baden-Württemberg wird mit Blick auf diese Schwerpunkte weiterentwickelt.
 
 Service BW weiterentwickeln: Bürgerinnen und Bürger, Notarinnen und Notare sowie Unternehmen sollen auf Service BW ein einheitliches Servicekonto für alle Verwaltungsleistungen vorfinden – inklusive moderner Identifikations- und Bezahlverfahren. Dazu sollen alle relevanten Akteure eingebunden werden. Wir prüfen, wie durch eine konsequente End-to-End-Digitalisierung, einschließlich automatisierter Entscheidungsassistenz, die Produktivität erhöht werden kann und durch einen besseren Informationsaustausch eine bessere, interoperable Vernetzung und Verknüpfung von Registern erfolgen kann. Im Zuge der Registermodernisierung werden wir prüfen, inwieweit Service BW den Bürgerinnen und Bürgern transparent darstellen kann, welche Daten über sie wo gespeichert sind und auf ihren Antrag hin zwischen welchen Behörden ausgetauscht werden.
 
 BITBW als leistungsstarken IT-Dienstleister etablieren: Das BITBW-Gesetz passen wir an, um sicherzustellen, dass sich die Landesoberbehörde IT Baden-Württemberg (BITBW) im Interesse der digitalen Souveränität des Landes perspektivisch als leistungsstarker IT-Dienstleister etablieren kann. Konkret werden wir dafür Sorge tragen, dass die IT-Infrastruktur des Landes unter Nachhaltigkeitsgesichtspunkten gebündelt und optimiert wird. Dabei setzen wir gezielt Schwerpunkte: Wo sich eine Zentralisierung bei der BITBW als ineffektiv erweist, werden wir diese nicht forcieren. Wir prüfen, wie über Ressort- und Kompetenzgrenzen hinweg ganzheitliche Probleme analysiert, Lösungen erarbeitet und die vielfältigen Digitalisierungsprojekte der Landesregierung in agilen und schlagkräftigen Strukturen (z. B. im Rahmen der Agenturen des Landes) umgesetzt werden können.
 
-Digitalisierung auf kommunaler Ebene vorantreiben
+### Digitalisierung auf kommunaler Ebene vorantreiben
 
 Kommunen müssen digitale Vorreiter werden. Im Rahmen des Bürokratieabbaus soll ein besonderes Augenmerk darauf gelegt werden, in welchem Umfang durch eine konsequente End-to-End-Digitalisierung, einschließlich automatisierter Entscheidungsassistenz, die Produktivität erhöht werden kann. Für eine nachhaltig aufgestellte Verwaltung stellt die Gewährleistung nachhaltiger IT-Beschaffungsprozesse ein Kernelement dar. IT-Beschaffungsprozesse gilt es, wo immer möglich und sinnvoll, zu bündeln.
 
 
 Nicht erst die Corona-Pandemie hat gezeigt, dass schnelles Handeln des Gesetz- und Verordnungsgebers unerlässlich ist. Die geltenden Strukturen der Verkündung von Rechtsakten sind schwerfällig und passen nicht mehr in das digitale Zeitalter. Wir werden daher das Gesetzblatt digitalisieren und die digitale Verkündung von Gesetzen und Rechtsverordnungen ermöglichen. Hierzu ist eine Änderung der Landesverfassung erforderlich, weswegen wir hierzu auf die anderen Fraktionen im Landtag zugehen werden.
 
-Schnellere Planungsverfahren helfen allen
+### Schnellere Planungsverfahren helfen allen
 
 Die lange Planungsdauer ist in Deutschland und in Baden-Württemberg ein Standortnachteil im internationalen Wettbewerb. Das belastet alle Beteiligten: Die Vorhabenträger brauchen einen sehr langen Atem und mehr Kapital. Verbände und Beteiligte kommen an den Rand ihrer Leistungsfähigkeit. Und die Bürgerinnen und Bürger müssen über Jahre – wenn nicht Jahrzehnte – mit einer unklaren Perspektive leben. Schnellere Planungsverfahren helfen allen. Deshalb wollen wir interministeriell Initiativen entwickeln und auf den Weg bringen, um diesen Strukturnachteil auch in Baden-Württemberg zu beseitigen.
 
@@ -435,11 +370,9 @@ Wir werden prüfen, wie wir Raumordnung und Planfeststellung noch enger zusammen
 
 Unser Ziel ist zudem, die diesbezüglichen Gerichtsverfahren massiv zu beschleunigen. Wir werden in diesem Zusammenhang auch eine Initiative zur Kürzung des Instanzenweges prüfen. Auf Landesebene wollen wir zudem einen zusätzlichen Infrastruktur-Senat am Verwaltungsgerichtshof schaffen und Spezialkammern an den Verwaltungsgerichten einrichten, um die Verfahrensdauern zu verkürzen.
 
-Fortbildung in der Verwaltung
+### Fortbildung in der Verwaltung
 
-Betriebswirtschaftliches Wissen, Projektmanagement und Projektsteuerung werden im Verwaltungshandeln unseres Landes immer wichtiger. Deshalb wollen wir in den nächsten Jahren Mitarbeiterinnen und Mitarbeiter in
-
-der Landesverwaltung auf allen Ebenen verstärkt berufsbegleitend qualifizieren. Dies gilt auch für Fortbildungen im Bereich der IT und sonstige technische Qualifizierung des Personals. Hier sind die Führungsakademie des Landes und die Intersectoral School of Governance (ISoG BW) wichtige Partner.
+Betriebswirtschaftliches Wissen, Projektmanagement und Projektsteuerung werden im Verwaltungshandeln unseres Landes immer wichtiger. Deshalb wollen wir in den nächsten Jahren Mitarbeiterinnen und Mitarbeiter in der Landesverwaltung auf allen Ebenen verstärkt berufsbegleitend qualifizieren. Dies gilt auch für Fortbildungen im Bereich der IT und sonstige technische Qualifizierung des Personals. Hier sind die Führungsakademie des Landes und die Intersectoral School of Governance (ISoG BW) wichtige Partner.
 
 Um die digitale Transformation der Verwaltung voranzutreiben, stärken wir die Fortbildung.
 
@@ -448,14 +381,11 @@ Mit dem digitalen Netz als Betriebssystem der Gesellschaft verändern sich die B
 An der Intersecoral School of Governanvce erlernen Fachkräfte und leitende Mitarbeiterinnen und Mitarbeiter aus Wirtschaft, Staat und Zivilgesellschaft im direkten Austausch miteinander seit dem Jahr 2020 immer wichtiger werdende intersektorale Führungskompetenzen. Diese Arbeit der ISoG wollen wir evaluieren.
 
 
-23
+# 2. Klima- und Naturschutz
 
-02 ERHALTEN, WAS UNS ERHÄLT:
-
-### FÜR EIN KLIMANEUTRALES
-
-
-2. ERHALTEN, WAS UNS ERHÄLT: FÜR EIN KLIMANEUTRALES BADEN-WÜRTTEMBERG
+02 ERHALTEN, WAS UNS ERHÄLT: FÜR EIN KLIMANEUTRALES BADEN-WÜRTTEMBERG
+<!--
+2. ERHALTEN, WAS UNS ERHÄLT: FÜR EIN KLIMANEUTRALES BADEN-WÜRTTEMBERG-->
 
 Wir wollen Baden-Württemberg als Klimaschutzland zum internationalen Maßstab machen. Um diese Herausforderungen zu meistern, müssen alle Kräfte mobilisiert werden: Politik und Verwaltung, Wirtschaft und Wissenschaft, die ganze Gesellschaft. Baden-Württemberg zusammenhalten und nach vorne bringen – das ist unser Anspruch. Auf diesem herausfordernden Weg müssen die Menschen – auch mit Anreizen – mitgenommen, Ziele aufgezeigt und Chancen eröffnet werden. Die Idee von einem Klimaschutzland Baden-Württemberg soll auf breite Akzeptanz stoßen und mit Leben gefüllt werden. Dafür streben wir ein gesellschaftliches Bündnis an, das die wesentlichen Akteurinnen und Akteure umfasst. Soziale und technische Innovationen sind zentral für unseren Erfolg beim Klimaschutz.
 
@@ -463,56 +393,48 @@ Aufgrund der angespannten Haushaltssituation stehen sämtliche zusätzlichen fin
 
 ### A. KLIMASCHUTZ UND ENERGIEPOLITIK
 
-Sofortprogramm für Klimaschutz und Energiewende
+### Sofortprogramm für Klimaschutz und Energiewende
 
 Unmittelbar nach der Regierungsbildung werden wir ein Sofortprogramm für Klimaschutz und Energiewende auf den Weg bringen. Darin werden wir schnell umsetzbare und unmittelbar wirksame Maßnahmen zur Emissionsminderung verankern, die keiner gesetzlichen Regelung bedürfen. Diese Maßnahmen werden bis Ende 2021 umgesetzt bzw. eingeleitet. Diese Klimaschutz-Sofortmaßnahmen sind mit den erforderlichen finanziellen Mitteln und notwendigen personellen Ressourcen zu hinterlegen. Das Sofortprogramm ist als Vorgriff auf die Verabschiedung des Klimaschutzgesetzes zu verstehen und enthält folgende Maßnahmen:
 
-· Eine Vergabeoffensive für die Vermarktung von Staatswald- und Landesflächen für die Windkraftnutzung: So können wir die Voraussetzungen für den Bau von bis zu 1000 neuen Windkraftanlagen schaffen. Dazu wollen wir die Vergabeverfahren vereinfachen (z. B. durch eine Standardisierung der zu erwartenden Windkrafterträge pro Hektar). Durch die Vermarktungsoffensive soll mindestens die Hälfte der Flächen bereitgestellt
+* Eine Vergabeoffensive für die Vermarktung von Staatswald- und Landesflächen für die Windkraftnutzung: So können wir die Voraussetzungen für den Bau von bis zu 1000 neuen Windkraftanlagen schaffen. Dazu wollen wir die Vergabeverfahren vereinfachen (z. B. durch eine Standardisierung der zu erwartenden Windkrafterträge pro Hektar). Durch die Vermarktungsoffensive soll mindestens die Hälfte der Flächen bereitgestellt werden, die zur Erreichung der energiepolitischen Ausbauziele im Bereich der Windkraft landesweit jährlich erforderlich sind. Energiewirtschaftliche Belange sind bei der Vergabe zu berücksichtigen, weshalb das Umweltministerium zu beteiligen ist. Für den Windkraftausbau bedarf es zusätzlich einer Vereinheitlichung, Digitalisierung und Qualitätssicherung der Flächennutzungspläne und Regionalpläne sowie einer Anpassung der Windenergie-Tabuzonen der Flugsicherung an den tatsächlichen Bedarf.
 
-werden, die zur Erreichung der energiepolitischen Ausbauziele im Bereich der Windkraft landesweit jährlich erforderlich sind. Energiewirtschaftliche Belange sind bei der Vergabe zu berücksichtigen, weshalb das Umweltministerium zu beteiligen ist. Für den Windkraftausbau bedarf es zusätzlich einer Vereinheitlichung, Digitalisierung und Qualitätssicherung der Flächennutzungspläne und Regionalpläne sowie einer Anpassung der Windenergie-Tabuzonen der Flugsicherung an den tatsächlichen Bedarf.
+* Die Nutzung landeseigener Gebäude und Grundstücke für Freiflächen-, Dachflächen- und Fassaden-Photovoltaik: Zur möglichst raschen Mobilisierung können Flächen auch an Dritte verpachtet werden.
 
-· Die Nutzung landeseigener Gebäude und Grundstücke für Freiflächen-, Dachflächen- und Fassaden-Photovoltaik: Zur möglichst raschen Mobilisierung können Flächen auch an Dritte verpachtet werden.
+* Den Einsatz für den Ausbau von Freiflächen-Photovoltaik: Dabei wollen wir unter anderem auch Projekte entlang von Autobahnen, Zugstrecken, auf ehemaligen Mülldeponien und auf Baggerseen vorantreiben. Zudem werden wir die Agri-Photovoltaik (PV) fest etablieren und uns für eine rechtliche Klarstellung einsetzen, dass ein Miteinander von landwirtschaftlicher Nutzung und Energieerzeugung keine nachteiligen Auswirkungen auf die Inanspruchnahme von EU-Zahlungen hat. Regelungen auf Landesebene werden wir anpassen. Unser Ziel ist es, möglichst viele Agri- und Floating-PV-Projekte aus dem neuen EEG-Ausschreibungsregime im Land zu realisieren.
 
-· Den Einsatz für den Ausbau von Freiflächen-Photovoltaik: Dabei wollen wir unter anderem auch Projekte entlang von Autobahnen, Zugstrecken, auf ehemaligen Mülldeponien und auf Baggerseen vorantreiben. Zudem werden wir die Agri-Photovoltaik (PV) fest etablieren und uns für eine rechtliche Klarstellung einsetzen, dass ein Miteinander von landwirtschaftlicher Nutzung und Energieerzeugung keine nachteiligen Auswirkungen auf die Inanspruchnahme von EU-Zahlungen hat. Regelungen auf Landesebene werden wir anpassen. Unser Ziel ist es, möglichst viele Agri- und Floating-PV-Projekte aus dem neuen EEG-Ausschreibungsregime im Land zu realisieren.
+* Die Einführung eines CO 2 -Schattenpreises von 180 Euro für die Sanierung und den Neubau von Landesliegenschaften.
 
-· Die Einführung eines CO 2 -Schattenpreises von 180
+* Klimavorbehalt: Wir werden prüfen, wie ein Klimavorbehalt für neue und fortzuschreibende Förderprogramme des Landes eingeführt werden kann und wie die Klima- und Nachhaltigkeitsziele in der Gesetzgebung des Landes berücksichtigt werden können. Im Anschluss streben wir eine schnelle Umsetzung an.
 
-Euro für die Sanierung und den Neubau von Landesliegenschaften.
+* Eine Sanierungsoffensive für landeseigene Gebäude.
 
-· Klimavorbehalt: Wir werden prüfen, wie ein Klimavorbehalt für neue und fortzuschreibende Förderprogramme des Landes eingeführt werden kann und wie die Klima- und Nachhaltigkeitsziele in der Gesetzgebung des Landes berücksichtigt werden können. Im Anschluss streben wir eine schnelle Umsetzung an.
+* Die Umsetzung des beschlossenen Abwärmekonzepts für Baden-Württemberg. Dabei wollen wir auch die Nutzung der Abwärme unter anderem von Rechenzentren und Kläranlagen in den Blick nehmen. Durch Einrichtung eines Abwärmefonds sollen Projekte zur Erschließung, Einspeisung und Nutzung von Abwärme über die erste Phase der Abschreibungszeit attraktiver und rentabler werden. Darüber hinaus werden wir eine Konzeption zur Wärmerückgewinnung aus Oberflächengewässern, also Flüssen und Seen, und dem Ablauf der Kläranlagen entwickeln.
 
-· Eine Sanierungsoffensive für landeseigene Gebäude.
-
-· Die Umsetzung des beschlossenen Abwärmekonzepts für Baden-Württemberg. Dabei wollen wir auch die Nutzung der Abwärme unter anderem von Rechenzentren und Kläranlagen in den Blick nehmen. Durch Einrichtung eines Abwärmefonds sollen Projekte zur Erschließung, Einspeisung und Nutzung von Abwärme über die erste Phase der Abschreibungszeit attraktiver und rentabler werden. Darüber hinaus werden wir eine Konzeption zur Wärmerückgewinnung aus Oberflächengewässern, also Flüssen und Seen, und dem Ablauf der Kläranlagen entwickeln.
-
-· Die Unterstützung der Kommunen bei der Umsetzung der kommunalen Wärmepläne. Ebenso werden wir die Kommunen, die nicht zu einer Wärmeplanung verpflichtet sind, stärker als bislang durch ein Förderprogramm zur Erstellung von kommunalen Wärmeplänen unterstützen sowie die regionalen Energieagenturen stärken.
+* Die Unterstützung der Kommunen bei der Umsetzung der kommunalen Wärmepläne. Ebenso werden wir die Kommunen, die nicht zu einer Wärmeplanung verpflichtet sind, stärker als bislang durch ein Förderprogramm zur Erstellung von kommunalen Wärmeplänen unterstützen sowie die regionalen Energieagenturen stärken.
 
 
-· Rat der Klimaweisen: Wir werden den bestehenden Klimabeirat der Landesregierung zu einem Rat der Klimaweisen aufwerten – analog zum Rat der Wirtschaftsweisen. Dieser wird als unabhängiges wissenschaftliches Gremium fungieren. Er kann die Landesregierung und den Landtag zu Fragen des Klimaschutzes beraten. Darüber hinaus erstellt der Rat der Klimaweisen regelmäßig einen Klimabericht, in dem er die Klimaschutzaktivitäten des Landes bewertet und Maßnahmen für die Landespolitik vorschlägt. Der Rat berichtet direkt dem Landtag und kann auch selbstständig tätig werden.
+* Rat der Klimaweisen: Wir werden den bestehenden Klimabeirat der Landesregierung zu einem Rat der Klimaweisen aufwerten – analog zum Rat der Wirtschaftsweisen. Dieser wird als unabhängiges wissenschaftliches Gremium fungieren. Er kann die Landesregierung und den Landtag zu Fragen des Klimaschutzes beraten. Darüber hinaus erstellt der Rat der Klimaweisen regelmäßig einen Klimabericht, in dem er die Klimaschutzaktivitäten des Landes bewertet und Maßnahmen für die Landespolitik vorschlägt. Der Rat berichtet direkt dem Landtag und kann auch selbstständig tätig werden.
 
-· Wir werden die Einführung eines CO 2 -Budgets für das
+* Wir werden die Einführung eines CO 2 -Budgets für das Land auf der Basis der entsprechenden Arbeiten des Weltklimarats und des Sachverständigenrats für Umweltfragen prüfen.
 
-Land auf der Basis der entsprechenden Arbeiten des Weltklimarats und des Sachverständigenrats für Umweltfragen prüfen.
+* Ein Förderprogramm für besonders innovative, klimaneutrale Wohngebiete.
 
-· Ein Förderprogramm für besonders innovative, klimaneutrale Wohngebiete.
+* Die Einrichtung eines Reallabors Klimastadt in Baden-Württemberg: Diese Stadt soll unsere Hochtechnologie sowie unser Digitalisierungs- und KI-Know-how in einem großen Projekt bündeln. Es soll die Aspekte Wasser, nachhaltige Energieversorgung, Bauen, Mobilität und Arbeiten berücksichtigen und dabei den Quartiersansatz vorantreiben.
 
-· Die Einrichtung eines Reallabors Klimastadt in Baden-Württemberg: Diese Stadt soll unsere Hochtechnologie sowie unser Digitalisierungs- und KI-Know-how in einem großen Projekt bündeln. Es soll die Aspekte Wasser, nachhaltige Energieversorgung, Bauen, Mobilität und Arbeiten berücksichtigen und dabei den Quartiersansatz vorantreiben.
+* Die klimafreundliche Kreislaufwirtschaft: Wir werden Recyclingbaustoffe sowie Rückbaukonzepte bei größeren Bauvorhaben stärker als bislang in die Umsetzung bringen.
 
-· Die klimafreundliche Kreislaufwirtschaft: Wir werden Recyclingbaustoffe sowie Rückbaukonzepte bei größeren Bauvorhaben stärker als bislang in die Umsetzung bringen.
+* Die möglichst weitgehende Umstellung des Landesfuhrparks auf klimaneutrale Antriebe.
 
-· Die möglichst weitgehende Umstellung des Landesfuhrparks auf klimaneutrale Antriebe.
+* Die Ausrichtung der Finanzpolitik des Landes auf das 1,5-Grad-Ziel: Hierzu wollen wir unsere Anstrengungen im Bereich Divestment verstärken und künftig noch stärker Klimaschutzaspekte bei öffentlichen Investitionen berücksichtigen.
 
-· Die Ausrichtung der Finanzpolitik des Landes auf das 1,5-Grad-Ziel: Hierzu wollen wir unsere Anstrengungen im Bereich Divestment verstärken und künftig noch stärker Klimaschutzaspekte bei öffentlichen Investitionen berücksichtigen.
+* Den Einsatz für einen Kohleausstieg bis 2030 unter Berücksichtigung der Versorgungssicherheit. Beim Energiewende-Monitoring (unter anderem Bedarfe, Versorgungssicherheit und Strompreise) werden wir weiterhin die relevanten Akteurinnen und Akteure einbinden und die energiewirtschaftlichen Bedarfe für die Jahre nach 2025 in den Blick nehmen.
 
-· Den Einsatz für einen Kohleausstieg bis 2030 unter Berücksichtigung der Versorgungssicherheit. Beim Energiewende-Monitoring (unter anderem Bedarfe, Versorgungssicherheit und Strompreise) werden wir weiterhin die relevanten Akteurinnen und Akteure einbinden und die energiewirtschaftlichen Bedarfe für die Jahre nach 2025 in den Blick nehmen.
+* Wir setzen uns für ein Förderprogramm für SolarParkplätze im Bestand ein – im Einklang mit bestehenden Förderungen. Darüber hinaus sollen Privatpersonen, die eine PV-Anlage bis 30 Kilowatt peak (kWp) betreiben, künftig nicht mehr automatisch als Gewerbetreibende gelten und somit von der Abgabe einer Gewinnermittlung im Rahmen der Einkommenssteuererklärung befreit sein. Wir werden uns auf Bundesebene dafür einsetzen, dass das über die aktuellen Regelungen der Finanzverwaltung hinaus für die genannten Anlagen im „privaten Bereich“ gesetzlich sichergestellt wird. Die Leitfäden zu Nutzungsoptionen der PV-Anlage, wesentlichen Pflichten und weiteren zu beachtenden Vorgaben sollen fortgeschrieben werden.
 
-· Wir setzen uns für ein Förderprogramm für SolarParkplätze im Bestand ein – im Einklang mit bestehenden Förderungen. Darüber hinaus sollen Privatpersonen, die eine PV-Anlage bis 30 Kilowatt peak (kWp) betreiben, künftig nicht mehr automatisch als Gewerbetreibende gelten und somit von der Abgabe einer Gewinnermittlung im Rahmen der Einkommenssteuererklärung befreit sein. Wir werden uns auf Bundesebene dafür einsetzen, dass das über die aktuellen Regelungen der Finanzverwaltung hinaus für die genannten Anlagen im „privaten Bereich“
+### Für ein neues, ambitioniertes Klimaschutzgesetz
 
-gesetzlich sichergestellt wird. Die Leitfäden zu Nutzungsoptionen der PV-Anlage, wesentlichen Pflichten und weiteren zu beachtenden Vorgaben sollen fortgeschrieben werden.
-
-Für ein neues, ambitioniertes Klimaschutzgesetz
-
-Mit Blick auf die neuen Klimaziele der EU und den 1,5-GradPfad werden wir das Klimaschutzgesetz Baden-Württemberg (KSG BW) in Novellierungsschritten möglichst bis Ende 2022 weiterentwickeln. Wir werden ambitionierte Minderungsziele festschreiben sowie entsprechende Sektorziele 2030 im KSG BW festlegen. Zentraler Bestandteil des neuen Klimaschutzgesetzes sind unter anderem folgende Punkte:
+Mit Blick auf die neuen Klimaziele der EU und den 1,5-Grad-Pfad werden wir das Klimaschutzgesetz Baden-Württemberg (KSG BW) in Novellierungsschritten möglichst bis Ende 2022 weiterentwickeln. Wir werden ambitionierte Minderungsziele festschreiben sowie entsprechende Sektorziele 2030 im KSG BW festlegen. Zentraler Bestandteil des neuen Klimaschutzgesetzes sind unter anderem folgende Punkte:
 
 Eine rechtliche Verankerung und Regionalisierung eines Mindest-Flächenziels für Windenergieanlagen und Photovoltaik-Freiflächenanlagen in Höhe von zwei Prozent der Landesfläche. Dies erfolgt im Vorgriff auf eine spätere Festlegung in der Landesplanung sowie Maßgaben für eine möglichst schnelle Umsetzung in der Fläche.
 
@@ -524,44 +446,25 @@ Das Land strebt an, so schnell wie möglich entlang des 1,5-Grad-Ziels Klimaneut
 
 Wir werden die Anpassungsstrategie des Landes fortschreiben, indem wir für alle relevanten Handlungsfelder Aktions- und Risikomanagementpläne erstellen und regelmäßig darüber berichten. Das Thema Klimaresilienz soll als fester Bestandteil in den Klimaanpassungsprozess der Stadtplanung sowie der Landschaftsplanung aufgenommen werden. Ebenso werden wir untersuchen, welche wirtschaftlichen Folgekosten die Klimaerwärmung mit sich bringt, und diese stärker in den Planungen berücksichtigen.
 
-Das integrierte Energie- und Klimaschutzkonzept weiterentwickeln
+### Das integrierte Energie- und Klimaschutzkonzept weiterentwickeln
 
-Begleitend zu einem novellierten Klimaschutzgesetz werden wir auf Basis der neuen Klimaziele der EU und des 1,5-Grad-Pfads das integrierte Energie- und Klimaschutzkonzept (IEKK) weiterentwickeln. Dabei werden wir
+Begleitend zu einem novellierten Klimaschutzgesetz werden wir auf Basis der neuen Klimaziele der EU und des 1,5-Grad-Pfads das integrierte Energie- und Klimaschutzkonzept (IEKK) weiterentwickeln. Dabei werden wir die Prozentziele des neuen Klimaschutzgesetzes sowie die Sektorziele auch als kumulierte CO 2 -Emissionen darstellen. In diesem Rahmen wird festgelegt, dass jedes Ressort eigenverantwortlich die erforderlichen Klimaschutzmaßnahmen zu ergreifen hat, um im jeweiligen Sektor das Sektorziel zu erreichen. Diese Ziele werden kontinuierlich überprüft; bei Abweichungen muss nachgebessert werden.
 
+### Für einen höheren CO 2 -Preis
 
-die Prozentziele des neuen Klimaschutzgesetzes sowie die Sektorziele auch als kumulierte CO
+Baden-Württemberg wird sich auf Bundesebene für eine deutliche Steigerung des CO 2 -Preises über die Verabredungen im Vermittlungsausschuss im Herbst 2019 hinaus einsetzen. Dieser muss eine stärkere Lenkungswirkung entfalten. Mit den entstehenden Mehreinnahmen möchten wir Bürgerinnen und Bürger und Unternehmen entlasten.
 
-2 -Emissionen darstel-
+### Klimaschutz in der Verwaltung verankern
 
-len. In diesem Rahmen wird festgelegt, dass jedes Ressort eigenverantwortlich die erforderlichen Klimaschutzmaßnahmen zu ergreifen hat, um im jeweiligen Sektor das Sektorziel zu erreichen. Diese Ziele werden kontinuierlich überprüft; bei Abweichungen muss nachgebessert werden.
-
-Für einen höheren CO 2 -Preis
-
-Baden-Württemberg wird sich auf Bundesebene für eine deutliche Steigerung des CO
-
-2 -Preises über die Verabre-
-
-dungen im Vermittlungsausschuss im Herbst 2019 hinaus einsetzen. Dieser muss eine stärkere Lenkungswirkung entfalten. Mit den entstehenden Mehreinnahmen möchten wir Bürgerinnen und Bürger und Unternehmen entlasten.
-
-Klimaschutz in der Verwaltung verankern
-
-Insbesondere die Landesverwaltung nimmt beim Klimaschutz eine Vorbildrolle ein. Wir wollen sie bis 2030 klimaneutral machen. Dabei halten wir uns an den Grundsatz: Vermeiden vor Reduzieren vor Kompensieren. Wir werden die Ausweitung des bei der Sanierung und beim Neubau von Liegenschaften eingeführten CO
-
-2 -Schattenpreises auf
-
-weitere Bereiche prüfen.
+Insbesondere die Landesverwaltung nimmt beim Klimaschutz eine Vorbildrolle ein. Wir wollen sie bis 2030 klimaneutral machen. Dabei halten wir uns an den Grundsatz: Vermeiden vor Reduzieren vor Kompensieren. Wir werden die Ausweitung des bei der Sanierung und beim Neubau von Liegenschaften eingeführten CO 2 -Schattenpreises auf weitere Bereiche prüfen.
 
 Wir stärken das Kompetenzzentrum Klimawandel der Landesanstalt für Umwelt Baden-Württemberg (LUBW), um Anpassungsmaßnahmen an den Klimawandel voranzutreiben. Dabei sind beispielsweise Vulnerabilitätsanalysen, insbesondere auch unter Nutzung von Geodaten, einzubeziehen. Wir werden die Kommunen auch weiterhin bei Klimaanpassungsmaßnahmen über das Förderprogramm KLIMOPASS unterstützen. Ein Förderprogramm für mehr Bäume in der Stadt werden wir prüfen.
 
 Der Klimaschutz soll im Verwaltungshandeln und in den bestehenden Verwaltungsstrukturen angemessen verankert werden.
 
-Ziel unserer Klimaschutzmaßnahmen ist stets, Treibhausgasemissionen zu vermeiden und zu vermindern. Sollte eine angestrebte Minderung der Emissionen kurzfristig nicht zu erreichen sein, kann allenfalls vorübergehend zum Mittel der Kompensation gegriffen werden. Dies muss allerdings verbunden sein mit einer konkreten Planung, die Emissionen zu reduzieren. Kompensationsprojekte müssen mindestens international anerkannten Standards wie dem CDM Goldstandard genügen. Sie müssen also ihre zusätzliche CO
+Ziel unserer Klimaschutzmaßnahmen ist stets, Treibhausgasemissionen zu vermeiden und zu vermindern. Sollte eine angestrebte Minderung der Emissionen kurzfristig nicht zu erreichen sein, kann allenfalls vorübergehend zum Mittel der Kompensation gegriffen werden. Dies muss allerdings verbunden sein mit einer konkreten Planung, die Emissionen zu reduzieren. Kompensationsprojekte müssen mindestens international anerkannten Standards wie dem CDM Goldstandard genügen. Sie müssen also ihre zusätzliche CO 2 -Minderung unter Beweis stellen und einen über den Klimaschutz hinausgehenden Mehrwert entsprechend der Ziele für nachhaltige Entwicklung der Vereinten Nationen (Sustainable Development Goals) generieren. Diese Grundsätze für Kompensationsmaßnahmen wird auch die Klimaschutzstiftung Baden-Württemberg bei all ihren Aktivitäten im In- und Ausland zugrunde legen.
 
-2 -Minderung unter Beweis stellen und einen
-
-über den Klimaschutz hinausgehenden Mehrwert entsprechend der Ziele für nachhaltige Entwicklung der Vereinten Nationen (Sustainable Development Goals) generieren. Diese Grundsätze für Kompensationsmaßnahmen wird auch die Klimaschutzstiftung Baden-Württemberg bei all ihren Aktivitäten im In- und Ausland zugrunde legen.
-
-Klimaschutz stärken – von der globalen bis zur kommunalen Ebene
+### Klimaschutz stärken – von der globalen bis zur kommunalen Ebene
 
 Beim Klimaschutz müssen wir auf allen Ebenen unsere Anstrengungen verstärken.
 
@@ -575,20 +478,15 @@ Wir wollen die Klimaschutz- und Energieagentur Baden-Württemberg GmbH als Lande
 
 Wir wollen Bioenergiedörfer auch in Zukunft im Rahmen der bestehenden Förderprogramme unterstützen und künftig Bioökonomieregionen und -dörfer stärker in den Blick nehmen.
 
-Auf dem Weg zu einer klimaneutralen Wirtschaft
+### Auf dem Weg zu einer klimaneutralen Wirtschaft
 
-Wir wollen den Unternehmen in Baden-Württemberg bei dem Transformationsprozess hin zu einer nachhaltigen und klimaneutralen Wirtschaft ein starker Partner sein. Dazu wird die Wirtschaftsinitiative Nachhaltigkeit eine Plattform „Nachhaltige Produktion“ einrichten und im Rahmen des Klimabündnisses Baden-Württemberg die Klimaschutzvereinbarung mit dem Ziel der Klimaneutralität in Unternehmen forcieren. Wir bringen Investorinnen und Investoren von Erneuerbaren-Energien-Projekten mit Grundeigentümerinnen und Grundeigentümern und Unternehmen zusammen, um gemeinsame Projekte marktwirtschaftlich voranzutreiben. Wir werden im Rahmen eines Pilotprojekts erproben, welche Chancen die Digitalisierung bei der Erfassung von CO
+Wir wollen den Unternehmen in Baden-Württemberg bei dem Transformationsprozess hin zu einer nachhaltigen und klimaneutralen Wirtschaft ein starker Partner sein. Dazu wird die Wirtschaftsinitiative Nachhaltigkeit eine Plattform „Nachhaltige Produktion“ einrichten und im Rahmen des Klimabündnisses Baden-Württemberg die Klimaschutzvereinbarung mit dem Ziel der Klimaneutralität in Unternehmen forcieren. Wir bringen Investorinnen und Investoren von Erneuerbaren-Energien-Projekten mit Grundeigentümerinnen und Grundeigentümern und Unternehmen zusammen, um gemeinsame Projekte marktwirtschaftlich voranzutreiben. Wir werden im Rahmen eines Pilotprojekts erproben, welche Chancen die Digitalisierung bei der Erfassung von CO 2 -Emissionen in Unternehmen bieten kann.
 
-2 -Emissionen in Unternehmen bieten kann.
-
-Wir setzen uns außerdem auf Bundesebene für eine Verbesserung der Rahmenbedingungen für
-
-
-Power-Purchase-Agreements (PPA) ein. Durch PPA können Geschäftsmodelle ohne EEG-Förderung einen zentralen Beitrag zur Energiewende in der Wirtschaft leisten.
+Wir setzen uns außerdem auf Bundesebene für eine Verbesserung der Rahmenbedingungen für Power-Purchase-Agreements (PPA) ein. Durch PPA können Geschäftsmodelle ohne EEG-Förderung einen zentralen Beitrag zur Energiewende in der Wirtschaft leisten.
 
 Wir werden das laufende Ressourceneffizienzprogramm zur Dekarbonisierung in Unternehmen fortsetzen.
 
-Wir treiben die Wärmewende voran
+### Wir treiben die Wärmewende voran
 
 Wir werden das Erneuerbare-Wärme-Gesetz (EWärmeG) auf der Grundlage des Sektorziels, das im Klimaschutzgesetz festgelegt ist, in Richtung klimaneutraler Gebäudebestand weiterentwickeln. Um unserem Ziel der Klimaneutralität näher zu kommen, braucht es mehr erneuerbare Energien.
 
@@ -600,7 +498,7 @@ Die Einbindung von Kraft-Wärme-Kopplung-Anlagen im Wärmebereich wollen wir ver
 
 Auch werden wir die Bedeutung einer naturverträglichen Erzeugung von Biogas und Solarthermie für den Wärmebereich erhöhen.
 
-Die Energiewende forcieren
+### Die Energiewende forcieren
 
 Das Zieldreieck der Energiepolitik – die Bezahlbarkeit, die Umweltverträglichkeit und die Versorgungssicherheit der Energieversorgung – ist für uns weiterhin leitend. Sowohl aus ökologischer als auch aus ökonomischer Sicht ist eingesparte Energie die beste Energie. Deshalb müssen wir Wärme und Strom noch effizienter nutzen. Wir werden die Förderprogramme des Landes systematisch contractingtauglich machen und dabei auch verstärkt die Chancen der Digitalisierung nutzen. Auch bei der Sanierung von landeseigenen Liegenschaften werden wir Contracting weiterhin nutzen.
 
@@ -637,19 +535,17 @@ In den vergangenen Jahren sind Plattformen und Kompetenznetzwerke aufgebaut word
 
 Zur dringend notwendigen Beschleunigung des landesweiten Ausbaus der erneuerbaren Energien richten wir zudem umgehend eine Task Force mit externem Sachverstand ein, die notwendige Mittel und Wege identifiziert und entsprechende Vorschläge an die Landesregierung formuliert.
 
-Wasserstoffland Baden-Württemberg
+### Wasserstoffland Baden-Württemberg
 
 Unser Ziel ist es, den Markthochlauf der Wasserstoff- und Brennstoffzellentechnologie zu ermöglichen und das Land hier zu einem führenden Standort zu entwickeln. Dazu werden wir die Maßnahmen, die in der Roadmap Wasserstoff (H2 Südwest) konzipiert sind, bis 2025 konsequent umsetzen.
 
-Wir streben zudem die Teilnahme an nationalen und internationalen Projekten an und werden die hierfür erforderlichen Ko-Finanzierungsmittel bereitstellen. Im Land werden wir eine oder mehrere Modellregionen Wasserstoff fördern. Wirtschaft, Wissenschaft und Öffentlichkeit
-
-haben durch die Landesplattform H2BW einen zentralen Ansprechpartner erhalten. Diese Plattform soll daher weitergeführt werden.
+Wir streben zudem die Teilnahme an nationalen und internationalen Projekten an und werden die hierfür erforderlichen Ko-Finanzierungsmittel bereitstellen. Im Land werden wir eine oder mehrere Modellregionen Wasserstoff fördern. Wirtschaft, Wissenschaft und Öffentlichkeit haben durch die Landesplattform H2BW einen zentralen Ansprechpartner erhalten. Diese Plattform soll daher weitergeführt werden.
 
 Grüner Wasserstoff wird mittel- und langfristig eine zunehmend wichtigere Rolle in der Industrie, im Energiesystem, im Flug-, Schiffs-, Schwerlast- und Busverkehr sowie bei Nutzfahrzeugen spielen. Das ist nur mit nachweislich grünem Wasserstoff nachhaltig. Wir werden uns daher auf Bundesebene für ein entsprechendes Zertifizierungssystem einsetzen. Unabdingbar für den Markthochlauf von grünem Wasserstoff ist neben dem notwendigen Import der weitere Ausbau der erneuerbaren Energien. Zudem ist auf ein möglichst hohes Maß an Effizienz von Wasserstoffanwendungen zu achten. Baden-Württemberg wird im Zuge des Markthochlaufs auch den Aufbau eigener Elektrolysekapazitäten vorantreiben. Außerdem machen wir uns dafür stark, bei neuen Energieinfrastrukturen wie einem nationalen oder europäischen Wasserstoff-Backbone-Netz deutlich vor dem Jahr 2040 berücksichtigt zu werden.
 
 Wir werden die für eine Wasserstoffwirtschaft notwendige Infrastruktur schaffen. Dazu werden wir den bedarfsgerechten Netzneubau Wasserstoff und den Ausbau von Wärmenetzen in den Blick nehmen sowie die Gasinfrastruktur wasserstoffverträglich machen. Wir unterstützen Initiativen, die auch kurzfristig die Logistik- und Verteilstruktur für Wasserstoff aufbauen wollen.
 
-Ein sicherer Ausstieg aus der Kernenergie
+### Ein sicherer Ausstieg aus der Kernenergie
 
 Der Ausstieg aus der Kernenergie ist richtig. Die Koalitionspartner unterstützen einen zügigen und sicheren Abbau der vorhandenen kerntechnischen Anlagen. Der zunehmende Kostendruck erfordert erhöhte Aufmerksamkeit der Atomüberwachung. Ein hoher Sicherheitsstandard ist auch gegenüber allen anderen nuklearen Risiken zu gewährleisten, insbesondere beim Schutz vor missbräuchlichem Einsatz von radioaktiven Stoffen. Dazu werden wir die nuklearspezifische Gefahrenabwehr organisatorisch und materiell hinreichend ausstatten.
 
@@ -662,7 +558,7 @@ Das Land wird sich mit seiner Expertise an der internationalen Fachdiskussion be
 
 ### B. UMWELTSCHUTZ
 
-Zukunftsfähige Kreislaufwirtschaft als Schlüssel zur Ressourcenschonung
+### Zukunftsfähige Kreislaufwirtschaft als Schlüssel zur Ressourcenschonung
 
 Wir setzen uns weiterhin dafür ein, den Ressourcenverbrauch vom Wirtschaftswachstum zu entkoppeln. Dabei sehen wir innovative Kreislaufwirtschaftslösungen als Wachstumsfelder der Zukunft. Wir wollen auch in diesem Bereich international zum Marktführer werden. Um die Kreislaufführung weiter voranzubringen, soll die Entwicklung und Inbetriebnahme effizienter Verwertungsverfahren auch finanziell unterstützt werden. In diesem Kontext schreiben wir die Landesstrategie Ressourceneffizienz fort und berücksichtigen dabei insbesondere den Zusammenhang zwischen Ressourceneffizienz und globalem Klimaschutz. Die Entwicklung einer klimaneutralen Industriestruktur wollen wir unter Einbeziehung von Kreislaufkonzepten und klimaverträglichen Produktionsprozessen unterstützen, zum Beispiel durch die regionalen Kompetenzstellen Netzwerk Energieeffizienz (KEFF). Hierfür wollen wir die Landesagentur „Umwelttechnik BW“ stärken und aufwerten sowie gemeinsam mit der Industrie den „Think Tank Ressourceneffizienz“ weiterentwickeln und entsprechend finanziell absichern.
 
@@ -672,9 +568,7 @@ Landesstrategie Nachhaltige Bioökonomie 2.0: Die Position Baden-Württembergs a
 
 Umweltfreundliche IT in Baden-Württemberg: Damit der digitale Wandel zu einem Treiber für nachhaltige Entwicklung wird, muss er aktiv so gestaltet werden, dass ein Mehrwert für die Menschen entsteht und gleichzeitig die Umwelt geschützt wird. Im Bewusstsein, dass die Digitalisierung auch mit einem enormen Verbrauch von Strom und Materialien eingehergeht, werden wir die Ressourceneffizienz der IT der Landesverwaltung weiter erhöhen und die Landesstrategie Green IT fortentwickeln.
 
-Ressourceneffizient und nachhaltig bauen: Wir werden energie- und ressourceneffizientem, nachhaltigem Bauen zum Durchbruch verhelfen. Hierzu werden wir uns für eine Lebenszyklusbetrachtung von Gebäuden einsetzen und Konzepte entwickeln mit dem Ziel, den Abbruch
-
-bestehender Gebäude zu vermeiden. Darüber hinaus werden wir der Recyclingfähigkeit von Bauprodukten und Bauarten ein stärkeres Gewicht beimessen und Bauen im Bestand erleichtern, auch durch die erforderlichen rechtlichen Anpassungen. Wir werden uns für die Entwicklung eines Ressourcengebäudeausweises einsetzen. Mit dem Ziel der Ressourcenschonung wollen wir verstärkt den Fokus auf Gebäudeaufstockungen legen. Wir werden in einem Pilotprojekt den Einsatz von wiedergewonnenen Baustoffen im Hoch- und Tiefbau weiter vorantreiben, insbesondere unter Verwendung von BIM-Prozessen.
+Ressourceneffizient und nachhaltig bauen: Wir werden energie- und ressourceneffizientem, nachhaltigem Bauen zum Durchbruch verhelfen. Hierzu werden wir uns für eine Lebenszyklusbetrachtung von Gebäuden einsetzen und Konzepte entwickeln mit dem Ziel, den Abbruch bestehender Gebäude zu vermeiden. Darüber hinaus werden wir der Recyclingfähigkeit von Bauprodukten und Bauarten ein stärkeres Gewicht beimessen und Bauen im Bestand erleichtern, auch durch die erforderlichen rechtlichen Anpassungen. Wir werden uns für die Entwicklung eines Ressourcengebäudeausweises einsetzen. Mit dem Ziel der Ressourcenschonung wollen wir verstärkt den Fokus auf Gebäudeaufstockungen legen. Wir werden in einem Pilotprojekt den Einsatz von wiedergewonnenen Baustoffen im Hoch- und Tiefbau weiter vorantreiben, insbesondere unter Verwendung von BIM-Prozessen.
 
 Eingesetzte Materialien noch besser recyclen: Durch den zunehmenden Ausbau der erneuerbaren Energien und den Markthochlauf bei der Elektromobilität stellen sich zunehmend Fragen nach dem Recycling der eingesetzten Materialien. Diesen Fragen werden wir uns in den nächsten Jahren verstärkt widmen, beispielsweise in der Demontagefabrik.
 
@@ -682,12 +576,9 @@ Deponiebedarfe decken: Die Deponiekonzeption des Landes hat einen erheblichen Be
 
 Abfallautarkie fortsetzen: Das Prinzip der Abfallautarkie für so genannte „Abfälle zur Beseitigung” und kommunale Siedlungsabfälle hat sich in Baden-Württemberg bewährt und dazu beigetragen, eine hochwertige Entsorgungsinfrastruktur bei gleichzeitig günstigen Entsorgungspreisen sicherzustellen. Die Koalitionspartner stehen zu diesem Prinzip und wollen die Abfallautarkie unverändert fortsetzen.
 
-Zukunftsstrategie Wasser
+### Zukunftsstrategie Wasser
 
-Aufgrund des Klimawandels wird Wasser auch bei uns zu einem immer knapperen Gut. Deswegen werden wir Konzepte und Lösungen entwickeln und umsetzen, um alte und neue Interessen und Nutzungen mit den ökologischen Anforderungen in Einklang zu bringen, insbesondere in der Landwirtschaft. Wir wollen bestehende fachliche Netzwerke ausbauen, aber auch andere gesellschaftliche Bereiche einbinden, um die oftmals wissenschaftlichen Themen verständlich zu kommunizieren und in einem breiten Beteiligungsprozess Lösungsansätze zu entwickeln. Dabei sollen lokale Aspekte und die Bedeutung gesunder Böden und Gewässer für jeden Einzelnen herausgestellt werden. Zur Zukunftsstrategie Wasser gehört die Erarbeitung einer Niedrigwasserstrategie, die Umsetzung des Masterplans Wasserversorgung sowie das Wasserressourcenmanagement. Wir werden prüfen, ob wir künftig
-
-
-im Wassermanagement zwischen Brauch- und Trinkwasser trennen können.
+Aufgrund des Klimawandels wird Wasser auch bei uns zu einem immer knapperen Gut. Deswegen werden wir Konzepte und Lösungen entwickeln und umsetzen, um alte und neue Interessen und Nutzungen mit den ökologischen Anforderungen in Einklang zu bringen, insbesondere in der Landwirtschaft. Wir wollen bestehende fachliche Netzwerke ausbauen, aber auch andere gesellschaftliche Bereiche einbinden, um die oftmals wissenschaftlichen Themen verständlich zu kommunizieren und in einem breiten Beteiligungsprozess Lösungsansätze zu entwickeln. Dabei sollen lokale Aspekte und die Bedeutung gesunder Böden und Gewässer für jeden Einzelnen herausgestellt werden. Zur Zukunftsstrategie Wasser gehört die Erarbeitung einer Niedrigwasserstrategie, die Umsetzung des Masterplans Wasserversorgung sowie das Wasserressourcenmanagement. Wir werden prüfen, ob wir künftig im Wassermanagement zwischen Brauch- und Trinkwasser trennen können.
 
 Gewässer stärken und widerstandsfähig machen: Um unsere Gewässer und ihre Resilienz zu stärken, wollen wir Gewässerentwicklungsmaßnahmen verstärkt umsetzen. Unsere Fließgewässer sind naturnah zu entwickeln und gegen die Auswirkungen des Klimawandels widerstandsfähiger zu machen. Auch Maßnahmen zum Hochwasserschutz werden wir mit dem Ziel ökologisch funktionsfähiger Gewässerlebensräume so naturnah wie möglich gestalten. Um das verpflichtende Ziel des guten ökologischen Zustands gemäß Wasserrahmenrichtlinie zu erreichen, sind insbesondere die Maßnahmen der Landesstudie Gewässerökologie zügig umzusetzen.
 
@@ -711,14 +602,11 @@ Stickstoffstrategie: Die bisherigen Ergebnisse des ressortübergreifenden Verbun
 
 Ökosystem Bodensee schützen: Der Bodensee ist Trinkwasserspeicher für rund fünf Millionen Menschen und eines unserer wertvollsten Ökosysteme. Wir wollen ihn daher weiterhin besonders schützen – auch im Hinblick auf den Erhalt der Biodiversität. Die Landesregierung sieht keine Grundlage für eine Abweichung vom Verbot von Netzgehegen für die Fischzucht, das in den Bodenseerichtlinien der Internationalen Gewässerschutzkommission für den Bodensee (IGKB) verankert ist.
 
-Effizienter Immissionsschutz für saubere Luft in Baden-Württemberg
+### Effizienter Immissionsschutz für saubere Luft in Baden-Württemberg
 
 Verbrennungsprozesse in Großfeuerungsanlagen, Abfallverbrennungs- und -mitverbrennungsanlagen, aber auch in mittleren Feuerungsanlagen und Kleinfeuerungsanlagen (z. B. Hausbrand) tragen immer noch erheblich zur Belastung von Luft, Wasser und Boden mit Schadstoffen wie Feinstaub, Quecksilber und Stickstoffoxiden bei. Dies gilt in ähnlicher Weise für Emissionen aus Tierhaltungsanlagen (z. B. Ammoniak). Um die Luftqualität für alle zu verbessern und Gesundheitsrisiken für Menschen zu senken, werden wir uns dafür einsetzen, dass die nationalen und EU-Emissionsgrenzwerte den fortschrittlichen Stand der Technik widerspiegeln. Darüber hinaus wollen wir als innovatives Forschungs- und Industrieland Impulse setzen, um den Stand der Technik weiterzuentwickeln und die „Beste Verfügbare Technik“ (BVT) ambitioniert umzusetzen.
 
-Gewerbeaufsicht stärken: Die Gewerbeaufsicht wird so aufgestellt, dass sie auch zukünftig die wachsenden und komplexeren Genehmigungs-, Beratungs- und Überwachungsaufgaben erfüllen kann. Wir werden die Digitalisierung der Gewerbeaufsicht vorantreiben und prüfen, ob und welche Überwachungstätigkeiten unter Wahrung des Schutzniveaus auf andere Stellen übertragen werden
-
-
-können. Wir werden den Arbeitsschutz im Rahmen der integrativen Aufgabenwahrnehmung stärken.
+Gewerbeaufsicht stärken: Die Gewerbeaufsicht wird so aufgestellt, dass sie auch zukünftig die wachsenden und komplexeren Genehmigungs-, Beratungs- und Überwachungsaufgaben erfüllen kann. Wir werden die Digitalisierung der Gewerbeaufsicht vorantreiben und prüfen, ob und welche Überwachungstätigkeiten unter Wahrung des Schutzniveaus auf andere Stellen übertragen werden können. Wir werden den Arbeitsschutz im Rahmen der integrativen Aufgabenwahrnehmung stärken.
 
 ### C. NATURSCHUTZ UND ARTENVIELFALT
 
@@ -986,7 +874,7 @@ Für eine umfassende Innovationsorientierung aller Geschäftsbereiche schaffen a
 
 Beschaffungsrecht weiterentwickeln: Wir wollen alle Spielräume der reformierten Verwaltungsvorschrift „Beschaffung der öffentlichen Hand“ für faire sozialökologische Beschaffung ausschöpfen, perspektivisch weiterentwickeln und dabei auch Mittelstand und Startups im Blick haben. Den Anteil ökologischer Lebensmittel an der Beschaffung wollen wir wesentlich erhöhen. Um in Krisensituationen schnell im Sinne des Bevölkerungsschutzes handeln zu können, werden wir prüfen, wie wir durch geeignete Maßnahmen für ausreichende Flexibilität sorgen können.
 
-B. MITTELSTAND, HANDEL, HANDWERK, DIENSTLEISTUNGEN
+## B. MITTELSTAND, HANDEL, HANDWERK, DIENSTLEISTUNGEN
 
 Innovationskraft des Mittelstands stärken
 
@@ -1170,7 +1058,7 @@ Wir werden die Eröffnung neuer Wirtschaftsrepräsentanzen prüfen, um die Mögl
 
 04 NEUES WAGEN:
 
-FÜR EINE STARKE WISSENSCHAFT,
+## FÜR EINE STARKE WISSENSCHAFT,
 
 ### INNOVATIVE FORSCHUNG UND
 
@@ -1253,11 +1141,11 @@ Im Rahmen der „High-Tech-Agenda für Schlüsseltechnologien und Zukunftsfelder
 
 Die geschaffenen Innovationscampus-Projekte werden wir als Leuchttürme der Spitzenforschung mit internationaler Strahlkraft langfristig absichern. Die InnovationscampusModelle vereinen regionale Clusterung, Bündelung der Stärken der jeweiligen Hochschulen, Forschung, Wirtschaft und Zivilgesellschaft vor Ort mit einem Mehrwert für das ganze Land:
 
-· Wir zünden beim Cyber Valley die nächste Stufe: Künftig soll es zusammen mit EU und Bund weiter ausgebaut werden, insbesondere durch das flankierende ELLISInstitut.
+* Wir zünden beim Cyber Valley die nächste Stufe: Künftig soll es zusammen mit EU und Bund weiter ausgebaut werden, insbesondere durch das flankierende ELLISInstitut.
 
-· Der Innovationscampus „Mobilität der Zukunft“ soll ein sichtbares europäisches Zentrum für die Forschung an Mobilitäts- und Produktionstechnologien werden, unter anderem mit Schwerpunkt im Software-defined Engineering/smarten Maschinenbau und KI.
+* Der Innovationscampus „Mobilität der Zukunft“ soll ein sichtbares europäisches Zentrum für die Forschung an Mobilitäts- und Produktionstechnologien werden, unter anderem mit Schwerpunkt im Software-defined Engineering/smarten Maschinenbau und KI.
 
-· Mit dem Innovationscampus „Health & Life Science Alliance“ bündeln wir in der Region Rhein-Neckar die Gesundheits- und Lebenswissenschaften zusammen mit der Universitätsmedizin und der Gesundheitswirtschaft und schaffen einen international sichtbaren Hotspot.
+* Mit dem Innovationscampus „Health & Life Science Alliance“ bündeln wir in der Region Rhein-Neckar die Gesundheits- und Lebenswissenschaften zusammen mit der Universitätsmedizin und der Gesundheitswirtschaft und schaffen einen international sichtbaren Hotspot.
 
 Wir wollen bis zu zwei weitere Innovationscampus-Modelle einrichten. Wir setzen den ressortübergreifenden Strategiedialog zur Transformation der Automobilwirtschaft (SDA BW) und das Forum Gesundheitsstandort Baden-Württemberg unter Beteiligung aller betroffenen Ressorts unter Federführung des Staatsministeriums fort. Wir werden die Expertise der Wissenschaft – zum Beispiel aus dem Exzellenzcluster Architektur in Stuttgart auf dem Gebiet innovativer, klimaschonender Baumaßnahmen – in den Strategiedialog „Bezahlbares Wohnen und innovatives Bauen” einbringen. Innovative und klimafreundliche Baumaßnahmen pilotieren wir im Hochschulbereich und bei Studierendenwerken.
 
@@ -1938,7 +1826,7 @@ Schulungs- und Vernetzungsprogramm einrichten: Wir werden für die ergänzenden 
 
 Teilhabe und Selbstbestimmung durchsetzen: Wir gewährleisten die notwendige Tätigkeit und Infrastruktur der oder des Landesbehindertenbeauftragten. Den Landesaktionsplan für die Umsetzung der UN-Behindertenrechtskonvention in Baden-Württemberg werden wir fortschreiben.
 
-E. KINDER-, JUGENDUND FAMILIENPOLITIK
+## E. KINDER-, JUGENDUND FAMILIENPOLITIK
 
 Familienförderstrategie schaffen
 
@@ -2178,7 +2066,7 @@ Wir werden sicherstellen, dass ehrenamtliche Strukturen in der Abschiebehafteinr
 
 Wir werden die Sozial- und Verfahrensberatung an unabhängige und gemeinnützige Träger vergeben. Für die Haupt- und Ehrenamtlichen sowie die Seelsorge richten wir eigene Räumlichkeiten ein und werden ihnen neben der aufsuchenden auch die offene Beratung und Seelsorge ermöglichen. Dazu können sie vor Ort mit ihrer eigenen digitalen Infrastruktur arbeiten. Wir stellen sicher, dass Haupt- und Ehrenamtliche die Abschiebehafteinrichtung flexibel aufsuchen können.
 
-B. KIRCHEN, RELIGIONEN UND WELTANSCHAUUNGEN
+## B. KIRCHEN, RELIGIONEN UND WELTANSCHAUUNGEN
 
 In Baden-Württemberg leben Menschen unterschiedlichster Religionszugehörigkeiten und weltanschaulicher Bekenntnisse zusammen. Wir bekennen uns zu dieser religiösen und weltanschaulichen Vielfalt ebenso wie zum Schutz der Religions- und Bekenntnisfreiheit auf der Grundlage eines respektvollen und friedlichen Miteinanders. Die Förderung des Dialogs zwischen den Religionen und Weltanschauungen ist uns deshalb ein wichtiges Anliegen.
 
@@ -3989,11 +3877,11 @@ Aktive Mitwirkung des Landes an der Gesetzgebung des Bundes
 
 Baden-Württemberg wird aktiv und konstruktiv an der Gesetzgebung des Bundes mitwirken. Das Abstimmungsverhalten im Bundesrat wird im gegenseitigen Einvernehmen der Koalitionspartner festgelegt. Gerade auch bei Abstimmungen im Bundesrat wollen wir in der Regel eine Positionierung des Landes herbeiführen. Enthaltungen soll es nur noch in Ausnahmefällen geben.
 
-· Die Interessen des Landes haben Vorrang. Wortlaut und Geist dieser Koalitionsvereinbarung sind dabei als Grundlage der vereinbarten Politik zu berücksichtigen.
+* Die Interessen des Landes haben Vorrang. Wortlaut und Geist dieser Koalitionsvereinbarung sind dabei als Grundlage der vereinbarten Politik zu berücksichtigen.
 
-· Es werden nur solche Fragen als strittig gestellt, die nach Auffassung eines Koalitionspartners von grundsätzlicher Bedeutung sind.
+* Es werden nur solche Fragen als strittig gestellt, die nach Auffassung eines Koalitionspartners von grundsätzlicher Bedeutung sind.
 
-· Im Sinne eines konstruktiven föderalen Gestaltungsanspruchs muss eine Enthaltung des Landes in politisch bedeutsamen Fragen die Ausnahme darstellen. Initiativen der EU-Kommission sowie von Bund und Ländern in den zentralen und von beiden Koalitionspartnern gemeinsam identifizierten Themenfeldern dieser Koalitionsvereinbarung, namentlich in den Bereichen Klimaschutz, Dekarbonisierung, Innovation und Digitalisierung, werden im Zweifel von Baden-Württemberg unterstützt, sofern dem nicht gewichtige anderslautende Gründe entgegenstehen.
+* Im Sinne eines konstruktiven föderalen Gestaltungsanspruchs muss eine Enthaltung des Landes in politisch bedeutsamen Fragen die Ausnahme darstellen. Initiativen der EU-Kommission sowie von Bund und Ländern in den zentralen und von beiden Koalitionspartnern gemeinsam identifizierten Themenfeldern dieser Koalitionsvereinbarung, namentlich in den Bereichen Klimaschutz, Dekarbonisierung, Innovation und Digitalisierung, werden im Zweifel von Baden-Württemberg unterstützt, sofern dem nicht gewichtige anderslautende Gründe entgegenstehen.
 
 Zur besseren Koordinierung und Vorbereitung des Abstimmungsverhaltens des Landes im Bundesrat erfolgt ein fortlaufender, besonderer Austausch zwischen den Koalitionspartnern auf politischer Ebene.
 
@@ -4028,11 +3916,11 @@ Struktur der Landesregierung
 
 Die Koalitionsparteien vereinbaren folgende Struktur der Landesregierung. BÜNDNIS 90/DIE GRÜNEN stellen den Ministerpräsidenten mit dem Staatsministerium inklusive des Bevollmächtigten des Landes Baden-Württemberg beim Bund und der Zuständigkeit für Europa, benennt eine Staatsrätin oder einen Staatsrat und stellt die Leitung folgender Ministerien:
 
-· Ministerium für Finanzen · Ministerium für Kultus · Ministerium für Umwelt · Ministerium für Wissenschaft und Kunst · Ministerium für Soziales · Ministerium für Verkehr
+* Ministerium für Finanzen · Ministerium für Kultus · Ministerium für Umwelt · Ministerium für Wissenschaft und Kunst · Ministerium für Soziales · Ministerium für Verkehr
 
 Die CDU stellt den stellvertretenden Ministerpräsidenten und die Leitung folgender Ministerien:
 
-· Ministerium des Innern · Ministerium für Wirtschaft · Ministerium für Ländlichen Raum · Ministerium der Justiz · Ministerium für Landesentwicklung und Wohnen
+* Ministerium des Innern · Ministerium für Wirtschaft · Ministerium für Ländlichen Raum · Ministerium der Justiz · Ministerium für Landesentwicklung und Wohnen
 
 Die genaue Ressortierung wird im Rahmen der Regierungsbildung festgelegt.
 

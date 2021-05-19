@@ -1,11 +1,18 @@
 # Koalitionsvertrag 2021
 
+* source: [210506_Koalitionsvertrag_2021-2026.pdf, Download am 2021-05-19](https://www.baden-wuerttemberg.de/fileadmin/redaktion/dateien/PDF/210506_Koalitionsvertrag_2021-2026.pdf)
 * Text Extraktion via tika http://givemetext.okfnlabs.org/
 * postprocessing mit sed skripten
 
     sed -i -f postproc_wordwrap.sed tmp.txt
     sed -i -f postproc_pagenumtit.sed tmp.txt
     sed -i -f postproc_uppercasetitles.sed tmp.txt
+
+* manuelle Zeilenzusammenführungen
+* Überschriften-Markup überarbeitet
+* Kapitelüberschriften im Text ergänzt, da dort nur Subtitel als Überschriften, Extraktion mit 210506_Koalitionsvertrag_2021-2026.md
+
+    grep -o '^[0-9]\.\+ [^0-9]*' 
 
 # Koalitionsvertrag Baden-Württemberg 2016
 
