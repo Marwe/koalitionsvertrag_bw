@@ -1,3 +1,12 @@
+# Koalitionsvertrag 2021
+
+* Text Extraktion via tika http://givemetext.okfnlabs.org/
+* postprocessing mit sed skripten
+
+    sed -i -f postproc_wordwrap.sed tmp.txt
+    sed -i -f postproc_pagenumtit.sed tmp.txt
+    sed -i -f postproc_uppercasetitles.sed tmp.txt
+
 # Koalitionsvertrag Baden-Württemberg 2016
 
 Das Dokument 160509_Koalitionsvertrag_B-W_2016-2021_final.md ist eine (pandoc-)Markdown Variante des 
