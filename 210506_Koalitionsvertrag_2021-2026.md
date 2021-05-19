@@ -1,6 +1,4 @@
-
-
-### JETZT FÜR MORGEN DER ERNEUERUNGSVERTRAG FÜR BADEN-WÜRTTEMBERG
+% JETZT FÜR MORGEN DER ERNEUERUNGSVERTRAG FÜR BADEN-WÜRTTEMBERG
 
 BÜNDNIS 90/DIE GRÜNEN BADEN-WÜRTTEMBERG CDU BADEN-WÜRTTEMBERG
 
@@ -8,47 +6,21 @@ BÜNDNIS 90/DIE GRÜNEN BADEN-WÜRTTEMBERG CDU BADEN-WÜRTTEMBERG
 
 ### JETZT FÜR MORGEN DER ERNEUERUNGSVERTRAG
 
-
-55
-
-Präambel 6 Jetzt für morgen – Der Erneuerungsvertrag für Baden-Württemberg
+# Präambel 6 Jetzt für morgen – Der Erneuerungsvertrag für Baden-Württemberg
 
 1. Haushalt und Verwaltung 13 Die nächsten Generationen im Blick: Für nachhaltige Finanzen und eine moderne Verwaltung A. Haushalt, Liegenschaften und Beteiligungen, B. Finanzpolitik, C. Öffentlicher Dienst
-
 2. Klima- und Naturschutz 23 Erhalten, was uns erhält: Für ein klimaneutrales Baden-Württemberg A. Klimaschutz und Energiepolitik, B. Umweltschutz, C. Naturschutz und Artenvielfalt, D. Nachhaltigkeit
-
-3. Wirtschaft und Arbeit 35 Mutig den Wandel gestalten: Für eine Wirtschaft mit Zukunft A. Wirtschaft und Innovation, B. Mittelstand, Handel, Handwerk und Dienstleistungen,
-
-C. Arbeit, D. Baden-Württemberg im weltweiten Wettbewerb
-
+3. Wirtschaft und Arbeit 35 Mutig den Wandel gestalten: Für eine Wirtschaft mit Zukunft A. Wirtschaft und Innovation, B. Mittelstand, Handel, Handwerk und Dienstleistungen, C. Arbeit, D. Baden-Württemberg im weltweiten Wettbewerb
 4. Wissenschaft, Kultur und Medien 49 Neues wagen: Für eine starke Wissenschaft, innovative Forschung und kreative Freiräume A. Wissenschaft, B. Kunst und Kultur, C. Medienpolitik
-
-5. Frühkindliche Bildung und Schule 59 Lernen mit Perspektive: Für beste Bildung für alle A. Bildungspolitische Grundziele, B. Frühkindliche Bildung, C. Grundschulen, D. Weiterführende Schulen und berufliche Bildung,
-
-E. Weiterbildung und Lebenslanges Lernen, F. Schulische Rahmenbedingungen
-
-6. Gesundheit und Soziales 71 Nah am Menschen: Für ein gesundes und selbstbestimmtes Leben A. Folgen der Corona-Pandemie, B. Gesundheit, C. Pflege,
-
-D. Soziales und Teilhabe, E. Kinder-, Jugend- und Familienpolitik
-
-7. Gesellschaft und Integration 81 Gemeinsam Vielfalt leben: Für echten Zusammenhalt A. Migration und Integration, B. Kirchen, Religionen und Weltanschauungen,
-
-C. Offene Gesellschaft und Antidiskriminierung, D. Zusammenhalt und Beteiligung
-
+5. Frühkindliche Bildung und Schule 59 Lernen mit Perspektive: Für beste Bildung für alle A. Bildungspolitische Grundziele, B. Frühkindliche Bildung, C. Grundschulen, D. Weiterführende Schulen und berufliche Bildung, E. Weiterbildung und Lebenslanges Lernen, F. Schulische Rahmenbedingungen
+6. Gesundheit und Soziales 71 Nah am Menschen: Für ein gesundes und selbstbestimmtes Leben A. Folgen der Corona-Pandemie, B. Gesundheit, C. Pflege, D. Soziales und Teilhabe, E. Kinder-, Jugend- und Familienpolitik
+7. Gesellschaft und Integration 81 Gemeinsam Vielfalt leben: Für echten Zusammenhalt A. Migration und Integration, B. Kirchen, Religionen und Weltanschauungen, C. Offene Gesellschaft und Antidiskriminierung, D. Zusammenhalt und Beteiligung
 8. Inneres und Verfassung 93 Sicher und frei leben: Für eine lebendige Demokratie A. Demokratie und Verfassung, B. Sicherheit, C. Justiz
-
-9. Ländlicher Raum und Landwirtschaft 107 Unsere liebenswerte Heimat: Für starke ländliche Räume A. Ländlicher Raum, B. Landwirtschaft, C. Tierschutz, D. Verbraucherschutz,
-
-E. Wald und Wildtiere, F. Bioökonomie, G. Tourismus
-
+9. Ländlicher Raum und Landwirtschaft 107 Unsere liebenswerte Heimat: Für starke ländliche Räume A. Ländlicher Raum, B. Landwirtschaft, C. Tierschutz, D. Verbraucherschutz, E. Wald und Wildtiere, F. Bioökonomie, G. Tourismus
 10. Mobilität und Infrastruktur 121 Das Land bewegen: Für die Mobilität von morgen A. Verkehrsinfrastruktur, B. Mobilität der Zukunft
-
 11. Bauen und Wohnen 133 Bauen neu denken: Für bezahlbaren und ökologischen Wohnraum A. Wohnen, B. Städtebau, C. Landes- und Regionalplanung, D. Bauen, E. Digitale Infrastruktur
-
 12. Europa und Internationales 145 Grenzen überwinden: Für ein europäisches Miteinander A. Europapolitik des Landes, B. Internationales und Entwicklungspolitik
-
 13. Föderalismus 155 Für einen lebendigen Föderalismus
-
 14. Zusammenarbeit 159 Zusammenarbeit in der Koalition
 
 
@@ -74,10 +46,7 @@ Unser gemeinsamer Neuanfang zeigt sich aber auch im Umgang der Bündnispartner m
 
 Denn die Aufgaben, die vor uns liegen, sind gewaltig. Es genügt nicht, allein auf den Markt, den Staat oder die einzelnen Bürgerinnen und Bürger zu setzen. Es braucht alle. Und es braucht eine klare, kraftvolle und kluge Politik, die es den Unternehmen ermöglicht, ihre Kreativität, Effektivität und Effizienz zu entfalten. Eine Politik, die den Raum für das Engagement und die Verantwortungsbereitschaft der Bürgerinnen und Bürger schafft.
 
-GRÜNE und CDU wollen die gesellschaftlichen Kräfte zusammenführen. Wir wollen gemeinsam Wege freimachen und Neues ermöglichen. Wir wollen die ganze Kraft unseres Landes entfesseln und für eine gute Zukunft nutzbar machen. Wir wollen neue Chancen für ein nachhaltiges
-
-
-Leben und für besseres Wachstum schaffen. Wir ermutigen zu neuen Ideen und Innovationen. Und wir wollen einen handlungsfähigen und modernen Staat, der eine starke Daseinsfürsorge sichert und der Freiheit, Sicherheit und Teilhabe für alle garantiert. So wappnen wir unser Land gut für die Zukunft und machen Baden-Württemberg einmal mehr zum Wegbereiter der neuen Zeit.
+GRÜNE und CDU wollen die gesellschaftlichen Kräfte zusammenführen. Wir wollen gemeinsam Wege freimachen und Neues ermöglichen. Wir wollen die ganze Kraft unseres Landes entfesseln und für eine gute Zukunft nutzbar machen. Wir wollen neue Chancen für ein nachhaltiges Leben und für besseres Wachstum schaffen. Wir ermutigen zu neuen Ideen und Innovationen. Und wir wollen einen handlungsfähigen und modernen Staat, der eine starke Daseinsfürsorge sichert und der Freiheit, Sicherheit und Teilhabe für alle garantiert. So wappnen wir unser Land gut für die Zukunft und machen Baden-Württemberg einmal mehr zum Wegbereiter der neuen Zeit.
 
 ### AUF UNSERE STÄRKEN VERTRAUEN UND MIT ZUVERSICHT ANPACKEN
 
@@ -89,9 +58,7 @@ Aber die Pandemie hinterlässt uns einen Berg an Problemen, die uns noch lange b
 
 ### BÜNDNIS FÜR DIE GROSSE TRANSFORMATION
 
-Uns ist klar: Der Übergang ins postfossile Zeitalter, die Bewältigung des wirtschaftlichen Strukturwandels und die menschliche Gestaltung der Digitalisierung stellen uns alle
-
-vor große Herausforderungen, die gleichzeitig bewältigt werden müssen. Die Politik kann Regeln setzen und Leitplanken aufstellen. Aber den Umbruch aktiv zu gestalten und zu einem Erfolg zu machen, das geht nur in einem vertrauensvollen Miteinander. Wir laden deshalb alle Bürgerinnen und Bürger, alle Unternehmen und Betriebe ein, Teil dieser Veränderungen zu werden, Teil eines Bündnisses für die große Transformation zu sein. Jede und jeder kann etwas dazu beitragen – unabhängig vom Geldbeutel, von der Herkunft oder von der Weltanschauung. Gemeinsam können und werden wir über uns hinauswachsen.
+Uns ist klar: Der Übergang ins postfossile Zeitalter, die Bewältigung des wirtschaftlichen Strukturwandels und die menschliche Gestaltung der Digitalisierung stellen uns alle vor große Herausforderungen, die gleichzeitig bewältigt werden müssen. Die Politik kann Regeln setzen und Leitplanken aufstellen. Aber den Umbruch aktiv zu gestalten und zu einem Erfolg zu machen, das geht nur in einem vertrauensvollen Miteinander. Wir laden deshalb alle Bürgerinnen und Bürger, alle Unternehmen und Betriebe ein, Teil dieser Veränderungen zu werden, Teil eines Bündnisses für die große Transformation zu sein. Jede und jeder kann etwas dazu beitragen – unabhängig vom Geldbeutel, von der Herkunft oder von der Weltanschauung. Gemeinsam können und werden wir über uns hinauswachsen.
 
 GRÜNE und CDU sind die Parteien, die am breitesten und tiefsten in der Gesellschaft des Landes verankert sind – mit unterschiedlichen Schwerpunkten. Wir vertreten die breite Mitte unserer Gesellschaft. Das ist unser Anspruch an uns selbst. Darin sehen wir die große Chance für ein vertrauensvolles Miteinander unterschiedlicher Interessen. Wir wollen mit aller Kraft verhindern, dass sich unsere Gesellschaft spaltet – in einen Teil, der Veränderung befürwortet, und einen anderen Teil, der sie ablehnt. Wir wollen nicht trennen, was zusammengehört. Wir wollen versöhnen, verzahnen und verbinden.
 
