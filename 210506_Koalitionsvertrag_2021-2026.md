@@ -6,7 +6,6 @@
 
 JETZT FÜR MORGEN DER ERNEUERUNGSVERTRAG
 
-
 0. Präambel 6 Jetzt für morgen – Der Erneuerungsvertrag für Baden-Württemberg
 1. Haushalt und Verwaltung 13 Die nächsten Generationen im Blick: Für nachhaltige Finanzen und eine moderne Verwaltung A. Haushalt, Liegenschaften und Beteiligungen, B. Finanzpolitik, C. Öffentlicher Dienst
 2. Klima- und Naturschutz 23 Erhalten, was uns erhält: Für ein klimaneutrales Baden-Württemberg A. Klimaschutz und Energiepolitik, B. Umweltschutz, C. Naturschutz und Artenvielfalt, D. Nachhaltigkeit
@@ -24,6 +23,7 @@ JETZT FÜR MORGEN DER ERNEUERUNGSVERTRAG
 14. Zusammenarbeit 159 Zusammenarbeit in der Koalition
 
 # Präambel
+
 ## JETZT FÜR MORGEN DER ERNEUERUNGSVERTRAG FÜR BADEN-WÜRTTEMBERG
 
 Baden-Württemberg ist ein einzigartiges Land mit großartigen Menschen und wunderschöner Natur. Wir alle leben gerne hier. Wir schätzen den Zusammenhalt – dass man füreinander da ist und dass man sich gegenseitig unterstützt. Nirgendwo sonst in Deutschland engagieren sich so viele Menschen ehrenamtlich im Sportverein, in der Nachbarschaftshilfe, in der Freiwilligen Feuerwehr oder in Parteien und Bürgerinitiativen. Wir schätzen den Wohlstand, der auf dem Fleiß und dem Erfindungsreichtum der Menschen, der Unternehmen und Betriebe gründet. Und wir leben in einer der sichersten Regionen der Welt.
@@ -124,7 +124,7 @@ Baden-Württemberg ist führend in Forschung und Wissenschaft. Dort wachsen die 
 
 Schon heute ist Baden-Württemberg der bundesweit führende Standort der Gesundheitswirtschaft. Neben unseren traditionellen Schlüsselindustrien Maschinenbau und Automobilindustrie wächst sie zu einer neuen Leitindustrie heran. Daraus ergeben sich großen Chancen: Die Biotechnologie macht riesige Fortschritte, etwa bei der Krebsforschung oder bei neuen Impfstoffen. Die Digitalisierung eröffnet neue Möglichkeiten, Krankheiten zu behandeln. Und in der Medizintechnik hat Baden-Württemberg schon heute die Nase vorn. Wir werden diese Säule unseres Wohlstands weiter stärken. Mit dem Forum Gesundheitsstandort bringen wir technologische und medizinische Innovationen voran und stärken unsere Gesundheitsunternehmen auf den internationalen Märkten.
 
-### DEN ZUSAMMENHALT DER GESELLSCHAFT STÄRKEN UND DIE LIBERALE DEMOKRATIE VERTEIDIGEN
+## DEN ZUSAMMENHALT DER GESELLSCHAFT STÄRKEN UND DIE LIBERALE DEMOKRATIE VERTEIDIGEN
 
 Die liberale Demokratie steht weltweit unter Druck. Und auch, wenn das Miteinander in Baden-Württemberg stärker ist als anderswo, nehmen auch bei uns die Fliehkräfte in der Gesellschaft zu. Manche Menschen sind durch die rasanten Veränderungen verunsichert oder fühlen sich abgehängt. Der Ton der öffentlichen Debatte wird rauer. Verschwörungsmythen gewinnen an Zulauf, Hasskriminalität nimmt zu.
 
@@ -170,9 +170,7 @@ Jetzt für morgen – unter diese Maxime haben wir unser Regierungsprogramm gest
 
 # 1. Haushalt und Verwaltung
 
-01 DIE NÄCHSTEN GENERATIONEN IM BLICK: FÜR NACHHALTIGE FINANZEN UND EINE MODERNE VERWALTUNG
-<!--
-1. DIE NÄCHSTEN GENERATIONEN IM BLICK: FÜR NACHHALTIGE FINANZEN UND EINE MODERNE VERWALTUNG-->
+## 01 DIE NÄCHSTEN GENERATIONEN IM BLICK: FÜR NACHHALTIGE FINANZEN UND EINE MODERNE VERWALTUNG
 
 Die Corona-Pandemie und ihre Bewältigung stellen uns alle auf allen Ebenen vor enorme Herausforderungen. Angesichts der bisherigen immensen finanziellen Anstrengungen zur Abfederung der Corona-Pandemie bei gleichzeitig sinkenden Einnahmen ist auch die Finanzsituation des Landes sehr angespannt. Die aktuelle mittelfristige Finanzplanung weist für die kommenden Jahre eine große Lücke zwischen Einnahmen und Ausgaben auf. Demnach sind die Ausgaben in den Folgejahren deutlich höher als die Einnahmen. Hinzu kommt die Ungewissheit über den weiteren Verlauf der Pandemie, die wirtschaftliche Entwicklung, die Situation auf dem Arbeitsmarkt und die Entwicklung der Steuereinnahmen. Deshalb ist eine strenge Ausgabendisziplin erforderlich.
 
@@ -301,7 +299,7 @@ Zudem setzen wir uns für ein von der EU-Kommission angekündigtes europaweit ei
 
 Auf Bundesebene wirken wir darauf hin, die private Altersvorsorge einfacher und kostengünstiger zu gestalten.
 
-### C. ÖFFENTLICHER DIENST
+## C. ÖFFENTLICHER DIENST
 
 ### Das Land bleibt attraktiver Arbeitgeber
 
@@ -383,15 +381,13 @@ An der Intersecoral School of Governanvce erlernen Fachkräfte und leitende Mita
 
 # 2. Klima- und Naturschutz
 
-02 ERHALTEN, WAS UNS ERHÄLT: FÜR EIN KLIMANEUTRALES BADEN-WÜRTTEMBERG
-<!--
-2. ERHALTEN, WAS UNS ERHÄLT: FÜR EIN KLIMANEUTRALES BADEN-WÜRTTEMBERG-->
+## 02 ERHALTEN, WAS UNS ERHÄLT: FÜR EIN KLIMANEUTRALES BADEN-WÜRTTEMBERG
 
 Wir wollen Baden-Württemberg als Klimaschutzland zum internationalen Maßstab machen. Um diese Herausforderungen zu meistern, müssen alle Kräfte mobilisiert werden: Politik und Verwaltung, Wirtschaft und Wissenschaft, die ganze Gesellschaft. Baden-Württemberg zusammenhalten und nach vorne bringen – das ist unser Anspruch. Auf diesem herausfordernden Weg müssen die Menschen – auch mit Anreizen – mitgenommen, Ziele aufgezeigt und Chancen eröffnet werden. Die Idee von einem Klimaschutzland Baden-Württemberg soll auf breite Akzeptanz stoßen und mit Leben gefüllt werden. Dafür streben wir ein gesellschaftliches Bündnis an, das die wesentlichen Akteurinnen und Akteure umfasst. Soziale und technische Innovationen sind zentral für unseren Erfolg beim Klimaschutz.
 
 Aufgrund der angespannten Haushaltssituation stehen sämtliche zusätzlichen finanzwirksamen Maßnahmen auch in diesem Kapitel unter Haushaltsvorbehalt. Das bedeutet: Erst wenn es wieder finanzielle Spielräume gibt, können ausgewählte Maßnahmen – eventuell in Stufen – umgesetzt werden. Ordnungspolitische und nicht finanzrelevante Maßnahmen sind davon nicht berührt.
 
-### A. KLIMASCHUTZ UND ENERGIEPOLITIK
+## A. KLIMASCHUTZ UND ENERGIEPOLITIK
 
 ### Sofortprogramm für Klimaschutz und Energiewende
 
@@ -556,7 +552,7 @@ Das Land erwartet von der Schweiz, die dortige Standortauswahl unter gleichberec
 Das Land wird sich mit seiner Expertise an der internationalen Fachdiskussion beteiligen und insbesondere auf eine Abschaltung der älteren Atomkraftwerke drängen.
 
 
-### B. UMWELTSCHUTZ
+## B. UMWELTSCHUTZ
 
 ### Zukunftsfähige Kreislaufwirtschaft als Schlüssel zur Ressourcenschonung
 
@@ -608,21 +604,19 @@ Verbrennungsprozesse in Großfeuerungsanlagen, Abfallverbrennungs- und -mitverbr
 
 Gewerbeaufsicht stärken: Die Gewerbeaufsicht wird so aufgestellt, dass sie auch zukünftig die wachsenden und komplexeren Genehmigungs-, Beratungs- und Überwachungsaufgaben erfüllen kann. Wir werden die Digitalisierung der Gewerbeaufsicht vorantreiben und prüfen, ob und welche Überwachungstätigkeiten unter Wahrung des Schutzniveaus auf andere Stellen übertragen werden können. Wir werden den Arbeitsschutz im Rahmen der integrativen Aufgabenwahrnehmung stärken.
 
-### C. NATURSCHUTZ UND ARTENVIELFALT
+## C. NATURSCHUTZ UND ARTENVIELFALT
 
-Ein Gesellschaftsvertrag – zum Wohl von Landwirtschaft, Naturschutz, Lebensmittelwirtschaft, Handel sowie Verbraucherinnen und Verbrauchern
+### Ein Gesellschaftsvertrag – zum Wohl von Landwirtschaft, Naturschutz, Lebensmittelwirtschaft, Handel sowie Verbraucherinnen und Verbrauchern
 
 Der begonnene Dialog zwischen Landwirtschaft, Naturschutz, Lebensmittelwirtschaft, Handel sowie Verbraucherinnen und Verbrauchern wird weiter vertieft, um die Interessen von landwirtschaftlichen Betrieben, Verarbeitern, Lebensmittelwirtschaft, Handel sowie Verbraucherinnen und Verbrauchern auszugleichen. Aus dem begonnenen Zukunftsdialog zwischen Landwirtschaft und Naturschutz soll ein Gesellschaftsvertrag entwickelt werden. Die Ziele sind eine breite Verständigung für eine flächendeckende, gesellschaftlich getragene, bäuerliche Landwirtschaft mit ihren Familienbetrieben und die Sicherung der biologischen Vielfalt im Land. Wechselseitige Wertschätzung und Respekt sowie ein kooperatives Miteinander sollen den Prozess und seine Ergebnisse kennzeichnen. Die am Gesellschaftsvertrag Beteiligten lassen sich weiterhin vom Grundsatz des kooperativen Naturschutzes im Biodiversitätsstärkungsgesetz leiten. Ziel ist es, ein gemeinsames Leitbild zur biodiversitätsfördernden Landbewirtschaftung unter Berücksichtigung der bäuerlichen Familienbetriebe zu erarbeiten. Landwirtschaft, Verarbeitung, Handel sowie Verbraucherinnen und Verbraucher werden als Teil der Lösung zum Schutz der biologischen Vielfalt verstanden.
 
 Wir setzen uns dafür ein, dass der im Rahmen des Biodiversitätsstärkungsgesetzes des Landes gefundene kooperative Weg zwischen Landwirtschaft und Naturschutz über entsprechende Regelungen im Insektenschutzgesetz und der Insektenschutzverordnung des Bundes beibehalten werden kann.
 
-Artensterben stoppen, biologische Vielfalt sichern
+### Artensterben stoppen, biologische Vielfalt sichern
 
 Die im Biodiversitätsstärkungsgesetz vorgegebenen Ziele, Projekte und Maßnahmen sind konsequent umzusetzen. Nur zusammen mit der Landwirtschaft kann es gelingen, das Artensterben bei uns im Land zu stoppen und das Biodiversitätsstärkungsgesetz umzusetzen. Hierzu bedarf es zielgerichteter und in der Förderhöhe attraktiver Förderung von biodiversitätssteigernden Maßnahmen in der Landwirtschaft, insbesondere auch für Schäferei, Streuobst und Terrassen-Weinbau.
 
-Artenmonitoring fortsetzen: Das Artenmonitoring der vergangenen Jahre führen wir fort. Das Probematerial
-
-ist wissenschaftlich zu sichern und auszuwerten, um eine belastbare Datenbasis für die Entwicklung des Artenbestands und der Wirksamkeit der Landesmaßnahmen zu erhalten.
+Artenmonitoring fortsetzen: Das Artenmonitoring der vergangenen Jahre führen wir fort. Das Probematerial ist wissenschaftlich zu sichern und auszuwerten, um eine belastbare Datenbasis für die Entwicklung des Artenbestands und der Wirksamkeit der Landesmaßnahmen zu erhalten.
 
 Naturschutzstrategie konsequent fortsetzen: Wir werden die Naturschutzstrategie des Landes in den Bereichen Stadtnatur, Naturtourismus, Rohstoffabbau und Naturschutz sowie Wirtschaft und Naturschutz weiter umsetzen und fortschreiben. Zum Schutz bedrohter Feld- und Wiesenvögel werden wir ein Bodenbrüter-Programm in Kooperation mit der Allianz für Niederwild auflegen.
 
@@ -645,7 +639,7 @@ Wiederherstellungsmaßnahmen für Natura 2000: Das Land verstärkt die Bemühung
 
 Ökokonto-Verordnung weiterentwickeln: Wir entwickeln die Ökokonto-Verordnung auf Basis der Erkenntnisse der Evaluation weiter. Dabei prüfen wir auch, inwieweit Produktionsintegrierte Kompensationsmaßnahmen (PiK) bei Berücksichtigung gesicherter dauerhafter Wirkung künftig besser berücksichtigt werden können. Die Ökokonto-VO soll im Hinblick auf ihre Bedeutung für den Natur- und Artenschutz künftig der Befassung des Landtags bedürfen.
 
-### D. NACHHALTIGKEIT
+## D. NACHHALTIGKEIT
 
 Die Koalition steht uneingeschränkt zu den globalen Nachhaltigkeitszielen (Sustainable Development Goals – SDG) der Vereinten Nationen und den Klimazielen von Paris, Brüssel und Berlin. Sie stellen den übergeordneten Handlungsrahmen für die Landespolitik dar. Eine konsequente Ausrichtung auf Klimaneutralität und das Schließen von Kreisläufen ermöglicht eine nachhaltige Entwicklung innerhalb der planetaren Leitplanken, die unseren Wohlstand und unsere Lebensqualität erhält
 
@@ -653,7 +647,7 @@ und Zusammenhalt und Resilienz unserer Gesellschaft fördert. Wir stehen für ei
 
 Wir denken ganzheitlich: Klimaschutz begreifen wir als ganzheitlichen Ansatz, der auch Aspekte wie Entwicklungspolitik, internationale Wertschöpfungs- und Wohlstandsverteilung, wirtschaftliche, Landnutzungs-, soziale, naturschutzfachliche sowie umweltschutzrelevante Aspekte berücksichtigt.
 
-Nachhaltigkeit institutionell verankern
+### Nachhaltigkeit institutionell verankern
 
 Die Nachhaltigkeitsstrategie wollen wir fortführen und weiterentwickeln. Wir werden den Nachhaltigkeitsbeirat stärker an den Indikatoren und strategischen Zielen der Nachhaltigkeitsstrategie ausrichten. Damit geht die Notwendigkeit einer Aufwertung der Struktur einher, die auch nach außen sichtbar sein muss. Der Beirat soll dabei soweit erforderlich von themenorientierten Expertinnen- und Expertenteams unterstützt werden. Wir prüfen, wie das Thema Nachhaltigkeit stärker im Landtag – auch fraktionsübergreifend – verankert werden kann, beispielsweise über einen Parlamentarischen Beirat für nachhaltige Entwicklung.
 
@@ -663,7 +657,7 @@ Eine zweijährige Nachhaltigkeitskonferenz bindet die Öffentlichkeit ein. Damit
 
 Wie beim Nachhaltigkeits- und Umweltmanagement werden wir auch bei der nachhaltigen Beschaffung die Ausrichtung auf Klimaschutz und biologische Vielfalt konsequent umsetzen und durch eine Beratungsstelle ergänzen.
 
-Vorreiter bei Bildung für nachhaltige Entwicklung
+### Vorreiter bei Bildung für nachhaltige Entwicklung
 
 „Wir schützen was wir lieben“: Gemäß diesem Motto spielen Bildung, Fortbildung und Schulungen, aber auch Ernährung, das Bewusstsein über Lieferketten und Verarbeitungsmethoden, Herkunft und Folgenabschätzung des eigenen Handelns eine enorme Rolle. In der Aktivierung der Bevölkerung sehen wir große Potenziale. In Zusammenarbeit mit Bildungseinrichtungen, Verbänden und staatlichen Angeboten wollen wir Baden-Württemberg zu einem Vorreiterland der Bildung für nachhaltige Entwicklung (BNE) machen.
 
@@ -672,15 +666,9 @@ Wir wollen die Maßnahmen und Projekte zur Strukturbildung und Vernetzung umsetz
 
 Freiwilliges Ökologisches Jahr bedarfsgerecht fördern: Wir wollen das Freiwillige Ökologische Jahr (FÖJ) in Baden-Württemberg auf der Basis einer neuen Verwaltungsvorschrift „Förderrichtlinie FÖJ“ fortführen und bedarfs- und nachfragegerecht weiter ausbauen mit dem Ziel, in dieser Legislaturperiode 420 Plätze zu fördern.
 
+# 3. Wirtschaft und Arbeit 
 
-35
-
-03 MUTIG DEN WANDEL GESTALTEN:
-
-### FÜR EINE WIRTSCHAFT
-
-
-3. MUTIG DEN WANDEL GESTALTEN: FÜR EINE WIRTSCHAFT MIT ZUKUNFT
+## 03 MUTIG DEN WANDEL GESTALTEN: FÜR EINE WIRTSCHAFT MIT ZUKUNFT
 
 Die Wirtschaft unseres Landes steht vor drei großen Aufgaben: die Folgen der Pandemie bewältigen, den Klimawandel bekämpfen und die Digitalisierung vorantreiben. Kurzfristig wollen wir die von der Pandemie besonders gebeutelten Branchen beim Neustart unterstützen, zum Beispiel den Einzelhandel, die Gastronomie, die Hotellerie, die Kultur- und die Veranstaltungsbranche. Langfristig werden wir gemeinsam mit der Wirtschaft die Herausforderung der ökologischen und digitalen Transformation meistern, die alle Branchen gleichermaßen betrifft.
 
@@ -696,9 +684,9 @@ Aufgrund der angespannten Haushaltssituation stehen sämtliche zusätzlichen fin
 
 in diesem Kapitel unter Haushaltsvorbehalt. Das bedeutet: Erst wenn es wieder finanzielle Spielräume gibt, können ausgewählte Maßnahmen – eventuell in Stufen – umgesetzt werden. Ordnungspolitische und nicht finanzrelevante Maßnahmen sind davon nicht berührt.
 
-### A. WIRTSCHAFT UND INNOVATION
+## A. WIRTSCHAFT UND INNOVATION
 
-Green-Hightech-Agenda
+### Green-Hightech-Agenda
 
 Musterland für Green Tech: Innovationen sind einer der zentralen Schlüssel für einen effektiven Klimaschutz. Deshalb wollen wir Baden-Württemberg zum weltweiten Leitmarkt und Leitanbieter bei Umwelt- und Energietechnologien (Green Tech) machen. Wir treiben die Wende zur Kreislaufwirtschaft voran und schaffen die Grundlagen für ökologische Durchbrüche in allen Branchen.
 
@@ -706,14 +694,9 @@ Dazu rufen wir eine von der Wirtschaft getragene „Green Tech Allianz“ ins Le
 
 Wir wollen eine Green-Tech-Forschungs- und Bildungsoffensive an Hochschulen, beruflichen Schulen, anwendungsorientierten Forschungsinstituten und anderen Einrichtungen starten. Gerade die ökologischen Potenziale von Digitalisierung und Künstlicher Intelligenz wollen wir heben. Wir rufen ein Modellprojekt ins Leben, mit dem wir Rechenzentren klimaneutral aufstellen. Daneben wird ein besonderer Fokus auf dem Thema Kreislaufwirtschaft liegen.
 
-Innovationsoffensive für klimaneutrale Produktion: Als führendes Industrieland setzen wir uns das Ziel, weltweit die erste Region mit einer klimaneutralen Produktion zu werden. Dies ist eine große Chance, vor allem für unsere industriellen Kernbranchen. Mit einer Innovationsoffensive für klimaneutrale Produktion wollen wir gezielt unsere kleinen und mittleren Unternehmen auf ihrem Weg zur Klimaneutralität fördern. Wir wollen ein neues wirtschaftsnahes Zentrum für klimaneutrale Produktion einrichten und dabei CO
+Innovationsoffensive für klimaneutrale Produktion: Als führendes Industrieland setzen wir uns das Ziel, weltweit die erste Region mit einer klimaneutralen Produktion zu werden. Dies ist eine große Chance, vor allem für unsere industriellen Kernbranchen. Mit einer Innovationsoffensive für klimaneutrale Produktion wollen wir gezielt unsere kleinen und mittleren Unternehmen auf ihrem Weg zur Klimaneutralität fördern. Wir wollen ein neues wirtschaftsnahes Zentrum für klimaneutrale Produktion einrichten und dabei CO 2 als Rohstoff ins Visier nehmen.
 
-2 als Rohstoff ins Visier nehmen.
-
-Wir entwickeln eine Recyclingstrategie und ergreifen Maßnahmen, um den Rohstoffbedarf und die Importabhängigkeit des Landes zu senken und den Standort resilienter zu machen. Dazu werden wir den Rohstoffdialog Baden-Württemberg wieder aufnehmen und die Forschung für innovative Recyclinglösungen und den Ersatz kritischer Rohstoffe fördern. Das Zukunftsthema Leichtbau wollen wir voranbringen. In Modellprojekten zeigen wir, was heute schon möglich ist: der digitale Materialpass für Immobilien, die digitalisierte Recyclingfabrik und die Rückgewinnung gebrauchter Rohstoffe. Erfolgreiche Projekte werden wir skalieren. Wir unterstützen Ansätze für fair produzierte,
-
-
-reparierbare Geräte und suchen nach Möglichkeiten, Tausch- und Verleihplattformen zu unterstützen.
+Wir entwickeln eine Recyclingstrategie und ergreifen Maßnahmen, um den Rohstoffbedarf und die Importabhängigkeit des Landes zu senken und den Standort resilienter zu machen. Dazu werden wir den Rohstoffdialog Baden-Württemberg wieder aufnehmen und die Forschung für innovative Recyclinglösungen und den Ersatz kritischer Rohstoffe fördern. Das Zukunftsthema Leichtbau wollen wir voranbringen. In Modellprojekten zeigen wir, was heute schon möglich ist: der digitale Materialpass für Immobilien, die digitalisierte Recyclingfabrik und die Rückgewinnung gebrauchter Rohstoffe. Erfolgreiche Projekte werden wir skalieren. Wir unterstützen Ansätze für fair produzierte, reparierbare Geräte und suchen nach Möglichkeiten, Tausch- und Verleihplattformen zu unterstützen.
 
 Regionale Wirtschaftskreisläufe stärken wir und setzen uns für zertifizierte Lieferketten ein, mit denen wir ökologische, soziale und menschenrechtliche Standards sicherstellen wollen. Wir setzen uns für eine bundeseinheitliche, ambitionierte Gesetzgebung für zertifizierte Lieferketten ein und fördern dahingehende Initiativen im Bund und in Europa.
 
@@ -725,17 +708,15 @@ Die Bioökonomie wollen wir in der Wirtschaft ressortübergreifend vorantreiben 
 
 Für neue und fortzuschreibende Wirtschaftsförderungsprogramme prüfen wir, wie ein Klimavorbehalt eingeführt werden kann.
 
-Die Wasserstoff-Roadmap umsetzen
+### Die Wasserstoff-Roadmap umsetzen
 
 Grüner Wasserstoff ist ein Schlüsselfaktor zur Einhaltung der Klimaschutzziele und wird in den kommenden Jahren nach Energieeffizienz, erneuerbaren Energien und Elektrifizierung zur vierten Säule der Energiewende. Schon jetzt sind bei uns 90 Unternehmen und 18 Forschungseinrichtungen mit Wasserstoff und Brennstoffzelle befasst. Diese Stärke wollen wir nutzen, um Baden-Württemberg zum Musterland für grünen Wasserstoff zu machen. Dabei sind wir uns bewusst, dass grüner Wasserstoff aus erneuerbaren Quellen hergestellt und klimafreundlich transportiert werden muss. Es geht uns nicht darum, unser Land zu einem großen Produktionsstandort zu machen, sondern unsere Unternehmen zum weltweiten Ausrüster für Wasserstofftechnologien zu machen und sie dabei zu unterstützen.
 
-Die Wasserstoff-Roadmap setzen wir schrittweise um. Weil grüner Wasserstoff auf absehbare Zeit ein knapper, wertvoller Rohstoff bleiben wird, konzentrieren wir uns auf die
-
-chancenreichsten Sektoren wie zum Beispiel die Zement-, Eisen- und Stahlindustrie, das Energiesystem, den Flug-, Schiffs-, Schwerlast- und Busverkehr sowie Nutzfahrzeuge. Bei Pkw geht die derzeitige Entwicklung dagegen hin zur batteriebetriebenen Elektromobilität.
+Die Wasserstoff-Roadmap setzen wir schrittweise um. Weil grüner Wasserstoff auf absehbare Zeit ein knapper, wertvoller Rohstoff bleiben wird, konzentrieren wir uns auf die chancenreichsten Sektoren wie zum Beispiel die Zement-, Eisen- und Stahlindustrie, das Energiesystem, den Flug-, Schiffs-, Schwerlast- und Busverkehr sowie Nutzfahrzeuge. Bei Pkw geht die derzeitige Entwicklung dagegen hin zur batteriebetriebenen Elektromobilität.
 
 Die angewandte Wasserstoff-Forschung werden wir stärken. Die Koordinierung von Wasserstoffaktivitäten und Modellprojekten wird künftig auch von der Landesagentur e-mobil BW über die Plattform H2BW flankiert. Hier sollen Best Practices zu einem Ökosystem Wasserstofftechnologien vernetzt und gebündelt werden. Baden-württembergische Unternehmen, die sich im Projekt „IPCEI Wasserstoff“ (Important Projects of Common European Interest) der EU einbringen wollen, werden wir konstruktiv begleiten und in die Wasserstoffaktivitäten des Landes einbinden.
 
-Digitalisierung und Künstliche Intelligenz voranbringen
+### Digitalisierung und Künstliche Intelligenz voranbringen
 
 Digitale Ökosysteme für KMU: Die Digitalisierung der Wirtschaft muss in den kommenden Jahren weiter Fahrt aufnehmen. Dies hat nicht zuletzt die Corona-Pandemie gezeigt. Wir nehmen die Herausforderung an und wollen die Chancen der Digitalisierung und der Künstlichen Intelligenz (KI) ergreifen. Dabei bekommen insbesondere kleine und mittlere Unternehmen (KMU) unsere Unterstützung, um die Transformation zu bewältigen. Unser Ziel ist es, Baden-Württemberg zu einem Laboratorium für eine menschliche, an ethischen und ökologischen Kriterien orientierte Digitalisierung zu machen. Standards wie Transparenz, informationelle Selbstbestimmung und Klimaneutralität wollen wir zum Gütesiegel machen.
 
@@ -743,10 +724,7 @@ Digitalisierung und Künstliche Intelligenz wollen wir noch stärker in der Flä
 
 Die stark nachgefragte Digitalisierungsprämie Plus wollen wir als branchenübergreifendes Programm für die digitale Transformation unseres Mittelstandes fortsetzen und damit insbesondere Kleinunternehmen und Soloselbständige noch stärker unterstützen. Die branchenübergreifende Initiative Wirtschaft 4.0 wird fortgeführt und weiterentwickelt.
 
-Künstliche Intelligenz als Basistechnologie: Künstliche Intelligenz wird zu einer Basistechnologie in allen Lebensbereichen. Die gigantischen Wertschöpfungspotenziale
-
-
-durch ganz neue Geschäftsmodelle und digitale Plattformen, Produkte und Dienstleistungen wollen wir nutzen und in der Spitzenforschung ebenso wie in der branchenübergreifenden Kommerzialisierung von KI eine führende Rolle einnehmen.
+Künstliche Intelligenz als Basistechnologie: Künstliche Intelligenz wird zu einer Basistechnologie in allen Lebensbereichen. Die gigantischen Wertschöpfungspotenziale durch ganz neue Geschäftsmodelle und digitale Plattformen, Produkte und Dienstleistungen wollen wir nutzen und in der Spitzenforschung ebenso wie in der branchenübergreifenden Kommerzialisierung von KI eine führende Rolle einnehmen.
 
 Mit dem Innovationspark KI werden wir „KI made in BW“ einen großen Schub verleihen. Wir werden den Innovationspark KI mit unserer bereits bestehenden exzellenten Spitzenforschung vernetzen und ein international sichtbares Ökosystem mit KI-Forschungs- und Transferzentren, Unternehmen und Start-ups schaffen.
 
@@ -758,11 +736,9 @@ Nach dem Vorbild von Heilbronn und Tübingen werden wir Schritt für Schritt Pro
 
 Wir werden die Entwicklung und Vernetzung des Blockchain-Ökosystems für die Wirtschaft 4.0 unter anderem bei automatisierten Zahlungsabwicklungen und transparenten Lieferketten fördern und dabei insbesondere energiearme Verfahren unterstützen.
 
-Mit der Datenagenda vorangehen: Baden-Württemberg geht mit seiner föderalen Datenagenda voran und setzt viele Leuchtturmvorhaben um – sei es bei der personalisierten Medizin, dem autonomen Fahren oder der Verkehrssteuerung. Konsortien aus Forschung und Wirtschaft – und dort insbesondere aus den KMU – werden wir gezielt unterstützen, um Datenprojekte voranzutreiben. Dabei setzen wir auf vorhandenen Vernetzungsstrukturen wie dem Strategiedialog Automobilwirtschaft, dem Forum Gesundheitsstandort oder der Allianz Industrie 4.0 auf. Der Aufbau einer geschützten und unabhängigen Datenökonomie wie zum Beispiel der europäischen Cloud-Initiative ist für Baden-Württemberg von strategischer Bedeutung. Um unsere internationale Wettbewerbsfähigkeit weiter zu stärken, wollen wir deshalb gemeinsame Datenräume auf europäischer Ebene etablieren. Zusammen mit dem Bund
+Mit der Datenagenda vorangehen: Baden-Württemberg geht mit seiner föderalen Datenagenda voran und setzt viele Leuchtturmvorhaben um – sei es bei der personalisierten Medizin, dem autonomen Fahren oder der Verkehrssteuerung. Konsortien aus Forschung und Wirtschaft – und dort insbesondere aus den KMU – werden wir gezielt unterstützen, um Datenprojekte voranzutreiben. Dabei setzen wir auf vorhandenen Vernetzungsstrukturen wie dem Strategiedialog Automobilwirtschaft, dem Forum Gesundheitsstandort oder der Allianz Industrie 4.0 auf. Der Aufbau einer geschützten und unabhängigen Datenökonomie wie zum Beispiel der europäischen Cloud-Initiative ist für Baden-Württemberg von strategischer Bedeutung. Um unsere internationale Wettbewerbsfähigkeit weiter zu stärken, wollen wir deshalb gemeinsame Datenräume auf europäischer Ebene etablieren. Zusammen mit dem Bund und anderen Ländern werden wir innovative Anwendungsprojekte entwickeln, wie zum Beispiel einen Datenraum Mobilität. Wir werden zudem disziplinübergreifend an einem Datenraum Gesundheit zum Wohle der Patientinnen und Patienten arbeiten.
 
-und anderen Ländern werden wir innovative Anwendungsprojekte entwickeln, wie zum Beispiel einen Datenraum Mobilität. Wir werden zudem disziplinübergreifend an einem Datenraum Gesundheit zum Wohle der Patientinnen und Patienten arbeiten.
-
-Mit Zukunftstechnologien an die Spitze
+### Mit Zukunftstechnologien an die Spitze
 
 Unser Ziel ist es, Baden-Württemberg zum weltweit attraktivsten Raum für die Entwicklung, Produktion und Anwendung neuer Technologien einer nachhaltigen und intelligent vernetzten Produktion zu machen. Wir schaffen optimale Bedingungen für die Entwicklung, Kommerzialisierung und den realen Einsatz von intelligenter Vernetzung.
 
@@ -774,12 +750,9 @@ Nicht zuletzt die Lieferprobleme bei Halbleitern und die Diskussion um Safety un
 
 Quantentechnologien: Quantentechnologien der zweiten Generation bieten ein herausragendes Potenzial für Wirtschaft und Gesellschaft. Mit international sichtbaren Forschungs- und Entwicklungsvorhaben wollen wir eine neue Branche für Quantentechnologien im Land stimulieren. Wir wollen, dass unsere Unternehmen als Anwender und Anbieter am künftigen Weltmarkt für quantentechnologiebasierte Produkte, Systeme und Lösungen teilhaben.
 
-Das Land ist mit seinen Hochschulen in der Grundlagenforschung bei den Quantenwissenschaften weltweit in der Spitzengruppe. Daneben gehören die wirtschaftsnahe Forschung und die wirtschaftliche Anwendung zu unseren Stärken, insbesondere im Bereich der Quantensensorik. Mit dem Quantum Computing Hub werden wir
+Das Land ist mit seinen Hochschulen in der Grundlagenforschung bei den Quantenwissenschaften weltweit in der Spitzengruppe. Daneben gehören die wirtschaftsnahe Forschung und die wirtschaftliche Anwendung zu unseren Stärken, insbesondere im Bereich der Quantensensorik. Mit dem Quantum Computing Hub werden wir ein gemeinsames Dach schaffen, um unsere Kompetenzen in einem Netzwerk aus Spitzenforschung und angewandter Forschung, etablierten Unternehmen und Start-ups disziplinenübergreifend zu bündeln. Wir unterstützen die Initiativen des Bundes und fördern die Entwicklung von Quantencomputern, Quantensensoren und sicherer Quantenkommunikation an den Universitäten und außeruniversitären Forschungseinrichtungen, dem Deutschen Zentrum für Luft- und Raumfahrt (DLR) in Ulm und der Fraunhofer-Gesellschaft im Kompetenzzentrum Quantencomputing BW. Wir wollen die Quantenwissenschaft als neue Disziplin etablieren, Start-ups fördern und die Aus- und Weiterbildung im Bereich der Quantentechnologien stärken.
 
-
-ein gemeinsames Dach schaffen, um unsere Kompetenzen in einem Netzwerk aus Spitzenforschung und angewandter Forschung, etablierten Unternehmen und Start-ups disziplinenübergreifend zu bündeln. Wir unterstützen die Initiativen des Bundes und fördern die Entwicklung von Quantencomputern, Quantensensoren und sicherer Quantenkommunikation an den Universitäten und außeruniversitären Forschungseinrichtungen, dem Deutschen Zentrum für Luft- und Raumfahrt (DLR) in Ulm und der Fraunhofer-Gesellschaft im Kompetenzzentrum Quantencomputing BW. Wir wollen die Quantenwissenschaft als neue Disziplin etablieren, Start-ups fördern und die Aus- und Weiterbildung im Bereich der Quantentechnologien stärken.
-
-Das Land zum Hotspot für Start-ups machen
+### Das Land zum Hotspot für Start-ups machen
 
 Baden-Württemberg soll zu einem der führenden Startup-Hotspots in Europa werden. Unsere erfolgreiche Kampagne Start-up BW werden wir fortführen und ausbauen. Damit machen wir Baden-Württemberg noch attraktiver und sichtbarer.
 
@@ -795,7 +768,7 @@ Wir wollen Frauen sehr viel mehr als bisher schon zum Gründen ermutigen. Wir st
 
 Startupbw.de wollen wir zur zentralen digitalen Informations- und Kommunikationsplattform des Landes zum Thema Start-ups machen. Hier sollen Start-ups und Gründungsinteressierte alle Start-up-Förderprogramme des Landes finden, genauso wie einen Zugang zu einer passgenauen Beratung.
 
-Die noch stärkere internationale Sichtbarkeit des Start-upStandorts Baden-Württemberg ist uns besonders wichtig. Dafür wollen wir den Start-up BW Summit weiter ausbauen und seine europäische und internationale Strahlkraft erhöhen.
+Die noch stärkere internationale Sichtbarkeit des Start-up-Standorts Baden-Württemberg ist uns besonders wichtig. Dafür wollen wir den Start-up BW Summit weiter ausbauen und seine europäische und internationale Strahlkraft erhöhen.
 
 Mit einen Venture Capital Roundtable werden wir den Dialog und die Vernetzung zwischen Wagniskapitalinvestoren, Start-ups und Verwaltung stärken. Mit einer Bundesratsinitiative werden wir uns für eine Verbesserung der steuerlichen Rahmenbedingungen, für eine Forschungsförderung für Start-ups und eine deutliche Ausweitung und Erleichterung der Mitarbeiterinnen- und Mitarbeiterbeteiligung einsetzen.
 
@@ -803,7 +776,7 @@ Wir unterstützen Gründungen in allen Unternehmensphasen. Die pandemiebedingte 
 
 Neue, innovative Produkte, Lösungen und Prozesse sind für öffentliche Auftraggeber eine Chance – gerade im Bereich der Ressourcen- und Energieeffizienz. Daher wollen wir Start-ups stärker bei öffentlichen Aufträgen berücksichtigen und ihnen eine faire Chance bei öffentlichen Ausschreibungen und Aufträgen einräumen. Hierzu wollen wir ein Pilotprojekt für innovationsfreundliche Vergabe in der Landesverwaltung über drei Jahre implementieren.
 
-Die Chancen der Transformation ergreifen
+### Die Chancen der Transformation ergreifen
 
 Strategiedialog Automobilwirtschaft: Das erfolgreiche Format des Strategiedialog Automobilwirtschaft Baden-Württemberg (SDA BW) werden wir weiter ausbauen und intensivieren. Schwerpunkte werden wir entlang der „Roadmap für eine erfolgreiche Transformation“ setzen. Dabei liegt der Fokus auf technologieoffenen Innovationen rund um alternative Antriebe (batterieelektrische Mobilität, Wasserstoff, reFuels), auf der Digitalisierung von Fahrzeugen und deren Produktion sowie dem Ausbau der erforderlichen Infrastrukturen. Unser Ziel ist es, unsere Systemkompetenz auch in den neuen Technologien zu erhalten und Wertschöpfung und Arbeitsplätze im Land zu sichern. Deshalb wollen wir insbesondere die Innovationsfähigkeit der vielen kleinen und mittleren Unternehmen der Automobilwirtschaft erhöhen. Dazu schaffen wir ein Innovationsumfeld, damit die besten Lösungen bei uns im Land erdacht und umgesetzt werden, insbesondere bei
 
@@ -820,9 +793,7 @@ Um die Klimaziele zu erreichen, setzen wir auf einen beschleunigten Ausbau von s
 
 Um den Hochlauf der Elektro- und Wasserstoffmobilität mehr Nachdruck zu verleihen, starten wir eine Landesinitiative, die die Aktivitäten der Ressorts bündelt.
 
-Auf EU- und Bundesebene werden wir uns für ambitionierte Rahmenbedingungen einsetzen, um die Transformation der Automobilwirtschaft zu emissionsfreier Mobilität erfolgreich voranzubringen und die Wettbewerbsfähigkeit der baden-württembergischen Unternehmen auch für die Zukunft zu sichern. Weil die EU die zentralen Rahmenbedingungen für die Automobilwirtschaft setzt, werden wir
-
-den SDA BW stärker mit der europäischen Ebene verknüpfen. Wir werden auch Impulse setzen, damit europäische Lieferketten gestärkt werden. Als einer der weltweit führenden und innovativsten Automobilstandorte gilt unser gemeinsam vereinbarter Anspruch, Baden-Württemberg als Klimaschutzland zum internationalen Maßstab zu machen.
+Auf EU- und Bundesebene werden wir uns für ambitionierte Rahmenbedingungen einsetzen, um die Transformation der Automobilwirtschaft zu emissionsfreier Mobilität erfolgreich voranzubringen und die Wettbewerbsfähigkeit der baden-württembergischen Unternehmen auch für die Zukunft zu sichern. Weil die EU die zentralen Rahmenbedingungen für die Automobilwirtschaft setzt, werden wir den SDA BW stärker mit der europäischen Ebene verknüpfen. Wir werden auch Impulse setzen, damit europäische Lieferketten gestärkt werden. Als einer der weltweit führenden und innovativsten Automobilstandorte gilt unser gemeinsam vereinbarter Anspruch, Baden-Württemberg als Klimaschutzland zum internationalen Maßstab zu machen.
 
 Als ressortübergreifende, unabhängige Kompetenzstelle vernetzt die Landesagentur e-mobil BW Akteure aus Wirtschaft und Wissenschaft. Die von e-mobil BW gemanagten Cluster Elektromobilität Südwest, Brennstoffzelle BW und Transformationswissen BW führen wir fort.
 
@@ -830,7 +801,7 @@ Unter dem Dach des SDA BW werden wir einen Datenraum Mobilität für neue Gesch�
 
 Um die Innovationsfähigkeit der vielen kleinen und mittleren Unternehmen der Automobilwirtschaft zu erhalten, wollen wir die wirtschaftsnahe Forschung und Entwicklung bei neuen Technologien stärken. Für Klimaschutz und Wettbewerbsfähigkeit brauchen wir alle alternativen Technologien und müssen sie jeweils dort einsetzen, wo wir ihre Stärken optimal ausspielen können. Kompetenzen bei zukünftigen Batteriezellentechnologien sowie deren Produktion werden eine Schlüsselrolle beim Erhalt von Wertschöpfung und Arbeitsplätzen im Land einnehmen. Überall dort, wo es absehbar verfügbar sowie kosten- und ressourceneffizient ist, setzen wir auch auf Wasserstoff/ Brennstoffzellen-Technologien und synthetische Kraftstoffe auf Basis erneuerbarer Energien. Mit Blick auf die Dringlichkeit beim Klimaschutz und die Klimaschutzziele 2030 bedeutet Technologieoffenheit für uns nicht, dass alle Technologien in gleichem Maße und auf dem gleichen technologischen Stand zur Verfügung stehen.
 
-Forum Gesundheitsstandort
+### Forum Gesundheitsstandort
 
 Die Pandemie hat nicht nur verdeutlicht, wie entscheidend Gesundheit und Versorgung sind. Sie hat am Beispiel neuartiger Impfstoffe auch gezeigt, wie entscheidend medizinische Innovationen sind. Deshalb werden wir unser Land unter dem Dach des „Forums Gesundheitsstandort Baden-Württemberg“ zum Gesundheitsstandort der Zukunft machen: innovativ, digital und resilient.
 
@@ -839,21 +810,19 @@ Die Zusammenarbeit von Forschung, Industrie und klinischer Praxis werden wir res
 
 Der Medizininformatik kommt eine Schlüsselrolle zu. Mit einem Datenraum Gesundheit schaffen wir die Grundlage für Innovationen und digitale Plattformen. Auf den Datenraum können neben der Wirtschaft auch die Forschung und die Kliniken zugreifen. Dabei ermöglichen wir Lösungen, die attraktive Bedingungen für die Nutzung von Daten mit Datenschutz und Datensicherheit verbinden.
 
-Standort für Luft- und Raumfahrt stärken
+### Standort für Luft- und Raumfahrt stärken
 
 Baden-Württemberg ist einer der bundesweit bedeutendsten Standorte der Luft- und Raumfahrtindustrie. Diese führende Position wollen wir stärken. Die Chancen, die sich insbesondere im Bereich der Massenfertigung von Satelliten ergeben (New Space), wollen wir ergreifen, indem wir unsere Unternehmen beim Übergang von der Manufakturfertigung zur Serienproduktion unterstützen. Auf diese Weise wollen wir Baden-Württemberg auch zum Leuchtturm für die positive ökologische Wirkung von Weltraumtechnologien machen. In der Luftfahrt wollen wir die Möglichkeit nutzen, mit einem Zentrum für Crashtests ein Alleinstellungsmerkmal in Europa zu erwerben.
 
-Kultur- und Kreativwirtschaft als Innovationstreiber
+### Kultur- und Kreativwirtschaft als Innovationstreiber
 
 Die Kultur- und Kreativwirtschaft ist als Innovationstreiber für alle Wirtschaftsbereiche branchen- und sektorenübergreifend von wirtschaftlicher Bedeutung. Wir werden die Medien- und Filmgesellschaft MFG im Bereich Kreativwirtschaft weiter stärken und als operativen Arm zur Förderung des Kultur- und Kreativstandorts Baden-Württemberg noch gezielter nutzen.
 
-Innovation fördern, Wertschöpfung schaffen
+### Innovation fördern, Wertschöpfung schaffen
 
 Innovationsförderung, Technologie- und Wissenstransfer: Vor dem Hintergrund von sich rasant ändernden wirtschaftlichen und technologischen Gegebenheiten werden wir die Technologie- und Innovationsförderung des Landes insgesamt evaluieren und weiterentwickeln. Die Gesamtbewertung soll Vorschläge für Verbesserungen und für die Ausrichtung der Technologie- und Innovationsförderung des Landes machen. Darüber hinaus werden wir für neue und fortzuschreibende Förderprogramme prüfen, wie ein Klimavorbehalt eingeführt werden kann, und – wenn möglich – ökologische Kriterien in den Förderkonditionen einführen.
 
-Um die Innovationsfähigkeit unserer baden-württembergischen Unternehmen weiter zu stärken und ihre Wettbewerbsfähigkeit zu sichern, wollen wir die Strukturen und Instrumente unserer Innovationsförderung weiter verbessern. Das erfolgreiche einzelbetriebliche Programm „Invest BW“ werden wir zu einem Innovationsförderprogramm weiterentwickeln, um Mittelstand und Start-ups bei der Entwicklung neuer Produkte, Dienstleistungen
-
-und Geschäftsmodelle zu unterstützen und Vorhaben von übergeordneter volkswirtschaftlicher Bedeutung zu fördern. Wir werden eine Innovationsförderung starten, mit der wir innovative Lösungen für große gesellschaftliche Herausforderungen suchen.
+Um die Innovationsfähigkeit unserer baden-württembergischen Unternehmen weiter zu stärken und ihre Wettbewerbsfähigkeit zu sichern, wollen wir die Strukturen und Instrumente unserer Innovationsförderung weiter verbessern. Das erfolgreiche einzelbetriebliche Programm „Invest BW“ werden wir zu einem Innovationsförderprogramm weiterentwickeln, um Mittelstand und Start-ups bei der Entwicklung neuer Produkte, Dienstleistungen und Geschäftsmodelle zu unterstützen und Vorhaben von übergeordneter volkswirtschaftlicher Bedeutung zu fördern. Wir werden eine Innovationsförderung starten, mit der wir innovative Lösungen für große gesellschaftliche Herausforderungen suchen.
 
 Den Technologie- und Wissenstransfer insbesondere in die kleinen und mittleren Unternehmen wollen wir branchenübergreifend weiter ausbauen und beschleunigen und dabei wo möglich die Innovationspartnerschaft von Start-ups und Mittelstand befördern.
 
@@ -865,10 +834,7 @@ Wir wollen mittelfristig klimaneutrale Einrichtungen der wirtschaftsnahen Forsch
 
 Regionale Innovationspolitik: Innovationen müssen auch von den Regionen her gedacht und vorangetrieben werden. Wir werden die regionale Innovationspolitik fördern und damit auch zur Gleichwertigkeit der Lebensverhältnisse und zur Zukunftsfähigkeit des Ländlichen Raums beitragen. Auch in der Förderperiode 2021 bis 2027 werden wir die Fördermöglichkeiten der EU-Strukturfonds wie EFRE nutzen, um branchenübergreifend Innovationsprojekte und die Transformation hin zur klima- und ressourcenschonenden Wirtschaft zu forcieren. Die notwendige Kofinanzierung des Landes werden wir sicherstellen.
 
-InnoLab_bw als Impulsgeber stärken: Als Impulsgeber sowie Beratungs- und Vernetzungsstelle für die Innovationspolitik des Landes und der Verwaltung werden wir das InnoLab_bw stärken. Es dient als Plattform bei ressort- und ebenenübergreifenden Innovationsthemen. Mit einem Schwerpunkt auf Verwaltungsinnovation initiiert es mit allen Ressorts und Landesstellen Prototypen zur späteren Umsetzung und einem landesweiten Rollout. Dabei liegt ein besonderer Schwerpunkt auf datengetriebenen Prozessen und der Hinführung zu KI-basierten Assistenzsystemen, um große Produktivitätsgewinne innerhalb der Verwaltung zu generieren und Daten und Prozesswissen
-
-
-für Innovationen in Wirtschaft und Forschung zu tragen. Es verarbeitet Trends und gibt Anstöße zu den Start-upAktivitäten der Landesregierung.
+InnoLab_bw als Impulsgeber stärken: Als Impulsgeber sowie Beratungs- und Vernetzungsstelle für die Innovationspolitik des Landes und der Verwaltung werden wir das InnoLab_bw stärken. Es dient als Plattform bei ressort- und ebenenübergreifenden Innovationsthemen. Mit einem Schwerpunkt auf Verwaltungsinnovation initiiert es mit allen Ressorts und Landesstellen Prototypen zur späteren Umsetzung und einem landesweiten Rollout. Dabei liegt ein besonderer Schwerpunkt auf datengetriebenen Prozessen und der Hinführung zu KI-basierten Assistenzsystemen, um große Produktivitätsgewinne innerhalb der Verwaltung zu generieren und Daten und Prozesswissen für Innovationen in Wirtschaft und Forschung zu tragen. Es verarbeitet Trends und gibt Anstöße zu den Start-upAktivitäten der Landesregierung.
 
 Für eine umfassende Innovationsorientierung aller Geschäftsbereiche schaffen alle Landesministerien Innovationslabore, die sich untereinander vernetzen und unter Hinzuziehung von fachlicher Expertise projektbezogen und agil politische Initiativen und Umsetzungsprojekte bearbeiten.
 
@@ -876,7 +842,7 @@ Beschaffungsrecht weiterentwickeln: Wir wollen alle Spielräume der reformierten
 
 ## B. MITTELSTAND, HANDEL, HANDWERK, DIENSTLEISTUNGEN
 
-Innovationskraft des Mittelstands stärken
+### Innovationskraft des Mittelstands stärken
 
 Kleine und mittelständische Unternehmen sind eine tragende Säule unseres Landes. Sie sind regional verwurzelt und weltoffen. Viele sind inhabergeführte Familienunternehmen und Weltmarktführer. Sie bieten Zukunftsperspektiven, sichern Wohlstand und schaffen Zusammenhalt, gerade auch im Ländlichen Raum. Für den anstehenden Transformationsprozess wollen wir ihre Wettbewerbsfähigkeit stärken und ihre Innovationskraft, Kreativität und Agilität stärken.
 
@@ -884,9 +850,7 @@ Wir werden das Gesetz zur Mittelstandsförderung novellieren und an die aktuelle
 
 Wir werden zusätzliche steuerliche Belastungen für den Mittelstand vermeiden und uns für eine Initiative auf Bundesebene zur Reform und Vereinfachung der Unternehmensbesteuerung einsetzen, um die steuerlichen Rahmenbedingungen zu verbessern.
 
-Masterplan Mittelstand BW: Wir werden Gesetzgebung, Verwaltungsabläufe und Förderprogramme auf ihre
-
-Auswirkungen auf den Mittelstand hin überprüfen. Mit wissenschaftlicher Expertise entwickeln wir einen Masterplan Mittelstand BW mit der Dachmarke „Zukunft Mittelstand BW“ und der Kommunikationsstrategie „Land der Familienunternehmen und Weltmarktführer“.
+Masterplan Mittelstand BW: Wir werden Gesetzgebung, Verwaltungsabläufe und Förderprogramme auf ihre Auswirkungen auf den Mittelstand hin überprüfen. Mit wissenschaftlicher Expertise entwickeln wir einen Masterplan Mittelstand BW mit der Dachmarke „Zukunft Mittelstand BW“ und der Kommunikationsstrategie „Land der Familienunternehmen und Weltmarktführer“.
 
 In einer eigenständigen Unternehmensnachfolgekampagne schaffen wir neue Matchingformate und etablieren die Unternehmensnachfolge als Thema in der Techniker- und Hochschulausbildung.
 
@@ -896,12 +860,9 @@ Erleichterungen durch Bürokratieabbau und bessere Rechtsetzung: Bürokratie hat
 
 Durch den Masterplan für die digitale Transformation der Verwaltung, die Modernisierung bestehenden Rechts und durch schlanke und verständliche Regelungen verfolgen wir das ehrgeizige Ziel, Wirtschaft, Bürgerinnen und Bürger sowie die Verwaltung bis zum Ende der Legislaturperiode in Höhe von mehreren hundert Millionen Euro zu entlasten. Schätzungen zeigen ein Potenzial von 200 bis 500 Millionen Euro auf. Dieser Masterplan wird im Rahmen der für den Bürokratieabbau bestehenden Strukturen gebündelt und unter Einbindung von externem Sachverstand und des InnoLab_bw erarbeitet und umgesetzt.
 
-Strukturwandel des Handwerks unterstützend begleiten
+### Strukturwandel des Handwerks unterstützend begleiten
 
-Unser Handwerk steht mitten in einem Strukturwandel. Wir werden die Nachhaltigkeit der Produktion und Arbeitsweise verbessern sowie die notwendigen Transformationsprozesse vorantreiben. Dafür werden wir das Projekt „Dialog und Perspektive Handwerk 2025“ fortsetzen und um das Handlungsfeld „Nachhaltigkeit“ weiterentwickeln. Außerdem werden wir im Rahmen einer Evaluierung prüfen, wie wir die Handlungsfelder „Personaloffensive“, „Strategieoffensive“ und „Digitalisierungsoffensive“ noch besser auf die Bedarfe der Handwerksunternehmen und
-
-
-die sich ändernden wirtschaftlichen und gesellschaftlichen Anforderungen ausrichten können.
+Unser Handwerk steht mitten in einem Strukturwandel. Wir werden die Nachhaltigkeit der Produktion und Arbeitsweise verbessern sowie die notwendigen Transformationsprozesse vorantreiben. Dafür werden wir das Projekt „Dialog und Perspektive Handwerk 2025“ fortsetzen und um das Handlungsfeld „Nachhaltigkeit“ weiterentwickeln. Außerdem werden wir im Rahmen einer Evaluierung prüfen, wie wir die Handlungsfelder „Personaloffensive“, „Strategieoffensive“ und „Digitalisierungsoffensive“ noch besser auf die Bedarfe der Handwerksunternehmen und die sich ändernden wirtschaftlichen und gesellschaftlichen Anforderungen ausrichten können.
 
 Vor allem digitale Plattformen bieten Handwerksunternehmen Chancen auf neue Kunden und Umsatzerlöse, beispielsweise durch digitale Marktplätze. Gemeinsam mit dem baden-württembergischen Handwerkstag werden wir das bestehende Förderangebot daraufhin überprüfen, ob in ausreichendem Maße Unterstützungsmöglichkeiten für den Aufbau digitaler Plattformen gegeben sind.
 
@@ -913,40 +874,35 @@ Das Handwerk spielt eine zentrale Rolle für eine erfolgreiche Energiewende. Ger
 
 Wir machen das Handwerk für junge Menschen – insbesondere für junge Frauen – attraktiver. Familienbewusste Betriebsführung sowie vertiefende Berufsorientierungs- und Vernetzungsangebote für Frauen im Handwerk stehen dabei im Mittelpunkt. Dafür setzen wir das Projekt „Frauen im Handwerk“ fort.
 
-Den Handel zukunftsfähig aufstellen
+### Den Handel zukunftsfähig aufstellen
 
 Der stationäre Einzelhandel leistet als Nahversorger, in der Stadtentwicklung und als Beschäftigungsträger einen wichtigen Beitrag zur Nachhaltigkeit und zur Versorgungssicherheit. Wir wollen unsere Initiative Handel 2030 fortsetzen, neu ausrichten und dabei verstärkt auf Digitalisierung, Strategie, Personal und Nachhaltigkeit setzen. Unsere Innenstadtberaterinnen und -berater werden dies unterstützen.
 
-Die Digitalisierung fordert unseren Einzelhandel massiv heraus. Das reale Einkaufserlebnis wird auch in Zukunft eine wichtige Rolle spielen, doch zugleich werden sogenannte Multi-Channel-Konzepte unabdingbar. Deshalb werden wir den Einzelhandel beim Aufbau lokaler und
-
-regionaler digitaler Plattformen unterstützen, um nachhaltige und regionale Produkte über zusätzliche Absatzkanäle zu vertreiben und einen Beitrag zur Zukunftssicherung unserer Städte zu leisten. Bestehenden Fördermöglichkeiten für lokale Online-Marktplätze wollen wir landesweit ausweiten. Wir wollen Modellregionen fördern, die umweltfreundliche Logistikkonzepte für den Einzelhandel und das Handwerk entwickeln. Damit entlasten wir Umwelt und Infrastruktur, optimieren den Flächenverbrauch und stärken regionale Wirtschaftsstrukturen.
+Die Digitalisierung fordert unseren Einzelhandel massiv heraus. Das reale Einkaufserlebnis wird auch in Zukunft eine wichtige Rolle spielen, doch zugleich werden sogenannte Multi-Channel-Konzepte unabdingbar. Deshalb werden wir den Einzelhandel beim Aufbau lokaler und regionaler digitaler Plattformen unterstützen, um nachhaltige und regionale Produkte über zusätzliche Absatzkanäle zu vertreiben und einen Beitrag zur Zukunftssicherung unserer Städte zu leisten. Bestehenden Fördermöglichkeiten für lokale Online-Marktplätze wollen wir landesweit ausweiten. Wir wollen Modellregionen fördern, die umweltfreundliche Logistikkonzepte für den Einzelhandel und das Handwerk entwickeln. Damit entlasten wir Umwelt und Infrastruktur, optimieren den Flächenverbrauch und stärken regionale Wirtschaftsstrukturen.
 
 Die Zukunft des Einkaufens ist nach wie vor nicht nur digital. Es gibt für den stationären Einzelhandel als Hybrid ein enormes Potenzial. Wir sehen ihn weiterhin als zentralen und unverzichtbaren Bestandteil unseres Ideals einer lebendigen Stadt. Entscheidend ist die Vernetzung von Einzelhandel, Gastronomie und Hotellerie, Tourismus, Kultur, Sport, Event und Erlebnis. So sorgen wir für lebendige Innenstädte, die auch überregional attraktiv sind. Dazu werden wir zusammen mit unseren Städten und Gemeinden ein Neustart-Programm auflegen, in dem wir BestPractice-Lösungen für die Innenstadt der Zukunft finden. Zur Zukunft des Handels werden wir zeitnah einen Rat mit Expertinnen und Experten aus Wissenschaft, Wirtschaftsberatung und Unternehmen einberufen. Die Entwicklung unserer Innenstädte zu attraktiven Veranstaltungsorten und Orten der Freizeitgestaltung wollen wir durch die Förderung geeigneter lokaler Formate unterstützen.
 
 Wir werden Wettbewerbsnachteile des Einzelhandels – wie zum Beispiel kostenfreie Retouren – gegenüber dem Onlinehandel identifizieren und durch eine Bundesratsinitiative auf gleiche Wettbewerbsbedingungen hinwirken. Wir setzen uns auf EU- und Bundesebene für gleiche Wettbewerbsbedingungen bei Produktsicherheit, Verbraucherschutz, Markenschutz, Entlohnung und Besteuerung ein.
 
-Potenziale der Dienstleistungswirtschaft ausschöpfen
+### Potenziale der Dienstleistungswirtschaft ausschöpfen
 
 Die Dienstleistungswirtschaft gewinnt für Baden-Württemberg zunehmend an Bedeutung. Wir werden mit unserer „Dienstleistungsstrategie BW“ die Innovations-, Wertschöpfungs- und Beschäftigungspotenziale in der gesamten Breite der Dienstleistungswirtschaft ausschöpfen und die Struktur unserer Wirtschaft zukunftsgerichtet aufstellen. Ein Schlüssel für eine Dienstleitungsstrategie Baden-Württemberg liegt dabei auf datenbasierten Dienstleistungen (sogenannten Smart Services). Das „Kompetenzzentrum Smart-Services“ erweitern wir in Kooperationen mit den Industrie- und Handelskammern zu einer umfassenden Plattform für niederschwelligen Wissens- und Methodentransfer.
 
-Gemeinwohlökonomie voranbringen
+### Gemeinwohlökonomie voranbringen
 
-Unternehmen tragen Verantwortung in der Frage, wie sie wirtschaften. Wir möchten sie unterstützen, sich dabei
-
-
-stärker am Gemeinwohl zu orientieren. Hierfür wollen wir das Instrument Gemeinwohlbilanz stärken.
+Unternehmen tragen Verantwortung in der Frage, wie sie wirtschaften. Wir möchten sie unterstützen, sich dabei stärker am Gemeinwohl zu orientieren. Hierfür wollen wir das Instrument Gemeinwohlbilanz stärken.
 
 Eine Anlaufstelle für neue Formen des Wirtschaftens soll ein eigenes Förder- und Beratungsprogramm für gemeinwohlbilanzierte Unternehmen und Formen der solidarischen Landwirtschaft entwickeln, um deren Aufbau und Entwicklung zu erleichtern. Für Sozialunternehmen werden wir bessere Finanzierungsinstrumente schaffen. Wir wollen prüfen, inwiefern Unternehmen oder Initiativen, die neue Formen des Wirtschaftens bereits umsetzen, bei Fördermitteln besser berücksichtigt werden können. Mit einem jährlichen Bericht zum Nationalen Wohlfahrtsindex (NWI) für Baden-Württemberg wollen wir den Fokus vom Bruttoinlandsprodukt auf ein gesamtheitlicheres Wohlfahrtsmaß lenken.
 
-### C. ARBEIT
+## C. ARBEIT
 
-Arbeit der Zukunft gestalten
+### Arbeit der Zukunft gestalten
 
 Arbeit verändert sich und diese Veränderung wollen wir nutzen, um die Wettbewerbsfähigkeit unserer Unternehmen zu verbessern, Beschäftigung zu sichern, innovative Lösungen für die großen gesellschaftlichen Herausforderungen zu ermöglichen und Leben, Lernen und Arbeiten besser zu vereinbaren. Digitalisierung und Nachhaltigkeit werden die Arbeit der Zukunft prägen. Diese Transformation gelingt nicht von oben, sondern ist eine gesamtgesellschaftliche Aufgabe, die das Land, Unternehmen, Gewerkschaften, Verbände und die Beschäftigten partnerschaftlich und auf Augenhöhe anpacken müssen. Wir laden die Sozialpartner ein, diesen Prozess gemeinsam mit uns zu gestalten. Die gelebte Sozialpartnerschaft soll ein Erfolgsmodell bleiben.
 
 Wir wollen die berufliche Aus- und Weiterbildung mit allem Nachdruck auf die Transformationsbedarfe ausrichten und die Fachkräftesicherung noch stärker mit der Innovationspolitik verknüpfen. Die Fachkräfteallianz wollen wir weiterentwickeln, für das Ausbildungsbündnis streben wir eine neue Vereinbarung für die Zeit ab 2023 an, um in bewährter Weise mit allen Partnern weiterhin eng zusammenzuarbeiten. Wir brauchen zudem einen Digitalpakt berufliche Aus- und Weiterbildung, um den dringend benötigten Digitalisierungsturbo zu zünden.
 
-Berufliche Ausbildung stärken
+### Berufliche Ausbildung stärken
 
 Die duale Ausbildung ist ein Erfolgsmodell. Sie eröffnet auch in Zukunft hervorragende Berufschancen und ist für Unternehmen wie Beschäftigte von besonderem Wert. Doch nicht zuletzt die Corona-Pandemie hinterlässt auf dem Ausbildungsmarkt deutliche Spuren. Wir wollen die duale Ausbildung attraktiver und mit Blick auf die Digitalisierung für die Zukunft fit machen. Ebenso wollen wir die Gleichrangigkeit von beruflicher und akademischer
 
@@ -973,7 +929,7 @@ Für Jugendliche mit Behinderungen, die die Ausbildungsziele nicht vollständig 
 
 Für Jugendliche, deren Ausbildungsstätte in großer Entfernung von ihrem Wohnort liegt, werden wir die Situation des Azubi-Wohnens in den Blick nehmen und uns für ein bedarfsgerechtes Angebot einsetzen. So stellen wir sicher, dass junge Menschen ihr Grundrecht auf freie Berufswahl ausüben können.
 
-Qualifizierungs- und Weiterbildungskultur stärken und weiterentwickeln
+### Qualifizierungs- und Weiterbildungskultur stärken und weiterentwickeln
 
 Berufliche Weiterbildung ist essenziell, um in der Transformation Zukunft zu gestalten. Sie ist auch notwendig, um in der Transformation die soziale Balance zu wahren. Unsere ressortübergreifende Weiterbildungsoffensive „WEITERmitBILDUNG@BW” ist die Basis, die wir mit der allgemeinen, beruflichen und wissenschaftlichen Weiterbildung besser vernetzen und über die aktuelle Laufzeit von zwei Jahren hinaus verlängern wollen.
 
@@ -983,9 +939,7 @@ Auf Grundlage der Studie „FutureSkills“ werden wir prüfen, wie Weiterbildun
 
 Die Lernfabriken 4.0 an beruflichen Schulen wollen wir verstetigen, flächendeckend ausbauen und noch stärker in der Weiterbildung positionieren. Unsere bewährten Regionalbüros für berufliche Fortbildung wollen wir in weiteren Regionen etablieren. Beratungsangebote wollen wir noch besser aufeinander abstimmen und organisatorische Verknüpfungen prüfen. In der Fachkursförderung sichern wir mit dem Einsatz von ESF-Mitteln ein umfassendes und niedrigschwelliges Angebot an Weiterbildungsmöglichkeiten. Das Pilotprojekt der Qualifizierungsverbünde wollen wir auf Grundlage einer positiven Evaluation im Regelbetrieb fortsetzen.
 
-Modellprojekt Qualifizierungseinkommen: Auch Menschen ohne Anspruch auf staatliche Hilfen sollen die Chance haben, sich beruflich in Vollzeit oder Teilzeit zu qualifizieren. Denn Weiterbildung, Chancen und Perspektiven dürfen nicht am Geldbeutel scheitern. Im Dialog mit den Sozialpartnern und mit der Bundesagentur für Arbeit werden wir deshalb mit einem Modellprojekt „Qualifizierungseinkommen“ neue Wege gehen, um angesichts des
-
-Strukturwandels die Menschen darin zu bestärken, den Wandel aktiv zu nutzen.
+Modellprojekt Qualifizierungseinkommen: Auch Menschen ohne Anspruch auf staatliche Hilfen sollen die Chance haben, sich beruflich in Vollzeit oder Teilzeit zu qualifizieren. Denn Weiterbildung, Chancen und Perspektiven dürfen nicht am Geldbeutel scheitern. Im Dialog mit den Sozialpartnern und mit der Bundesagentur für Arbeit werden wir deshalb mit einem Modellprojekt „Qualifizierungseinkommen“ neue Wege gehen, um angesichts des Strukturwandels die Menschen darin zu bestärken, den Wandel aktiv zu nutzen.
 
 Aus- und Weiterbildung im Handwerk stärken: Unser Ausbildungssystem ist weltweit einzigartig und bildet eine wertvolle Basis für eine starke und innovative Wirtschaft sowie für zufriedene Arbeitskräfte. Wir stärken die Aus- und Weiterbildung im Handwerk. Denn gerade in den nachhaltigen Handwerksberufen wie zum Beispiel der Gebäudesanierung besteht ein enormer Fachkräftebedarf. Moderne und technologisch gut ausgestattete überbetriebliche Berufsbildungsstätten sind für uns ein zentrales Fundament für eine zukunftsorientierte Aus- und Weiterbildung im Handwerk. Für notwendige Investitionen wollen wir Landesmittel bereitstellen und eine zunehmend digitalisierte Wissensvermittlung in den Blick nehmen.
 
@@ -995,12 +949,9 @@ Impulse für die Arbeit von morgen: Wir werden Baden-Württemberg zu einem Muste
 
 Soziales Europa in Baden-Württemberg: Wir stärken die Beratungsangebote für entsandte Beschäftigung zum Schutz vor schlechten Arbeitsbedingungen und Ausbeutung. Konkret wollen wir beispielsweise die aufsuchende, mobile Beratung für Lkw-Fernfahrer und –Lkw-Fernfahrerinnen an Autobahnrastplätzen ausbauen ebenso wie weitere Beratungsstellen in den Bereichen Logistik, Bau, Landwirtschaft und Pflege. Durch mehrsprachige Informationen werden wir die Menschen über ihre Rechte aufklären und informieren.
 
-Gleichstellung und echte Chancengerechtigkeit
+### Gleichstellung und echte Chancengerechtigkeit
 
-Wir wollen die Weichen für mehr Gleichstellung und Chancengerechtigkeit im Berufsleben stellen. Unsere erfolgreichen Unterstützungsprojekte, etwa Maßnahmen zur
-
-
-Berufsorientierung von Mädchen und jungen Frauen für MINT-Berufe, wollen wir ausbauen.
+Wir wollen die Weichen für mehr Gleichstellung und Chancengerechtigkeit im Berufsleben stellen. Unsere erfolgreichen Unterstützungsprojekte, etwa Maßnahmen zur Berufsorientierung von Mädchen und jungen Frauen für MINT-Berufe, wollen wir ausbauen.
 
 Wir wollen einen Lohnatlas für Baden-Württemberg erstellen, mit dem wir die Lohnunterschiede zwischen Frauen und Männern mit Blick auf die Branchen und Regionen transparent machen. Im Öffentlichen Dienst wollen wir ein analytisches Verfahren zur Arbeitsbewertung einführen, um ungleiche Bezahlung zu identifizieren und abzustellen. Wir unterstützen die Initiative der EU, eine Equal-PayRichtlinie zu erarbeiten.
 
@@ -1008,7 +959,7 @@ Gerade in Zeiten von Corona wurde deutlich, dass Berufe mit hohem Frauenanteil s
 
 Den Arbeitsschutz wollen wir im Rahmen der integrativen Aufgabenwahrnehmung stärken.
 
-Digitalisierung der Arbeitswelt menschlich gestalten
+### Digitalisierung der Arbeitswelt menschlich gestalten
 
 Der Strukturwandel aufgrund von Klimaschutz und Digitalisierung wird die Arbeitswelt stark verändern. Die weitreichenden Auswirkungen werden wir in Baden-Württemberg mit einem Beirat begleiten, der die sozialpartnerschaftliche und wissenschaftliche Expertise nutzt.
 
@@ -1016,7 +967,7 @@ Neue Formen der Arbeitsorganisation wie etwa Homeoffice, mobiles Arbeiten und Pl
 
 Gerade die ländlichen Räume können von der Digitalisierung profitieren. Deshalb starten wir ein Pilotprojekt „CoWorking-Spaces“. Es sollen gut ausgestattete Büroräume bereitgestellt werden, um Beschäftigten zumindest an einigen Tagen lange Pendlerwege zu ersparen.
 
-Chancen und Perspektiven für alle
+### Chancen und Perspektiven für alle
 
 Wir unterstützen aktiv den Sozialen Arbeitsmarkt, um langzeitarbeitslosen Menschen durch sozialversicherungspflichtige Beschäftigung die Teilhabe am gesellschaftlichen Leben zu ermöglichen, indem wir in den Ministerien und Behörden Arbeitsplätze zur Verfügung stellen.
 
@@ -1026,44 +977,31 @@ Bei unseren arbeitsmarktpolitischen Maßnahmen nehmen wir die Herausforderungen 
 
 Alle Menschen sollen einen fairen Zugang zum Arbeitsmarkt haben. Gut ausgebildete und integrierte Geflüchtete und Geduldete leisten gerade im Handwerk einen wichtigen Beitrag zur Sicherung des Fachkräftebedarfs. Die Allianz für Fachkräfte wird auch einen Fokus auf diese Personengruppe legen. Baden-Württemberg wird darüber hinaus ein landesweites kommunales Netzwerk für Geflüchtete und Migrantinnen und Migranten aufbauen, um sie schnell und unbürokratisch in das Arbeitsleben zu integrieren. Insbesondere die Anerkennung von im Ausland erworbenen Qualifikationen soll fair und ohne Hürden ermöglicht werden.
 
-Wir wollen das Landestariftreue- und Mindestlohngesetz durch die Absenkung des Schwellenwerts auf 10.000 Euro und die Erweiterung um regionale Tarifverträge stärken. Der vergabespezifische Mindestlohn entspricht jeweils der untersten Entgeltgruppe des Tarifvertrags des öffentlichen Dienstes. Soziale, ökologische und umweltbezogene Kriterien sollen bei der Vergabe Berücksichtigung finden. Die Tariftreue im ÖPNV wollen wir auch bei öffentlichen Aufträgen, die gemeinsam mit Auftraggebern anderer
-
-
-Bundesländer oder aus Nachbarländern erfolgt, durchgängig gewährleisten.
+Wir wollen das Landestariftreue- und Mindestlohngesetz durch die Absenkung des Schwellenwerts auf 10.000 Euro und die Erweiterung um regionale Tarifverträge stärken. Der vergabespezifische Mindestlohn entspricht jeweils der untersten Entgeltgruppe des Tarifvertrags des öffentlichen Dienstes. Soziale, ökologische und umweltbezogene Kriterien sollen bei der Vergabe Berücksichtigung finden. Die Tariftreue im ÖPNV wollen wir auch bei öffentlichen Aufträgen, die gemeinsam mit Auftraggebern anderer Bundesländer oder aus Nachbarländern erfolgt, durchgängig gewährleisten.
 
 Wir prüfen die Weiterentwicklung der Meisterprämie zu einem Aufstiegsbonus.
 
-### D. BADEN-WÜRTTEMBERG IM WELTWEITEN WETTBEWERB
+## D. BADEN-WÜRTTEMBERG IM WELTWEITEN WETTBEWERB
 
-Weltweit für den Standort werben
+### Weltweit für den Standort werben
 
 Transformation und Strukturwandel durch Digitalisierung und Nachhaltigkeit bedeuten nicht nur für unsere Unternehmen, sondern auch für den Standort Baden-Württemberg insgesamt, enorme Herausforderungen. Bei den anstehenden Investitions- und Standortentscheidungen werden Zukunftschancen neu verteilt. Erfolg im Standortwettbewerb ist kein Selbstläufer. Wir müssen mit überzeugenden Angeboten um jede Standortentscheidung kämpfen.
 
 Eine „Task Force Unternehmensansiedlung“ soll künftig maßgeschneiderte und ressortübergreifende Angebote forcieren und koordinieren (One-Stop-Agency für Ansiedlungen). Gleichzeitig setzen wir auch künftig auf unsere Messegesellschaften als Schaufenster Baden-Württembergs. Der Fachkräftemangel ist eines der größten Probleme, mit dem unsere Unternehmen zu kämpfen haben. Baden-Württemberg steht dabei in Konkurrenz mit anderen Ländern und starken Wirtschaftsregionen der Welt. Wir bauen deshalb die Landeskampagne aus und internationalisieren sie. Mit ihr wollen wir Baden-Württemberg bekannt und für qualifizierte Fachkräfte und Young Potentials attraktiv machen.
 
-Global denken, global agieren – Impulse für eine nachhaltige Außenwirtschaftspolitik
+### Global denken, global agieren – Impulse für eine nachhaltige Außenwirtschaftspolitik
 
 Unsere Standortförderungsgesellschaft Baden-Württemberg International (bw-i) spielt für kleine und mittlere Unternehmen bei der Erschließung ausländischer Märkte und für Hochschulen und Forschungseinrichtungen eine zentrale Rolle. Wir stärken die Ausrichtung von bw-i in den Bereichen der nachhaltigen Wirtschaft, der Wissenschaft, des Klimaschutzes und der Digitalisierung und treiben den laufenden Strategieprozess weiter voran.
 
-Wir werden unsere Exportförderung ausweiten und neu ausrichten. Dabei haben wir insbesondere innovative und bürokratiearme Lösungen für Lieferketten im Blick: Eine Förderung soll berücksichtigen, ob die Unternehmen ihrer sozialen und ökologischen Verantwortung in der internationalen Lieferkette gerecht werden. Hier werden wir weiterhin eng mit den Verbänden, Kammern und relevanten gesellschaftlichen Gruppen zusammenarbeiten. Über bw-i ermöglichen wir zusätzliche Angebote wie multilaterale
-
-Kooperationsallianzen und wollen einen Fokus auf die Möglichkeiten der hybriden Geschäftsanbahnung richten.
+Wir werden unsere Exportförderung ausweiten und neu ausrichten. Dabei haben wir insbesondere innovative und bürokratiearme Lösungen für Lieferketten im Blick: Eine Förderung soll berücksichtigen, ob die Unternehmen ihrer sozialen und ökologischen Verantwortung in der internationalen Lieferkette gerecht werden. Hier werden wir weiterhin eng mit den Verbänden, Kammern und relevanten gesellschaftlichen Gruppen zusammenarbeiten. Über bw-i ermöglichen wir zusätzliche Angebote wie multilaterale Kooperationsallianzen und wollen einen Fokus auf die Möglichkeiten der hybriden Geschäftsanbahnung richten.
 
 Die über bw-i angebotene Teilnahme auf Auslandsmessen ist für kleine und mittlere Unternehmen, Start-ups, Forschungseinrichtungen, Regionen, Kommunen und Clusterinitiativen – gerade nach der Corona-Pandemie – besonders wichtig. Auch hier werden wir verstärkt auf hybride Formate setzen.
 
 Wir werden die Eröffnung neuer Wirtschaftsrepräsentanzen prüfen, um die Möglichkeiten für kleine und mittlere Unternehmen in strategisch wichtigen Zukunftsmärkten und Fokusländern zu erweitern. Die Zukunftsmärkte Afrikas für Wachstumsbranchen wie erneuerbare Energien (z. B. grüner Wasserstoff), Umwelttechnik und Gesundheitswirtschaft behalten wir besonders im Blick.
 
+# 4. Wissenschaft, Kultur und Medien 
 
-49
-
-04 NEUES WAGEN:
-
-## FÜR EINE STARKE WISSENSCHAFT,
-
-### INNOVATIVE FORSCHUNG UND
-
-
-4. NEUES WAGEN: FÜR EINE STARKE WISSENSCHAFT, INNOVATIVE FORSCHUNG UND KREATIVE FREIRÄUME
+## 04 NEUES WAGEN: FÜR EINE STARKE WISSENSCHAFT, INNOVATIVE FORSCHUNG UND  UND KREATIVE FREIRÄUME
 
 Unser Wohlstand basiert auf der Kreativität und dem Wissen der Menschen im Land.
 
@@ -1075,13 +1013,11 @@ In der vergangenen Legislaturperiode fanden zwei Beteiligungsprozesse statt: der
 
 Medien und Medienpolitik werden zunehmend bedeutend für unsere Gesellschaft und unser Land. Medienpolitik ist ein wichtiges Feld für eine moderne Gesellschafts- und Wirtschaftspolitik. Die Medienwelt ist unübersichtlich geworden und nicht immer von Qualitätsjournalismus geprägt – bisweilen geraten auch bewusste Manipulationen und Fake News in die öffentliche Berichterstattung. Medienangebot und -nutzung haben mittelsowie unmittelbaren Einfluss auf die Meinungsbildung und damit auf demokratische Entscheidungen und den Zusammenhalt der Gesellschaft.
 
-Aufgrund der angespannten Haushaltssituation stehen sämtliche zusätzlichen finanzwirksamen Maßnahmen auch in diesem Kapitel unter Haushaltsvorbehalt. Das bedeutet: Erst wenn es wieder finanzielle Spielräume gibt, können ausgewählte Maßnahmen – eventuell in Stufen – umgesetzt
+Aufgrund der angespannten Haushaltssituation stehen sämtliche zusätzlichen finanzwirksamen Maßnahmen auch in diesem Kapitel unter Haushaltsvorbehalt. Das bedeutet: Erst wenn es wieder finanzielle Spielräume gibt, können ausgewählte Maßnahmen – eventuell in Stufen – umgesetzt werden. Ordnungspolitische und nicht finanzrelevante Maßnahmen sind davon nicht berührt.
 
-werden. Ordnungspolitische und nicht finanzrelevante Maßnahmen sind davon nicht berührt.
+## A. WISSENSCHAFT
 
-### A. WISSENSCHAFT
-
-Kluge Investitionen für einen starken Wissenschaftsstandort
+### Kluge Investitionen für einen starken Wissenschaftsstandort
 
 Wir haben die Hochschulen finanziell so gut aufgestellt wie nie zuvor: Mit der neuen Hochschulfinanzierungsvereinbarung bieten wir unserer Wissenschaftslandschaft auch in schwierigen Zeiten eine verlässliche Perspektive: Wir bekennen uns zur Umsetzung der Hochschulfinanzierungsvereinbarung II bis 2025 und wollen in einer nachfolgenden Vereinbarung die zukunftssichere Finanzierung weiterhin gewährleisten. Zu deren Vorbereitung wollen wir mit Hilfe von externen Expertinnen und Experten die Effektivität der Finanzierungsinstrumente begutachten, um die Qualität unserer Hochschulen weiter zu steigern, richtige Impulse zu setzen und Prozesse zu stärken.
 
@@ -1089,20 +1025,17 @@ Wir setzen uns dafür ein, dass bei öffentlichen Drittmitteleinwerbungen ein Au
 
 Wir bewahren unsere differenzierte, vielfältige und dezentrale Hochschullandschaft von Universitäten über die Hochschulen für Angewandte Wissenschaften und Duale Hochschulen über Pädagogische Hochschulen, Kunst- und Musikhochschulen bis hin zu unseren staatlich anerkannten Hochschulen in privater Trägerschaft wie zum Beispiel die kirchlichen Hochschulen mit ihren spezifischen Studienangeboten.
 
-Nach der Pandemie die Digitalisierung vorantreiben
+### Nach der Pandemie die Digitalisierung vorantreiben
 
 Wir werden mit einem Dialogprozess „Zukunftslabor Hochschulen in der digitalen Welt“ einen Raum schaffen, in dem über die Erfahrungen aus der Pandemie und daraus entstehende Zukunftsfragen gesprochen und gemeinsame Maßnahmen entwickelt werden. Dabei werden wir alle Statusgruppen einbeziehen. Dazu gehört für uns die Frage, wie in den Hochschulen die Digitalisierung auf allen Ebenen in Forschung, Lehre und Management verankert, umgesetzt und auch für die Zeit nach der Pandemie vorangetrieben werden kann.
 
-Es ist erfolgreich gelungen, den Lehrbetrieb weitgehend digital umzustellen und neue Formate zu etablieren. Wir
-
-
-werden die Hochschulen dabei unterstützen, digitale Lehrmodelle, die sich in der Krise bewährt haben und die das Lehrangebot bereichern, dauerhaft als sinnvolle Ergänzung zur Präsenzlehre zu erhalten und mit ihr zu verzahnen. Darüber hinaus werden wir gemeinsam mit den Hochschulen die digitale Transformation vorantreiben – von Online-Lehre über Campus-Management bis hin zu Forschungsdateninfrastrukturen und Hoch- und Höchstleistungsrechnen.
+Es ist erfolgreich gelungen, den Lehrbetrieb weitgehend digital umzustellen und neue Formate zu etablieren. Wir werden die Hochschulen dabei unterstützen, digitale Lehrmodelle, die sich in der Krise bewährt haben und die das Lehrangebot bereichern, dauerhaft als sinnvolle Ergänzung zur Präsenzlehre zu erhalten und mit ihr zu verzahnen. Darüber hinaus werden wir gemeinsam mit den Hochschulen die digitale Transformation vorantreiben – von Online-Lehre über Campus-Management bis hin zu Forschungsdateninfrastrukturen und Hoch- und Höchstleistungsrechnen.
 
 Wie auf Landes- und Bundesebene unterstützen wir auch auf EU-Ebene das Ziel, Open Access und ein wissenschafts- und bildungsfreundliches Urheberrecht zum Standard zu machen.
 
 Die Digitalisierungsanstrengungen im Hochschulbereich gestalten wir nachhaltig. Wir setzen uns für Green Coding, also umweltfreundliche und stromsparende Programmierung, ein.
 
-Köpfe für ein starkes Land
+### Köpfe für ein starkes Land
 
 Mit vier von bundesweit elf Exzellenz-Universitäten ist Baden-Württemberg erfolgreicher als jedes andere Land. Wir sorgen dafür, dass das so bleibt. Dafür brauchen wir exzellente Köpfe von hier und aus aller Welt. Wir sorgen für attraktive Rahmenbedingungen für Studium, für Spitzenberufungen und für flexiblere Personalkategorien. Gleichzeitig stellen wir unseren Ausbildungs- und Wirtschaftsstandort durch international attraktive Hochschulen gut auf. Wir prüfen in einem ersten Schritt die vollständige Übertragung des Berufungsverfahrens an unsere Exzellenzuniversitäten – mit dem Ziel, die Eigenverantwortung unserer Hochschulen weiter zu stärken.
 
@@ -1110,7 +1043,7 @@ Wir sichern die Weiterbildungsstrategie der Landesregierung langfristig ab. Auch
 
 Wir werden hochwertige Promotionen aus allen Hochschularten fördern und auch Promovierenden aus den Hochschulen für Angewandte Wissenschaften beste Rahmenbedingungen bieten. Wir werden die vorhandenen Graduiertenschulen und die Landesförderung strategisch weiterentwickeln. Die Weiterentwicklungsklausel werden wir nutzen für eine Hochschulverbundstruktur und dabei eine fachkulturell differenzierte und individuell festzustellende Forschungsstärke der betreuenden Hochschullehrerinnen und Hochschullehrer sicherstellen. Forschungsstarke Professorinnen und Professoren an nicht-universitären Hochschulen sollen im Einzelfall mehr Flexibilität zur Reduzierung ihres Lehrdeputats erhalten können.
 
-Wir fördern die Talente von morgen
+### Wir fördern die Talente von morgen
 
 Uns liegen die Studierenden am Herzen – sie sind die Zukunft des Landes: Das Land hat Zehntausende neue Studienplätze geschaffen und wir sichern diese. Wo nötig, bauen wir Studienplätze aus. Heute studiert rund ein Viertel mehr junger Menschen an unseren Hochschulen als 2010.
 
@@ -1122,20 +1055,17 @@ Um die coronabedingten Lerndefizite zu reduzieren, legen wir kurzfristig ein Pro
 
 Die MINT-Kapazitäten werden wir beibehalten und die neu geschaffenen IT-Studiengänge verstetigen. Den grundsätzlichen Bedarf im Bereich Soziale Arbeit erkennen wir an.
 
-Diverse und barrierefreie Hochschule
+### Diverse und barrierefreie Hochschule
 
 Wissenschaft lebt von Vielfalt: Wir wollen Diversität, Inklusion sowie Barrierefreiheit an den Hochschulen fördern und Studierende mit Erkrankungen und Beeinträchtigungen unterstützen, zum Beispiel durch das Studienzentrum für Sehgeschädigte Karlsruhe als Dienstleistungszentrum unserer Hochschulen. Das Zentrum für Inklusive Bildung verstetigen wir. Wir setzen uns für einen fairen Nachteilsausgleich, für inklusive Prüfungsangebote und für die Sensibilisierung an den Hochschulen ein.
 
-Die Chancengleichheit von Geschlechtern im Hochschulbereich sehen wir als eine zentrale Aufgabe. Wir werden weitere Anstrengungen unternehmen, um echte Gleichberechtigung zu erreichen. Dazu zählen für uns unter anderem eine Verbesserung der Familienfreundlichkeit sowie eine aktive Förderung von (Nachwuchs-)
+Die Chancengleichheit von Geschlechtern im Hochschulbereich sehen wir als eine zentrale Aufgabe. Wir werden weitere Anstrengungen unternehmen, um echte Gleichberechtigung zu erreichen. Dazu zählen für uns unter anderem eine Verbesserung der Familienfreundlichkeit sowie eine aktive Förderung von (Nachwuchs-) Wissenschaftlerinnen und mehr Frauen in Leitungspositionen. Zudem setzen wir auf eine transparente Erfassung und Aufbereitung gleichstellungsrelevanter Daten. Unter Gender-Gesichtspunkten unterstützen wir insbesondere Angebote für Frauen und Männer in Studiengängen, in denen diese jeweils unterrepräsentiert sind, insbesondere Frauen in MINT-Studiengängen.
 
-
-Wissenschaftlerinnen und mehr Frauen in Leitungspositionen. Zudem setzen wir auf eine transparente Erfassung und Aufbereitung gleichstellungsrelevanter Daten. Unter Gender-Gesichtspunkten unterstützen wir insbesondere Angebote für Frauen und Männer in Studiengängen, in denen diese jeweils unterrepräsentiert sind, insbesondere Frauen in MINT-Studiengängen.
-
-Klimaschutz in der Wissenschaft
+### Klimaschutz in der Wissenschaft
 
 Unseren Hochschulen kommt eine zentrale Rolle zu, wenn es darum geht, dass das Land so schnell wie möglich entlang des 1,5-Grad-Ziels Klimaneutralität mit Netto-Null-Emissionen erreicht. Dazu betrachten wir sie vollumfänglich auch unter ökologischen und nachhaltigen Gesichtspunkten. Wir werden schnell wirksame Maßnahmen für landeseigene Hochschulen, Studierendenwerke und Wissenschaftseinrichtungen beschließen und zeitnah umsetzen: Dazu gehören die klimagerechte Errichtung weiterer studentischer Wohnungen und der emissionsfreie Campus an der Universität Stuttgart als Testfeld für emissionsfreie Mobilität. Bei der Einrichtung eines Reallabors „Klimastadt“ binden wir unsere Hochschulen und Wissenschaftseinrichtungen eng ein. Zudem führen wir einen zweistufigen Wettbewerb für die erste klimaneutrale Hochschule in Baden-Württemberg durch.
 
-High-Tech-Agenda für den Strukturwandel
+### High-Tech-Agenda für den Strukturwandel
 
 Im Rahmen der „High-Tech-Agenda für Schlüsseltechnologien und Zukunftsfelder“ werden wir die Forschung zu Schlüsseltechnologien und die Etablierung von dauerhaften Strukturen für die Forschung an Zukunftsthemen voranbringen. Strategische und disziplinübergreifende Themen für Baden-Württemberg sind der Wandel der Mobilität, die nachhaltige Entwicklung unserer Gesellschaft, Energie- und Klimaforschung, der Fortschritt in Medizin und Lebenswissenschaften, Digitalisierung und KI und die Quantenwissenschaften.
 
@@ -1149,7 +1079,7 @@ Die geschaffenen Innovationscampus-Projekte werden wir als Leuchttürme der Spit
 
 Wir wollen bis zu zwei weitere Innovationscampus-Modelle einrichten. Wir setzen den ressortübergreifenden Strategiedialog zur Transformation der Automobilwirtschaft (SDA BW) und das Forum Gesundheitsstandort Baden-Württemberg unter Beteiligung aller betroffenen Ressorts unter Federführung des Staatsministeriums fort. Wir werden die Expertise der Wissenschaft – zum Beispiel aus dem Exzellenzcluster Architektur in Stuttgart auf dem Gebiet innovativer, klimaschonender Baumaßnahmen – in den Strategiedialog „Bezahlbares Wohnen und innovatives Bauen” einbringen. Innovative und klimafreundliche Baumaßnahmen pilotieren wir im Hochschulbereich und bei Studierendenwerken.
 
-Zukunftsfeld: Gesundheitsstandort BW
+### Zukunftsfeld: Gesundheitsstandort BW
 
 Die Stärkung des Gesundheitsstandorts Baden-Württemberg im internationalen Wettbewerb ist von entscheidender Bedeutung. Durch gezielte Maßnahmen soll vor allem die medizinische Forschung und Entwicklung noch weiter gestärkt werden. Über den Innovationscampus „Health & Life Science Alliance“ hinaus werden wir den beschlossenen, landesweiten Kooperationsverbund Hochschulmedizin BW zu einer Erfolgsgeschichte machen. Dafür schaffen wir umgehend langfristige, finanzielle Planungssicherheit. Alle Uniklinika des Landes bündeln mit den medizinischen Fakultäten der Universitäten die Kräfte und schaffen durch Digitalisierung die Grundlage für ein neues Modell der Kooperation. Zudem wird der Kooperationsverbund die Schnittstellen im Bereich der Krankenversorgung zu den Maximalversorgern wie dem Klinikum Stuttgart ausbauen. Im Lichte dessen wird eine Weiterentwicklung der Stuttgarter Kliniken geprüft.
 
@@ -1158,7 +1088,7 @@ Aufgrund der spezifischen Verantwortlichkeiten des Landes für die medizinische 
 Reformen im Bereich der Gesundheitsberufe sind ein zentrales Element zur Stärkung des Gesundheitssystems. Mit der geplanten Reform des Humanmedizin-Studiums wird die Qualität der Medizinausbildung weiterentwickelt. Die weitere Akademisierung der Gesundheitsberufe schafft attraktive berufliche Optionen und stärkt das Qualifikationspotenzial zum Nutzen aller. Die Forderung nach einer Kostenbeteiligung des Bundes bleibt bestehen.
 
 
-Zukunft unternehmen: Innovation für die Transformation
+### Zukunft unternehmen: Innovation für die Transformation
 
 Wir werden – gemeinsam mit der Wirtschaft – eine hochschulische Plattform für Gründungen mit europäischer Strahlkraft schaffen. Um den mittel- und langfristigen, sozioökonomischen Folgen der Corona-Pandemie sowie den zukünftigen ökologischen Herausforderungen zu begegnen, müssen Forschungsergebnisse als soziale und technische Innovationen schneller und flächendeckender in die Anwendung gebracht werden.
 
@@ -1166,28 +1096,28 @@ Hierzu werden wir unsere transfer- und gründungsbezogenen Förderstrukturen kon
 
 Wir ermöglichen mehr Innovationen im ganzen Land, unter anderem durch Regionale Hochschulinnovationspartnerschaften: personengebundene und hochschulartenübergreifende Netzwerke zwischen Universitäten, Hochschulen für angewandte Wissenschaften, DHBW-Standorten und Pädagogischen Hochschulen auf der einen und Unternehmen sowie regionalen Akteuren wie Raumschaften auf der anderen Seite. Mit dieser Strategie stärken wir die anwendungsorientierte Forschung an den nicht-universitären Hochschulen des Landes. Wir werden zudem prüfen, wie wir den Austausch zwischen den Hochschulen und den jeweiligen kommunalen und regionalen Akteuren strukturiert verbessern können. Für einen noch stärkeren Austausch zwischen Wirtschaft und Wissenschaft wünschen wir uns mehr Brückenprofessuren.
 
-Hochschulen und Klimawandel: Schützen und Bewahren
+### Hochschulen und Klimawandel: Schützen und Bewahren
 
 Wir führen einen Ideenwettbewerb zur Identifizierung neuer, origineller Forschungsansätze zum Klimawandel durch. Außerdem werden wir die interdisziplinäre Forschung, zum Beispiel zur Klimaresilienz von Ökosystemen oder zu Umweltmedizin fördern. Damit die Ergebnisse nachhaltiger Wissenschaft noch schneller und effektiver in Wirtschaft und Gesellschaft zur Anwendung gebracht werden, beauftragen wir Expertinnen und Experten, Handlungsempfehlungen zu erarbeiten. Zudem sollen unsere Mensen nachhaltiger werden.
 
 Aufbauend auf unserer Landesinitiative „Integrative Taxonomie“ werden wir eine Strategie zum Biodiversitätsmonitoring mit den Naturkundemuseen Karlsruhe und Stuttgart aufsetzen. Wir setzen uns für unsere Staatlichen Naturkundemuseen ein und machen das Staatliche Naturkundemuseum Stuttgart fit für die Leibniz-Gemeinschaft.
 
-Wissenschaft im Austausch
+### Wissenschaft im Austausch
 
 Wir fördern den Dialog zwischen Wissenschaft und Gesellschaft. Die Pandemie hat erneut gezeigt: Wissenschaftskommunikation ist elementar für die Krisenfestigkeit einer Gesellschaft. Deshalb werden wir die Wissenschaftskommunikation stärken. Bei gesellschaftlich wichtigen Themen wie Inklusion, Biodiversität/Taxonomie und nachhaltige Mobilität haben wir neue Projekte in der Wissenschaft geschaffen, die wir fortsetzen werden. Dazu gehören auch das Institut für Nachhaltige Mobilität und die Dokumentationsstelle Rechtsextremismus, die wir um eine universitäre Forschungsstelle Rechtsextremismus ergänzen werden. Unsere Reallabore, mit denen wir Wissenschaft und Gesellschaft zu den großen gesellschaftlichen Herausforderungen miteinander in einen strukturierten Dialog gebracht haben, führen wir fort.
 
 Ethik ist Teil von Freiheit: Wir begrüßen, dass unsere Hochschulen ethische Fragen zusammen mit Gesellschaft, Politik und Wirtschaft in offenen Räumen diskutieren und wenn sie vermehrt Angebote zu ethischen Grundfragen im Studium machen. Wir unterstützen den Ethik-Beirat zu Künstlicher Intelligenz und das einmalige 3R-Netzwerk zur Reduktion von Tierversuchen, das wir verstetigen werden. Wir setzen uns für die Errichtung einer bundesweiten Negativdatenbank ein, um Versuchswiederholungen zu vermeiden.
 
-Forschungs- und Innovationsregion Nr. 1 in Europa
+### Forschungs- und Innovationsregion Nr. 1 in Europa
 
 Wir setzen uns auch in Zukunft für eine starke europäische Forschungspolitik und die Internationalisierung der Hochschulen und Forschungseinrichtungen ein. Internationale Studierende und Wissenschaftlerinnen und Wissenschaftler, die im Land bleiben wollen, unterstützen wir durch geeignete Maßnahmen.
 
 Die herausragende Beteiligung der baden-württembergischen Hochschulen am neuen Forschungsrahmenprogramm der EU „Horizont Europa“ und an anderen EU-Programmen sichern wir, insbesondere um mit innovativen Methoden aus Natur- und Sozialwissenschaften die Herausforderungen im Bereich Klima und Nachhaltigkeit anzugehen. Die baden-württembergischen Hochschulen beteiligen sich erfolgreich an den Europäischen Hochschulen. Wir prüfen weitere Anpassungen im Hochschulrecht, um Mobilität und Zusammenarbeit innerhalb der Verbünde ohne Hürden zu ermöglichen.
 
 
-### B. KUNST UND KULTUR
+## B. KUNST UND KULTUR
 
-Kunst und Gesellschaft im ganzen Land stärken
+### Kunst und Gesellschaft im ganzen Land stärken
 
 Impulsprogramm „Kultur nach Corona“: Im Vordergrund steht zunächst, die Folgen zu bewältigen, die die CoronaPandemie für die Kunst- und Kulturszene bedeutet. Unser Ziel ist, dass wir den herausragenden Kunst- und Kulturstandort Baden-Württemberg – und damit auch die Künstlerinnen und Künstler, denen dieser kulturelle Reichtum zu verdanken ist – erfolgreich durch diese schwierige Zeit bringen.
 
@@ -1205,88 +1135,76 @@ Künstlerinnen und Künstler stärken: Künstlerinnen und Künstler sind für ei
 
 Kultur in der Breite stärken: Wir wollen die Chorleiter- und Dirigentenpauschale für Chor- und Blasmusikvereine in Etappen weiter erhöhen und uns bei der Förderung künftig an der Zahl der Ensembles orientieren. Die Landesförderung für die Heimat- und Trachtenvereine soll verstetigt werden. Eine Erhöhung der Förderung für die Amateurtheater soll geprüft werden.
 
-Zukunft kreativ und nachhaltig gestalten
+### Zukunft kreativ und nachhaltig gestalten
 
 Green Culture: Auch im Bereich Klimaschutz und Nachhaltigkeit wollen die Kultur- und Kreativeinrichtungen einen substanziellen Beitrag leisten. Die vom Land getragenen und geförderten Institutionen sollen dafür Konzepte entwickeln. Basis sollen die Nachhaltigkeitsziele der Vereinten Nationen sein. Mit der Green-Shooting-Initiative ist die Medien- und Filmgesellschaft Baden-Württemberg bereits für den Filmbereich bundesweit aktiv geworden. Erfahrungen wie diese und die des Green Club Index wollen wir auswerten. Wir richten eine zentrale Beratungsstelle sowie einen Förderfonds ein, um dies zu unterstützen. Die Einführung eines ÖPNV-Kombi-Tickets für Veranstaltungen der Landeseinrichtungen werden wir prüfen.
 
-Stärkung der Film-, Animations- und Kreativszene: Ein Schwerpunkt unserer Filmförderstrategie liegt neben dem Spiel- und Dokumentarfilm auf den Feldern der Animation, der visuellen Effekte und der Games-Entwicklung. Diesen Bereich gilt es bundesweit konkurrenzfähig auszustatten. Mit der „FMX“ haben wir Europas größte Konferenz für Animation, Effekte, Spiele und immersive Medien im Land und damit einen internationalen Kristallisationspunkt etabliert. Das Land wird das Animation-Media-Cluster mit seinen kreativen Dienstleistern und seinen international anerkannten Hochschulen inklusive der Filmakademie
-
-
-Baden-Württemberg fortentwickeln und seine internationale Sichtbarkeit stärken. Deren Kooperation mit der Akademie für Darstellende Kunst Baden-Württemberg im Bereich Filmschauspiel soll intensiviert werden. Wir werden die in der Filmkonzeption 2020 entwickelten Ergebnisse zügig umsetzen. Die Förderung der für das Land so wichtigen Kreativwirtschaft soll durch Programme, Fortbildungs- und Beratungsangebote ausgebaut werden.
+Stärkung der Film-, Animations- und Kreativszene: Ein Schwerpunkt unserer Filmförderstrategie liegt neben dem Spiel- und Dokumentarfilm auf den Feldern der Animation, der visuellen Effekte und der Games-Entwicklung. Diesen Bereich gilt es bundesweit konkurrenzfähig auszustatten. Mit der „FMX“ haben wir Europas größte Konferenz für Animation, Effekte, Spiele und immersive Medien im Land und damit einen internationalen Kristallisationspunkt etabliert. Das Land wird das Animation-Media-Cluster mit seinen kreativen Dienstleistern und seinen international anerkannten Hochschulen inklusive der Filmakademie Baden-Württemberg fortentwickeln und seine internationale Sichtbarkeit stärken. Deren Kooperation mit der Akademie für Darstellende Kunst Baden-Württemberg im Bereich Filmschauspiel soll intensiviert werden. Wir werden die in der Filmkonzeption 2020 entwickelten Ergebnisse zügig umsetzen. Die Förderung der für das Land so wichtigen Kreativwirtschaft soll durch Programme, Fortbildungs- und Beratungsangebote ausgebaut werden.
 
 Dialog Populäre Kultur: Die Kulturpolitik der Zukunft muss sich stärker der populären Kultur öffnen, über die weite Publikumsteile, Künstlerinnen und Künstler kulturelle Erfahrungen machen. Daher werden wir den ersten partizipativen „Dialog Populäre Kultur“ starten. Wir wollen neue Teilhabechancen erschließen, bestehende Programme evaluieren, Akteure vernetzen und Leitlinien für die Förderung der Pop-Kultur erarbeiten. Erste Modellprojekte sollen parallel erprobt werden.
 
-Orte des Wissens und der Kultur öffnen
+### Orte des Wissens und der Kultur öffnen
 
 Digitale Wege zur Kultur: Wir wollen – aufbauend auf den Handlungsempfehlungen aus dem Kulturdialog – die Digitalisierung im Kulturbereich in allen Sparten weiter voranbringen, auch um dadurch ein breiteres und junges Publikum zu erreichen. Wir setzen in den Kultureinrichtungen des Landes auf Open Access, Open Data und Open Source, die Definition und Nutzung gemeinsamer Schnittstellen und einheitlicher Standards sowie einen Ausbau der Kooperation, der Vernetzung und des Wissenstransfers.
 
 Bibliotheken: Wir wollen die Potenziale öffentlicher Bibliotheken als „Dritter Orte“ erschließen und Anreize zur Zusammenarbeit schaffen. Dazu werden wir die Ergebnisse des Bibliotheksentwicklungsplans auch im Hinblick auf eine Umsetzung prüfen, die Fachstellen für das öffentliche Bibliothekswesen stärken und die Beratung von öffentlichen Bibliotheken insbesondere in Fragen der Digitalisierung intensivieren. Um die Ausleihe digitaler Pflichtexemplare in den wissenschaftlichen Bibliotheken des Landes einfacher zu gestalten, prüfen wir eine entsprechende Ergänzung des Pflichtexemplarrechts.
 
-Sanierung und Erweiterung kultureller Einrichtungen: Wir werden gemeinsam mit den Städten Stuttgart und Karlsruhe die Sanierung und Erweiterung der Staatstheater vorantreiben. Weitere bedeutende Bauvorhaben sind die Sanierung der Staatlichen Kunsthalle Karlsruhe, des Badischen Landesmuseums und der Württembergischen Landesbibliothek, der Neubau eines Teils der Kunsthalle Karlsruhe, die Weiterentwicklung der Staatlichen Museen für Naturkunde sowie die geplanten Museums-Zentraldepots. Auch wollen wir gemeinsam mit der Stadt Stuttgart ein neues Museumsgebäude für das Linden-Museum errichten. Zu entscheiden ist über die längerfristige Nutzung des Kunstgebäudes am Stuttgarter Schlossplatz. Alle Baumaßnahmen des Landes werden weiterhin durch ein effektives und gegebenenfalls externes
+Sanierung und Erweiterung kultureller Einrichtungen: Wir werden gemeinsam mit den Städten Stuttgart und Karlsruhe die Sanierung und Erweiterung der Staatstheater vorantreiben. Weitere bedeutende Bauvorhaben sind die Sanierung der Staatlichen Kunsthalle Karlsruhe, des Badischen Landesmuseums und der Württembergischen Landesbibliothek, der Neubau eines Teils der Kunsthalle Karlsruhe, die Weiterentwicklung der Staatlichen Museen für Naturkunde sowie die geplanten Museums-Zentraldepots. Auch wollen wir gemeinsam mit der Stadt Stuttgart ein neues Museumsgebäude für das Linden-Museum errichten. Zu entscheiden ist über die längerfristige Nutzung des Kunstgebäudes am Stuttgarter Schlossplatz. Alle Baumaßnahmen des Landes werden weiterhin durch ein effektives und gegebenenfalls externes Kostenmanagement begleitet. Eine besondere Rolle spielt das Deutsche Literaturarchiv Marbach, das von Land und Bund gemeinsam finanziert wird. Es soll zu einer Forschungsinfrastruktureinrichtung weiterentwickelt werden. Dies erfordert eine strukturelle und bauliche Erweiterung und Sanierungsmaßnahmen.
 
-Kostenmanagement begleitet. Eine besondere Rolle spielt das Deutsche Literaturarchiv Marbach, das von Land und Bund gemeinsam finanziert wird. Es soll zu einer Forschungsinfrastruktureinrichtung weiterentwickelt werden. Dies erfordert eine strukturelle und bauliche Erweiterung und Sanierungsmaßnahmen.
-
-Verantwortungsvoller Umgang mit unserem kulturellen Erbe
+### Verantwortungsvoller Umgang mit unserem kulturellen Erbe
 
 Provenienz und Restitution: Wir setzen die konsequente wissenschaftliche Aufarbeitung der Provenienz unserer musealen und wissenschaftlichen Sammlungen fort und legen diese transparent offen. Schwerpunkte sind dabei die Provenienzforschung bezogen auf NS-Raubgut und auf in kolonialem Unrechtskontext erworbene Objekte. Daraus können Rückgaben einschlägiger Objekte folgen. Die Namibia-Initiative soll weitergeführt werden. Die Zuständigkeit zur Entscheidung über Rückgaben wird auf das für Kunst und Kultur zuständige Ministerium übertragen. Bei Vorgängen von besonderer Bedeutung ist eine Kabinettsbefassung erforderlich.
 
 Archäologie und Denkmalschutz: Die Konzeption „Keltenland Baden-Württemberg“ werden wir fortführen und weiterentwickeln. Sie macht das keltische Erbe Baden-Württembergs über das ganze Land hinweg sichtbar und erfahrbar. Darüber hinaus sollen auch die anderen archäologischen Fundorte (insbesondere im Zusammenhang mit dem UNESCO-Weltkulturerbe) stärker in der Kultur- und Forschungsarbeit des Landes eingebunden und sichtbar gemacht werden.
 
-### C. MEDIENPOLITIK
+## C. MEDIENPOLITIK
 
-Medienpolitik koordinieren und voranbringen
+### Medienpolitik koordinieren und voranbringen
 
 Der gestiegenen Bedeutung entsprechend müssen innerhalb der Landesregierung die mit der Medienpolitik zusammenhängenden Themenbereiche koordiniert und vorangebracht werden. Wir werden zur Einbindung der Medienbranche und der Gesellschaft geeignete Diskussions- und Kommunikationsformate zur Entwicklung und Zukunft der Medienlandschaft im Land etablieren.
 
-Öffentlich-rechtlichen Rundfunk zukunftsfest aufstellen
+### Öffentlich-rechtlichen Rundfunk zukunftsfest aufstellen
 
-Wir stehen zu einem starken öffentlich-rechtlichen Rundfunk in einem gut funktionierenden dualen System – in Kombination mit den privaten Anbietern. Wir befürworten, dass der bereits angelaufene Reformprozess der Rundfunkanstalten fortgesetzt wird, und gestalten ihn als Rundfunkgesetzgeber aktiv mit. Versuchen, den öffentlich-rechtlichen Rundfunk zu schwächen, werden wir uns widersetzen. Wir unterstützen die Öffentlich-Rechtlichen
+Wir stehen zu einem starken öffentlich-rechtlichen Rundfunk in einem gut funktionierenden dualen System – in Kombination mit den privaten Anbietern. Wir befürworten, dass der bereits angelaufene Reformprozess der Rundfunkanstalten fortgesetzt wird, und gestalten ihn als Rundfunkgesetzgeber aktiv mit. Versuchen, den öffentlich-rechtlichen Rundfunk zu schwächen, werden wir uns widersetzen. Wir unterstützen die Öffentlich-Rechtlichen in ihren Bemühungen, ihre Zielgruppen besser zu erreichen und ein Angebot für alle anzubieten, insbesondere vermehrt digitale Angebote für Kinder, Jugendliche und junge Erwachsene. Die Etablierung einer europäischen Medienplattform unterstützen wir. Gemeinsam mit Rheinland-Pfalz soll auch der SWR-Staatsvertrag modernisiert werden.
 
-
-in ihren Bemühungen, ihre Zielgruppen besser zu erreichen und ein Angebot für alle anzubieten, insbesondere vermehrt digitale Angebote für Kinder, Jugendliche und junge Erwachsene. Die Etablierung einer europäischen Medienplattform unterstützen wir. Gemeinsam mit Rheinland-Pfalz soll auch der SWR-Staatsvertrag modernisiert werden.
-
-Privaten Rundfunk und Freie Radios unterstützen
+### Privaten Rundfunk und Freie Radios unterstützen
 
 Private Hörfunk- und Fernsehanbieter sowie die Freien Radios wollen wir weiterhin unterstützen. Die Zuweisungen von Übertragungskapazitäten im Bereich UKW und DAB+ wollen wir um bis zu fünf Jahre verlängern, um die vielfältige private Hörfunklandschaft im Land zu erhalten. Zudem wollen wir klären, wie auch bei sich weiter entwickelnden Verbreitungswegen selbständig tragfähige Geschäftsmodelle ermöglicht werden können.
 
-Aus- und Fortbildung fördern
+### Aus- und Fortbildung fördern
 
 Wir wollen zum einen die berufliche Aus- und Fortbildung von Journalistinnen und Journalisten traditioneller Medienhäuser fördern. Zum anderen wollen wir, dass auch die im Bereich der Meinungsvielfalt kreativ Tätigen – wie beispielsweise Freischreiberinnen und -schreiber, Laienjournalistinnen und -journalisten, Bloggerinnen und Blogger sowie Wissenschaftsjournalistinnen und -journalisten – von entsprechenden Angeboten profitieren können.
 
-Qualitätsjournalismus erlebbar machen
+### Qualitätsjournalismus erlebbar machen
 
 Viele Kinder und Jugendliche lernen Tageszeitungen nicht mehr kennen. Daher wollen wir die bisherigen Bemühungen auch finanziell fördern, damit Kinder und Jugendliche aktiv und passiv im schulischen Kontext Qualitätsjournalismus erleben können. Damit soll das Bewusstsein für die Bedeutung von Angeboten und die Anforderungen an qualitätsvolle journalistische Arbeit gestärkt werden und junge Menschen in die Lage versetzt werden, Desinformation und Fake News besser erkennen zu können. Das Programm Zeitung in der Schule (ZiSch) der Zeitungsverlage ist ein Beispiel für diese Bemühung.
 
-Medienstandort stärken
+### Medienstandort stärken
 
 Die Medien- und Kreativwirtschaft hat eine zunehmende Bedeutung als Wirtschafts- und Standortfaktor. Zu den wertvollsten Unternehmen weltweit gehören viele Medienunternehmen. Dies birgt Gefahren im Hinblick auf die Meinungsbildungsprozesse und erfordert kluge Regulierung sowie eine wirkungsvolle Medienaufsicht. Es zeigt aber auch, welche Chancen Medienstandortpolitik gerade in einer Phase der wirtschaftlichen Transformation bietet.
 
 Der Mediensektor und die gesamte Kreativwirtschaft ist ein eigenständiger Wirtschaftsfaktor, von dessen Entwicklungen auch andere Wirtschaftszweige enorm profitieren können. Wir wollen Baden-Württemberg als einen zentralen Motor von Innovation, Digitalisierung und Kreativität im Medienbereich voranbringen. Wir werden hierzu ein Programm zur Förderung von Gründungs- und Acceleratorzentren im Mediensektor auflegen.
 
-Für mehr Medienkompetenz
+### Für mehr Medienkompetenz
 
 Eine umfassende Medienbildung ist in einer zunehmend medial geprägten und digitalisierten Welt eine wichtige Schlüsselqualifikation; sie ist auch wichtiger Teil der politischen Bildung. Wir werden die erfolgreiche Initiative Kindermedienland verstetigen, weiter ausbauen und – ihrem inzwischen breiteren Auftrag entsprechend – umbenennen. Der Ausbau einer umfassenden Informations- und Medienkompetenz für alle Altersgruppen soll zu einem großen und bedeutenden Projekt der Legislaturperiode werden. Das erfolgreiche Projekt #RespektBW soll im Rahmen der Leitperspektive Medienbildung in allen Schulen verpflichtend umgesetzt werden.
 
-Starke Medienaufsicht und modernes Landesmedienrecht
+### Starke Medienaufsicht und modernes Landesmedienrecht
 
 Wir wollen, dass die Landesmedienanstalt ihre Aufgaben bei der Aufsicht über Intermediäre und Medienplattformen in Bezug auf Hassbotschaften, Desinformation und eines zu novellierenden Jugendmedienschutzes wirkungsvoll erfüllt. Zudem soll das Landesmediengesetz grundlegend modernisiert werden. In diesem Zusammenhang sollen zukünftig unter anderem die Präsidentin bzw. der Präsident der Landesanstalt für Kommunikation staatsfern durch den Medienrat gewählt und eine Veränderung der Amtszeitbegrenzung geprüft werden. Der Vorstand soll als Gremium grundsätzlich erhalten bleiben.
 
 
+# 5. Frühkindliche Bildung und Schule
 
-59
-
-05 LERNEN MIT PERSPEKTIVE:
-
-
-5. LERNEN MIT PERSPEKTIVE: FÜR DIE BESTE BILDUNG FÜR ALLE
+## 05 LERNEN MIT PERSPEKTIVE: FÜR DIE BESTE BILDUNG FÜR ALLE
 
 Für ein ganzheitliches Verständnis von Leistung und Bildung – mit konsequenter Qualitätsentwicklung zurück an die Spitze: Zwei Leitziele sind Grundlage der Bildungspolitik in der Legislatur 2021 bis 2026. Sie stehen für einen zukunftsfähigen Bildungsaufbruch, einen durchgängigen Qualitätsanspruch und ein umfassendes Bildungsverständnis. Unser Anspruch ist, bestmögliche Bildungschancen und Lernbedingungen für alle Schülerinnen und Schüler zu bieten. Auch für die Bildung sind die gesellschaftlichen Veränderungen, die zunehmende Digitalisierung und die Folgen der Corona-Pandemie eine große Herausforderung.
 
 Aufgrund der angespannten Haushaltssituation stehen sämtliche zusätzlichen finanzwirksamen Maßnahmen auch in diesem Kapitel unter Haushaltsvorbehalt. Das bedeutet: Erst wenn es wieder finanzielle Spielräume gibt, können ausgewählte Maßnahmen – eventuell in Stufen – umgesetzt werden. Ordnungspolitische und nicht finanzrelevante Maßnahmen sind davon nicht berührt.
 
-### A. BILDUNGSPOLITISCHE GRUNDZIELE
+## A. BILDUNGSPOLITISCHE GRUNDZIELE
 
-Chancengerechtigkeit verwirklichen
+### Chancengerechtigkeit verwirklichen
 
 Bildungschancen und Bildungserfolg dürfen nicht von der Herkunft abhängen. Wir wollen – wie es die Landesverfassung vorschreibt – die Potenziale aller Kinder, aller Schülerinnen und Schüler unabhängig von ihrer Herkunft oder ihrer wirtschaftlichen Lage bestmöglich erschließen. Dabei gilt es jede und jeden optimal zu fördern und zu fordern: Unser Ziel ist bestmögliche Bildung für jede und jeden.
 
@@ -1304,7 +1222,7 @@ Wir stehen für einen umfassenden Bildungs- und Leistungsbegriff. Dazu zählen n
 
 Wir stärken den unabhängigen wissenschaftlichen Beirat, der der Bildungspolitik beratend zur Seite stehen soll, und wollen die Beratungen des Kultusministeriums themenbezogen um weitere Expertinnen und Experten aus der Wissenschaft und Praxis ergänzen. Über die Arbeit des wissenschaftlichen Beirats soll regelmäßig berichtet werden.
 
-Digitale Qualitätsoffensive jetzt
+### Digitale Qualitätsoffensive jetzt
 
 Wir wollen bundesweit Vorreiter einer digital-unterstützten Bildung sein.
 
@@ -1323,7 +1241,7 @@ Das gilt genauso für die Kommunikation mit Eltern, in der Begabtenförderung (d
 
 Die Schulnormalität nach Corona wird nicht die gleiche sein wie vor Corona. Wir werden rasch analysieren, welche Konzepte und Instrumente aus der Corona-Zeit sich für das Lernen und Lehren als hilfreich erwiesen haben und auch in den Schulalltag nach Corona implementiert werden können. Dabei haben wir insbesondere digitale Formate und Werkzeuge im Blick. Dabei wollen wir auch wissenschaftliche Expertise mit einbeziehen. Wertvolle Erfahrungen sollen konsolidiert und ausgebaut werden. Dies gilt gleichermaßen für den Unterricht wie auch für die Lehrkräftebildung.
 
-Für eine Medienbildung auf der Höhe der Zeit
+### Für eine Medienbildung auf der Höhe der Zeit
 
 Wir entwickeln in allen Bildungsplänen die Leitperspektive Medienbildung weiter und berücksichtigen berufsfeldspezifische Aspekte der Digitalisierung. Dabei wird besonderes Augenmerk darauf gelegt, dass Medienbildung inhaltsintegriert und kontinuierlich erfolgt. Auch den Informatikunterricht werden wir zukunftsorientiert weiterentwickeln.
 
@@ -1337,14 +1255,11 @@ Gemeinsam mit dem Institut für Bildungsanalysen (IBBW) und in Zusammenarbeit mi
 
 Wir werden allen Schulen eine digitale, modulare Bildungsplattform zur Verfügung stellen. Dabei berücksichtigen wir die Expertise der Praxis und die vor Ort etablierten Lösungen.
 
-Digitale Innovation in die Bildung integrieren
+### Digitale Innovation in die Bildung integrieren
 
 In einem Innovationsprogramm „Digitale Schule“ werden wir gezielt „digitale Schulentwicklung“ unterstützen und fördern. Zum pädagogischen Konzept des Programms gehören die eingangs beschriebenen Aspekte: Diagnostik, Kommunikation, Begabtenförderung, Schulentwicklung und Schulorganisation. Die pädagogischen und didaktischen Konzepte werden vom Zentrum für Schulqualität und Lehrerbildung (ZSL), vom IBBW sowie dem Landesmedienzentrum und dem Medienzentren-Verbund maßgeblich entwickelt und begleitet. Über die so geschaffenen Best-Practice-Schulen und ein dazu passendes, kohärentes Fortbildungskonzept werden wir die „Digitale Schule“ schrittweise und konsequent in der Fläche voranbringen.
 
-Das Lernen in der digitalen Welt wollen wir durch einen Beraterkreis „Schule digital“ begleiten lassen und daraus kontinuierlich Impulse aufnehmen. Das Potenzial von Künstlicher Intelligenz für pädagogische Prozesse soll in den nächsten Jahren systematisch erschlossen und in einem Modellprojekt erprobt werden. Bestehende Projekte im Bereich der Zukunftstechnologien im schulischen
-
-
-Kontext wie 3D-Druck oder Virtual- und Augmented-Reality-Projekte werden fortgeführt.
+Das Lernen in der digitalen Welt wollen wir durch einen Beraterkreis „Schule digital“ begleiten lassen und daraus kontinuierlich Impulse aufnehmen. Das Potenzial von Künstlicher Intelligenz für pädagogische Prozesse soll in den nächsten Jahren systematisch erschlossen und in einem Modellprojekt erprobt werden. Bestehende Projekte im Bereich der Zukunftstechnologien im schulischen Kontext wie 3D-Druck oder Virtual- und Augmented-Reality-Projekte werden fortgeführt.
 
 Die Veränderung der betrieblichen Realität ist in vollem Gange. „4.0“ ist ein Stichwort für alle Branchen – von Handwerk über Handel und Industrie bis zur Pflege. Gerade deshalb werden wir auch in der beruflichen Bildung den digitalen Wandel nachhaltig gestalten, indem wir das Prinzip der Lernwelten und Lernfabriken 4.0 ausweiten.
 
@@ -1352,7 +1267,7 @@ In der Lehrkräfteaus- und -fortbildung werden wir die Aspekte des digital-gest�
 
 Das Medienzentren-Gesetz werden wir überprüfen und im Dialog mit der kommunalen Seite an die aktuellen Bedarfe anpassen.
 
-Schule 2030: Für einen ganzheitlichen Qualitätsprozess
+### Schule 2030: Für einen ganzheitlichen Qualitätsprozess
 
 Die Ergebnisse aus den Leistungsstudien der letzten Jahre, die Digitalisierung, die gesamtgesellschaftlichen Entwicklungen und die Erfahrungen aus der CoronaPandemie machen es erforderlich, dass wir mit allen Akteurinnen und Akteuren im Bildungsbereich und mit der Zivilgesellschaft in einen professionell organisierten Dialog eintreten, wie Schule 2030 gestaltet werden muss.
 
@@ -1360,9 +1275,7 @@ Wir werden in der kommenden Legislatur den Fokus auf den Ausbau der Qualität se
 
 Grundvoraussetzung für Qualität in Schule und Unterricht ist eine verlässliche Unterrichtsversorgung. Daran werden wir uns orientieren.
 
-Wir bekennen uns weiterhin zum in der vergangenen Legislaturperiode eingeführten Qualitätskonzept, das bundesweit Beachtung und Anerkennung erfahren hat. Leitende Elemente des Qualitätskonzepts waren der Abbau von bislang unverbundenen Zuständigkeiten und Parallelstrukturen. Das Ziel war es, Maßnahmen und Programme zu bündeln, strategisch zu verzahnen und Bildungspolitik stärker an wissenschaftlichen Erkenntnissen auszurichten. So sichern wir ein systematisches Ineinandergreifen sowie eine inhaltliche Kohärenz. Wir werden zeitnah einen umfassenden Analyse- und Evaluationsprozess des Qualitätskonzepts einleiten und dabei interne und externe Expertinnen und Experten einbeziehen. Dabei sind auch die Strukturen der nachgeordneten
-
-Behörden und des Kultusministeriums zu überprüfen und anzupassen.
+Wir bekennen uns weiterhin zum in der vergangenen Legislaturperiode eingeführten Qualitätskonzept, das bundesweit Beachtung und Anerkennung erfahren hat. Leitende Elemente des Qualitätskonzepts waren der Abbau von bislang unverbundenen Zuständigkeiten und Parallelstrukturen. Das Ziel war es, Maßnahmen und Programme zu bündeln, strategisch zu verzahnen und Bildungspolitik stärker an wissenschaftlichen Erkenntnissen auszurichten. So sichern wir ein systematisches Ineinandergreifen sowie eine inhaltliche Kohärenz. Wir werden zeitnah einen umfassenden Analyse- und Evaluationsprozess des Qualitätskonzepts einleiten und dabei interne und externe Expertinnen und Experten einbeziehen. Dabei sind auch die Strukturen der nachgeordneten Behörden und des Kultusministeriums zu überprüfen und anzupassen.
 
 Wir werden einen verpflichtenden Referenzrahmen „Schulqualität BW“ für die Schul- und Unterrichtsentwicklung entwickeln und einführen.
 
@@ -1382,30 +1295,25 @@ Lehrkräfte gestalten Qualität an Schulen. Für ihre Arbeit gebührt ihnen Wert
 
 Pädagogische Assistentinnen und Assistenten wollen wir zumindest in ihrer jetzigen Anzahl weiter einsetzen.
 
-Die Folgen der Pandemie abfedern
+### Die Folgen der Pandemie abfedern
 
 Wir haben die Auswirkungen der Corona-Pandemie auf die Schülerinnen und Schüler fest im Blick. Lernrückstände, die von der Pandemie verursacht wurden, sollen mit besonderen Zusatzangeboten in einem ambitionierten Lernlückenprogramm aufgeholt werden. Hierfür werden wir unter anderem einen Kinder- und Jugendgipfel einberufen.
 
-Die Corona-Pandemie stellt das gesamte Schulsystem vor größte Herausforderungen. Es ist bemerkenswert, wie Eltern, Lehrkräfte, Schulleitungen und alle am Schulleben
-
-
-Beteiligten diese bisher ungekannte Situation für unsere Schulen gemeinsam gemeistert haben. Sie alle haben unsere Kinder in diesen schwierigen Zeiten bestmöglich unterstützt und den Unterricht unter den besonderen Bedingungen in Präsenz-, Wechselunterrichts- und Fernlern-Phasen gestaltet. Dennoch müssen wir die Auswirkungen der Corona-Pandemie auf die Bildung an den allgemeinbildenden Schulen und den beruflichen Schulen besonders in den Blick nehmen. Wir begrüßen das Vorhaben einer gemeinsamen Initiative von Bund und Ländern zum Abbau pandemiebedingter Lernrückstände bei Schülerinnen und Schülern.
+Die Corona-Pandemie stellt das gesamte Schulsystem vor größte Herausforderungen. Es ist bemerkenswert, wie Eltern, Lehrkräfte, Schulleitungen und alle am Schulleben Beteiligten diese bisher ungekannte Situation für unsere Schulen gemeinsam gemeistert haben. Sie alle haben unsere Kinder in diesen schwierigen Zeiten bestmöglich unterstützt und den Unterricht unter den besonderen Bedingungen in Präsenz-, Wechselunterrichts- und Fernlern-Phasen gestaltet. Dennoch müssen wir die Auswirkungen der Corona-Pandemie auf die Bildung an den allgemeinbildenden Schulen und den beruflichen Schulen besonders in den Blick nehmen. Wir begrüßen das Vorhaben einer gemeinsamen Initiative von Bund und Ländern zum Abbau pandemiebedingter Lernrückstände bei Schülerinnen und Schülern.
 
 Wir werden in enger Abstimmung mit dem Wissenschaftsministerium ein Konzept entwickeln, das Förder- und Unterstützungsangebote im Unterricht und außerhalb des Unterrichts vorsieht und dabei auch externe Partner einbeziehen kann. Die Institute ZSL und IBBW werden die Lehrkräfte und Schülerinnen und Schüler dabei durch diagnostische Instrumente und Materialien unterstützen.
 
 Wir prüfen, wie weitere Personengruppen wie beispielsweise pensionierte Lehrkräfte, Studierende, Lehramtsanwärterinnen und -anwärter oder andere geeignete Kräfte sowie auch Angebote Dritter, unter anderem gemeinnütziger oder kommerzieller Kooperationspartner, eingebunden werden können. Dabei richten wir den Fokus über die Lernrückstände hinaus auch auf die sozial-emotionale Entwicklung von Kindern und Jugendlichen. Wir werden bei der Umsetzung eines entsprechenden Konzepts zum Beispiel Schulpsychologinnen und Schulpsychologen, anerkannte Einrichtungen und Kommunen einbeziehen.
 
-### B. FRÜHKINDLICHE BILDUNG
+## B. FRÜHKINDLICHE BILDUNG
 
-Qualität weiter stärken
+### Qualität weiter stärken
 
 In der frühkindlichen Bildung steht für uns die Qualität an erster Stelle. Dazu gehört, dass wir die Familien dieser Kinder so gut wie möglich begleiten und unterstützen. In allen Einrichtungen sollen die Jüngsten in der Entwicklung der wesentlichen Kompetenzen zur Entfaltung einer eigenständigen Persönlichkeit gefördert werden. Mit dem im Jahr 2018 vereinbarten Pakt für gute Bildung und Betreuung entwickeln wir die Qualität der frühkindlichen Bildung und Betreuung konsequent weiter. Ziel ist es, allen Kindern gute Startchancen zu ermöglichen. Die im Rahmen des Pakts vereinbarten Maßnahmen gilt es umzusetzen und weiterzuführen.
 
-Grundlage und Kompass der pädagogischen Arbeit in Kindertageseinrichtungen und in der Kindertagespflege ist der baden-württembergische Orientierungsplan. Erkenntnisse aus einer derzeit laufenden Evaluation werden wir in die Umsetzung einbeziehen und den Orientierungsplan weiterentwickeln. Die Koalitionsparteien haben das Ziel, in eine verbindliche Umsetzung des Orientierungsplans
+Grundlage und Kompass der pädagogischen Arbeit in Kindertageseinrichtungen und in der Kindertagespflege ist der baden-württembergische Orientierungsplan. Erkenntnisse aus einer derzeit laufenden Evaluation werden wir in die Umsetzung einbeziehen und den Orientierungsplan weiterentwickeln. Die Koalitionsparteien haben das Ziel, in eine verbindliche Umsetzung des Orientierungsplans einzusteigen und suchen dazu das Gespräch mit den Kommunen und den Verbänden der Träger.
 
-einzusteigen und suchen dazu das Gespräch mit den Kommunen und den Verbänden der Träger.
-
-Ausbau weiter voranbringen
+### Ausbau weiter voranbringen
 
 Gemeinsam mit den Trägern stehen wir in einer Verantwortungsgemeinschaft und müssen uns gemeinsam den Herausforderungen stellen. Wir wollen den Ausbau der Kita-Plätze nach Kräften fördern. Ein Fokus liegt weiter darauf, engagierte und motivierte pädagogische Fachkräfte zu gewinnen. Die praxisintegrierte Ausbildung (PiA) ist ein richtiger Weg und wird fortgesetzt. Wir setzen auf Programme wie die im Pakt für gute Bildung und Betreuung verankerte Fachkräfteoffensive und werden diese weiterentwickeln. Wir ermitteln mit den Expertinnen und Experten aus dem frühkindlichen Bereich, ob es sinnvoll ist, neben Erzieherinnen und Erziehern und Kita-Leitungen weitere pädagogische Funktionsstellen zu schaffen. Mit einer Image-Kampagne wollen wir für diesen wichtigen Beruf werben.
 
@@ -1436,9 +1344,9 @@ Wir streben an, die Landeselternvertretung der badenwürttembergischen Kitas im 
 
 Vom neu eingerichteten „Forum frühkindliche Bildung“ erwarten wir zusätzliche Impulse für die Qualitätsentwicklung im frühkindlichen Bereich sowie für die Beratung und Begleitung der Träger und Einrichtungen.
 
-### C. GRUNDSCHULEN
+## C. GRUNDSCHULEN
 
-Neue Impulse für mehr Bildungserfolg
+### Neue Impulse für mehr Bildungserfolg
 
 Die Entkopplung von sozialer Herkunft und Bildungserfolg steht im Zentrum unserer gemeinsamen Politik. Dabei setzen wir unter anderem auf eine sozialindexbasierte Ressourcenzuweisung – beginnend in der Grundschule – als echte Innovation für mehr Bildungsgerechtigkeit. So wollen wir den Anteil der Jugendlichen mit Migrationshintergrund an höheren Bildungsabschlüssen entsprechend ihrem Anteil in der Bevölkerung erhöhen.
 
@@ -1455,7 +1363,7 @@ Multiprofessionelle Teams etablieren: Wir werden ein Konzept für den Einsatz vo
 
 Den muttersprachlichen Unterricht wollen wir, nach dem Vorbild anderer Bundesländer, in staatliche Verantwortung übernehmen und den Konsulatsunterricht abschaffen.
 
-Pädagogische Freiheit stärken
+### Pädagogische Freiheit stärken
 
 Die Verhandlungspartner streben an, die pädagogische Freiheit an den Schulen unter Qualitätsstandards zu stärken – zum Beispiel, indem Grundschulen ohne Ziffernnoten an einzelnen Schulen ermöglicht werden.
 
@@ -1467,19 +1375,17 @@ Die Beratung beim Übergang auf die weiterführenden Schulen werden wir stärken
 
 Wir halten am Prinzip „kurze Beine – kurze Wege“ fest. Kleine Grundschulen wollen wir gemeinsam mit den Verantwortlichen vor Ort unterstützen, Optionen zu prüfen, ob mehrere Standorte unter einer Schulleitung zusammengefasst werden können – ohne dass dabei der einzelne Standort in Frage gestellt wird.
 
-Den Ganztag weiterentwickeln
+### Den Ganztag weiterentwickeln
 
-Ganztagsschulen leisten einen wichtigen Beitrag zur Chancen- und Bildungsgerechtigkeit. Ein ausreichendes Betreuungsangebot braucht es in der frühkindlichen Bildung, aber auch im Anschluss daran. Dazu gehören auch flexible Betreuungsangebote für Schulkinder. Deshalb werden wir auch weiter diese Angebote der Kommunen mit einem Landeszuschuss unterstützen, den wir auch für neue Angebote in der vergangenen Legislaturperiode eingeführt haben. Wir wollen ein an hohen Qualitätsstandards orientiertes, flächendeckendes und wohnortnahes schulisches Ganztagsangebot. Dazu wollen wir gegebenenfalls das Antragsverfahren prüfen und anpassen. Wir nehmen dabei die Bedarfe der Familien von Kindern mit Behinderung sowohl in inklusiven Settings als auch in den
-
-Sonderpädagogischen Bildungs- und Beratungszentren (SBBZ) in den Blick.
+Ganztagsschulen leisten einen wichtigen Beitrag zur Chancen- und Bildungsgerechtigkeit. Ein ausreichendes Betreuungsangebot braucht es in der frühkindlichen Bildung, aber auch im Anschluss daran. Dazu gehören auch flexible Betreuungsangebote für Schulkinder. Deshalb werden wir auch weiter diese Angebote der Kommunen mit einem Landeszuschuss unterstützen, den wir auch für neue Angebote in der vergangenen Legislaturperiode eingeführt haben. Wir wollen ein an hohen Qualitätsstandards orientiertes, flächendeckendes und wohnortnahes schulisches Ganztagsangebot. Dazu wollen wir gegebenenfalls das Antragsverfahren prüfen und anpassen. Wir nehmen dabei die Bedarfe der Familien von Kindern mit Behinderung sowohl in inklusiven Settings als auch in den Sonderpädagogischen Bildungs- und Beratungszentren (SBBZ) in den Blick.
 
 Das Zusammenspiel von schulischen Angeboten und Angeboten der Jugendarbeit sowie von Vereinen, Kultureinrichtungen und anderen außerschulischen Partnern wirkt herkunftsbedingten Benachteiligungen entgegen. Wir wollen dafür die Rahmenbedingungen an den Schulen verbessern. Dem Wunsch vieler Eltern nach mehr Flexibilität bei den Ganztagsangeboten wollen wir nachkommen. Dazu werden wir eine flexibilisierte Struktur – zum Beispiel für Vereinsaktivitäten, Angebote außerschulischer Partner oder familiäre Unternehmungen – im Ganztag erproben und den Schulen dafür die nötigen Freiräume geben. Gleichzeitig sind wir davon überzeugt, dass nur bei einem gebundenen Ganztagsangebot eine pädagogisch wertvolle Rhythmisierung umgesetzt werden kann. Um dies zu erreichen, werden wir notwendige Anpassungen prüfen. Perspektivisch werden wir Ganztagsschulangebote für die Sekundarstufe I auch im Schulgesetz verankern.
 
 Den notwendigen Qualitätsrahmen für die Betreuungsangebote an den Schulen werden wir im Dialog mit allen Beteiligten, insbesondere den Trägern der kommunalen Betreuung, definieren und einführen.
 
-### D. WEITERFÜHRENDE SCHULEN UND BERUFLICHE BILDUNG
+## D. WEITERFÜHRENDE SCHULEN UND BERUFLICHE BILDUNG
 
-Junge Menschen individuell zum Schulabschluss begleiten
+### Junge Menschen individuell zum Schulabschluss begleiten
 
 Keine Strukturdebatte: Das achtjährige Gymnasium bleibt die Regelform.
 
@@ -1502,13 +1408,11 @@ Wir werden die Zuweisung von Gymnasiallehrkräften an die Gemeinschaftsschulen o
 
 Wir werden die Genehmigungsvoraussetzungen für die gymnasiale Oberstufe an Gemeinschaftsschulen überprüfen. Wir werden auch zukünftig ermöglichen, dass eine Oberstufe an einem Standort für mehrere Gemeinschaftsschulen in einer Region eingerichtet werden kann. Dabei müssen regionale Gegebenheiten berücksichtigt werden.
 
-Qualität von Inklusion und sonderpädagogischen Bildungsangeboten voranbringen
+### Qualität von Inklusion und sonderpädagogischen Bildungsangeboten voranbringen
 
 Wir werden die Umsetzung der Inklusion in Baden-Württemberg analysieren und notwendige Anpassungen vornehmen. Wir wollen weiterhin, dass Eltern zwischen der Inklusion an einer allgemeinen Schule und dem Besuch eines Sonderpädagogischen Bildungs- und Beratungszentrums wählen können.
 
-Inklusion ist Aufgabe aller Schulen und Schularten und ist für uns vorrangiges bildungspolitisches Ziel. Wir wollen die Inklusion in Kita und Schule weiter bedarfsgerecht ausbauen. Die personellen, räumlichen und administrativen Rahmenbedingungen für die Inklusion wollen wir in allen Bereichen verbessern. Wir werden einen Qualitätsrahmen Inklusion für alle Schularten erarbeiten und umsetzen. Das Ziel bleibt dabei das Zwei-Pädagogen-Prinzip im zieldifferenten Unterricht. Im zielgleichen Unterricht werden wir das Zwei-Pädagogen-Prinzip bedarfsgerecht ausbauen. Schulbegleitung ist ein wichtiger Bestandteil beim
-
-inklusiven Lernen. Dazu werden wir die Umsetzung der Inklusion vor Ort optimieren und Maßnahmen zur Qualitätsverbesserung entwickeln.
+Inklusion ist Aufgabe aller Schulen und Schularten und ist für uns vorrangiges bildungspolitisches Ziel. Wir wollen die Inklusion in Kita und Schule weiter bedarfsgerecht ausbauen. Die personellen, räumlichen und administrativen Rahmenbedingungen für die Inklusion wollen wir in allen Bereichen verbessern. Wir werden einen Qualitätsrahmen Inklusion für alle Schularten erarbeiten und umsetzen. Das Ziel bleibt dabei das Zwei-Pädagogen-Prinzip im zieldifferenten Unterricht. Im zielgleichen Unterricht werden wir das Zwei-Pädagogen-Prinzip bedarfsgerecht ausbauen. Schulbegleitung ist ein wichtiger Bestandteil beim inklusiven Lernen. Dazu werden wir die Umsetzung der Inklusion vor Ort optimieren und Maßnahmen zur Qualitätsverbesserung entwickeln.
 
 Kooperative Organisationsformen des gemeinsamen Unterrichts an allgemeinen Schulen bieten die Möglichkeit der Zusammenarbeit von einer Klasse eines SBBZ mit einer Partnerklasse einer allgemeinbildenden Schule.
 
@@ -1516,7 +1420,7 @@ Zudem soll in jedem Schulamtsbezirk ein Zeitplan für einen inklusiven Schulentw
 
 Um die notwendige Zahl der sonderpädagogischen Lehrkräfte zu erreichen, werden wir die berufsbegleitende Qualifizierung weiter ausbauen und die Kapazität der Studienplätze überprüfen. Die Wirkung der inklusiven Module in der Lehrkräfteaus-bildung werden wir evaluieren und bei Bedarf weiterentwickeln.
 
-Die Vielfalt der beruflichen Bildung und dualen Ausbildung sichern
+### Die Vielfalt der beruflichen Bildung und dualen Ausbildung sichern
 
 Wir machen das Thema Lebenslanges Lernen zum Standard und setzen uns für die Gleichwertigkeit und Durchlässigkeit von beruflicher und akademischer Ausbildung ein.
 
@@ -1526,10 +1430,7 @@ Die Empfehlungen der Enquete-Kommission „Fit fürs Leben in der Wissensgesells
 
 Wir setzen auf ein breites Angebot beruflicher Schulen und vielfältiger Bildungsgänge. In einem differenzierten, aufeinander abgestimmten Schulsystem sollen Schulabgängerinnen und Schulabgänger aller Schularten an den beruflichen Schulen passende Ausbildungsangebote finden. Wir werden den inklusiven Zugang zur beruflichen Bildung ermöglichen und verbessern.
 
-Wir nutzen alle Möglichkeiten der beruflichen Schulen, um Geflüchtete zu unterrichten und auf eine Berufstätigkeit vorzubereiten. Dabei wollen wir Konzepte zum sprachsensiblen Arbeiten im beruflichen Lernumfeld
-
-
-weiterentwickeln. Wir werden die Integration junger Menschen mit Migrationshintergrund durch weitere geeignete Maßnahmen der beruflichen Schulen verbessern.
+Wir nutzen alle Möglichkeiten der beruflichen Schulen, um Geflüchtete zu unterrichten und auf eine Berufstätigkeit vorzubereiten. Dabei wollen wir Konzepte zum sprachsensiblen Arbeiten im beruflichen Lernumfeld weiterentwickeln. Wir werden die Integration junger Menschen mit Migrationshintergrund durch weitere geeignete Maßnahmen der beruflichen Schulen verbessern.
 
 Um Jugendliche ohne Ausbildungsplatz gezielt zu unterstützen, wollen wir die Ausbildungsvorbereitung dual (AVdual) auf alle Stadt- und Landkreise ausweiten.
 
@@ -1543,13 +1444,11 @@ Die internationalen Verbindungen des Schüleraustauschs und der Partnerschaften 
 
 Baden-Württemberg verbindet eine langjährige Kooperation mit Israel und den palästinensischen Gebieten, besonders in der beruflichen Aus- und Weiterbildung. Diese Partnerschaften werden wir fortführen und weiterentwickeln. Im Rahmen der “Vier Motoren für Europa” streben wir den Aufbau und die Intensivierung von Partnerschaften in der beruflichen Aus- und Weiterbildung mit den Partnerregionen an.
 
-### E. WEITERBILDUNG UND LEBENSLANGES LERNEN
+## E. WEITERBILDUNG UND LEBENSLANGES LERNEN
 
-Die Wissensgesellschaft im Blick
+### Die Wissensgesellschaft im Blick
 
-Angesichts der aktuellen Herausforderungen in Wirtschaft, Arbeitsleben und Gesellschaft ist Lebenslanges Lernen mehr denn je der Schlüssel zur Sicherung von Beschäftigungsfähigkeit, zur aktiven Vergewisserung unserer demokratisch verfassten Strukturen und zur vollumfänglichen Teilhabe am gesellschaftlichen Leben. Zwei zentrale Aufgaben hat Weiterbildung in den Jahren vor sich: den digitalen Wandel begleiten und den gesellschaftlichen Zusammenhalt stärken. Aufbauend auf den in unserem Land bestehenden Strukturen wollen wir daher
-
-die Weiterbildung zu einer tragenden Säule des Bildungswesens weiterentwickeln.
+Angesichts der aktuellen Herausforderungen in Wirtschaft, Arbeitsleben und Gesellschaft ist Lebenslanges Lernen mehr denn je der Schlüssel zur Sicherung von Beschäftigungsfähigkeit, zur aktiven Vergewisserung unserer demokratisch verfassten Strukturen und zur vollumfänglichen Teilhabe am gesellschaftlichen Leben. Zwei zentrale Aufgaben hat Weiterbildung in den Jahren vor sich: den digitalen Wandel begleiten und den gesellschaftlichen Zusammenhalt stärken. Aufbauend auf den in unserem Land bestehenden Strukturen wollen wir daher die Weiterbildung zu einer tragenden Säule des Bildungswesens weiterentwickeln.
 
 Weiterbildungsinitiative ausbauen: Die Vereinbarung „Gemeinsam. Für. Weiterbildung“, die wir zusammen mit den Partnern im „Bündnis für Lebenslanges Lernen“ für die Jahre 2021 bis 2026 geschlossen haben, werden wir entlang der dort aufgeführten Handlungsfelder umsetzen. Dafür ist die ressortübergreifende Weiterbildungsinitiative „WEITER.mit.BILDUNG@BW“ eine hervorragende Grundlage, die wir nach Möglichkeit noch weiter ausbauen und auch in ressortübergreifender Zusammenarbeit nutzen werden.
 
@@ -1568,7 +1467,7 @@ Wir streben mit allen Partnern im Bündnis für Lebenslanges Lernen den Abschlus
 Wir werden die allgemeine, berufliche und wissenschaftliche Weiterbildung im Land besser verzahnen und vernetzen.
 
 
-Demokratische Bildung und Bildung für nachhaltige Entwicklung stärken
+### Demokratische Bildung und Bildung für nachhaltige Entwicklung stärken
 
 Wir bauen die Demokratiebildung in allen Schularten auf Basis des entwickelten Leitfadens Demokratiebildung aus. Die Schülerinnen und Schüler sollen demokratische Grundwerte an der Schule unmittelbar und selbstwirksam erleben. Zudem sollen die partizipativen Strukturen der Schule gestärkt werden. Dazu initiieren wir entsprechende Modellprojekte. An Pilotschulen in allen Schularten werden wir Erfahrungen für eine Demokratisierung der Schulen sammeln, auswerten und schrittweise in die Fläche bringen.
 
@@ -1584,21 +1483,19 @@ Bildung zu kolonialer Vergangenheit stärken: Außerdem werden wir die kritische
 
 Wir stehen für eine konsequente Umsetzung der im Bildungsplan verankerten Leitperspektive „Bildung für Toleranz und Akzeptanz von Vielfalt“ ein, um der existierenden Vielfalt der Geschlechter, Sexualitäten, Lebensformen sowie der Freiheit der religiösen und kulturellen Ausprägungen Rechnung zu tragen. Die Grundsätze aus der Leitperspektive wollen wir auch in der Aus-, Fort- und Weiterbildung der Lehrkräfte stärken.
 
-Friedensbildung ausbauen: Die Angebote zur Friedensbildung insbesondere bei der „Servicestelle Friedensbildung“ und in den Schulen werden wir ausbauen. Dazu gehört auch, dass sich Schülerinnen und Schüler mit der
-
-Notwendigkeit, den Möglichkeiten und Grenzen der Friedenssicherung beschäftigen.
+Friedensbildung ausbauen: Die Angebote zur Friedensbildung insbesondere bei der „Servicestelle Friedensbildung“ und in den Schulen werden wir ausbauen. Dazu gehört auch, dass sich Schülerinnen und Schüler mit der Notwendigkeit, den Möglichkeiten und Grenzen der Friedenssicherung beschäftigen.
 
 Eine vielfältige Gedenkstättenlandschaft prägt die Erinnerungskultur in Baden-Württemberg. Diese werden wir erhalten.
 
-### F. SCHULISCHE RAHMENBEDINGUNGEN
+## F. SCHULISCHE RAHMENBEDINGUNGEN
 
-Partnerschaft zwischen Land und Kommunen modern gestalten
+### Partnerschaft zwischen Land und Kommunen modern gestalten
 
 Durch veränderte pädagogische Konzepte, eine veränderte Lebenswelt und vor dem Hintergrund der fortschreitenden Digitalisierung an unseren Schulen haben sich die Aufgaben und Anforderungen an die Schulträger des Landes in den vergangenen Jahren stark gewandelt. Alle Verantwortlichen im Bereich der Bildung stehen dadurch in inhaltlicher, zeitlicher und auch finanzieller Hinsicht vor massiven Herausforderungen. Das Land und die Kommunen sind sich einig, diese Herausforderungen gemeinsam anzugehen. Dazu werden wir die ausgangs der vergangenen Legislaturperiode begonnenen Gespräche vertrauensvoll fortführen und in einen Dialogprozess zur Ausgestaltung der Schulträgerschaft im 21. Jahrhundert eintreten. Thematisch umfasst dieser Dialog neben der Digitalisierung auch die Themenfelder Ganztag und Betreuung, Schulsozialarbeit, Schulhausbau in Verbindung mit ökologischen Aspekten, Schulverwaltung und -organisation sowie Inklusion im schulischen Bereich. Wir streben an, uns in diesem Prozess – auch im Hinblick auf eine angemessene finanzielle Lastenverteilung zwischen Land und Kommunen – für die Jahre ab spätestens 2023 grundlegend zu verständigen.
 
 Wir setzen auch in der Zukunft auf eine starke Partnerschaft zwischen Kommunen und dem Land Baden-Württemberg. Wir werden insbesondere die Schulbauförderung einschließlich der begonnenen Förderung von Sanierungsmaßnahmen fortsetzen.
 
-Lehrerberuf in den Blick nehmen
+### Lehrerberuf in den Blick nehmen
 
 Gemeinsam mit den Gewerkschaften und Verbänden wollen wir das aktuelle Arbeitszeitmodell der Lehrkräfte überprüfen und modernisieren. Unser Ziel ist, auch die Tätigkeiten realistisch abzubilden, die über den reinen Unterricht hinausgehen.
 
@@ -1611,23 +1508,21 @@ Auch die Vorausrechnung der Schülerzahlen wollen wir gemeinsam mit dem Statisti
 
 Um junge Menschen bei der Entscheidung für einen pädagogischen Beruf zu unterstützen, wollen wir Praktikumsmöglichkeiten ausbauen und attraktiver gestalten. Zudem prüfen wir die Einführung eines freiwilligen pädagogischen Bildungsjahres.
 
-Schulsozialarbeit stärken
+### Schulsozialarbeit stärken
 
 Wir streben an, die Förderung der Schulsozialarbeit an die vereinbarte Ein-Drittel-Regelung anzupassen. Mit den Trägern wollen wir einen Aufgabenkatalog erarbeiten.
 
-Schulen in freier Trägerschaft verlässlich unterstützen
+### Schulen in freier Trägerschaft verlässlich unterstützen
 
 Schulen in freier Trägerschaft sind eine Bereicherung der Schullandschaft und geben wichtige pädagogische Impulse. Wir haben mit einer Novellierung des Privatschulgesetzes die Kopfsatzzuschüsse gesetzlich auf 80 Prozent der Bruttokosten verankert und einen Ausgleichsanspruch bei Schulgeldverzicht geregelt. An verschiedenen Programmen haben wir die Schulen in freier Trägerschaft wie die Schulen in kommunaler Trägerschaft beteiligt. Wir werden die Schulen in freier Trägerschaft auch weiterhin verlässlich unterstützen.
 
-Schulleitungen zukunftsfähig aufstellen
+### Schulleitungen zukunftsfähig aufstellen
 
-Für die Qualität der Arbeit in den Schulen sind die Leitungen entscheidend, ihnen kommt eine Schlüsselrolle zu. Dies zeigt sich einmal mehr in der aktuellen Pandemie, in der die Schulleitungen besondere Verantwortung zu tragen haben und noch einmal zusätzliche Aufgaben und vielfältige Herausforderungen bewältigen müssen. In der Legislaturperiode 2016 bis 2021 haben wir die erste Stufe des Konzepts zur Stärkung und Entlastung der Schulleiterinnen und Schulleiter umgesetzt. Darin sind unter anderem besoldungsrechtliche Verbesserungen für Funktionsstellen bei Grundschulen sowie bei Haupt- und Werkrealschulen, die Schaffung weiterer Funktionsstellen, eine Zulage für kommissarische Schulleitungen sowie zusätzliche Fortbildungs- und Beratungsangebote enthalten. Im Rahmen der zweiten Stufe des Schulleiterkonzepts wollen wir in dieser Legislaturperiode die Leitungszeit erhöhen, zusätzliche Anrechnungsstunden für Außenstellen gewähren und die Schülerzahl bei der Berechnung der Leitungszeit an SBBZ und allgemeinen
-
-Schulen berücksichtigen. Außerdem wollen wir die Kürzung des allgemeinen Entlastungskontingents rückgängig machen. Den Modellversuch Schulverwaltungsassistenz werden wir gemeinsam mit den Kommunen auswerten und an weiteren großen Schulen die Einführung von Verwaltungsassistenten ermöglichen.
+Für die Qualität der Arbeit in den Schulen sind die Leitungen entscheidend, ihnen kommt eine Schlüsselrolle zu. Dies zeigt sich einmal mehr in der aktuellen Pandemie, in der die Schulleitungen besondere Verantwortung zu tragen haben und noch einmal zusätzliche Aufgaben und vielfältige Herausforderungen bewältigen müssen. In der Legislaturperiode 2016 bis 2021 haben wir die erste Stufe des Konzepts zur Stärkung und Entlastung der Schulleiterinnen und Schulleiter umgesetzt. Darin sind unter anderem besoldungsrechtliche Verbesserungen für Funktionsstellen bei Grundschulen sowie bei Haupt- und Werkrealschulen, die Schaffung weiterer Funktionsstellen, eine Zulage für kommissarische Schulleitungen sowie zusätzliche Fortbildungs- und Beratungsangebote enthalten. Im Rahmen der zweiten Stufe des Schulleiterkonzepts wollen wir in dieser Legislaturperiode die Leitungszeit erhöhen, zusätzliche Anrechnungsstunden für Außenstellen gewähren und die Schülerzahl bei der Berechnung der Leitungszeit an SBBZ und allgemeinen Schulen berücksichtigen. Außerdem wollen wir die Kürzung des allgemeinen Entlastungskontingents rückgängig machen. Den Modellversuch Schulverwaltungsassistenz werden wir gemeinsam mit den Kommunen auswerten und an weiteren großen Schulen die Einführung von Verwaltungsassistenten ermöglichen.
 
 In Anbetracht der Mehrbelastung durch die Corona-Pandemie wollen wir kurzfristig prüfen, wie und ob Schulleitungen weiter entlastet werden bzw. von der Unterrichtsverpflichtung entbunden werden können.
 
-Außerschulische Bildungsangebote integrieren
+### Außerschulische Bildungsangebote integrieren
 
 Außerschulische Angebote, insbesondere im Bereich von Kultur und Sport, sind für uns ein unentbehrlicher, fester Bestandteil guter Bildung. Dass Bildung weit mehr bedeutet als Kompetenzen zu erwerben, führen uns die Träger kultureller Bildung Tag für Tag mit immensem Einsatz vor Augen. In Chören, Orchestern, Sportvereinen und anderen Gruppen entstehen Bindungen, die ein Leben lang tragen. Auch deshalb werden wir die Schulen im Ganztagsbereich wie im Bereich der flexiblen Betreuung für außerschulische Angebote etwa von Musik- und Kunstschulen oder Vereinen praxisnah öffnen.
 
@@ -1637,19 +1532,13 @@ Wir wollen den Musikhochschul-Standorten Mannheim und Freiburg bei Vorlage eines
 
 Über Möglichkeiten der Zertifizierung freier Musik- und Jugendkunstschulen wollen wir in einen Dialog eintreten.
 
-Dialekt im Unterricht weiter fördern
+### Dialekt im Unterricht weiter fördern
 
 Wir wollen Dialekte als Teil der Sprachkultur in Kitas und Schule stärken. Wir führen die Dialektinitiative fort und setzen Vorschläge aus dem „Runden Tisch“ um. Unter anderem wollen wir über einen Social-Media-Wettbewerb mehr Menschen im Land für das Thema begeistern. Die Dialektforschungsstrukturen im Land werden wir nachhaltig stärken und die dazu notwendigen Mittel bereitstellen.
 
+# 6. Gesundheit und Soziales 
 
-71
-
-06 NAH AM MENSCHEN:
-
-### FÜR EIN GESUNDES UND
-
-
-6. NAH AM MENSCHEN: FÜR EIN GESUNDES UND SELBSTBESTIMMTES LEBEN
+## 06 NAH AM MENSCHEN: FÜR EIN GESUNDES UND SELBSTBESTIMMTES LEBEN
 
 Der gesellschaftliche Zusammenhalt und die Generationengerechtigkeit sind wesentliche Aufgaben, denen wir uns verpflichtet fühlen. Mit unserer Politik machen wir die Menschen im Land stark, damit sie ihre Existenz und Teilhabe aus eigener Kraft oder bei Bedarf mit Unterstützung eigenverantwortlich gestalten können.
 
@@ -1661,13 +1550,11 @@ Die dynamische Entwicklung der Corona-Pandemie macht ein entschiedenes und oftma
 
 Aufgrund der angespannten Haushaltssituation stehen sämtliche zusätzlichen finanzwirksamen Maßnahmen auch in diesem Kapitel unter Haushaltsvorbehalt. Das bedeutet: Erst wenn es wieder finanzielle Spielräume gibt, können ausgewählte Maßnahmen eventuell in Stufen umgesetzt werden. Ordnungspolitische und nicht finanzrelevante Maßnahmen sind davon nicht berührt.
 
-### A. FOLGEN DER CORONA-PANDEMIE
+## A. FOLGEN DER CORONA-PANDEMIE
 
-Corona-Krise und ihre Folgen meistern, Pandemiefestigkeit erreichen
+### Corona-Krise und ihre Folgen meistern, Pandemiefestigkeit erreichen
 
-Auf künftige Pandemien vorbereiten: Das für das Gesundheits- und Sozialwesen zuständige Ministerium muss aus der Pandemie gestärkt hervorgehen, damit wir für zukünftige Krisen und Pandemien gut ausgestattet und vorbereitet sind. Auch nach einer ersten Durchimpfung der Bevölkerung werden weitere Herausforderungen aus der Pandemie entstehen, deren Umfang und Intensität heute noch nicht absehbar sind. Es gilt, die öffentliche Gesundheitsverwaltung so aufzustellen, dass eine neue Resilienz für das gesamte Gesundheitswesen entstehen kann. Strukturen, insbesondere in dem für das Gesundheits- und Sozialwesen zuständigen Ministerium, müssen
-
-gezielt und dauerhaft gestärkt werden. Das Land hält eine angemessene Notfallreserve an persönlicher Schutzausrüstung vor.
+Auf künftige Pandemien vorbereiten: Das für das Gesundheits- und Sozialwesen zuständige Ministerium muss aus der Pandemie gestärkt hervorgehen, damit wir für zukünftige Krisen und Pandemien gut ausgestattet und vorbereitet sind. Auch nach einer ersten Durchimpfung der Bevölkerung werden weitere Herausforderungen aus der Pandemie entstehen, deren Umfang und Intensität heute noch nicht absehbar sind. Es gilt, die öffentliche Gesundheitsverwaltung so aufzustellen, dass eine neue Resilienz für das gesamte Gesundheitswesen entstehen kann. Strukturen, insbesondere in dem für das Gesundheits- und Sozialwesen zuständigen Ministerium, müssen gezielt und dauerhaft gestärkt werden. Das Land hält eine angemessene Notfallreserve an persönlicher Schutzausrüstung vor.
 
 Zur Katastrophen- und Pandemiebekämpfung werden wir unsere Fähigkeiten zur datengestützten Analyse stärken und weiterentwickeln. Für alle relevanten Indikatoren schaffen wir für den Gesundheitsbereich über die digitale Leitstelle ein einheitliches Datenkonzept, aus dem bei künftigen Großlagen kurzfristig Dashboards (Übersichten) entstehen können. Als Pilotprojekt entwickeln und betreiben wir ein Corona-Dashboard. Zudem wollen wir in Abstimmung mit dem Bund und den Ländern digitale Lösungen für Bürgerinnen und Bürger weiter voranbringen, die uns bei der Pandemiebewältigung unterstützen und die aktive Rolle der Menschen bei der Pandemiebekämpfung stärken.
 
@@ -1676,46 +1563,43 @@ Gesellschaftlichen Folgen der Pandemie begegnen: Die Corona-Krise betrifft alle 
 Corona-Folgeschäden entgegenwirken: Mit dem Kommunalen Stabilitäts- und Zukunftspakt, der unter anderem Elternanteile für nicht genutzte Schülertickets ausgleicht und die Mittel des Bundes für die Ausstattung von Schulen mit digitalen Endgeräten verdoppelt, hat das Land mit großem finanziellen Aufwand bereits viele Maßnahmen auf den Weg gebracht, die besonders Familien mit Kindern zugutekommen. Daran anknüpfend wollen wir kurzfristig einen ressortübergreifenden Masterplan entwickeln, um einer Verfestigung bereits eingetretener Corona-Folgeschäden bei Kindern, Jugendlichen und in den Familien entgegenzuwirken. Dieser soll insbesondere ein ambitioniertes Lernlückenprogramm umfassen und Maßnahmen definieren, um die sozial-emotionale Entwicklung von Kindern und Jugendlichen zu stärken. Es ist notwendig, dass soziale Akteure in Kooperation mit den Kommunen und den Bildungseinrichtungen vor Ort Brücken bauen, damit Kinder und Jugendliche inhaltlich und sozial wieder Anschluss finden. Dies werden wir auch finanziell unterstützen.
 
 
-### B. GESUNDHEIT
+## B. GESUNDHEIT
 
-Gesundheit in allen Lebensbereichen fördern
+### Gesundheit in allen Lebensbereichen fördern
 
 Gesundheit ist nicht nur ein Thema des Gesundheitssektors, sondern eine gesamtgesellschaftliche Aufgabe. Deswegen wollen wir in dieser Legislatur den „Health in All Policies“-Ansatz (intersektorielle Gesundheitspolitik) der Weltgesundheitsorganisation in unser politisches Handeln und unsere Entscheidungsfindung übernehmen. Dazu zählt eine ressortübergreifende Strategie für die Gesundheitsförderung, die bereits im Kindesalter ansetzt. Wir setzen uns für regelmäßige Auffrischungen in Erster Hilfe, insbesondere in den Techniken der Herz-LungenWiederbelebung ein.
 
-Öffentlichen Gesundheitsdienst stärken, Personalgewinnung verbessern
+### Öffentlichen Gesundheitsdienst stärken, Personalgewinnung verbessern
 
 Wir rüsten uns gegen Gesundheitsgefahren der Zukunft und stärken den Öffentlichen Gesundheitsdienst (ÖGD) im Land. Neben einer besseren personellen Ausstattung des Landesgesundheitsamtes (LGA) und der Gesundheitsämter in der Fläche werden wir das LGA als fachliche Leitstelle aufstellen. Die Aus-, Fort- und Weiterbildung im ÖGD wollen wir fördern und qualifiziertes neues Personal gewinnen. Dabei gilt es auch zu prüfen, ob wir eine weitere Vorabquote beim Medizinstudium einführen. Ein besonderes Augenmerk werden wir auf die Digitalisierung des ÖGD richten und das LGA auch als digitale Leitstelle fit für die Gesundheitsgefahren der Zukunft machen.
 
-Gesundheitsversorgung in Stadt und Land sektorenübergreifend weiterentwickeln
+### Gesundheitsversorgung in Stadt und Land sektorenübergreifend weiterentwickeln
 
 Hausärztinnen und Hausärzte, Fachärztinnen und Fachärzte, Zahnärztinnen und Zahnärzte, Psychotherapeutinnen und -therapeuten, Apothekerinnen und Apotheker, Hebammen und Entbindungspfleger sowie die weiteren Heilberufe sind für die ambulante Versorgung der Bevölkerung im ganzen Land von zentraler Bedeutung. Wir werden weiterhin alle Anstrengungen unternehmen, diese flächendeckende Versorgung zu garantieren.
 
 Unser Ziel ist es gleichzeitig, die Sektorengrenzen zwischen ambulant und stationär im Gesundheitssystem zu überwinden. Wir wollen eine interprofessionelle und innovative, am Bedarf der Patientinnen und Patienten ausgerichtete Versorgung erreichen. Dafür werden wir beispielsweise die flächendeckende Einrichtung von interdisziplinären Primärversorgungszentren und den weiteren Aufbau von Telemedizin fördern.
 
-Moderne Krankenhausstrukturplanung, auskömmliche Landeskrankenhausförderung
+### Moderne Krankenhausstrukturplanung, auskömmliche Landeskrankenhausförderung
 
 Wir werden die Krankenhausplanung nachhaltig, digital und inklusiv weiterentwickeln und dabei sektorenübergreifende Aspekte berücksichtigen. Eine bessere Verzahnung der Sektoren und innovative Versorgungsmodelle sind zentral für eine moderne und zukunftsfähige Gesundheitsinfrastruktur in unserem Land. Dies unterstützen wir durch eine auskömmliche Landeskrankenhausförderung sowie eine konsequente und langfristig angelegte Krankenhausstrukturpolitik, die sich an regionalen und überregionalen Versorgungsbedarfen orientiert. In diesem Sinne strukturstabilisierende Programme des Bundes wie den Krankenhausstrukturfonds oder den Krankenhauszukunftsfonds werden wir außerhalb der originären Landeskrankenhausförderung kofinanzieren.
 
 Wir setzen uns beim Bund für eine sachgerechte Betriebskostenfinanzierung der Krankenhäuser ein, die Baden-Württemberg nicht weiter benachteiligt.
 
-Digitalisierung in Medizin, Pflege und Sozialwirtschaft weiterentwickeln
+### Digitalisierung in Medizin, Pflege und Sozialwirtschaft weiterentwickeln
 
 Wir werden Baden-Württemberg zum Vorreiter der Digitalisierung im Gesundheitswesen machen. Neben einer Weiterentwicklung der Strategie zur Digitalisierung in Medizin und Pflege sollen die Förderung der Künstlichen Intelligenz (KI) im Gesundheitswesen und die Förderung der personalisierten Medizin Schwerpunkte der Arbeit darstellen. Digitalisierung im Gesundheitswesen soll zum größtmöglichen Nutzen der Patientinnen und Patienten beitragen, zum Beispiel im Rahmen eines KrankenhausKompetenzverbunds Qualitätsmedizin und Digitalisierung.
 
 Wir wollen Digitalisierung für alle Lebensbereiche stärker nutzbar machen. Deshalb werden wir – neben dem Gesundheits- und Pflegesektor – die Sozialwirtschaft in ihrer Gesamtheit stärker in Digitalisierungsvorhaben des Landes einbeziehen und die Transformation hin zu einer Sozialwirtschaft 4.0 unterstützen. Denn eine starke Sozialwirtschaft trägt maßgeblich zu einer sozialeren und chancengerechteren Gesellschaft bei. Dabei gilt es, besonders neue Formen der Kommunikation sowie die digitale Anbindung und Vernetzung der unterschiedlichen Akteure und Schnittstellen in den Blick zu nehmen und ihren Ausbau zu fördern.
 
-Seelische Gesundheit stärken
+### Seelische Gesundheit stärken
 
 Die Nachfrage nach psychotherapeutischer Begleitung und Unterstützung steigt, auch und gerade im Kontext der Bewältigung der Pandemie-Folgen.
 
-Wir wollen gemeinsam mit den zuständigen Partnern die psychotherapeutische Versorgung überall und für
-
-
-Menschen aller Altersgruppen verbessern und die Schnittstellen zur Beratung und Prävention stärken.
+Wir wollen gemeinsam mit den zuständigen Partnern die psychotherapeutische Versorgung überall und für Menschen aller Altersgruppen verbessern und die Schnittstellen zur Beratung und Prävention stärken.
 
 Wir werden gemeindenahe, psychiatrische Angebote weiterhin fördern sowie Krisen- und Notfalldienste sicherstellen. Zudem bedarf es einer Erweiterung der Kapazitäten im Maßregelvollzug, gegebenenfalls auch um einen weiteren Klinikstandort.
 
-Geburtshilfe – qualitätsvoll, sicher und wohnortnah anbieten
+### Geburtshilfe – qualitätsvoll, sicher und wohnortnah anbieten
 
 Die gute, sichere und wohnortnahe Versorgung von Schwangeren, Gebärenden und Wöchnerinnen wollen wir sichern und fortentwickeln. Wir werden die Ergebnisse des erfolgreichen Runden Tischs Geburtshilfe verstetigen und ausbauen. Die Erprobung lokaler Gesundheitszentren mit Schwerpunkt auf geburtshilflicher Versorgung als Angebot in unterversorgten Regionen werden wir evaluieren und fortführen. Hebammengeführte Kreißsäle und Geburtshäuser in Baden-Württemberg wollen wir ausbauen. Den Beruf der Hebamme bzw. des Entbindungspflegers wollen wir attraktiver machen. Dazu wollen wir die Arbeitsbedingungen der Klinikbeschäftigten in der Geburtshilfe familienfreundlicher gestalten. Grundlagen dafür sind insbesondere eine angemessene personelle Ausstattung und verlässliche Arbeitszeiten. Die gute und enge Zusammenarbeit besonders von Ärztinnen und Ärzten sowie von Hebammen und Entbindungspflegern wollen wir weiter unterstützen.
 
@@ -1727,13 +1611,11 @@ Wir wollen die Schwangerenberatung mit allen Fragen der Familienplanung gewährl
 
 Geschlechtersensible Gesundheitsvorsorge und sexuelle Gesundheit: Wir wollen die geschlechtersensible Grundlagenforschung voranbringen und so dazu beitragen, die geschlechtersensible Medizin auch bei der Diagnostik und der Therapie von Krankheiten zu stärken.
 
-Um Neuinfektionen mit HIV und anderen sexuell übertragbaren Infektionen zu verhindern, wollen wir die Aufklärung
-
-über Schutzmöglichkeiten und Risiken sowie Testmöglichkeiten verbessern.
+Um Neuinfektionen mit HIV und anderen sexuell übertragbaren Infektionen zu verhindern, wollen wir die Aufklärung über Schutzmöglichkeiten und Risiken sowie Testmöglichkeiten verbessern.
 
 Therapievielfalt im Gesundheitswesen fördern: Viele Patientinnen und Patienten haben den Wunsch, im Krankheitsfall zwischen unterschiedlichen Angeboten und Therapien entscheiden zu können. Dazu gehört für viele Menschen auch die Komplementärmedizin. Wir setzen uns für den barrierefreien Zugang zu einer qualitätsgesicherten integrativen Medizin für alle ein.
 
-Gesundheitsstandort Baden-Württemberg stärken
+### Gesundheitsstandort Baden-Württemberg stärken
 
 Der Gesundheitsstandort Baden-Württemberg muss gestärkt und gesichert werden.
 
@@ -1744,7 +1626,7 @@ Die im Forum entstandene Kooperationsdynamik und der Wissensaustausch über die 
 Eine weitere Herausforderung ist es, die Abhängigkeit von weltweiten Lieferketten zu reduzieren und so die Resilienz gegenüber Ausfällen oder Beschränkungen des Warenverkehrs zu verbessern. Wir werden Rahmenbedingungen schaffen, um möglichst weitgehend Produktionskompetenzen und -kapazitäten im Land zu nutzen, insbesondere bei der Produktion von Arzneimitteln, Impfstoffen und medizinischem Material.
 
 
-Prävention und Aufklärung in den Mittelpunkt der Drogen- und Suchtpolitik stellen
+### Prävention und Aufklärung in den Mittelpunkt der Drogen- und Suchtpolitik stellen
 
 Für uns gehören Prävention und Aufklärung in den Mittelpunkt der Drogen- und Suchtpolitik. Wir befürworten wirksame und frühzeitige Ansätze, die Abhängigkeit und riskante Konsumformen verhindern oder zumindest verringern, auch durch Resilienz- und Aufklärungsarbeit in den Schulen. Dies gilt bei Alkohol und Tabak, aber auch bei Partydrogen, Medikamenten und Glücksspiel.
 
@@ -1754,11 +1636,11 @@ Der Schutz von Nichtraucherinnen und Nichtrauchern ist uns wichtig. Wir wollen d
 
 Wir wollen ein gut ausgebautes Angebot zur gesundheitlichen Versorgung von abhängigen oder suchtgefährdeten Menschen, darunter auch spezifische Angebote für Frauen. Durch Angebote zur Schadensminderung muss alles dafür getan werden, die gesundheitlichen Risiken zum Beispiel durch gestreckte Drogen, schmutzige Spritzen oder gefährliche Zusatzstoffe zu reduzieren. Deshalb setzen wir uns im Rahmen eines wissenschaftlich begleiteten Modellprojekts für Möglichkeiten ein, Inhaltsstoffe von Drogen überprüfen zu lassen (Drug-Checking).
 
-### C. PFLEGE
+## C. PFLEGE
 
 Das Problem kontinuierlich ansteigender Eigenanteile in der Pflege kann nur durch eine grundlegende Reform der Pflegeversicherung gelöst werden, mit der die Eigenanteile der Pflegebedürftigen sowohl zeitlich als auch in der Höhe gedeckelt werden. Wir werden uns im Bund weiter dafür einsetzen, dass Pflegebedürftige und ihre Angehörigen vor einer finanziellen Überforderung aufgrund stetig ansteigender Eigenanteile in der stationären Pflege geschützt sind und verbleibende Kosten planbarer und transparenter gemacht werden (Sockel-Spitze-Tausch).
 
-Pflegekammer: Selbstverwaltung in der Pflege stärken
+### Pflegekammer: Selbstverwaltung in der Pflege stärken
 
 Pflege findet immer noch zu wenig Beachtung in den Entscheidungsgremien des Gesundheitswesens.
 
@@ -1766,7 +1648,7 @@ In der 16. Legislaturperiode haben wir die Grundlagen für eine Pflegekammer in 
 
 Gleichzeitig werden wir das Recht der Beschäftigten zur selbstbestimmten gewerkschaftlichen Interessenvertretung unterstützen, um gute Tarifverträge zu ermöglichen.
 
-Kurzzeitpflege weiterentwickeln und ausbauen
+### Kurzzeitpflege weiterentwickeln und ausbauen
 
 Wir werden die Angebote von Tages-, Nacht- und Kurzzeitpflegeplätzen in Baden-Württemberg flächendeckend ausbauen und qualitativ weiterentwickeln, um pflegende Angehörige zum Beispiel auch an Wochenenden durch innovative Formen der Kurzzeitpflege zu entlasten. Durch die Verknüpfung mit dem Quartiersgedanken und der sektorenübergreifenden Versorgung schaffen wir wohnortnahe Angebote und passgenaue Unterstützung für die pflegebedürftigen Menschen in unserem Land.
 
@@ -1779,7 +1661,7 @@ Demenzielle Erkrankungen: Die Absicherung der Versorgung für Menschen mit demen
 Palliativ- und Hospizversorgung: Unseren Einsatz für die wohnortnahe Palliativ- und Hospizversorgung setzen wir unter besonderer Berücksichtigung ambulanter Angebote fort. Dazu zählt auch eine bedarfsgerechte Kinderpalliativversorgung.
 
 
-Attraktive Gesundheits- und Pflegeberufe sicherstellen
+### Attraktive Gesundheits- und Pflegeberufe sicherstellen
 
 Wir werden die Attraktivität der Gesundheitsfachberufe durch eine finanzielle Übergangsregelung bis zur bundesrechtlichen Lösung der Schulgeldfreiheit sicherstellen und die generalistische Pflegeausbildung durch eine Erhöhung der Ausbildungsplätze weiter stärken. Um für diese Ausbildung ausreichend praktische Plätze zur Verfügung stellen zu können, sichern wir die Koordinierung der ausbildungsrechtlich vorgeschriebenen Praxiseinsätze vor Ort zu. Wir wollen darüber hinaus einjährige generalistische Ausbildungswege fördern.
 
@@ -1789,15 +1671,15 @@ Für Betreuungskräfte in der Pflege braucht es verlässliche Standards. Uns ist
 
 Wir setzen uns für eine praktische und rechtssichere Umsetzung der erweiterten Kompetenzen der Notfallsanitäterinnen und Notfallsanitäter ein.
 
-Fachkräfteoffensive für Sozial- und Gesundheitsberufe starten
+### Fachkräfteoffensive für Sozial- und Gesundheitsberufe starten
 
 Sozial- und Gesundheitsberufe sind wesentlicher Teil der Daseinsvorsorge. Sie erfüllen den gesetzlichen Auftrag, unser Land sozial auszugestalten. Gerade in den Bereichen Integration von Migrantinnen und Migranten, Inklusion, Begleitung von Kindern und Familien sowie bei der Betreuung und Beratung älterer Menschen ist von einem steigenden Fachkräftebedarf auszugehen.
 
 Die Gewinnung von Fachkräften für die Sozial- und Gesundheitsberufe in Baden-Württemberg ist daher dringlich. Wir werden die Ausbildung an Fachschulen, Hochschulen und Universitäten voranbringen und gleichwertige, im Ausland erworbene Abschlüsse schneller anerkennen. Gemeinsam mit allen beteiligten Akteuren werden wir eine konzertierte Aktion zur Fachkräftegewinnung auf den Weg bringen.
 
-### D. SOZIALES UND TEILHABE
+## D. SOZIALES UND TEILHABE
 
-Lebenswerte Quartiere ermöglichen
+### Lebenswerte Quartiere ermöglichen
 
 Unter dem Eindruck des demografischen Wandels verändert sich unsere Gesellschaft grundlegend: Wir werden mehr, wir werden älter und wir werden vielfältiger. Wir haben daher die Aufgabe, diese Veränderungen für das Land, die Wirtschaft, die Kommunen, die sozialen
 
@@ -1807,7 +1689,7 @@ Landesstrategie „Quartier 2030 – Gemeinsam.Gestalten“ weiterentwickeln: Wi
 
 Förderprogramm „Gemeinsam unterstützt und versorgt wohnen“ ausbauen: Wir werden das Förderprogramm „Gemeinsam unterstützt und versorgt wohnen“ für ambulant betreute Wohngemeinschaften ausbauen, um Menschen mit Unterstützungs- und Versorgungsbedarf und Menschen mit Behinderung ein Leben im gewohnten Umfeld und mit hoher Selbstbestimmung zu ermöglichen.
 
-Teilhabe von Menschen mit Behinderung verbessern
+### Teilhabe von Menschen mit Behinderung verbessern
 
 Politische Teilhabe für alle: Es ist uns wichtig, dass Menschen mit Behinderung gesellschaftlich teilhaben und selbst Einfluss auf politische Entscheidungen nehmen können. Auch die UN-Behindertenrechtskonvention verpflichtet die Vertragsstaaten, die politische Partizipation von Menschen mit Behinderung zu garantieren. Wir stellen sicher, dass die politische Partizipation der Interessenvertretung von Menschen mit Behinderung landesweit koordiniert wird und die Selbstvertreterinnen und Selbstvertreter dazu befähigt werden, ihre Aufgaben wahrnehmen zu können.
 
@@ -1817,10 +1699,7 @@ Arbeitschancen verbessern: Wir werden mehr Menschen mit Behinderung in der Lande
 
 Wir werden Menschen mit Behinderung unterstützen, auf dem ersten Arbeitsmarkt Fuß zu fassen. Wir nutzen dafür die begonnene erfolgreiche Umsetzung des Bundesteilhabegesetzes (BTHG).
 
-Einheitlichkeit und Vergleichbarkeit in der Eingliederungshilfe herstellen: Um für alle Menschen mit
-
-
-Behinderung gleichwertige Lebensverhältnisse herzustellen, ist bei der Umsetzung des BTHG eine flächendeckende Anwendung des Bedarfsermittlungsinstrumentes Baden-Württemberg (BEI_BaWü) und eine landesweite konsequente Umsetzung des Landesrahmenvertrages SGB IX erforderlich. Dafür etablieren wir ein kontinuierliches Monitoring. Erstmals erfolgt dies im Rahmen einer externen wissenschaftlichen Evaluation bis Ende 2022. Die Ergebnisse der Evaluation werden wir bewerten und nur bei Erfordernis die entsprechenden Bestimmungen im Ausführungsgesetz zum SGB IX anpassen.
+Einheitlichkeit und Vergleichbarkeit in der Eingliederungshilfe herstellen: Um für alle Menschen mit Behinderung gleichwertige Lebensverhältnisse herzustellen, ist bei der Umsetzung des BTHG eine flächendeckende Anwendung des Bedarfsermittlungsinstrumentes Baden-Württemberg (BEI_BaWü) und eine landesweite konsequente Umsetzung des Landesrahmenvertrages SGB IX erforderlich. Dafür etablieren wir ein kontinuierliches Monitoring. Erstmals erfolgt dies im Rahmen einer externen wissenschaftlichen Evaluation bis Ende 2022. Die Ergebnisse der Evaluation werden wir bewerten und nur bei Erfordernis die entsprechenden Bestimmungen im Ausführungsgesetz zum SGB IX anpassen.
 
 Schulungs- und Vernetzungsprogramm einrichten: Wir werden für die ergänzenden Teilhabeberatungsstellen ein Schulungs- und Vernetzungsprogramm einrichten, damit ratsuchende Menschen mit Behinderung auch in landesspezifischen Fragen der Bedarfsermittlung und des Landesrahmenvertrags SGB IX kompetent und umfassend beraten werden können.
 
@@ -1828,7 +1707,7 @@ Teilhabe und Selbstbestimmung durchsetzen: Wir gewährleisten die notwendige Tä
 
 ## E. KINDER-, JUGENDUND FAMILIENPOLITIK
 
-Familienförderstrategie schaffen
+### Familienförderstrategie schaffen
 
 Familien sind das Fundament unserer Gesellschaft. In Familien wird Mitmenschlichkeit, Zuneigung und Verantwortung füreinander gelebt – unabhängig von der konkreten Form des Zusammenlebens. Unseren Respekt und unsere Anerkennung verdienen deshalb alle Familienmodelle, in denen Menschen dauerhaft füreinander Verantwortung übernehmen. Wir wollen Familien stärken – gleichgültig, ob diese sich als modern oder klassisch verstehen – und im Land gute Rahmenbedingungen für Familien setzen, von der Geburt bis in den Lebensabend.
 
@@ -1836,11 +1715,9 @@ Wir schaffen eine Gesamtstrategie, die Teilhabe und Chancengleichheit für Famil
 
 Wir unterstützen Familien in ihrem Alltag, indem wir Kindertagesstätten zu Familienzentren weiterentwickeln und Elternbildung mit dem Landesprogramm STÄRKE weiterführen.
 
-Als zentrales Instrument der allgemeinen Familienförderung stärken wir die Familienbildung, um Eltern in ihren
+Als zentrales Instrument der allgemeinen Familienförderung stärken wir die Familienbildung, um Eltern in ihren Beziehungs-, Erziehungs- und Alltagskompetenzen zu unterstützen.
 
-Beziehungs-, Erziehungs- und Alltagskompetenzen zu unterstützen.
-
-Flächendeckende Präventionsnetzwerke gegen Kinderarmut einrichten
+### Flächendeckende Präventionsnetzwerke gegen Kinderarmut einrichten
 
 Wir wollen, dass bis 2030 in allen Stadt- und Landkreisen Präventionsnetzwerke gegen Kinderarmut etabliert sind. Bereits bestehende Präventionsnetzwerke wollen wir weiterhin finanziell unterstützen.
 
@@ -1850,7 +1727,7 @@ Darüber hinaus werden wir die Armutsberichtserstattung mit dem Gesellschaftsmon
 
 Tafeln unterstützen: Die Arbeit der Tafeln steht für Solidarität und Mitmenschlichkeit. Das verdient unsere Dankbarkeit und Anerkennung, braucht darüber hinaus von der Politik jedoch auch die richtigen Rahmenbedingungen. Die Forderung nach einer finanziellen Förderung für die Koordinierung und Abstimmung der Arbeit der Tafeln auf Landesebene werden wir deshalb prüfen.
 
-Kinderschutz und Kinderrechte gewährleisten
+### Kinderschutz und Kinderrechte gewährleisten
 
 Wir schaffen ein Kompetenzzentrum „Kinderschutz und Kinderrechte“.
 
@@ -1862,10 +1739,7 @@ Wir werden Vorgaben zum Kinderschutzkonzept in die Regelungen zur Kita-Betriebse
 
 Wir werden konsequent die Ergebnisse aus der vom Land Baden-Württemberg eingesetzten Kommission Kinderschutz umsetzen.
 
-Jugend- und Kindersozialarbeit: Wir bekennen uns zu einer bedarfsgerechten Jugendsozialarbeit an öffentlichen Schulen sowie zu der Förderung der mobilen Jugendsozialarbeit und der Kindersozialarbeit. Sie leisten einen
-
-
-unverzichtbaren Beitrag zur gelingenden Entwicklung von Kindern und Jugendlichen.
+Jugend- und Kindersozialarbeit: Wir bekennen uns zu einer bedarfsgerechten Jugendsozialarbeit an öffentlichen Schulen sowie zu der Förderung der mobilen Jugendsozialarbeit und der Kindersozialarbeit. Sie leisten einen unverzichtbaren Beitrag zur gelingenden Entwicklung von Kindern und Jugendlichen.
 
 Ombudschaft in der Jugendhilfe: Mit der Implementierung eines landesweiten Ombudssystems hat Baden-Württemberg einen entscheidenden Baustein für Kinderschutz und Beteiligung auf den Weg gebracht. Junge Menschen und ihre Familien sollen sich zur Beratung sowie zur Vermittlung und Klärung von Konflikten im Zusammenhang mit Aufgaben der Kinder- und Jugendhilfe und deren Wahrnehmung durch die öffentliche und freie Jugendhilfe an eine Ombudsstelle wenden können. Das sich aktuell noch im Aufbau befindliche Ombudssystem ist deshalb weiter auszubauen und im Kinder- und Jugendhilfegesetz Baden-Württemberg gesetzlich zu verankern.
 
@@ -1873,7 +1747,7 @@ Sowohl in der Jugendhilfe erfahrene Menschen als auch ehrenamtliche Personen auf
 
 Eine weitere Säule des Ombudssystems BW ist die Stärkung der Jugendbeteiligung in stationären Einrichtungen. Das Land spricht sich für einen weiteren Ausbau der Beteiligung von Kindern und Jugendlichen in Einrichtungen der Kinder- und Jugendhilfe aus und unterstützt diese unter anderem durch die Stärkung von Selbstvertretungen wie Heimräten, Landesheimräten oder Careleaver-Netzwerken. Zudem sollen Kinder und Jugendliche befähigt werden, ihre Rechte wahrzunehmen.
 
-Masterplan Jugend weiterentwickeln
+### Masterplan Jugend weiterentwickeln
 
 Der Masterplan Jugend wird mit dem Schwerpunkt Jugendbeteiligung weiterentwickelt und eine für die Beteiligung junger Menschen notwendige Infrastruktur aufgebaut, zu der Beratungs-, Unterstützungs- und Weiterbildungsangebote gehören. Dazu zählt auch die Herabsetzung des Wahlalters auf 16.
 
@@ -1881,13 +1755,11 @@ Wir wollen Beteiligungsrechte wie beispielsweise die Jugendbeteiligung in Jugend
 
 Dazu bedarf es auch einer strukturellen und finanziellen Absicherung der Regelstrukturen und Einrichtungen der Jugendarbeit und der Jugendsozialarbeit. Die im Dialog erarbeitete Verwaltungsvorschrift zur Förderung der Jugendarbeit und Jugendsozialarbeit wird umgesetzt, der Mitteleinsatz wird verstetigt, die Haushaltsmittel zur institutionellen Förderung werden erhöht und der bestehende Bündnisschutz wird neu aufgelegt.
 
-Wir werden die Rahmenbedingungen auf Landesebene schaffen, damit die UN-Kinderrechtskonvention mit der
-
-anstehenden Reform des SGB VIII vollumfänglich, bestmöglich und inklusiv umgesetzt werden kann.
+Wir werden die Rahmenbedingungen auf Landesebene schaffen, damit die UN-Kinderrechtskonvention mit der anstehenden Reform des SGB VIII vollumfänglich, bestmöglich und inklusiv umgesetzt werden kann.
 
 Besondere Aufmerksamkeit werden wir dabei der Bewältigung der Folgen aus der Corona-Pandemie für Kinder und Jugendliche widmen.
 
-Bildungs- und Begegnungsangebote für Jugendliche
+### Bildungs- und Begegnungsangebote für Jugendliche
 
 Das Jugendbegleiter-Programm hat sich seit 2006 bewährt und wird mittlerweile an jeder zweiten Schule umgesetzt. Wir werden das Programm noch stärker in Richtung ergänzender Bildungsangebote entwickeln, etwa auch zur Unterstützung der Berufsorientierung von Jugendlichen. Dabei prüfen wir auch digitale Formate, um möglichst vielen Schülerinnen und Schülern Zusatzangebote machen zu können. Die seit 2011 durchgeführten regelmäßigen Jugendstudien wollen wir fortsetzen und ausbauen, um aktuelle Handlungsbedarfe für die Jugendpolitik zu identifizieren.
 
@@ -1896,13 +1768,9 @@ Für die Zukunft unserer Gesellschaft ist eine weltoffene Jugend wichtig. Wir wo
 Die Arbeit der Jugendbildungsstätten im Land hat sich bewährt. Sie werden seit vielen Jahren vom Land in ihrer Arbeit gefördert. In der zu Ende gehenden Legislaturperiode wurden auf Burg Liebenzell und bei der Landesakademie für Jugendbildung in Weil der Stadt umfangreiche Um- und Neubauten ermöglicht. Zusammen mit den Jugendbildungsstätten wollen wir zukunftsfähige Konzepte für eine Jugendbildung im 21. Jahrhundert entwickeln.
 
 
+# 7. Gesellschaft und Integration 
 
-81
-
-07 GEMEINSAM VIELFALT LEBEN:
-
-
-7. GEMEINSAM VIELFALT LEBEN: FÜR ECHTEN ZUSAMMENHALT
+## 07 GEMEINSAM VIELFALT LEBEN: FÜR ECHTEN ZUSAMMENHALT
 
 In keinem anderen Bundesland engagieren sich so viele Menschen mit großem Einsatz ehrenamtlich für eine offene und vielfältige Gesellschaft wie bei uns in Baden-Württemberg. In Vereinen und Verbänden, in Kirchen und Gewerkschaften, in der Flüchtlingshilfe, in Bürgerinitiativen und lokalen Gruppen – überall gestalten die Menschen in unserem Land ein echtes Miteinander.
 
@@ -1914,9 +1782,9 @@ Das ist, was uns in Baden-Württemberg stark macht. In diesem Sinne werden wir m
 
 Aufgrund der angespannten Haushaltssituation stehen sämtliche zusätzlichen finanzwirksamen Maßnahmen auch in diesem Kapitel unter Haushaltsvorbehalt. Das bedeutet: Erst wenn es wieder finanzielle Spielräume gibt, können ausgewählte Maßnahmen – eventuell in Stufen – umgesetzt werden. Ordnungspolitische und nicht finanzrelevante Maßnahmen sind davon nicht berührt.
 
-### A. MIGRATION UND INTEGRATION
+## A. MIGRATION UND INTEGRATION
 
-Zuwanderung humanitär und verantwortlich gestalten
+### Zuwanderung humanitär und verantwortlich gestalten
 
 Die beste Flüchtlingspolitik bewahrt die Menschen davor, ihre Herkunftsregionen überhaupt erst verlassen zu müssen. Wir werden als Land weiterhin dazu beitragen, Fluchtursachen zu bekämpfen: beispielsweise, indem wir vor Ort Programme auflegen wie zuletzt im Nordirak, oder indem wir uns wie auf dem Balkan daran beteiligen, die wirtschaftliche Situation vor Ort zu stabilisieren.
 
@@ -1934,10 +1802,7 @@ Fachkräfteeinwanderung erleichtern: Durch den demografischen Wandel wird unsere
 
 Wir erweitern die Welcome-Center zu Kompetenzzentren „Internationale Fachkräfte“ und fördern sie verlässlich. So soll beispielsweise das Welcome-Center-Sozialwirtschaft zu einem Kompetenzzentrum für internationale Fachkräfte in der Pflege und in anderen Berufen der Sozialwirtschaft ausgebaut werden.
 
-Wir unterstützen es, die Westbalkanregelung zu verlängern sowie zu prüfen, wie nach deren Vorbild weitere Korridore
-
-
-für Arbeitsmigration mit anderen Staaten geschaffen werden können.
+Wir unterstützen es, die Westbalkanregelung zu verlängern sowie zu prüfen, wie nach deren Vorbild weitere Korridore für Arbeitsmigration mit anderen Staaten geschaffen werden können.
 
 Das zuständige Ministerium veröffentlicht transparent alle ausländer- und asylrechtlichen Erlasse, Anwendungshinweise etc., soweit dem keine Belange des Geheimschutzes entgegenstehen.
 
@@ -1953,7 +1818,7 @@ Wir entwickeln eine Muster-Hausordnung für die Landeserstaufnahmeeinrichtungen.
 
 Die Erstaufnahme muss angemessen ausgestattet werden.
 
-Integration mit Weitblick organisieren, Teilhabe ermöglichen
+### Integration mit Weitblick organisieren, Teilhabe ermöglichen
 
 Bei der Verteilung auf die Stadt- und Landkreise bzw. die Kommunen halten wir die maximalen Unterbringungszeiten, die das Asylgesetz vorsieht, ein. Baden-Württemberg wird die Vorgaben von § 47 Abs.1 Asylgesetz konsequent umsetzen. Dazu gehört: Kinder und ihre Eltern bzw. andere Sorgeberechtigte sowie ihre volljährigen ledigen Geschwister verbleiben maximal sechs Monate in einer Landeserstaufnahmeeinrichtung. Das werden wir gewährleisten. Dies gilt auch für Menschen aus sicheren Herkunftsstaaten.
 
@@ -2016,16 +1881,13 @@ Wir wollen mehr über die Chancen und Herausforderungen der Integrationsarbeit i
 
 Auch die Folgen der COVID-19-Pandemie und die Chancen der Digitalisierung werden wir in den Blick nehmen. Die Ergebnisse der Bestands- und Entwicklungsanalysen werden wir in das Netzwerk „Integration BW“ einspeisen und gegebenenfalls darauf aufbauende Handlungsempfehlungen für die strategische Integrationsarbeit vor Ort erarbeiten.
 
-Wir wollen Menschen ohne deutsche Staatsbürgerschaft ermutigen, die deutsche Staatangehörigkeit zu beantragen. Hierzu werden wir die Einbürgerungsbehörden
-
-
-stärken, um zügige Verfahren für alle Einbürgerungsberechtigten ohne zusätzliche Hürden zu ermöglichen.
+Wir wollen Menschen ohne deutsche Staatsbürgerschaft ermutigen, die deutsche Staatangehörigkeit zu beantragen. Hierzu werden wir die Einbürgerungsbehörden stärken, um zügige Verfahren für alle Einbürgerungsberechtigten ohne zusätzliche Hürden zu ermöglichen.
 
 Menschen ohne Krankenversicherung, insbesondere denjenigen ohne Aufenthaltsstatus, wollen wir unbürokratisch und schnellstmöglich Zugang zu medizinischer Behandlung im Umfang des gesetzlichen Rahmens verschaffen.
 
 Wir wollen traumatisierten Geflüchteten einen schnellen und niedrigschwelligen Zugang zu Hilfsangeboten ermöglichen, damit sie eine echte Perspektive auf Teilhabe in der Gesellschaft bekommen. Dazu werden wir die bestehenden psychosozialen Beratungsstellen zu einer landesweiten Versorgungsstruktur weiterentwickeln. Wir stellen eine bedarfsgerechte Versorgung sicher. Dazu gehört es, neben den Therapiekosten auch Dolmetscher und Fahrtkosten zu übernehmen. Wir setzen uns dafür ein, Behandlungskosten unkompliziert und vollständig zu erstatten.
 
-Bleiberecht pragmatisch und menschlich ausgestalten
+### Bleiberecht pragmatisch und menschlich ausgestalten
 
 Viele Geflüchtete, die in den vergangenen Jahren nach Baden-Württemberg gekommen sind, sind heute gut integriert. Sie laufen jedoch Gefahr, am Ende ihres Asylverfahrens doch noch abgelehnt zu werden. Wenn diese Menschen dann plötzlich gehen müssen, ist das ein herber Schlag für sie persönlich und ein Verlust für unsere Gesellschaft. Das wollen wir vermeiden. Für diejenigen, die viele Jahre im Land, nicht straffällig geworden und gut integriert sind, werden wir daher alle Möglichkeiten im Land nutzen, um ein Bleiberecht zu ermöglichen.
 
@@ -2033,9 +1895,7 @@ Dazu werden wir konkrete, landeseigene Anwendungshinweise erlassen: Entlang der 
 
 In allen anderen Fällen werden wir alle gesetzlichen Spielräume konsequent nutzen – insbesondere bei Duldungen im Ermessensweg.
 
-Clearingstelle „Bleibeperspektive für gut Integrierte“: Auch die bisherige Praxis, gut integrierten Geflüchteten
-
-über Entscheidungen der Härtefallkommission eine Bleibeperspektive zu eröffnen, wollen wir beibehalten und im Sinne einer humanen Flüchtlingspolitik optimieren. Dazu werden wir eine interministerielle Clearingstelle „Bleibeperspektive für gut Integrierte“ einrichten.
+Clearingstelle „Bleibeperspektive für gut Integrierte“: Auch die bisherige Praxis, gut integrierten Geflüchteten über Entscheidungen der Härtefallkommission eine Bleibeperspektive zu eröffnen, wollen wir beibehalten und im Sinne einer humanen Flüchtlingspolitik optimieren. Dazu werden wir eine interministerielle Clearingstelle „Bleibeperspektive für gut Integrierte“ einrichten.
 
 Auch in humanitären Einzelfällen schöpfen wir alle rechtstaatlichen Instrumente aus. Dies betrifft beispielsweise Familien, alleinreisende Kinder und Jugendliche sowie alte und kranke Personen, die aus dem Raster des Aufenthalts- und Asylgesetzes fallen. Auch für diese Personen ist die Härtefallkommission weiterhin eine wichtige Anlaufstelle. Wir wollen, dass sie unabhängige und transparente Entscheidungen trifft, und werden die Geschäftsstelle der Härtefallkommission strukturell und personell im Umfang von mindestens zwei Stellen stärken.
 
@@ -2045,12 +1905,9 @@ Wir wollen geduldeten Menschen zu einem Bleiberecht verhelfen. Das ist unser kla
 
 Entsprechende Initiativen des Landes sind vor allem deswegen notwendig, weil die Hürden der bundesgesetzlichen Regelungen sehr hoch sind. Daher machen wir uns beim Bund dafür stark, gut integrierten Menschen sowie humanitären Einzelfällen leichter eine dauerhafte Bleibeperspektive zu ermöglichen. So werden wir uns auf Bundesebene beispielsweise für Änderungen im Bleiberecht einsetzen, sodass im Rahmen der Beschäftigungsduldung auch Zeiten der Aufenthaltsgestattung einbezogen werden – analog zu den Rahmenbedingungen, die in der Bundesratsinitiative festgelegt sind (BR-Drucksache 187/20). Aus unserer Sicht gilt es, dieses Bleiberecht zudem als Aufenthaltserlaubnis und nicht als Duldung auszugestalten.
 
-Schnelle und faire Asylverfahren – rechtsstaatliche und faire Rückkehr- und Abschiebepraxis
+### Schnelle und faire Asylverfahren – rechtsstaatliche und faire Rückkehr- und Abschiebepraxis
 
-Wer bei uns Asyl beantragt, verdient ein rechtsstaatliches, faires und schnelles Asylverfahren. Nicht alle, die zu uns kommen, werden auch dauerhaft hierbleiben können. Wenn ein Asylantrag abgelehnt wird, und es keine
-
-
-weiteren Gründe gibt, die eine Rückkehr ausschließen, hat für uns die freiwillige Rückkehr Vorrang.
+Wer bei uns Asyl beantragt, verdient ein rechtsstaatliches, faires und schnelles Asylverfahren. Nicht alle, die zu uns kommen, werden auch dauerhaft hierbleiben können. Wenn ein Asylantrag abgelehnt wird, und es keine weiteren Gründe gibt, die eine Rückkehr ausschließen, hat für uns die freiwillige Rückkehr Vorrang.
 
 Wir werden Leitlinien für die Rückkehr- und Abschiebepraxis in Baden-Württemberg etablieren, um eine rechtsstaatliche, faire und humanitär verantwortliche Rückkehr- und Abschiebepraxis zu gewährleisten.
 
@@ -2084,38 +1941,33 @@ Die wachsende religiöse Pluralität in unserem Land führt dazu, dass weitere R
 
 Auch wenn konfessionsfreie Menschen derzeit noch nicht breit organisiert sind, werden wir deren Belange berücksichtigen.
 
-Jüdisches Leben in Baden-Württemberg nachhaltig stärken
+### Jüdisches Leben in Baden-Württemberg nachhaltig stärken
 
 In diesem Jahr begehen wir das Festjahr „1700 Jahre Jüdisches Leben in Deutschland“. Baden-Württemberg beteiligt sich mit eigenen Formaten, um die tiefe Verwurzelung und Aktualität jüdischen Lebens hier im Land deutlich zu machen. Wir werden auch künftig jüdisches Leben in Baden-Württemberg schützen. Als Landesregierung werden wir gegen jede Form von antisemitischen Haltungen und Taten klare Kante zeigen. Der oder die Beauftragte der Landesregierung setzt sich im Auftrag der Landesregierung weiterhin für jüdisches Leben und gegen alle Formen von Antisemitismus ein und wird auch künftig eine wichtige vermittelnde und aufklärende Rolle spielen.
 
 Wir bekennen uns klar zum Existenzrecht und zur Sicherheit Israels und positionieren uns gegen die BDS-Kampagne, die Israel durch Boykottaufrufe politisch, wirtschaftlich und kulturell angreifen und isolieren will.
 
-Baden-Württemberg steht für Dialog, Frieden und den gemeinsamen Kampf gegen Antisemitismus. Deshalb wollen wir den Austausch zwischen Schulen und Forschungseinrichtungen aus Baden-Württemberg mit Israel und
+Baden-Württemberg steht für Dialog, Frieden und den gemeinsamen Kampf gegen Antisemitismus. Deshalb wollen wir den Austausch zwischen Schulen und Forschungseinrichtungen aus Baden-Württemberg mit Israel und seinen arabischen Partnerinnen und Partnern fördern. So fördern wir die Zukunftsfähigkeit unserer Gesellschaft durch Begegnung und Zusammenarbeit.
 
-
-seinen arabischen Partnerinnen und Partnern fördern. So fördern wir die Zukunftsfähigkeit unserer Gesellschaft durch Begegnung und Zusammenarbeit.
-
-### C. OFFENE GESELLSCHAFT UND ANTIDISKRIMINIERUNG
+## C. OFFENE GESELLSCHAFT UND ANTIDISKRIMINIERUNG
 
 Wir wollen eine Gesellschaft, in der sich jeder Mensch – ohne Ansehung seiner Person, seines sozialen Hintergrunds, seiner körperlichen Voraussetzungen und seines Geschlechts, seiner Religion, Hautfarbe oder Herkunft – unter Beachtung seiner Verantwortung für das Gemeinwesen selbst verwirklichen kann. Die Anerkennung der grundlegenden Werte unserer Verfassung durch jede und jeden ist dabei unerlässlich. Wir verteidigen unsere wehrhafte Demokratie gegen ihre Feinde, egal aus welcher Ecke sie kommen. In Baden-Württemberg haben Hass und Hetze keinen Platz.
 
-Vielfalt im Diskurs leben
+### Vielfalt im Diskurs leben
 
 Eine lebendige und freiheitliche Gesellschaft lebt von einem offenen und wertschätzenden Diskurs. Der Wettbewerb der Meinungen muss ebenso respektvoll wie frei erfolgen. Demokratie braucht Debatten.
 
 Hass, gezielte Falschinformationen und Verschwörungsmythen schaden den Debatten in unserem Land und führen zur Fragmentierung der Gesellschaft. Wir wollen dem entgegenwirken und setzen dabei auf die Unterstützung der ganzen baden-württembergischen Gesellschaft – von der Politik und Verwaltung über Wirtschaft und Verbände bis hin zu den Kirchen und zivilgesellschaftlichen Initiativen. Wir wollen das Gemeinsame stärken und nicht das Trennende betonen. Für uns ist klar, dass alle Akteure, mit denen wir zusammenarbeiten, sich uneingeschränkt zu unserer Verfassung bekennen und Gewalt und Ausgrenzung ablehnen.
 
-Schutz von Bevölkerungsgruppen effektiv sichern
+### Schutz von Bevölkerungsgruppen effektiv sichern
 
 Wir bekennen uns dazu, die anerkannte Minderheit der deutschen Sinti und Roma zu schützen und zu fördern. Die gute Zusammenarbeit mit dem Landesverband deutscher Sinti und Roma im Rahmen des Staatsvertrages wollen wir fortsetzen. Der Staatsvertrag ist Ausdruck unseres Bemühens, dazu beizutragen, die Kultur und Identität der Minderheit zu bewahren. Sie sind Teil unserer Gesellschaft.
 
 Viele Musliminnen und Muslime erfahren antimuslimischen Rassismus. Diese Alltagsdiskriminierung reicht von Anfeindungen bis zu Angriffen. Diesem Hass stellen wir uns entschieden entgegen.
 
-In den Südwesten kamen nach dem Zweiten Weltkrieg eineinhalb Millionen Heimatvertriebene und Flüchtlinge. Für diese Menschen war es eine Herausforderung, sich in
+In den Südwesten kamen nach dem Zweiten Weltkrieg eineinhalb Millionen Heimatvertriebene und Flüchtlinge. Für diese Menschen war es eine Herausforderung, sich in einer neuen Umgebung zurechtzufinden und das Erlittene zu verarbeiten. Sie haben viel investiert, um sich eine neue Existenz aufzubauen und sich in die Gesellschaft zu integrieren. Die Würdigung ihrer Leistung findet Ausdruck in dem bundesweiten Gedenktag am 20. Juni. Die oder der Landesbeauftragte für Vertriebene und Spätaussiedler wird weiterhin engagierter Ansprechpartner für ihre Belange sein.
 
-einer neuen Umgebung zurechtzufinden und das Erlittene zu verarbeiten. Sie haben viel investiert, um sich eine neue Existenz aufzubauen und sich in die Gesellschaft zu integrieren. Die Würdigung ihrer Leistung findet Ausdruck in dem bundesweiten Gedenktag am 20. Juni. Die oder der Landesbeauftragte für Vertriebene und Spätaussiedler wird weiterhin engagierter Ansprechpartner für ihre Belange sein.
-
-Kultur der Vielfalt und des Respekts leben
+### Kultur der Vielfalt und des Respekts leben
 
 Wir bekennen uns zur Vielfalt. Dies ist uns ein zentrales Anliegen in einer Gesellschaft, die sich immer stärker pluralisiert und individualisiert. Mit dem Beitritt zur „Charta der Vielfalt“ hat Baden-Württemberg bekräftigt, dass es eine Kultur der Vielfalt und des Respekts pflegt und fortentwickeln will.
 
@@ -2127,7 +1979,7 @@ Hass und Hetze vergiften unsere Gesellschaft von innen. Wir gehen daher gemeinsa
 
 Dazu gehört es auch, geschlechterspezifische Gewalt in all ihren Facetten sichtbarer zu machen und #RespektBW als Pflichtprogramm an unseren Schulen zu etablieren.
 
-Antirassismus- und Antidiskriminierungsarbeit stärken
+### Antirassismus- und Antidiskriminierungsarbeit stärken
 
 Wir werden die Antirassismus- und Antidiskriminierungsarbeit intensivieren und ein positives Bild von Diversität und verschiedenen Lebensentwürfen vermitteln.
 
@@ -2142,7 +1994,7 @@ Wir wollen eine Gesellschaft, in der sich jede und jeder unabhängig des eigenen
 
 Vor diesem Hintergrund führen wir ein entsprechendes Landesantidiskriminierungsgesetz ein. Ziel ist es, Diskriminierungen wirkungsvoll zu verhindern und das Vertrauen zwischen der Bürgerschaft und allen öffentlichen Stellen des Landes weiter zu stärken.
 
-Gleichstellung weiter voranbringen
+### Gleichstellung weiter voranbringen
 
 Unser Ziel ist die umfassende Gleichstellung von Frauen und Männern in allen gesellschaftlichen, wirtschaftlichen, wissenschaftlichen, kulturellen und digitalen Belangen. Deshalb werden wir eine ressortübergreifende Gleichstellungsstrategie für Baden-Württemberg entwickeln.
 
@@ -2150,9 +2002,7 @@ Wir werden die politischen Diskussionen und die juristischen Klärungen im Konte
 
 Wir wollen die Vereinbarkeit von Beruf und Familie verbessern, damit Erziehungs- und Familienarbeit gleichberechtigt verteilt werden können. Frauen sollen für die gleiche Arbeit den gleichen Lohn erhalten. Wir werden einen Lohnatlas für Baden-Württemberg einführen und so einen ersten Schritt hin zu mehr Transparenz machen. Der Lohnatlas soll die Unterschiede in den Branchen und Regionen beleuchten.
 
-Wir machen uns dafür stark, die Expertise von Frauen sichtbarer zu machen. So sollen etwa auf Podien bei
-
-öffentlichen Veranstaltungen des Landes mehr Frauen vertreten sein.
+Wir machen uns dafür stark, die Expertise von Frauen sichtbarer zu machen. So sollen etwa auf Podien bei öffentlichen Veranstaltungen des Landes mehr Frauen vertreten sein.
 
 Auch bei landeseigenen Unternehmen werden wir die Gleichstellung fördern: Wir unterstützen sie dabei, Gleichstellungsbeauftragte einzuführen und werden sexuelle Belästigung am Arbeitsplatz bekämpfen.
 
@@ -2172,16 +2022,13 @@ Wir etablieren und fördern die verfahrensunabhängige Spurensicherung in den Ge
 
 Den Kampf gegen Genitalverstümmelung bringen wir weiter voran. Dazu werden wir eine überregionale, zentrale Anlaufstelle in Baden-Württemberg für Frauen und Mädchen, die von Genitalverstümmelung betroffen oder bedroht sind, modellhaft erproben. Wir stärken die Prävention, indem wir unter anderem den Schutzbrief gegen Genitalverstümmlung bekannter machen.
 
-Der Schutz der Prostituierten steht bei uns im Vordergrund. Ein großer Teil der Prostituierten wird oft von kriminellen Organisationen zu Zuhältern gelockt und
-
-
-gezwungen; sie leben in Parallelwelten, zu denen die Behörden kaum Zugang finden. Zwangsprostitution werden wir weiterhin aktiv bekämpfen und gesellschaftliche Initiativen, die sich gegen Zwangsprostitution einsetzen, unterstützen.
+Der Schutz der Prostituierten steht bei uns im Vordergrund. Ein großer Teil der Prostituierten wird oft von kriminellen Organisationen zu Zuhältern gelockt und gezwungen; sie leben in Parallelwelten, zu denen die Behörden kaum Zugang finden. Zwangsprostitution werden wir weiterhin aktiv bekämpfen und gesellschaftliche Initiativen, die sich gegen Zwangsprostitution einsetzen, unterstützen.
 
 Antifeminismus in seinen unterschiedlichsten Erscheinungsformen – Gewalt gegen Frauen, Hatespeech, digitale Gewalt – treten wir entschieden entgegen.
 
 Wir werden die Präventionsarbeit gegen Frauenfeindlichkeit fördern, die auch die Überschneidungen mit anderen Formen der gruppenbezogenen Menschenfeindlichkeit wie zum Beispiel Rassismus in den Blick nimmt.
 
-Aktionsplan „Für Akzeptanz & gleiche Rechte“ weiterentwickeln
+### Aktionsplan „Für Akzeptanz & gleiche Rechte“ weiterentwickeln
 
 Die freie Entfaltung der Persönlichkeit und die volle gesellschaftliche Teilhabe setzen voraus, dass jeder Mensch – ungeachtet seiner sexuellen und geschlechtlichen Identität – gesellschaftlich geachtet wird und sein Leben ohne Benachteiligung und Diskriminierung leben kann.
 
@@ -2191,9 +2038,9 @@ Der Aktionsplan „Für Akzeptanz & gleiche Rechte Baden-Württemberg“ sensibi
 
 Baden-Württemberg wird auch im Bundesrat eine starke Stimme für Vielfalt, Akzeptanz und gleiche Rechte sein. Dies betrifft beispielsweise Initiativen zur Stärkung von Regenbogenfamilien, für einen effektiven Diskriminierungsschutz oder den Einsatz für die Menschenrechte von LSBTTIQ-Menschen auch im europäischen und internationalen Kontext.
 
-### D. ZUSAMMENHALT UND BETEILIGUNG
+## D. ZUSAMMENHALT UND BETEILIGUNG
 
-Sport fördern für mehr Miteinander
+### Sport fördern für mehr Miteinander
 
 Sport hat eine herausragende gesellschaftliche, politische und wirtschaftliche Bedeutung und wirkt in viele Bereiche unserer Gesellschaft hinein. Wir werden den Breitensport weiterhin partnerschaftlich und verlässlich unterstützen, denn er vermittelt Werte und Bildung und schafft Zusammenhalt.
 
@@ -2232,11 +2079,9 @@ Sport in Kita und Schule: Die Bedeutung des Sports bzw. der Bewegung für Kinder
 
 Der Sportunterricht soll durch Fachlehrerinnen und Fachlehrer gehalten und in Kooperation mit „Schule-Verein“ verstärkt werden. Damit wird die Qualität gestärkt. Wir setzen uns für eine tägliche Sport- und Bewegungsstunde ein.
 
-Bürgerbeteiligung engagiert ausbauen
+### Bürgerbeteiligung engagiert ausbauen
 
-Baden-Württemberg hat in den vergangenen Jahren die Instrumente der direkten Demokratie erweitert. Das Gehörtwerden ist für die Menschen im Land durch
-
-dialogische Bürgerbeteiligung in Bürgerforen mit zufällig ausgewählten Bürgerinnen und Bürgern (sogenannten „Zufallsbürgern“) erlebbar. Wir werden direkte Demokratie und dialogische Bürgerbeteiligung noch besser verzahnen. In der Gemeindeordnung sollte die dialogische Bürgerbeteiligung vor den Bürgerentscheiden stehen. Denn dies kann Polarisierungen abmildern und das gegenseitige Zuhören fördern. Die Evaluation der Gemeindeordnung hat dazu Vorschläge gemacht, die wir weiterentwickeln.
+Baden-Württemberg hat in den vergangenen Jahren die Instrumente der direkten Demokratie erweitert. Das Gehörtwerden ist für die Menschen im Land durch dialogische Bürgerbeteiligung in Bürgerforen mit zufällig ausgewählten Bürgerinnen und Bürgern (sogenannten „Zufallsbürgern“) erlebbar. Wir werden direkte Demokratie und dialogische Bürgerbeteiligung noch besser verzahnen. In der Gemeindeordnung sollte die dialogische Bürgerbeteiligung vor den Bürgerentscheiden stehen. Denn dies kann Polarisierungen abmildern und das gegenseitige Zuhören fördern. Die Evaluation der Gemeindeordnung hat dazu Vorschläge gemacht, die wir weiterentwickeln.
 
 Wir werden bei Bürgerentscheiden die Stichfrage einführen, sodass auch über bis zu zwei konkurrierende Vorschläge abgestimmt werden kann. Die Gemeinderäte erhalten die Möglichkeit, die Abstimmungsfrage bürgerfreundlicher zu gestalten.
 
@@ -2269,7 +2114,7 @@ Wir prüfen eine Enquete-Kommission zu den Folgen der Künstlichen Intelligenz f
 
 Das Petitionsrecht stellt sicher, dass der Landtag für alle Bürgerinnen und Bürger ansprechbar ist. Dieses Recht gilt es weiterhin zu schützen und auszubauen. Wir werden daher die Möglichkeit zur elektronischen Mitzeichnung im Internet schaffen. Daneben wollen wir die Erkenntnisse aus einzelnen Petitionsverfahren noch stärker systematisch erfassen und in das zukünftige Handeln des Landtages und der Landesregierung einfließen lassen. Dabei stärken wir das Zusammenwirken mit den betroffenen Kommunen und optimieren so die Verfahren.
 
-Baden-Württemberg als Ehrenamtsland stärken
+### Baden-Württemberg als Ehrenamtsland stärken
 
 Baden-Württemberg ist das Land des Ehrenamts. Nicht zu unterschätzen ist, wie wichtig das ehrenamtliche Engagement vor Ort ist. Dieses bürgerschaftliche Engagement werden wir weiter tatkräftig und auf allen Ebenen fördern und unterstützen und den gesellschaftlichen Zusammenhalt weiter stärken.
 
@@ -2291,13 +2136,9 @@ Als Ehrenamtsland fördern wir das ehrenamtliche Engagement von jungen Menschen 
 
 Mit einem Freiwilligen-Pass sorgen wir dafür, dass Freiwilligendienstleistende künftig ermäßigte Eintrittspreise in Freibädern und anderen Einrichtungen bekommen.
 
+# 8. Inneres und Verfassung 
 
-93
-
-08 SICHER UND FREI LEBEN:
-
-
-8. SICHER UND FREI LEBEN: FÜR EINE LEBENDIGE DEMOKRATIE
+## 08 SICHER UND FREI LEBEN: FÜR EINE LEBENDIGE DEMOKRATIE
 
 Demokratie ist weder selbstverständlich noch unveränderlich. Sie muss immer wieder neu erklärt und erstritten werden. Sie braucht Bürgerinnen und Bürger, die sich einmischen und für ihre Werte, für ihre Rechte und die der anderen einstehen. In einer Demokratie ist es wichtig, dass alle die Möglichkeiten haben, mitzumachen und angemessen repräsentiert zu werden. Demokratie braucht Institutionen, die für Beteiligung offen sind. Sie braucht starke Parlamente, lebendige Kommunen, einen unabhängigen und wirkungsvollen Rechtsstaat und gegenseitigen Respekt.
 
@@ -2305,13 +2146,11 @@ Baden-Württemberg ist eines der sichersten Bundesländer in Deutschland. Wir tr
 
 Aufgrund der angespannten Haushaltssituation stehen sämtliche zusätzlichen finanzwirksamen Maßnahmen auch in diesem Kapitel unter Haushaltsvorbehalt. Das bedeutet: Erst wenn es wieder finanzielle Spielräume gibt, können ausgewählte Maßnahmen – eventuell in Stufen – umgesetzt werden. Ordnungspolitische und nicht finanzrelevante Maßnahmen sind davon nicht berührt.
 
-### A. DEMOKRATIE UND VERFASSUNG
+## A. DEMOKRATIE UND VERFASSUNG
 
-Ein modernes Wahlrecht stärkt die Repräsentation
+### Ein modernes Wahlrecht stärkt die Repräsentation
 
-Als eines der ersten Vorhaben werden wir das Landtagswahlrecht reformieren. Dazu führen wir ein personalisiertes Verhältniswahlrecht mit einer geschlossenen Landesliste ein. Jede Wählerin und jeder Wähler soll zwei Stimmen erhalten, die Erststimme für das Direktmandat im Wahlkreis und die Zweitstimme für eine Landesliste, die die Zweitmandate vollständig ersetzt. Analog zur Bundestagswahl bestimmt sich die Sitzverteilung im Landtag nach der Zweitstimme. Parteien können wie bisher in den Wahlkreisen Ersatzkandidatinnen und Ersatzkandidaten nominieren. Falls ein direkt gewählter Abgeordneter oder eine direkt gewählte Abgeordnete ausscheidet, rückt die Ersatzkandidatin bzw. der Ersatzkandidat nach. Scheidet eine über die Liste gewählte Abgeordnete oder ein über die Liste gewählter Abgeordneter aus, rückt die nächste
-
-Kandidatin oder der nächste Kandidat der Liste nach. Die Anzahl der Wahlkreise belassen wir unverändert bei 70 und die Größe des Landtags bei mindestens 120. Das Wahlalter für das aktive Wahlrecht bei der Landtagswahl wird auf 16 Jahre abgesenkt. Mit dieser Wahlrechtsreform erreichen wir, dass der Landtag unsere Gesellschaft breit abbildet.
+Als eines der ersten Vorhaben werden wir das Landtagswahlrecht reformieren. Dazu führen wir ein personalisiertes Verhältniswahlrecht mit einer geschlossenen Landesliste ein. Jede Wählerin und jeder Wähler soll zwei Stimmen erhalten, die Erststimme für das Direktmandat im Wahlkreis und die Zweitstimme für eine Landesliste, die die Zweitmandate vollständig ersetzt. Analog zur Bundestagswahl bestimmt sich die Sitzverteilung im Landtag nach der Zweitstimme. Parteien können wie bisher in den Wahlkreisen Ersatzkandidatinnen und Ersatzkandidaten nominieren. Falls ein direkt gewählter Abgeordneter oder eine direkt gewählte Abgeordnete ausscheidet, rückt die Ersatzkandidatin bzw. der Ersatzkandidat nach. Scheidet eine über die Liste gewählte Abgeordnete oder ein über die Liste gewählter Abgeordneter aus, rückt die nächste Kandidatin oder der nächste Kandidat der Liste nach. Die Anzahl der Wahlkreise belassen wir unverändert bei 70 und die Größe des Landtags bei mindestens 120. Das Wahlalter für das aktive Wahlrecht bei der Landtagswahl wird auf 16 Jahre abgesenkt. Mit dieser Wahlrechtsreform erreichen wir, dass der Landtag unsere Gesellschaft breit abbildet.
 
 In einem weiteren Reformschritt im Laufe der Legislaturperiode werden wir – wie vom Landtag im Jahr 2019 beschlossen – die Größenverhältnisse der Wahlkreise zueinander aus verfassungsrechtlicher Perspektive überprüfen und bei Bedarf anpassen.
 
@@ -2321,7 +2160,7 @@ Wahlwerbung trägt wesentlich zur politischen Willensbildung im Vorfeld von demo
 
 Um Kandidierende bei politischen Wahlen vor Hass, Hetze und Übergriffen zu schützen, wollen wir die Adressangabe auf Wahlscheinen und Wahlbekanntmachungen prüfen. Dabei stellen wir sicher, dass die Wahlvorschläge hinreichend klar sind.
 
-Impulse für lebenswerte Städte und Gemeinden
+### Impulse für lebenswerte Städte und Gemeinden
 
 Starke Kommunen sind das Fundament eines funktionierenden Gemeinwesens. Das Land versteht sich als fairer und verlässlicher Partner der Kommunen. Unser Land ist nicht nur in den Ballungsräumen stark, sondern in der ganzen Fläche des Südwestens. Deswegen ist uns die kommunale Selbstverwaltung besonders wichtig. Leistungsfähige Gemeinden, Städte und Landkreise sind ein wesentlicher Faktor für den Erfolg Baden-Württembergs. Diese Ausgewogenheit wollen wir dauerhaft sichern.
 
@@ -2329,7 +2168,7 @@ Kommunalwahlrecht: Bei Kommunalwahlen ist das aktive Wahlalter bereits auf 16 Ja
 
 Bei der Aufstellung von Wahlvorschlägen wollen wir den Menschen vor Ort mehr Optionen an die Hand geben. Dazu werden wir in der Gemeindeordnung die Einwohnerschwelle für die Aufstellung von Wahlvorschlägen, die höchstens doppelt so viele Bewerber enthalten wie Gemeinderäte zu wählen sind, von 3.000 Einwohner auf 5.000 Einwohner erhöhen.
 
-Bürgermeisterwahlen reformieren: Die Altersgrenzen für Kandidatinnen und Kandidaten bei Bürgermeisterwahlen
+### Bürgermeisterwahlen reformieren: Die Altersgrenzen für Kandidatinnen und Kandidaten bei Bürgermeisterwahlen
 
 
 werden wir abschaffen: Das Mindestalter beträgt künftig 18 Jahre, Altersobergrenzen wird es nicht mehr geben.
@@ -2344,7 +2183,7 @@ Damit die Wählerinnen und Wähler in den Städten und Gemeinden ihren Willen in
 
 Die zunehmende Zersplitterung der Räte erschwert die Entscheidungsfindung und schränkt die Handlungsfähigkeit der kommunalen Gremien ein. Wir wollen deshalb unsere Gemeinderäte und Kreistage stabilisieren. Aus diesem Grund werden wir das Auszählverfahren bei Kommunalwahlen überprüfen.
 
-Verwaltung bürgernäher und digitaler ausgestalten
+### Verwaltung bürgernäher und digitaler ausgestalten
 
 Die Landesverwaltung und die Kommunalverwaltungen befinden sich in Bezug auf die Digitalisierung in einem umfassenden Transformationsprozess. Dieser sollte genutzt werden, um die Verwaltungsstrukturen innovativ und agil auf die Zukunft auszurichten und die IT-Infrastruktur des Landes und der Kommunen klimaneutral aufzustellen. Den Weg der Kommunen zu nachhaltigen, digitalen, partizipativen und smarten Städten und Gemeinden werden wir von Landesseite unterstützen.
 
@@ -2362,12 +2201,9 @@ Offenlegung der Einkünfte: Wir werden die Regelungen zur Offenlegung der Einkü
 
 Sperrzeitenregelung: Wir wollen die bestehenden, landesweiten Sperrzeitenregelungen auf den Prüfstand stellen im Hinblick auf die gesellschaftlichen Entwicklungen und das Potenzial für das Hotel- und Gaststättengewerbe in Baden-Württemberg. Grundsätzlich halten wir den kommunalen Handlungsspielraum bei der Sperrzeitenregulierung für ausreichend, um den speziellen Bedürfnissen vor Ort und dem sich verändernden Ausgehverhalten Rechnung zu tragen.
 
-Mehr Transparenz schafft Vertrauen
+### Mehr Transparenz schafft Vertrauen
 
-Wir werden auf Basis der Evaluationsergebnisse das Landesinformationsfreiheitsgesetz zu einem Transparenzgesetz weiterentwickeln, das einen angemessenen Zugang
-
-
-zu Informationen der öffentlichen Verwaltung gewährleistet und eine sachgerechte, proaktive Veröffentlichung von Daten vorsieht. Die Regierungsfraktionen setzen hierzu eine entsprechende Arbeitsgruppe ein.
+Wir werden auf Basis der Evaluationsergebnisse das Landesinformationsfreiheitsgesetz zu einem Transparenzgesetz weiterentwickeln, das einen angemessenen Zugang zu Informationen der öffentlichen Verwaltung gewährleistet und eine sachgerechte, proaktive Veröffentlichung von Daten vorsieht. Die Regierungsfraktionen setzen hierzu eine entsprechende Arbeitsgruppe ein.
 
 Das Vertrauen der Bürgerinnen und Bürger ist das Fundament des Parlamentarismus. Schon zu Beginn der Legislaturperiode werden wir gemeinsam mit den demokratischen Oppositionsfraktionen die Verhaltensregeln für Abgeordnete überarbeiten. Wir wollen klare gesetzliche Transparenz- und Verhaltenspflichten für die Abgeordneten des Landtages von Baden-Württemberg schaffen. In Analogie zu den vom Deutschen Bundestag festgelegten anzeigepflichtigen Nebeneinkünften wollen wir, dass diese auf Euro und Cent veröffentlicht werden müssen. Die Beteiligungen an Gesellschaften und Einnahmen daraus sollen offengelegt werden. Zudem wollen wir entgeltliche Lobbytätigkeiten neben dem Mandat und die Annahme von Geldspenden durch die Abgeordneten verbieten.
 
@@ -2379,19 +2215,17 @@ Hohe Datenschutzstandards: Datenschutz und das Recht auf informationelle Selbstb
 
 In der letzten Legislaturperiode haben wir die Dienststelle des Landesbeauftragten für den Datenschutz und die Informationsfreiheit gestärkt. Dies werden wir beibehalten und dort, wo es notwendig ist, fortsetzen.
 
-Cyber- und Informationssicherheit in den Blick nehmen: Digitalisierung und digitale Transformation sind ohne IT- und Cybersicherheit undenkbar. Grundlage für das Land ist der vom Bundesamt für IT- und Cybersicherheit in der Informationstechnik (BSI) geschaffene Standard. An diesem Standard wollen wir uns orientieren. Zudem wollen wir nach einer Risikoabwägung Daten definieren, die besonders schützenswert sind. Die Steuerung und Koordinierung aller relevanten Aufgaben im Bereich der
-
-Cybersicherheit und Informationssicherheit soll in einem Ministerium noch weiter gebündelt werden.
+Cyber- und Informationssicherheit in den Blick nehmen: Digitalisierung und digitale Transformation sind ohne IT- und Cybersicherheit undenkbar. Grundlage für das Land ist der vom Bundesamt für IT- und Cybersicherheit in der Informationstechnik (BSI) geschaffene Standard. An diesem Standard wollen wir uns orientieren. Zudem wollen wir nach einer Risikoabwägung Daten definieren, die besonders schützenswert sind. Die Steuerung und Koordinierung aller relevanten Aufgaben im Bereich der Cybersicherheit und Informationssicherheit soll in einem Ministerium noch weiter gebündelt werden.
 
 Wir setzen uns für eine rasche und effektive Umsetzung der EU-Whistleblower-Richtlinie ein. Das bedeutet, dass wir in allen Behörden von Exekutive und Justiz Anlaufstellen für Whistleblowerinnen und Wistleblower einrichten. Entsprechend des Beschlusses der Justizministerkonferenz wollen wir, dass diese Whistleblowerstellen nicht nur für Verstöße gegen EU-Recht, sondern für alle Rechtsverstöße gelten. Damit schaffen wir Strukturen, die es den Behörden ermöglichen, Fehlverhalten selbstkritisch und ehrlich aufzuarbeiten.
 
-Bürgerbeauftragte stärken
+### Bürgerbeauftragte stärken
 
 Das Amt der Bürgerbeauftragten hat sich bewährt. Sie unterstützt die Menschen im Umgang und bei Konflikten mit den landeseigenen Verwaltungs- und Polizeibehörden. Damit stärken wir das partnerschaftliche Verhältnis zwischen Bürgerschaft, Polizei und Staat und unterstützen eine dialogorientierte Polizei- und Verwaltungskultur. Wir werden das Amt weiterentwickeln, indem wir prüfen, wie ein Recht auf Akteneinsicht, ein Recht auf Auskunft gegenüber der Polizei, ein Recht auf Zutritt in allen öffentlichen Einrichtungen und eine bessere personelle und sächliche Ausstattung geschaffen werden kann.
 
 Die Bürgerbeauftragte soll auch die Zuständigkeit einer Justizvollzugsbeauftragten erhalten, die im Jahresturnus an den Landtag und an die Landesregierung berichtet. Sie soll zuständig sein für den Justizvollzug, Maßregelvollzug und Unterbringung, den Präventivgewahrsam sowie die Abschiebehaft.
 
-Unsere Verfassung aktiv verteidigen
+### Unsere Verfassung aktiv verteidigen
 
 Wir verteidigen unsere Demokratie gegen ihre Feinde, egal aus welcher Ecke sie kommen.
 
@@ -2399,10 +2233,7 @@ Die rechtsterroristischen Attentate der vergangenen Jahre zeigen auf schmerzlich
 
 Wir wollen die Mitarbeitenden in Sicherheitsbehörden und Justiz besser darin ausbilden, politisch motivierte Hasskriminalität zu bekämpfen und mit den Betroffenen sensibel umzugehen.
 
-Mit Herz und Haltung wollen wir Hass und Hetze entgegentreten – online und offline. Wir wollen Betroffene besser unterstützen, Polizei und Justiz stärker sensibilisieren und die Strafverfolgung effektiver gestalten. Um dies zu erreichen, werden wir einen ressortübergreifenden Aktionsplan
-
-
-gegen Hasskriminalität auflegen. Im Zuge dessen werden wir landesweit an jeder Dienststelle des polizeilichen Staatsschutzes eine Kontaktperson benennen, die für die Bekämpfung von Hasskriminalität zuständig ist.
+Mit Herz und Haltung wollen wir Hass und Hetze entgegentreten – online und offline. Wir wollen Betroffene besser unterstützen, Polizei und Justiz stärker sensibilisieren und die Strafverfolgung effektiver gestalten. Um dies zu erreichen, werden wir einen ressortübergreifenden Aktionsplan gegen Hasskriminalität auflegen. Im Zuge dessen werden wir landesweit an jeder Dienststelle des polizeilichen Staatsschutzes eine Kontaktperson benennen, die für die Bekämpfung von Hasskriminalität zuständig ist.
 
 Entschlossen gegen Hass und Hetze: Die Angriffe auf unsere Demokratie durch Fake News, Propaganda, Desinformation und destabilisierende Aktionen aus dem In- und Ausland schüren Hass und Angst. Wir richten eine Task Force aus Landesanstalt für Kommunikation, Landeszentrale für politische Bildung, dem Landesamt für Verfassungsschutz, des Landeskriminalamtes und dem Institut für Bildungsanalysen sowie dem Zentrum für Schulqualität und Lehrerbildung ein. Sie hat die Aufgabe, Bedrohungen festzustellen und ihnen entgegenzuwirken, insbesondere durch eine Stärkung der Medienkompetenz der Bürgerinnen und Bürger, bereits in der Schule. Außerdem werden wir einen Kabinettsausschuss „Entschlossen gegen Hass und Hetze“ einrichten.
 
@@ -2412,28 +2243,23 @@ Im Rahmen eines Modellprojektes werden wir für betroffene Bürgerinnen und Bür
 
 Polizistinnen und Polizisten üben einen sehr wichtigen und anspruchsvollen Beruf aus, bei dem sie häufig schwierigen Situationen ausgesetzt sind. Die große Mehrheit übt diesen Dienst mit einer beeindruckenden Motivation aus und lebt die Werte unsere Demokratie mit großer Überzeugung. Gleichzeitig stellt unsere Gesellschaft zurecht hohe Anforderungen an diejenigen, die im Auftrag des Staates das Gewaltmonopol ausüben. Entsprechend nehmen wir jeden Fall von Rechtsextremismus bei den Sicherheitskräften ernst. Denn sie stellen ein Sicherheitsrisiko dar und können das Vertrauen in den Staat und das Ansehen aller Polizistinnen und Polizisten beschädigen. Daher müssen diese Fälle umfassend aufgeklärt, konsequent nachverfolgt und geahndet werden. Wir wollen auf der bestehenden Gesetzeslage die Zusammenarbeit und den Informationsaustausch mit den zuständigen Behörden verbessern und stärken.
 
-Unser Ziel ist es, das Vertrauen der Bürgerinnen und Bürger in die staatlichen Institutionen und unsere Demokratie weiter zu stärken. Zu einem souveränen Staat gehört eine gute Fehlerkultur. Mit einer wissenschaftlichen Studie wollen wir untersuchen, welche Erfahrungen die Bürgerinnen und Bürger mit staatlichen Stellen machen, und dabei zugleich auch das Polizeibild in unserer Gesellschaft untersuchen. Wir wollen ähnlich wie bei der Bundeswehr
-
-die Haltung der Mitarbeiterinnen und Mitarbeiter der staatlichen Stellen in Erfahrung bringen. Ein klares Lagebild versachlicht Debatten, baut gegenseitige Vorurteile ab und hilft, frühzeitig Probleme zu erkennen und geeignete Maßnahmen zu ergreifen.
+Unser Ziel ist es, das Vertrauen der Bürgerinnen und Bürger in die staatlichen Institutionen und unsere Demokratie weiter zu stärken. Zu einem souveränen Staat gehört eine gute Fehlerkultur. Mit einer wissenschaftlichen Studie wollen wir untersuchen, welche Erfahrungen die Bürgerinnen und Bürger mit staatlichen Stellen machen, und dabei zugleich auch das Polizeibild in unserer Gesellschaft untersuchen. Wir wollen ähnlich wie bei der Bundeswehr die Haltung der Mitarbeiterinnen und Mitarbeiter der staatlichen Stellen in Erfahrung bringen. Ein klares Lagebild versachlicht Debatten, baut gegenseitige Vorurteile ab und hilft, frühzeitig Probleme zu erkennen und geeignete Maßnahmen zu ergreifen.
 
 Mit einem Forschungsprojekt werden wir die individuellen Folgen und die gesellschaftlichen Auswirkungen von Hasskriminalität in Baden-Württemberg untersuchen. Außerdem werden wir das Projekt #RespektBW und die Informationskampagne „Bitte Was?! Kontern gegen Fake und Hass“ fortführen.
 
-Islamistischen Extremismus zielgerichtet bekämpfen
+### Islamistischen Extremismus zielgerichtet bekämpfen
 
 Auch islamistischer Extremismus bekämpft unsere liberale Gesellschaft und unsere freiheitlich-demokratische Grundordnung. Die Anschläge von Wien, Nizza, ConflansSainte-Honorine und Dresden haben noch einmal gezeigt, dass wir gegenüber dieser Gefahr einen wehrhaften Staat und eine aktive Zivilgesellschaft brauchen. Das geht nur gemeinsam mit den Musliminnen und Muslimen, nicht gegen sie. Wir stellen uns antimuslimischen Ressentiments und Rassismus in unserer Gesellschaft klar entgegen. Islamistische Bestrebungen weisen wir mit einem zielgerichteten Maßnahmenpaket aus Bildung, Prävention und juristischer Konsequenz in die Schranken. Dabei sind alle Instrumente kontinuierlich auf Verhältnismäßigkeit, Rechtsstaatlichkeit und Wirksamkeit zu überprüfen.
 
 Auch gegen nichtislamistische extremistische Organisationen mit Verbindungen ins Ausland werden wir konsequent vorgehen. Hierzu sind insbesondere auch die Grauen Wölfe („Ülkücü-Bewegung“) zu zählen.
 
-### B. SICHERHEIT
+## B. SICHERHEIT
 
 Baden-Württemberg ist eines der sichersten Länder der Bundesrepublik. In den vergangenen Jahren ist die Zahl der klassischen Kriminalitätsdelikte deutlich zurückgegangen – insbesondere bei Wohnungseinbrüchen. Unter der grün-schwarzen Landesregierung war und ist Baden-Württemberg sicherer als je zuvor. Wir werden dafür Sorge tragen, dass dies auch in Zukunft so bleibt. Dazu braucht es eine höhere Polizeidichte, eine starke Justiz und stärkeres Augenmerk auf neue Formen der Kriminalität. Deshalb wollen wir die Polizei weiter personell und technisch kräftig stärken, die Sicherheit im öffentlichen Raum erhöhen und die Cybersicherheit verbessern.
 
-Polizei noch zukunftsfähiger aufstellen
+### Polizei noch zukunftsfähiger aufstellen
 
-Mit der größten Einstellungsoffensive in der Geschichte der Landespolizei haben wir diese gestärkt. Diesen Weg führen wir weiter. Für uns hat es weiterhin hohe Priorität, die Ausbildungskapazitäten bei der Polizei auf hohem
-
-
-Niveau zu halten, um die ausgebildeten Kräfte zu übernehmen.
+Mit der größten Einstellungsoffensive in der Geschichte der Landespolizei haben wir diese gestärkt. Diesen Weg führen wir weiter. Für uns hat es weiterhin hohe Priorität, die Ausbildungskapazitäten bei der Polizei auf hohem Niveau zu halten, um die ausgebildeten Kräfte zu übernehmen.
 
 Unser Ziel ist es, die Polizei weiter personell kräftig zu stärken, damit sich Baden-Württemberg im Ranking der sogenannten Polizeidichte sukzessive signifikant verbessert.
 
@@ -2465,16 +2291,13 @@ Eine Ausweitung des Einsatzes von Distanz-Elektroimpulsgeräten über die Spezia
 
 Bau- und Sanierungsprogramm: Wir werden im Rahmen des finanziell Möglichen ein Bau- und Sanierungsprogramm für die Polizei Baden-Württemberg auflegen. Bereits geplante Bauvorhaben wie beispielsweise der Neubau des Landeskriminalamtes samt dem Kriminaltechnischen Institut werden wir konsequent fortführen, ebenso die noch ausstehenden Baumaßnahmen aus der Evaluation der Polizeistrukturreform.
 
-Sicherheit im öffentlichen Raum stärken
+### Sicherheit im öffentlichen Raum stärken
 
 Die Videoüberwachung des öffentlichen Raums bleibt klar begrenzt, zudem werden wir die Transparenz durch Informationspflichten weiter verbessern. Den Einsatz der intelligenten Videoüberwachung wollen wir nach Abschluss des Modellprojekts in Mannheim evaluieren. Eine anlasslose, automatisierte biometrische Auswertung der Videoüberwachung lehnen wir ab.
 
 Wir werden eine niederschwellige gesetzliche Möglichkeit für kommunale Waffenverbotszonen in den Städten und Gemeinden schaffen.
 
-Mit einem Schwerpunktprogramm für den Kinderschutz und gegen sexualisierte Gewalt sowie zur Bekämpfung der Cyberkriminalität wollen wir die Polizei gerade im Umgang mit diesen Deliktsformen besonders stärken. Dazu braucht es gerade in diesen Bereichen neue technische
-
-
-Ausstattung, ausreichend Personal, eine gute Verzahnung mit der Justiz und vertiefte Spezialkenntnisse durch entsprechende Fort- und Weiterbildungen.
+Mit einem Schwerpunktprogramm für den Kinderschutz und gegen sexualisierte Gewalt sowie zur Bekämpfung der Cyberkriminalität wollen wir die Polizei gerade im Umgang mit diesen Deliktsformen besonders stärken. Dazu braucht es gerade in diesen Bereichen neue technische Ausstattung, ausreichend Personal, eine gute Verzahnung mit der Justiz und vertiefte Spezialkenntnisse durch entsprechende Fort- und Weiterbildungen.
 
 Wir werden die Auswertung von sichergestelltem Material weiter voranbringen, unsere Polizistinnen und Polizisten durch Digitalexpertinnen und -experten und Technik entlasten und die Verfahren beschleunigen. Wir müssen auch ressortübergreifend bestmöglich aufgestellt sein: Wir brauchen Spezialistinnen und Spezialisten bei der Polizei genauso wie ausreichend Personal bei den Staatsanwaltschaften und Gerichten, um die steigende Anzahl an Fällen im Sinne der Opfer bewältigen zu können. Wir werden eine noch engere Verzahnung beispielsweise mit Kinderschutzorganisationen vornehmen, um in Schulen, Vereinen und Kindergärten Eltern, Kinder und Pädagoginnen und Pädagogen zu informieren und zu sensibilisieren. Zugleich stellt die tagtägliche Bearbeitung von kinder- und jugendpornografischen Ermittlungsverfahren für Polizeibedienstete auch eine psychisch äußerst belastende Aufgabe dar, für die wir die bestehenden Unterstützungsangebote weiter ausbauen müssen. Die Erkenntnisse und Empfehlungen der Kommission Kinderschutz werden wir weiter konsequent umsetzen.
 
@@ -2503,7 +2326,7 @@ Wir stärken die Sicherheitsbehörden bei der Strafverfolgung im digitalen Raum 
 Mit der neu geschaffenen Cybersicherheitsagentur rüstet sich Baden-Württemberg noch besser gegen Angriffe im Netz. Diese wollen wir weiter personell stärken.
 
 
-Zusammenleben in der offenen Gesellschaft sichern
+### Zusammenleben in der offenen Gesellschaft sichern
 
 Staatliches Handeln hat in erster Linie das Ziel, die grundrechtlich geschützten Freiheiten zu gewährleisten und zu sichern. Freiheitsrechte sind das Fundament und das Zentrum unseres Grundgesetzes. Sicherheitspolitische Erwägungen dienen vor allem dem Schutz dieser Werteordnung. Unser Ziel ist ein Zusammenleben in einer offenen Gesellschaft in Freiheit und Sicherheit.
 
@@ -2537,7 +2360,7 @@ Wir werden eine Rechtsgrundlage dafür einführen, dass sich Parlamentarische Ko
 
 In Baden-Württemberg haben wir die Zusammenarbeit der Sicherheitsbehörden für die Terrorismusabwehr mehrfach gestärkt. Sie brauchen wirksame Instrumente. Den intensiven behördenübergreifenden Informationsaustausch auf Landes- und Bundesebene, insbesondere im Gemeinsamen Terrorabwehrzentrum in Berlin (GTAZ), gilt es zu verstetigen und personell zu stärken. Zudem drängen wir auf eine Reform des GTAZ, um seine Arbeit und Zuständigkeiten klarer zu regeln.
 
-Bevölkerungsschutz auf der Höhe der Zeit
+### Bevölkerungsschutz auf der Höhe der Zeit
 
 Der Bevölkerungsschutz und die Blaulichtorganisationen mit ihren vielen Ehrenamtlichen haben in Baden-Württemberg eine lange Tradition. Nicht zuletzt in der CoronaPandemie hat sich gezeigt, wie leistungsfähig, flexibel und unverzichtbar der Bevölkerungsschutz und die Blaulichtorganisationen mit all ihren Helferinnen und Helfern sind.
 
@@ -2560,24 +2383,19 @@ Wir werden die Feuerschutzsteuer wie in der vergangenen Legislaturperiode auch z
 
 Ein gut funktionierendes Krisenmanagement ist ein zentraler Baustein der Sicherheitsarchitektur unseres Landes. Wir wollen die Erfahrungen der Corona-Pandemie nutzen, um die bestehenden Strukturen weiter zu optimieren, auszubauen und das ressortübergreifende Krisenmanagement des Landes für zukünftige Herausforderungen bestmöglich aufstellen. Dies ist insbesondere mit Blick auf den Schutz kritischer Infrastrukturen von Bedeutung.
 
-Im Nachgang zur jüngsten Änderung des Katastrophenschutzgesetzes im Dezember 2020, die die Rechte der Helferinnen und Helfer insbesondere vor dem Hintergrund der Corona-Pandemie gestärkt hat, wird das
+Im Nachgang zur jüngsten Änderung des Katastrophenschutzgesetzes im Dezember 2020, die die Rechte der Helferinnen und Helfer insbesondere vor dem Hintergrund der Corona-Pandemie gestärkt hat, wird das Katastrophenschutzgesetz grundlegend überarbeitet und neu strukturiert werden.
 
-Katastrophenschutzgesetz grundlegend überarbeitet und neu strukturiert werden.
-
-Wir stehen zur Bundeswehr
+### Wir stehen zur Bundeswehr
 
 Wir stehen zur Bundeswehr und ihren baden-württembergischen Standorten. Wir führen bewährte Formate wie den Streitkräfteempfang unter Beteiligung der in Baden-Württemberg stationierten Streitkräfte der US-Armee und der französischen Armee fort. Zudem wollen wir entlang der gegebenen rechtlichen Rahmenbedingungen die Zusammenarbeit beispielsweise im Krisenmanagement weiter verbessern. Wir danken der Bundeswehr für die aktuelle hervorragende zivil-militärische Zusammenarbeit in der Pandemiebekämpfung. Wir begrüßen eine enge Zusammenarbeit der Bezirks- und Kreisverbindungskommandos mit den Regierungspräsidien und den Kreisen einschließlich der Stadtkreise.
 
-### C. JUSTIZ
+## C. JUSTIZ
 
-Für einen starken und leistungsfähigen Rechtsstaat
+### Für einen starken und leistungsfähigen Rechtsstaat
 
 Um die Leistungsfähigkeit der Justiz zu erhalten, braucht es ausreichendes Personal und eine zeitgemäße Ausstattung. Die in der letzten Legislaturperiode erreichte Personalvollausstattung bei der Justiz mit mehr als 1.000 neuen Stellen werden wir für die Zukunft sichern und dafür sorgen, dass sie im Rahmen der haushaltlichen Möglichkeiten weiterhin den Personalbestand erhält, den sie zur Wahrnehmung ihrer Aufgaben benötigt. Auf Zusatzbedarfe wie etwa die Bearbeitung großer Wirtschaftskriminalfälle, Serienstraftaten, Masseverfahren oder infolge von Gesetzesnovellen muss angemessen reagiert werden. Auch in Zukunft soll dazu das Personalbedarfsberechnungssystem (PEBB§Y) als Orientierung dienen. Der Personalvollausstattung bei der Justiz bedarf es für Richterinnen und Richter, Staatsanwältinnen und Staatsanwälte sowie für Rechtspflegerinnen und Rechtspfleger, denen wir zusätzliche Aufgaben übertragen wollen, und für die Serviceeinheiten, die wir nicht nur personell verstärken, sondern als Assistenzkräfte umfassend qualifizieren wollen. Wir werden einen landesweiten Stellenpool zur Bewältigung von aktuellen bzw. regionalen Überhängen einrichten ebenso wie eine zentrale Eingreifreserve der Staatsanwaltschaft nach hessischem Modell.
 
-Digitalisierung weiter voranbringen: Baden-Württemberg muss bei der Digitalisierung der Justiz weiterhin einen Spitzenplatz in Europa einnehmen. Die Einführung der elektronischen Gerichtsakte wird fortentwickelt und in der gesamten Justiz flächendeckend eingeführt. Wir werden prüfen, ob und wie Beteiligte mit autonomer Struktur wie etwa Gerichtsvollzieherinnen und Gerichtsvollzieher an die E-Akte angeschlossen werden können. Die E-Akte ist auch ein wichtiger Baustein, um das Arbeiten im
-
-
-Home-Office für so viele Mitarbeiterinnen und Mitarbeiter wie möglich zu realisieren. Die digitale Ausstattung der Justizbehörden und Gerichte insbesondere mit Videovernehmungstechnik, WLAN, Videotelefonie und technischem Support durch Vor-Ort-Fachkräfte und Dienstleister bauen wir aus. Soweit es der Anpassung der gesetzlichen Regelungen bedarf, um in jeder Gerichtsbarkeit von der Möglichkeit der Videovernehmung und -verhandlung Gebrauch machen zu können, setzen wir uns für eine Änderung der Gesetze ein.
+Digitalisierung weiter voranbringen: Baden-Württemberg muss bei der Digitalisierung der Justiz weiterhin einen Spitzenplatz in Europa einnehmen. Die Einführung der elektronischen Gerichtsakte wird fortentwickelt und in der gesamten Justiz flächendeckend eingeführt. Wir werden prüfen, ob und wie Beteiligte mit autonomer Struktur wie etwa Gerichtsvollzieherinnen und Gerichtsvollzieher an die E-Akte angeschlossen werden können. Die E-Akte ist auch ein wichtiger Baustein, um das Arbeiten im Home-Office für so viele Mitarbeiterinnen und Mitarbeiter wie möglich zu realisieren. Die digitale Ausstattung der Justizbehörden und Gerichte insbesondere mit Videovernehmungstechnik, WLAN, Videotelefonie und technischem Support durch Vor-Ort-Fachkräfte und Dienstleister bauen wir aus. Soweit es der Anpassung der gesetzlichen Regelungen bedarf, um in jeder Gerichtsbarkeit von der Möglichkeit der Videovernehmung und -verhandlung Gebrauch machen zu können, setzen wir uns für eine Änderung der Gesetze ein.
 
 Personal fördern und unterstützen: Die Personalauswahl erfolgt nach Eignung, Leistung und Befähigung. Obwohl Frauen mittlerweile mehr als die Hälfte der neu eingestellten Richterinnen und Richter sowie Staatsanwältinnen und Staatsanwälte ausmachen, sind sie in Führungspositionen noch immer stark unterrepräsentiert. Das wollen wir ändern. Dazu gehört auch, dass wir Führungsämter in der Justiz in Teilzeit ermöglichen und fördern werden. Wir werden uns bemühen, die Justiz als Arbeitsplatz auch für Menschen mit Zuwanderungsgeschichte attraktiver zu machen.
 
@@ -2587,9 +2405,7 @@ Um gut ausgebildetes und leistungsfähiges Personal langfristig zu binden, werde
 
 Ausreichende und qualitativ hochwertige Fortbildungsangebote und ein gutes Gesundheitsmanagement sind bei der zunehmenden Komplexität der Aufgaben der Justiz unerlässlich. Aus diesem Grund werden wir das Gesundheitsmanagement und präventive Maßnahmen stärken. Die Einführung besonderer Qualitätsanforderungen für Familienrichterinnen und Familienrichter sowie Jugendrichterinnen und Jugendrichter durch die Bundesgesetzgebung im Gerichtsverfassungsgesetz (GVG) begrüßen wir. Wir werden prüfen, in welchen Bereichen ebenfalls vergleichbare Regelungen erforderlich sind und uns für deren Einführung einsetzen. Wir werden die in der Justiz Beschäftigen auch künftig darin unterstützen, durch Fort- und Weiterbildungen sowie Coachingangebote auch unter Einbindung digitaler Formate die hohe Qualität ihrer anspruchsvollen Arbeit weiterhin zu erhalten. Im Rahmen des Schwerpunktprogramms Kinderschutz werden wir die Fortbildungsangebote für Familienrecht- und Kinderschutzsachen weiter ausbauen und Jugendämter noch besser mit den Straf- und Familiengerichten vernetzen.
 
-Für einen bürgernahen und niedrigschwelligen Zugang sorgen: Die Standorte der Gerichte sind zur Sicherung eines flächendeckenden Justizgewährleistungsanspruchs zu erhalten. Die Zahl der Amtsgerichte und Landgerichte
-
-wird beibehalten, um eine bürgernahe und serviceorientierte Justiz der kurzen Wege auch in ländlichen Regionen sicherzustellen.
+Für einen bürgernahen und niedrigschwelligen Zugang sorgen: Die Standorte der Gerichte sind zur Sicherung eines flächendeckenden Justizgewährleistungsanspruchs zu erhalten. Die Zahl der Amtsgerichte und Landgerichte wird beibehalten, um eine bürgernahe und serviceorientierte Justiz der kurzen Wege auch in ländlichen Regionen sicherzustellen.
 
 Wir bekennen uns zum Ausbau der landesweiten Präsenz der Justiz. Hierzu zählt die Einführung von Gerichtsräumen in den Kommunen, um Präsenztage der Gerichte sowie die Online-Teilnahme an Verfahren umfassend anbieten zu können.
 
@@ -2618,9 +2434,7 @@ Wir werden beobachten, wie sich die im Jahr 2018 erfolgten Strafschärfungen fü
 
 Wir verbessern die Ausstattung und die spezifischen Fachkompetenzen der Staatsanwaltschaften in Spezialbereichen sowie ihre Vernetzung mit der Polizei und den Behörden. Das gilt insbesondere in den Bereichen, in denen neue technische Möglichkeiten und Kriminalitätsphänomene besondere Herausforderungen für die Ermittlungsarbeit mit sich bringen, das heißt vor allem in den Bereichen Cyberkriminalität, Steuerstraftaten und Wirtschaftskriminalität. Ein besonderer Schwerpunkt liegt dabei auf den Cybercrime-Delikten. Die Zusammenarbeit von Ermittlungs- und Justizbehörden wollen wir durch gemeinsame Strukturen stärken. Dazu werden wir ein Cybercrime-Zentrum einrichten.
 
-Uns ist es wichtig, dass die materiellen Vorteile aus den Taten abgeschöpft werden, um sie den Täterinnen und Tätern zu entziehen und die Schäden auszugleichen, die Opfer erlitten haben. Im Kampf gegen Wirtschaftskriminalität, das organisierte Verbrechen und die Clankriminalität wollen wir die rechtlichen Rahmenbedingungen ausbauen,
-
-um mehr Vermögen aus kriminellen Geschäften einzuziehen und verstärkt abzuschöpfen.
+Uns ist es wichtig, dass die materiellen Vorteile aus den Taten abgeschöpft werden, um sie den Täterinnen und Tätern zu entziehen und die Schäden auszugleichen, die Opfer erlitten haben. Im Kampf gegen Wirtschaftskriminalität, das organisierte Verbrechen und die Clankriminalität wollen wir die rechtlichen Rahmenbedingungen ausbauen, um mehr Vermögen aus kriminellen Geschäften einzuziehen und verstärkt abzuschöpfen.
 
 Haft- und Strafvermeidung stärken: Wir unterstützen Maßnahmen und Reformen zur Haft- und Strafvermeidung. Wir wollen, wo immer möglich, die Vollstreckung kurzer Freiheitsstrafen vermeiden und werden alle Bemühungen unternehmen, die Ersatzfreiheitsstrafe einzuschränken. Dazu werden wir unter anderem die aufsuchende Sozialarbeit flächendeckend ausbauen und Maßnahmen wie „Schwitzen statt Sitzen“ sowie das „day-by-day“-Modell im Land ausrollen, um die Vollstreckung der Ersatzfreiheitsstrafen durch die Ableistung von gemeinnütziger Arbeit abzuwenden. Weitere Alternativen zur Ersatzfreiheitsstrafe werden wir prüfen. Überdies werden wir die Ausweitung der Haftvermeidung in Fällen, in denen die öffentliche Sicherheit nicht gefährdet ist, prüfen.
 
@@ -2634,12 +2448,9 @@ Um den Ausbildungsstandort Baden-Württemberg auch für künftige Generationen v
 
 Notariatsreform evaluieren: Die jüngste Notariatsreform werden wir evaluieren und die Ergebnisse berücksichtigen.
 
-Justizvollzug modern ausgestalten
+### Justizvollzug modern ausgestalten
 
-Fokus auf Resozialisierung: Ein humaner und auf das Ziel der Resozialisierung ausgerichteter Strafvollzug hilft, künftige Straftaten zu vermeiden und straffällig gewordene Menschen wieder in die Gesellschaft einzugliedern. Ein Rechtstaat zeichnet sich dadurch aus, dass er den Menschen in seiner Obhut humane Haftbedingungen gewährt und menschenrechtliche Vorgaben berücksichtigt. Die AG „Moderner Strafvollzug“ der Regierungsfraktionen in der 16. Legislaturperiode und die Expertenkommission
-
-
-„Medizinkonzept“ der Landesregierung haben dazu wichtige Vorschläge erarbeitet, die wir berücksichtigen werden.
+Fokus auf Resozialisierung: Ein humaner und auf das Ziel der Resozialisierung ausgerichteter Strafvollzug hilft, künftige Straftaten zu vermeiden und straffällig gewordene Menschen wieder in die Gesellschaft einzugliedern. Ein Rechtstaat zeichnet sich dadurch aus, dass er den Menschen in seiner Obhut humane Haftbedingungen gewährt und menschenrechtliche Vorgaben berücksichtigt. Die AG „Moderner Strafvollzug“ der Regierungsfraktionen in der 16. Legislaturperiode und die Expertenkommission „Medizinkonzept“ der Landesregierung haben dazu wichtige Vorschläge erarbeitet, die wir berücksichtigen werden.
 
 Es ist Aufgabe des Staates, auch Straftäterinnen und Straftätern neue Lebensperspektiven zu ermöglichen und ihre Persönlichkeitsrechte zu schützen. Die bestehenden Ordnungsvorschriften sollen so überarbeitet werden, dass die Resozialisierungsbelange als ermessensleitende Erwägung stärker Berücksichtigung finden.
 
@@ -2653,11 +2464,9 @@ Die Personalausstattung und die Ausbildungskapazitäten im Justizvollzug werden 
 
 Das Bauprogramm zur Modernisierung von Justizvollzugsanstalten werden wir im Rahmen der haushaltlichen Möglichkeiten fortführen. Das gilt insbesondere für den Jugendvollzug – der Masterplan für die JVA Adelsheim wird umgesetzt. Zur Unterbringung der steigenden Gefangenenzahlen werden wir zudem den Bau der neuen Justizvollzugsanstalt in Rottweil sowie die Planung und den Bau für ein neues Justizvollzugskrankenhaus weiter vorantreiben.
 
-Gefangenenseelsorge: Die Gefangenenseelsorge muss für alle Glaubensrichtungen bedarfsgerecht garantiert werden. Das bedeutet auch, dass wir im Bereich der islamischen Gefangenenseelsorge bestehende Angebote
+Gefangenenseelsorge: Die Gefangenenseelsorge muss für alle Glaubensrichtungen bedarfsgerecht garantiert werden. Das bedeutet auch, dass wir im Bereich der islamischen Gefangenenseelsorge bestehende Angebote institutionalisieren und professionelle Strukturen mittels fest angestellter Seelsorgerinnen und Seelsorger unabhängig vom Einfluss dritter Staaten schaffen wollen. Wir sehen darin einen wesentlichen Beitrag, um einer Ideologisierung und Radikalisierung während der Haft vorzubeugen.
 
-institutionalisieren und professionelle Strukturen mittels fest angestellter Seelsorgerinnen und Seelsorger unabhängig vom Einfluss dritter Staaten schaffen wollen. Wir sehen darin einen wesentlichen Beitrag, um einer Ideologisierung und Radikalisierung während der Haft vorzubeugen.
-
-Opferschutz bedarfsgerecht ausbauen
+### Opferschutz bedarfsgerecht ausbauen
 
 Die verfahrensunabhängige, pseudonymisierte Spurensicherung und die Trauma-Ambulanzen werden ausgebaut. Dazu richten wir nach dem Vorbild der Gewaltambulanz in Heidelberg zusätzliche Opferschutz-Ambulanzen ein.
 
@@ -2669,20 +2478,13 @@ In den gerichtlichen Verfahren – insbesondere im Strafrecht und Familienrecht 
 
 Die psychosoziale Prozessbegleitung wird gestärkt. Ein niederschwelliges Beweissicherungsverfahren soll Opfern von Sexualstraftaten eine vertrauliche Dokumentation von Tatfolgen garantieren, noch bevor sie sich zu einer Aussage entschließen müssen. Zudem werden wir bei den Gerichten kindgerechte Vernehmungszimmer einrichten.
 
-Zentrale Stelle Ludwigsburg weiterentwickeln
+### Zentrale Stelle Ludwigsburg weiterentwickeln
 
-Wir setzen uns dafür ein, die Zentrale Stelle der Landesjustizverwaltungen zur Aufklärung nationalsozialistischer Verbrechen in Ludwigsburg nach Abschluss der Strafverfolgungsaufgaben am bestehenden Standort weiterzuentwickeln. Sie soll zu einem Zentrum für Dokumentation, Forschung, Information, Erinnerung und Begegnung werden. Ihr Ziel soll es sein, Rechtsstaatlichkeit, Demokratie und Menschenrechte zu fördern. Der wissenschaftliche Beirat hat ein Zukunftskonzept für die „Zentrale Stelle“ erarbeitet. Dieses soll in den nächsten zwei Jahren um ein Umsetzungskonzept mit Rechtsform und finanzieller Ausstattung erweitert werden. Wir treten dafür ein, dass
+Wir setzen uns dafür ein, die Zentrale Stelle der Landesjustizverwaltungen zur Aufklärung nationalsozialistischer Verbrechen in Ludwigsburg nach Abschluss der Strafverfolgungsaufgaben am bestehenden Standort weiterzuentwickeln. Sie soll zu einem Zentrum für Dokumentation, Forschung, Information, Erinnerung und Begegnung werden. Ihr Ziel soll es sein, Rechtsstaatlichkeit, Demokratie und Menschenrechte zu fördern. Der wissenschaftliche Beirat hat ein Zukunftskonzept für die „Zentrale Stelle“ erarbeitet. Dieses soll in den nächsten zwei Jahren um ein Umsetzungskonzept mit Rechtsform und finanzieller Ausstattung erweitert werden. Wir treten dafür ein, dass das Land die institutionelle und finanzielle Zukunft der „Zentralen Stelle“ langfristig sichert, wenn möglich im Zusammenwirken mit dem Bund und der Stadt Ludwigsburg.
 
+# 9. Ländlicher Raum und Landwirtschaft 
 
-das Land die institutionelle und finanzielle Zukunft der „Zentralen Stelle“ langfristig sichert, wenn möglich im Zusammenwirken mit dem Bund und der Stadt Ludwigsburg.
-
-
-107
-
-09 UNSERE LIEBENSWERTE HEIMAT:
-
-
-9. UNSERE LIEBENSWERTE HEIMAT: FÜR STARKE LÄNDLICHE RÄUME
+## 09 UNSERE LIEBENSWERTE HEIMAT: FÜR STARKE LÄNDLICHE RÄUME
 
 Der Ländliche Raum ist die ökonomische und ökologische Kraftquelle Baden-Württembergs. Dort gibt es wunderschöne Kulturlandschaften und eine gute Wirtschafts- und Infrastruktur. Land- und Forstwirtschaft sind mit ihren vielfältigen Aufgaben nach wie vor wichtige Eckpfeiler unseres Landes und bilden gleichzeitig eine wichtige Grundlage für den Tourismus. Unsere ländlichen Räume sind also durchweg attraktiv. Die Menschen leben gerne dort. Allerdings stehen die ländlichen Räume auch vor Herausforderungen, etwa dem demographischen Wandel und der Anforderung der Geschlechtergerechtigkeit. Uns als Koalition aus Grünen und CDU ist der Ländliche Raum in seiner Gänze ein Herzensanliegen.
 
@@ -2690,26 +2492,24 @@ Deswegen ist es uns wichtig, die bäuerlichen Familienbetriebe mit ihrer Lebensm
 
 Aufgrund der angespannten Haushaltssituation stehen sämtliche zusätzlichen finanzwirksamen Maßnahmen auch in diesem Kapitel unter Haushaltsvorbehalt. Das bedeutet: Erst wenn es wieder finanzielle Spielräume gibt, können ausgewählte Maßnahmen eventuell in Stufen umgesetzt werden. Ordnungspolitische und nicht finanzrelevante Maßnahmen sind davon nicht berührt.
 
-### A. LÄNDLICHER RAUM
+## A. LÄNDLICHER RAUM
 
 Die ländlichen Räume in Baden-Württemberg sind regional vielfältig und innovativ. In diesen Regionen sind viele und starke mittelständische Unternehmen fest verankert. Zentral ist die flächendeckende Breitband- und Mobilfunkinfrastruktur. In einer digitalen Musterregion wird ein regionales, wissenschaftlich begleitetes Entwicklungskonzept umgesetzt, in dem digitale Infrastruktur, Wirtschaft, Teleworking und bürgerfreundliche Digitalangebote der Kommunen zusammengedacht werden.
 
-Der flächendeckende Glasfaserausbau sowie die unentgeltliche Bereitstellung der Geobasisdaten bilden eine wichtige Grundlage für die Digitalisierung. Eine Herausforderung für die erfolgreiche, nachhaltige wirtschaftliche Entwicklung ist gerade im Ländlichen Raum auch die Verfügbarkeit an Facharbeitskräften. Die begonnenen Maßnahmen, um die Fachkräftelücke zu verkleinern werden wir mit allen Beteiligten weiterentwickeln. Wir setzen uns in diesem Zusammenhang dafür ein, dass die Anerkennung ausländischer Abschlüsse beschleunigt wird. Zudem
+Der flächendeckende Glasfaserausbau sowie die unentgeltliche Bereitstellung der Geobasisdaten bilden eine wichtige Grundlage für die Digitalisierung. Eine Herausforderung für die erfolgreiche, nachhaltige wirtschaftliche Entwicklung ist gerade im Ländlichen Raum auch die Verfügbarkeit an Facharbeitskräften. Die begonnenen Maßnahmen, um die Fachkräftelücke zu verkleinern werden wir mit allen Beteiligten weiterentwickeln. Wir setzen uns in diesem Zusammenhang dafür ein, dass die Anerkennung ausländischer Abschlüsse beschleunigt wird. Zudem schaffen wir die Voraussetzungen für eine bessere berufliche Integration von zugewanderten Menschen.
 
-schaffen wir die Voraussetzungen für eine bessere berufliche Integration von zugewanderten Menschen.
-
-Gesamtstrategie zur Entwicklung des Ländlichen Raums
+### Gesamtstrategie zur Entwicklung des Ländlichen Raums
 
 Wir werden die ländliche Strukturpolitik an die zukünftigen Herausforderungen anpassen. Wir werden den Kabinettsausschuss Ländlicher Raum beim Ministerium für Ländlichen Raum fortführen. Wir werden eine Gesamtstrategie zur Entwicklung der Ländlichen Räume in einem partizipativen Prozess erstellen. Den Landesentwicklungsplan werden wir ebenfalls aktualisieren und in der Folge die Förderprogramme anpassen. Wir werden nach Auswertung der Modellprojekte unsere lokalen Online-Marktplätze in die Fläche des Landes bringen.
 
 Mit dem Entwicklungsprogramm Ländlicher Raum (ELR) werden wir den Programmteil „Schwerpunktgemeinden“ fortsetzen und besonders strukturschwache Gemeinden (IREUS-Studie 2020) mit einem höheren Fördersatz unterstützen. Wir wollen prüfen, ob der Ausgleichstock innerhalb der kommunalen Finanzausgleichsmasse B weiterentwickelt werden kann. Wir unterstützen die Modernisierung von Wohnraum in den Dorfkernen, so dass Kommunen günstige Wohnangebote machen können. Zur Sicherung der medizinischen Grundversorgung werden wir die von den Kommunen errichteten Gesundheitszentren und Ärztehäuser mit dem beihilferechtlich höchstmöglichen Fördersatz ausstatten. Gleichermaßen werden wir Multifunktionszentren als Knotenpunkte eines flächendeckenden Netzes der Daseinsvorsorge fördern. Insbesondere genossenschaftlich getragene Strukturen für Multifunktionszentren halten wir für sinnvoll. Handwerk, Gastronomie und Dorfläden sollen eng eingebunden werden. Wir unterstützen Selbstständige, Kreative, freie Kunstschaffende und Projektmacher bei der Umsetzung von Co-Working-Spaces. Hierzu wollen wir Pilotprojekte fördern. Wir werden künftig die Rückflussmittel aus dem ELR wieder wie die Hauptverteilung bei den Regierungspräsidien (RP) vornehmen.
 
-Klimaschutz im Ländlichen Raum noch stärker verankern
+### Klimaschutz im Ländlichen Raum noch stärker verankern
 
 Wir werden Aspekte des Klimaschutzes verstärkt im ELR verankern. So wollen wir insbesondere dem Klimaschutz und dem Flächenerhalt dienende Sanierungen, die Umnutzung von Gebäuden sowie investive Maßnahmen unterstützen. Dabei setzen wir weiterhin auf regionale Baukultur und setzen uns für eine Vereinfachung im Bereich des Baurechts und des Denkmalschutzes ein. Bestehende Bebauungspläne im Bestand sollten innerhalb der kommenden zehn Jahre mit dem Ziel der klimadienlichen und flächenschonenden Nachverdichtung unter Verwendung klimaschonender Baustoffe weiterentwickelt werden. Für innerörtliche Abbrüche alter Bausubstanz ohne Entwicklungspotential wollen wir höhere Förderanreize schaffen.
 
 
-Ländliche Räume attraktiv halten
+### Ländliche Räume attraktiv halten
 
 Die Zukunftschancen für junge Menschen im Ländlichen Raum wollen wir verstärkt in den Fokus nehmen. Dafür wollen wir Modellprojekte für ein attraktives „Junges Wohnen“ (Jugend-WGs, „Tiny Houses“, bedarfsgerechte Wohnstrukturen) ausbauen und Modelle zur Schaffung von Treffpunkten für Jugendliche unterstützen.
 
@@ -2723,22 +2523,20 @@ Mittel aus dem bürgerschaftlich geprägten EU-Regionalentwicklungsprogramm LEAD
 
 Wir wollen ein Kompetenzzentrum für den Ländlichen Raum einrichten, um die vielfältigen Anliegen und Interessen institutionell zu verankern und zu bündeln.
 
-### B. LANDWIRTSCHAFT
+## B. LANDWIRTSCHAFT
 
 Baden-Württemberg ist das Land der landwirtschaftlichen Familienbetriebe. Sie stehen vorbildlich für eine ressourcenschonende, regionale und tiergerechte Erzeugung. Unser Ziel ist es auch weiterhin, die bäuerlichen Familienbetriebe sowie eine flächendeckende, umwelt-, klima- und tiergerechte Bewirtschaftung zu erhalten. Wir unterstützen die Landwirtschaft im Bereich technologischer Innovation und Kooperationen auf dem Weg zu mehr Ökologie, Ressourcenschonung und Klimaschutz.
 
-Gesellschaftsvertrag zwischen Landwirtschaft, Naturschutz, Lebensmittelwirtschaft, Handel sowie Verbraucherinnen und Verbrauchern
-
-Bürgerinnen und Bürger wünschen sich eine schöne Kulturlandschaft, Natur- und Bodenschutz, sauberes Wasser und artgerechte Tierhaltung. Die Anforderungen an die Landbewirtschafter und Tierhalter werden immer höher, während die Erzeugerpreise sinken. Die Landwirtinnen und Landwirte demonstrieren berechtigterweise für höhere Preise und mehr Anerkennung ihrer Arbeit. Wir möchten die Diskrepanz zwischen Erwartungen an die Bäuerinnen und Bauern und deren Honorierung für gesellschaftliche Leistungen auflösen.
+Gesellschaftsvertrag zwischen Landwirtschaft, Naturschutz, Lebensmittelwirtschaft, Handel sowie Verbraucherinnen und Verbrauchern Bürgerinnen und Bürger wünschen sich eine schöne Kulturlandschaft, Natur- und Bodenschutz, sauberes Wasser und artgerechte Tierhaltung. Die Anforderungen an die Landbewirtschafter und Tierhalter werden immer höher, während die Erzeugerpreise sinken. Die Landwirtinnen und Landwirte demonstrieren berechtigterweise für höhere Preise und mehr Anerkennung ihrer Arbeit. Wir möchten die Diskrepanz zwischen Erwartungen an die Bäuerinnen und Bauern und deren Honorierung für gesellschaftliche Leistungen auflösen.
 
 Den begonnenen Dialog zwischen Landwirtschaft, Naturschutz, Lebensmittelwirtschaft, Handel sowie Verbraucherinnen und Verbrauchern werden wir weiter vertiefen, um die Interessen von landwirtschaftlichen Betrieben, Verarbeitungsbetrieben, Handel und Verbraucherinnen und Verbrauchern auszugleichen. Hierfür wird ein Strategiedialog zur Zukunft der Landwirtschaft aufgesetzt. Das Ziel ist eine breite Verständigung für eine flächendeckende, gesellschaftlich getragene, bäuerliche Landwirtschaft mit ihren Familienbetrieben. Sie berücksichtigt den Natur-, Tier- und Umweltschutz und bewahrt die Attraktivität des Berufs auch für kommende Generationen. Wechselseitige Wertschätzung und Respekt sowie ein kooperatives Miteinander sollen den Prozess und seine Ergebnisse kennzeichnen. Die Verhandlungsparteien lassen sich vom Grundsatz des kooperativen Naturschutzes im Biodiversitätsstärkungsgesetz weiterleiten.
 
-Gemeinsame europäische Agrarpolitik
+### Gemeinsame europäische Agrarpolitik
 
 Die Landesregierung wird auch künftig die vollständige Abnahme von Fördermitteln des Bundes und der Europäischen Union sicherstellen. Die Bundesgesetze zur Umsetzung der GAP dürfen nicht hinter den Beschluss der Agrarministerkonferenz vom 26. März 2021 zurückfallen. Zugleich wird sich die Landesregierung auf Bundes- und Europaebene für eine umfassende Nutzung der Öko-Regelungen und eine weitere Ökologisierung des nationalen Strategieplans und der GAP insgesamt sowie für eine schnellere und höhere Umschichtung von der ersten in die zweite Säule einsetzen. Außerdem werden wir den Europäischen Landwirtschaftsfonds für die Entwicklung des Ländlichen Raums (ELER-Programme) im Zuge der neuen EU-Förderperiode ab 2023 überprüfen und weiterentwickeln. Da der GAP-Rahmen und die daraus abgeleiteten Programme die baden-württembergische Agrarpolitik in den nächsten sieben Jahren bestimmen, stimmen sich die Koalitionspartner vor der Fertigstellung dieser Programme ab. Die Verwaltung der GAP wollen wir vereinfachen.
 
 
-Biodiversitätsstärkungsgesetz konsequent umsetzen
+### Biodiversitätsstärkungsgesetz konsequent umsetzen
 
 Wir werden das Biodiversitätsstärkungsgesetz konsequent umsetzen. Alle Maßnahmen zur Umsetzung müssen entsprechend priorisiert und, wo notwendig, im Haushalt hinterlegt werden. Der Kulturlandschaftsrat soll im Landwirtschafts- und Landeskulturgesetz (LLG) verankert werden.
 
@@ -2748,7 +2546,7 @@ Die Betriebe werden bei der Umsetzung der Pflanzenschutzmittelreduktion mit För
 
 Die bestehenden Regelungen zum Pflanzenschutz auf Gewässerrandstreifen werden beibehalten und über kooperative Ansätze weiterentwickelt. Wir setzen uns für weitere Öko-Regelungen im Bund ein, die einen ganzjährigen Verzicht auf Pestizide im Ackerbau und in Sonderkulturen beinhalten.
 
-Landwirtschaft mit Zukunft
+### Landwirtschaft mit Zukunft
 
 Beratungsangebote weiterentwickeln: Das Beratungsprogramm „Beratung. Zukunft. Land.“ werden wir so weiterentwickeln, dass die landespolitischen Zielsetzungen in den Bereichen Pflanzenschutzmittelreduktion, Förderung der Biodiversität, Klimaschutz und Ausbau des Ökolandbaus im Jahr 2022 Grundlage für die Ausrichtung des Beratungsangebotes werden. Hierbei werden wir die Abläufe deutlich verschlanken. Dabei wird die Modulförderung des bisherigen Angebots zu Biodiversität beibehalten und bei allen Ökolandbaumodulen auf 100 Prozent aufgestockt. Weitere Themen wie nachhaltige Betriebsentwicklung, Hofübergabe, Diversifizierung, Vermarktung und effizienter Einsatz von Ressourcen werden ebenfalls berücksichtigt.
 
@@ -2764,37 +2562,29 @@ Bei dem im Biodiversitätsstärkungsgesetz genannten Ziel, freiwillig 10 Prozent
 
 Die Entwicklung, Pflege und fachliche Betreuung der Fachverfahren verbleibt im Geodatenzentrum (GDZ).
 
-Ökologischen Landbau ausweiten
+### Ökologischen Landbau ausweiten
 
 Gemäß dem Biodiversitätsstärkungsgesetz werden wir den Anteil des Ökolandbaus im Land bis zum Jahre 2030 auf 30 bis 40 Prozent ausweiten.
 
-Wir stellen die notwendigen finanziellen Mittel in unserem Förderprogramm für Agrarumwelt, Klimaschutz und Tierwohl (FAKT) zur Verfügung und setzen die Finanzierung des Aktionsplans „Bio aus Baden-Württemberg“ fort. Darüber hinaus integrieren wir die Erkenntnisse aus der
-
-
-Marktpotential-Studie Ökolandbau in den Bio-Aktionsplan und entwickeln das Konzept für unsere Bio-Musterregionen weiter. Wir wollen diese zu Bio-Landschaften zusammenfassen und den Aufbau von regionalen Wertschöpfungsketten in den Mittelpunkt stellen. Auch die Fördermittel des Marktstrukturgesetzes müssen künftig dem Ziel von 30 bis 40 Prozent Ökolandbau dienen.
+Wir stellen die notwendigen finanziellen Mittel in unserem Förderprogramm für Agrarumwelt, Klimaschutz und Tierwohl (FAKT) zur Verfügung und setzen die Finanzierung des Aktionsplans „Bio aus Baden-Württemberg“ fort. Darüber hinaus integrieren wir die Erkenntnisse aus der Marktpotential-Studie Ökolandbau in den Bio-Aktionsplan und entwickeln das Konzept für unsere Bio-Musterregionen weiter. Wir wollen diese zu Bio-Landschaften zusammenfassen und den Aufbau von regionalen Wertschöpfungsketten in den Mittelpunkt stellen. Auch die Fördermittel des Marktstrukturgesetzes müssen künftig dem Ziel von 30 bis 40 Prozent Ökolandbau dienen.
 
 Zeitgemäße Lehre, Aus- und Fortbildung: Wir werden die landwirtschaftlichen Fachschulen durch strukturelle Maßnahmen personell stärken und dabei Kompetenzen in Bildungszentren bündeln. Dazu muss auch Personal umgesetzt werden. Um den hohen Anforderungen der Gesellschaft gerecht zu werden, wollen wir eine Fortbildungspflicht für alle in der Aus- und Fortbildung Tätigen einführen. Die landwirtschaftlichen Fachschulen werden wir an zentralen Standorten im Land konzentrieren. Zudem sollen weitere duale Studienangebote für die Landwirtschaft (in Ravensburg) und für den Gartenbau etabliert werden.
 
 In der Lehre der Ausbildungs- und Studiengänge wollen wir den Anteil des Ökologischen Landbaus deutlich ausweiten sowie in den Landesanstalten, in der Verwaltung und in der Fortbildung der Lehrenden verankern. Ökolandbau wird zum gleichwertigen Bestandteil. Außerdem setzt sich die Landesregierung in Hinblick auf den Ökologischen Landbau und die Ziele des Biodiversitätsstärkungsgesetzes für eine zeitgemäße Novellierung des Bundesausbildungsplans in den Grünen Berufen ein. Auf Landesebene werden wir Spielräume wie Handreichungen für einzelne Berufsausbildungen nutzen, um zentrale Themen wie Ökolandbau, Nachhaltigkeit, Tierwohl, Digitalisierung, Markt, Biodiversität und Klimaanpassung zu verankern. Den Bildungsplan für die Fachschulen der Grünen Berufe wird die Landesregierung zeitgemäß weiterentwickeln. Das Bildungsangebot Lernort Bauernhof wird vereinfacht und fortgesetzt. Wir prüfen außerdem dafür zur Unterstützung die Einführung eigener Agrarpädagoginnen und -pädagogen.
 
-Landeseigene Betriebe auf biologische Bewirtschaftung umstellen: Die von landeseigenen Betrieben bewirtschafteten Flächen werden wir weiter auf biologische Bewirtschaftung umstellen und dort, wo es sich anbietet, auch hinsichtlich der anderen Ziele des Biodiversitätsstärkungsgesetzes zu Demonstrationsbetrieben weiterentwickeln. Wir werden das Domänenkonzept weiterentwickeln und umsetzen und die landeseigenen Domänen bei Neuverpachtung weiter auf biologische Bewirtschaftung umstellen. Außerdem werden die Landesanstalten der Landwirtschaft thematisch auf die Ziele des Biodiversitätsstärkungsgesetzes ausgerichtet. Sie setzen 30 bis 40 Prozent ihrer Ressourcen für diese Bedarfe ein und setzen die begonnene Teilbetriebsumstellung fort. Analog der Bewirtschaftung der landeseigenen Flächen werden wir auch die Staatsweingüter auf biologischen Anbau umstellen (in Forschung und Lehre zu 30 bis 40 Prozent). Das Staatsweingut Meersburg werden wir vollständig
-
-umstellen. In der Staatsbrauerei Rothaus wollen wir den Bioanteil an der Rohware sukzessive auf 30 Prozent steigern.
+Landeseigene Betriebe auf biologische Bewirtschaftung umstellen: Die von landeseigenen Betrieben bewirtschafteten Flächen werden wir weiter auf biologische Bewirtschaftung umstellen und dort, wo es sich anbietet, auch hinsichtlich der anderen Ziele des Biodiversitätsstärkungsgesetzes zu Demonstrationsbetrieben weiterentwickeln. Wir werden das Domänenkonzept weiterentwickeln und umsetzen und die landeseigenen Domänen bei Neuverpachtung weiter auf biologische Bewirtschaftung umstellen. Außerdem werden die Landesanstalten der Landwirtschaft thematisch auf die Ziele des Biodiversitätsstärkungsgesetzes ausgerichtet. Sie setzen 30 bis 40 Prozent ihrer Ressourcen für diese Bedarfe ein und setzen die begonnene Teilbetriebsumstellung fort. Analog der Bewirtschaftung der landeseigenen Flächen werden wir auch die Staatsweingüter auf biologischen Anbau umstellen (in Forschung und Lehre zu 30 bis 40 Prozent). Das Staatsweingut Meersburg werden wir vollständig umstellen. In der Staatsbrauerei Rothaus wollen wir den Bioanteil an der Rohware sukzessive auf 30 Prozent steigern.
 
 Im Rahmen einer Novellierung der Verwaltungsvorschrift (VwV) Beschaffung prüfen wir, wie wir verbindlich einen Anteil von 40 Prozent an regionalen Bio-Produkten verankern. In diesem Zusammenhang streben wir auch eine Steigerung des regionalen Bio-Anteils in unseren landeseigenen Kantinen auf 30 bis 40 Prozent bis 2030 an. Zusätzlich wollen wir in einer Kantinenrichtlinie für die öffentliche Hand neben dem Bio-Regio-Anteil festlegen, dass überwiegend die Standards der Deutschen Gesellschaft für Ernährung gelten sollen. Täglich soll mindestens ein vegetarisches bzw. veganes Gericht auf der Speisekarte stehen. Wir wollen, dass Streuobstsaft angeboten und Fleisch aus Weidetierhaltung bevorzugt eingesetzt wird. Zur Bündelung der Nachfrage von Kantinen und der Außer-Haus-Verpflegung in öffentlicher Hand werden wir außerdem eine innovative Kooperation im Rahmen eines EIP-Projekts (Europäische Innovationspartnerschaft „Landwirtschaftliche Produktivität und Nachhaltigkeit“) auf den Weg bringen. Auch für kommunale und private Träger werden wir ein Investitions- und Beratungsprogramm auflegen.
 
 Landwirtschaft in der Fläche erhalten: Wir wollen die flächendeckende Landwirtschaft in Baden-Württemberg stärken und erhalten. Hierzu soll primär die Versiegelung von landwirtschaftlichen Flächen reduziert werden. Außerdem sollen künftig bei naturschutzrechtlichen Kompensationen produktionsintegrierte Kompensationen (PIK) im Rahmen der Ökokonto-Verordnung und auf einer rechtssicheren Basis verstärkt genutzt und der forstrechtliche Realausgleich flexibilisiert werden. Dabei darf der Waldanteil der Landesfläche nicht abnehmen. Wir streben an, den ökologischen Landbau, wenn er zusätzliche Biodiversitätszusatzleistungen erbringt, als PIK anzuerkennen.
 
-Streuobst: Symbol der Kulturlandschaften
+### Streuobst: Symbol der Kulturlandschaften
 
 Streuobstbestände sind das Symbol der Kulturlandschaften Baden-Württembergs. Angesichts ihres weiteren Rückgangs werden wir die Baumschnittprämie ausbauen. Investitionen in die Verarbeitung, Verwertung und Vermarktung von Streuobst werden wir besser fördern. Außerdem werden wir die Flächenprämie für Streuobst im FAKT deutlich erhöhen. Darüber hinaus setzen wir uns für die Einführung der Förderung von Streuobst als ÖkoRegelung in der GAP ein.
 
-Umbau der Tierhaltung
+### Umbau der Tierhaltung
 
-Die Weiterentwicklung der Tierhaltung hin zu gesellschaftlich akzeptierten tiergerechteren Haltungsformen ist weiter fortzuführen. Deshalb engagieren wir uns auf Bundesebene für eine zügige Umsetzung der Maßnahmen aus dem sogenannten Borchert-Plan, einschließlich der dort
-
-
-vorgeschlagenen Finanzierungsmöglichkeiten. Die Landesregierung setzt sich weiterhin für eine verpflichtende Herkunfts- und Haltungskennzeichnung bei Lebensmitteln tierischer Herkunft einschließlich verarbeiteter Produkte ein.
+Die Weiterentwicklung der Tierhaltung hin zu gesellschaftlich akzeptierten tiergerechteren Haltungsformen ist weiter fortzuführen. Deshalb engagieren wir uns auf Bundesebene für eine zügige Umsetzung der Maßnahmen aus dem sogenannten Borchert-Plan, einschließlich der dort vorgeschlagenen Finanzierungsmöglichkeiten. Die Landesregierung setzt sich weiterhin für eine verpflichtende Herkunfts- und Haltungskennzeichnung bei Lebensmitteln tierischer Herkunft einschließlich verarbeiteter Produkte ein.
 
 Im AFP sind künftig nur Neu- oder Umbaumaßnahmen förderfähig, die hohe Tierwohlstandards – mindestens Stufe 3 der Kennzeichnung „Haltungsform“ der Initiative Tierwohl und des Lebensmitteleinzelhandels – erreichen (unter Aufnahme einer Härtefallregelung). Vorhaben im Bereich Rinderhaltung erhalten nur dann eine Förderung, wenn der überwiegende Teil des benötigten Futters von Grünland der bewirtschafteten Fläche des Betriebes kommt. Solare Trocknungsanlagen für Heulager werden stärker gefördert.
 
@@ -2808,11 +2598,9 @@ die Einführung einer gekoppelten Zahlung für Schafe, Ziegen und Mutterkühe (W
 
 Auch in Baden-Württemberg wachsen inzwischen Schweine- und Milchviehbetriebe in Größenordnungen, bei denen die Tierhaltung die bewirtschaftete Fläche bei weitem übersteigt. Zur Genehmigung müssen deshalb langfristige mindestens fünf Jahre dauernde Gülleabnahmeverträge vorgelegt werden, die jährlich beim abgebenden und abnehmenden Betrieb und bei dem Transportunternehmen zu kontrollieren sind. Damit muss wenigstens eine umweltverträgliche Gülleausbringung gesichert werden.
 
-Klimaschutz in der Landwirtschaft
+### Klimaschutz in der Landwirtschaft
 
-Grünland dient dem Klima-, Erosions- und Gewässerschutz und der biologischen Vielfalt. Die bundesweit vorbildlichen Regelungen zum Grünlandschutz im LLG werden
-
-wir beibehalten. Bei der Förderung werden wir FAKT um Klimaschutzmaßnahmen erweitern und die Grünlandförderung noch attraktiver gestalten.
+Grünland dient dem Klima-, Erosions- und Gewässerschutz und der biologischen Vielfalt. Die bundesweit vorbildlichen Regelungen zum Grünlandschutz im LLG werden wir beibehalten. Bei der Förderung werden wir FAKT um Klimaschutzmaßnahmen erweitern und die Grünlandförderung noch attraktiver gestalten.
 
 Wir werden gemeinsam eine Moornutzungskonzeption erstellen und umsetzen. Moorböden werden wir bestmöglich schützen und wiedervernässen. Die dauerhafte Umwandlung von Ackerflächen auf Moorstandorten in wiedervernässtes Dauergrünland oder Paludikulturen werden wir mit praxisorientierten Konzepten gezielt ausbauen und attraktiv fördern. Das Land wird weiterhin verstärkt Moorböden für den Naturschutz ankaufen.
 
@@ -2820,7 +2608,7 @@ Klimaresiliente Anbausysteme wie Agroforstsysteme werden wir verstärkt erforsch
 
 Potenzial der Agri-Photovoltaik nutzen: Das Potenzial von Agri-Photovoltaik, gerade bei den Sonderkulturen wie Obst- und Weinbau, muss für eine erfolgreiche Energiewende ausgeschöpft werden. Wir werden deswegen weitere Pilotanlagen über verschiedenen Kulturen unterstützen. Wir begrüßen zudem, dass auf Bundesebene eine separate Ausschreibung des Segments Agri-Photovoltaik im Rahmen des EEG geplant wird. Wir setzen uns dafür ein, dass weiterhin 80 Prozent Agrarnutzung auf der Fläche möglich sind. Wir werden uns dafür einsetzen, dass die landwirtschaftlich genutzte Fläche prämienberechtigt wird.
 
-Märkte für bäuerliche, regionale, gentechnikfreie und biologische Landwirtschaft ausbauen
+### Märkte für bäuerliche, regionale, gentechnikfreie und biologische Landwirtschaft ausbauen
 
 Grundlage der Agrarpreismisere ist die schwache Marktstellung der Landwirtschaft. Ihr stehen wirtschaftlich konzentrierte Verarbeitungsbetriebe – Fleischkonzerne, Molkereien, Mühlen usw. – sowie ein Oligopol des Lebensmittelhandels gegenüber. Wir unterstützen mit Nachdruck alle Initiativen auf Bundes- und europäischer Ebene, die dazu dienen, die Marktstellung der Urproduktion zu verbessern. Auf Landesebene gibt es nur die Möglichkeit, durch Marktdifferenzierung höhere Preise zu erzielen.
 
@@ -2833,23 +2621,23 @@ Ebenso wichtig wird für die Sonderkulturen in den trockenen Sommermonaten die M
 
 Im Weinbau werden wir biologische Schädlingsbekämpfungsmethoden wie zum Beispiel flächendeckende Pheromon-Dispenserverfahren gegen den Traubenwickler fördern. Außerdem werden wir uns für die Förderung von Recyclingspritzen und mechanische Verfahren zur Beikrautregulierung einsetzen.
 
-Wassermanagement in der Landwirtschaft
+### Wassermanagement in der Landwirtschaft
 
 Die Etablierung nachhaltiger überbetrieblicher Systeme und Organisationsformen des Wassermanagements für die landwirtschaftliche Nutzung unter Beachtung eines guten ökologischen Zustands von Oberflächengewässern werden wir im Zusammenhang mit dem Masterplan Wasser fördern. Hierzu zählen auch Regenrückhaltesysteme und die Reaktivierung ehemaliger Hochbehälter sowie die Nutzung von Brunnen und Zisternen.
 
-Baden-Württemberg bleibt gentechnikfreie Region
+### Baden-Württemberg bleibt gentechnikfreie Region
 
 Agro-Gentechnik wollen wir weder auf unseren Tellern noch auf unseren Äckern, in unseren Wäldern oder im Futter unserer Tiere – das gilt sowohl für hier produzierte als auch für importierte Produkte. Deshalb nutzen wir konsequent alle landespolitischen Spielräume, um Baden-Württemberg gentechnikfrei zu halten. Neue gentechnische Verfahren müssen – wie alle anderen Technologien auch – mit Blick auf ihre Chancen, Risiken und ökologischen sowie sozioökonomischen Folgen umfassend auf wissenschaftlicher Grundlage bewertet werden. Wir halten bei den neuen gentechnischen Methoden am strengen Zulassungsverfahren und am europäisch verankerten Vorsorgeprinzip fest. So hat es auch der Europäische Gerichtshof 2018 bestätigt.
 
 Die Zulassung und Freisetzung von Gene-Drive-Organismen lehnen wir grundsätzlich ab. Wir unterstützen ein weltweites Moratorium der Freisetzung von Gene-DriveOrganismen. In Baden-Württemberg werden keine gentechnisch veränderten Pflanzen angebaut.
 
-### C. TIERSCHUTZ
+## C. TIERSCHUTZ
 
 Die Landesregierung entwickelt zu Beginn der Legislaturperiode eine umsetzungsorientierte Tierschutzstrategie, die alle Bereiche der Nutzung und Haltung von Tieren umfasst: Landwirtschaft, Heimtiere und Tierversuche. Diese Strategie bezieht den Maßnahmenplan Tierschutz und ein Kälberkonzept ein, das dazu beiträgt, Tiertransporte über lange Strecken zu vermeiden, außerdem einen Fahrplan zur Beendigung der ganzjährigen Anbindehaltung von Rindern und Maßnahmen, die möglichst allen Tieren den Zugang zum Freien ermöglichen.
 
 Die Unterstützung unserer Tierheime wollen wir weiter gewährleisten. Die Möglichkeit der Unterstützung bei Wildtieren wollen wir prüfen.
 
-Tierschutz in Schlachthöfen und beim Tiertransport sicherstellen
+### Tierschutz in Schlachthöfen und beim Tiertransport sicherstellen
 
 Um aufgetretene Missstände bei Schlachthöfen in Zukunft zu vermeiden, wird ein Runder Tisch eingerichtet, zu dem unter anderen die Tierschutzverbände, die Tierhalterinnen und Tierhalter und die Tierschutzbeauftragten der Handelsketten eingeladen werden. Das Ziel ist, Schlachtkapazitäten zu schaffen bzw. aufrechtzuerhalten und nachzubessern, die eine tierschutzkonforme Schlachtung aller Tiere aus Baden-Württemberg innerhalb eines Transportradius von zwei Stunden ermöglichen.
 
@@ -2858,11 +2646,11 @@ Wir werden dazu unter anderem mobile Schlachteinrichtungen und Weide-Schlachtung
 Eine Taskforce Tiertransporte am RP Tübingen wird weiterhin Verstöße insbesondere bei langen, grenzüberschreitenden Tiertransporten aufdecken und konsequent ahnden. Ein flächendeckendes Netz von Notversorgungsstellen wird sichergestellt.
 
 
-Tierversuche erheblich reduzieren
+### Tierversuche erheblich reduzieren
 
 Die Zahl der Tiere in Tierversuchen und deren Belastungen müssen gemeinsam mit Wissenschaft und Forschung erheblich reduziert werden. Dazu gehört neben der konsequenten Umsetzung des 3-R-Prinzips, dass in den Genehmigungsverfahren retrospektive Evaluierungen systematischer genutzt werden, insbesondere um Komplikationen besser zu erfassen.
 
-Hunde, Katzen und andere Heimtiere
+### Hunde, Katzen und andere Heimtiere
 
 In Baden-Württemberg wird nach niedersächsischem Vorbild ein theoretischer und praktischer Sachkundenachweis sowie eine Kennzeichnungs-, Registrierungs- und Versicherungspflicht für die Hundehaltung eingeführt. Für die Registrierung könnte auf bereits existierende bundesweite Datenbanken zurückgegriffen werden. Außerdem werden wir die Rahmenbedingungen für kommunale Katzenschutzverordnungen verbessern und eine Bunderatsinitiative für eine Tierschutz-Heimtierverordnung auch im Zusammenhang mit dem Internethandel starten.
 
@@ -2870,9 +2658,9 @@ Zahlreiche Menschen halten gefährliche Tiere, die eine Gefahr für die Halterin
 
 Die Unabhängigkeit der Stabstelle der Landesbeauftragten für Tierschutz bleibt sichergestellt.
 
-### D. VERBRAUCHERSCHUTZ
+## D. VERBRAUCHERSCHUTZ
 
-Verbraucherschutz stärken und modernisieren
+### Verbraucherschutz stärken und modernisieren
 
 Wir werden den Schutz der Verbraucherinnen und Verbraucher auf allen Ebenen verstärken und modernisieren. Dazu werden wir die verbraucherpolitische Strategie des Landes mit konkreten Maßnahmen und Prioritäten anpassen. Ziel ist unter anderem, die behördlichen Verbraucherinformationen noch einfacher abrufbar zu machen. Das Internetportal zur gesetzlichen Verbraucherinformation wird entsprechend überarbeitet.
 
@@ -2882,7 +2670,7 @@ Den aktuellen Herausforderungen des gesundheitlichen Verbraucherschutzes werden 
 
 Verbraucherzentrale weiter unterstützen: Die Arbeit der Verbraucherzentrale werden wir weiter unterstützen. Dies verbinden wir mit der Erwartung, dass die Verbraucherzentrale noch stärker auf digitale Angebote setzt. Mit Kampagnen zum Smart Surfing wollen wir mehr Transparenz und Verbraucherinformation erreichen. Wir stärken die Verbraucherzentrale Baden-Württemberg durch eine mittelfristig verbindliche Verstetigung der institutionellen Förderung. Damit setzen wir auch eine Empfehlung des Landesrechnungshofes (2020) um.
 
-Für eine ausgewogene und nachhaltige Ernährung
+### Für eine ausgewogene und nachhaltige Ernährung
 
 Aufbauend auf der „Ernährungsstrategie Baden-Württemberg“ werden wir unsere Aktivitäten weiter verstärken. Wir unterstützen die weitere Steigerung des Anteils von regionalen und Bio-Lebensmitteln. Voranschreiten werden wir bei den landeseigenen Kantinen und Mensen, mit dem Ziel eines Einsatzes von regionalen Bioprodukten zu 30 bis 40 Prozent bis 2030 und im Übrigen überwiegend regionalen Produkten. Zusätzlich sollen die Landeskantinen bei Ausschreibungen unter Einbindung der Marketinggesellschaft BW auf das Angebot eines Bio- und eines regionalen Gerichtes verpflichtet werden.
 
@@ -2899,19 +2687,17 @@ Die Lebensmittelverschwendung soll bis zum Jahr 2030 halbiert werden. Basierend 
 
 Im Bundesrat setzen wir uns für eine Weiterentwicklung des Nutri-Score-Systems ein und machen es zu einer verpflichtenden Kennzeichnung für alle verarbeiteten Lebensmittel.
 
-Verbraucherschutz als Teil moderner Wirtschaftspolitik
+### Verbraucherschutz als Teil moderner Wirtschaftspolitik
 
 Der Verbraucherschutz ist Teil einer modernen Wirtschaftspolitik, die das strukturelle Ungleichgewicht zwischen den Konsumenten und den Herstellern von Produkten und Dienstleistern behebt. Wir werden rasch die aktuellen Themenfelder des wirtschaftlichen Verbraucherschutzes festlegen. Dazu zählen: die digitale Welt (z. B. Regulierung von Algorithmen und Verbraucherdatenschutz), Finanzdienstleistungen (nachhaltige Geldanlagen, Provisionen bei Finanzanlagen und Versicherungen, private Altersvorsorge), Fahrgastrechte, Rechte als Energieverbraucherin bzw. Energieverbraucher sowie Orientierung im Label-„Dschungel“. Im Bereich der intelligenten Energie wollen wir Verbraucherinnen und Verbraucher mit den Themen Verteilnetze, „Smart-Grid“ und „Smart-Metering“ erreichen.
 
 Um gemeinsam neue Konzepte und Projekte für den Verbraucherschutz zu entwickeln, werden wir die Expertise unserer Verbraucherkommission nutzen.
 
-### E. WALD UND WILDTIERE
+## E. WALD UND WILDTIERE
 
-Wald mit Zukunft: Stabile Wald-Ökosysteme stärken Klimaschutz und Artenvielfalt
+### Wald mit Zukunft: Stabile Wald-Ökosysteme stärken Klimaschutz und Artenvielfalt
 
-Unsere Wälder leisten einen großen Beitrag zum Klimaschutz; gleichzeitig sind sie bedroht von der rasanten Klimaveränderung. Nur vielfältige und naturnahe, klimaresiliente Waldökosysteme werden die massiven klimatischen Veränderungen dauerhaft überstehen. Die Stärkung und
-
-Schaffung gerade solcher Wald-Ökosysteme sind für die Landesregierung deshalb ein prioritäres Anliegen.
+Unsere Wälder leisten einen großen Beitrag zum Klimaschutz; gleichzeitig sind sie bedroht von der rasanten Klimaveränderung. Nur vielfältige und naturnahe, klimaresiliente Waldökosysteme werden die massiven klimatischen Veränderungen dauerhaft überstehen. Die Stärkung und Schaffung gerade solcher Wald-Ökosysteme sind für die Landesregierung deshalb ein prioritäres Anliegen.
 
 2019 haben wir in einem breit angelegten Beteiligungsprozess die Waldstrategie Baden-Württemberg entwickelt. Wir werden sie mit Blick auf das Management resilienter Waldökosysteme konkretisieren und schärfen. Dabei ist weiterhin der naturnahe Dauerwald ein wichtiges Leitbild. Im Wald werden wir so langfristig Holzerträge sichern, Kohlenstoff speichern und gleichzeitig den Waldumbau hin zu ökologisch wertvollen Mischwäldern voranbringen. Beim Waldaufbau soll die Naturverjüngung Vorrang haben und bei Neupflanzungen sollen maximal 25 Prozent nicht gebietsheimische Baumarten, bevorzugt durch „assisted migration“, beigemischt werden. Gebietsheimische Baumarten, auch forstwirtschaftlich bisher weniger bedeutende, sollen verstärkt gepflanzt werden. Die waldbaulichen Richtlinien für den Staatswald werden wir entlang der obenstehenden Ziele an die neusten Erkenntnisse in Bezug auf den Klimawandel anpassen.
 
@@ -2938,11 +2724,9 @@ Wir werden zusätzliches Geld bereitstellen, um Biotopverbünde im Wald aufzubau
 
 Wir setzen uns beim Bund für die Etablierung eines Förderprogramms zur qualifizierten Inwertsetzung der Ökosystem- und Klimaschutzleistungen, die Wälder und Waldbesitzerinnen und Waldbesitzer erbringen, ein.
 
-Privatwald im Fokus: Wir wollen eine Privatwaldkonzeption entwickeln, die Wege aufzeigt, wie der bäuerliche Waldbesitz über Forstbetriebsgemeinschaften und größere Zusammenschlüsse seine Marktstellung verbessern kann. Diese Konzeption muss je nach Region auch
+Privatwald im Fokus: Wir wollen eine Privatwaldkonzeption entwickeln, die Wege aufzeigt, wie der bäuerliche Waldbesitz über Forstbetriebsgemeinschaften und größere Zusammenschlüsse seine Marktstellung verbessern kann. Diese Konzeption muss je nach Region auch Lösungen für den Kleinprivatwald entwickeln, um durch genossenschaftliche Ansätze auch kleine Parzellen ökonomisch bewirtschaften zu können.
 
-Lösungen für den Kleinprivatwald entwickeln, um durch genossenschaftliche Ansätze auch kleine Parzellen ökonomisch bewirtschaften zu können.
-
-Holznutzung mit positiver Klimawirkung
+### Holznutzung mit positiver Klimawirkung
 
 Holz werden wir als klimafreundlichen und nachwachsenden Rohstoff forciert auch industriell nutzen. Bei der Holznutzung werden wir darauf achten, dass die Holzressourcen regional ausreichend verfügbar sind und Wälder nicht übernutzt werden. Eine positive Klimawirkung entfaltet Holz, wenn es im Holzbau oder andernorts für langlebige Produkte zum Einsatz kommt und zusätzlich recycelt wird, bevor am Ende eine energetische Nutzung erfolgt (Kaskadennutzung).
 
@@ -2950,14 +2734,11 @@ Mit dem Waldumbau wird Laubholz deutlich an Bedeutung gewinnen, dafür muss dess
 
 Als Teil der Bioökonomiestrategie des Landes fördern wir bereits jetzt die Entwicklung neuer Produkte und Rohstoffe aus Holzfasern für die Industrie. Das wollen wir forcieren.
 
-Wildtiermanagement in den Fokus rücken
+### Wildtiermanagement in den Fokus rücken
 
 Waldumbau braucht angepasstes Wildtiermanagement. Ziel ist, dass sich die Haupt- und Nebenbaumarten im Wesentlichen ohne Zäunung auf allen Waldflächen erfolgreich verjüngen. Wir werden eine Anpassung der Rehwildbewirtschaftung an die Bedürfnisse des Waldes voranbringen. Auf Grundlage der Expertise von Wildtierexpertinnen und -experten und verbindlichen Vegetationsgutachten auf Jagdbezirksebene werden wir die erforderlichen Maßnahmen zum Management festlegen. Insbesondere die Auswirkungen naturräumlicher Unterschiede auf die Jagd von Wildtieren sollen erforscht werden. Wildruhegebiete werden wir verstärkt ausweisen. Dies kommt auch gefährdeten Arten wie dem Auerwild zugute. Erfolge im Artenschutz bedingen einen wieder höheren Stellenwert der Bejagung von Prädatoren. Die Zusammenhänge werden wir wissenschaftlich untersuchen.
 
-Ein modernes Wildtiermanagement muss an aktuellen Entwicklungen und wissenschaftlichen Erkenntnisse ausgerichtet werden. In diesem Zusammenhang wollen wir auch das Schalenmodell stärker in den Blick nehmen und
-
-
-insbesondere Themen wie die Aufnahme neuer Wildarten und Voraussetzungen für Schutzmanagements mit allen Akteuren diskutieren. Der Biber hat zwischenzeitlich weite Verbreitung gefunden. Wir werden deswegen aufbauend auf dem bestehenden Projekt zum Bibermanagement in der Donau-Region in ganz Baden-Württemberg Maßnahmen zur Regulierung ergreifen, wo der Bestand stabil ist.
+Ein modernes Wildtiermanagement muss an aktuellen Entwicklungen und wissenschaftlichen Erkenntnisse ausgerichtet werden. In diesem Zusammenhang wollen wir auch das Schalenmodell stärker in den Blick nehmen und insbesondere Themen wie die Aufnahme neuer Wildarten und Voraussetzungen für Schutzmanagements mit allen Akteuren diskutieren. Der Biber hat zwischenzeitlich weite Verbreitung gefunden. Wir werden deswegen aufbauend auf dem bestehenden Projekt zum Bibermanagement in der Donau-Region in ganz Baden-Württemberg Maßnahmen zur Regulierung ergreifen, wo der Bestand stabil ist.
 
 Zur Reduzierung der hohen Schwarzwildbestände werden wir auf regionaler Ebene unter Beteiligung aller Akteure weiterhin modellhafte Lösungen finden und ausdehnen. Die Modellgebiete der Allianz für Niederwild wollen wir ausbauen. Das Kormoran-Managementprojekt der Bodensee-Anrainer wollen wir schnell aufs Gleis setzen.
 
@@ -2967,9 +2748,9 @@ Invasive Neozoen können heimische Ökosysteme massiv schädigen. Auf der Basis 
 
 Ein Ausbruch der Afrikanischen Schweinepest auch in Baden-Württemberg ist noch wahrscheinlicher geworden. Deshalb wollen wir die Präventionsmaßnahmen weiter ausbauen und die Infrastruktur für eine Seuchenbekämpfung stärken. Wir wollen unsere Jägerinnen und Jäger dabei unterstützen, die Vermarktung von Wildbret weiter zu professionalisieren.
 
-### F. BIOÖKONOMIE
+## F. BIOÖKONOMIE
 
-Leitregion nachhaltige Bioökonomie
+### Leitregion nachhaltige Bioökonomie
 
 Klimaneutral zu wirtschaften, das bedeutet auf fossile Kohlenstoffe weitestgehend zu verzichten. Stattdessen müssen wir erneuerbare Kohlenstoffe und Materialen nutzen und diese im Kreislauf führen. Unser Ziel ist der Ausstieg aus der fossilen Kohlenstoffwirtschaft hin zur regenerativen Kohlenstoffwirtschaft in den nächsten Jahrzehnten. Die intelligente Nutzung von biogenen Roh- und Reststoffen bietet vielfältigen Potenziale für innovative Anwendungen mit Netto-Null-Emissionen, die schnell umgesetzt werden können. Diese werden wir effizient ausschöpfen. Dabei ist der Schutz der natürlichen Ressourcen unabdingbar für die Sicherung der Lebensgrundlagen und eine nachhaltige Entwicklung.
 
@@ -2977,39 +2758,32 @@ Bioökonomie als Motor für die Rohstoffwende: Eine nachhaltige, kreislauforient
 
 Bildungs- und Informationskampagne: Für den Transformationsprozess in Wirtschaft und Gesellschaft in Richtung Klimaneutralität werden wir die Rahmenbedingungen so gestalten, dass wirksame Anreize für Investitionen in den Ausbau bioökonomischer Wertschöpfungsnetze geschaffen werden. Hierzu wird eine Bildungs- und Informationskampagne „nachhaltig gedacht, zukunftsfähig gemacht“ aufgelegt.
 
-### G. TOURISMUS
+## G. TOURISMUS
 
 Der Tourismus ist mit der Gastronomie, den Gastgebern und tourismusnahen Dienstleistern als Querschnittbranche auch eine Leitökonomie für Baden-Württemberg. Sie ist damit für viele Menschen eine Existenzgrundlage. Aus diesem Grund ist uns die nachhaltige und qualitätsorientierte Entwicklung des Tourismus ein zentrales Anliegen.
 
-Neustart nach der Pandemie
+### Neustart nach der Pandemie
 
 Die Corona-Pandemie hat die Tourismusbranche hart getroffen und die Krise ist noch nicht überwunden. Wir werden mit einem bedarfsorientierten Sonderkonjunkturprogramm für alle Tourismusbereiche, insbesondere für nachhaltigen, ressourcenschonenden Tourismus, die notwendige Unterstützung sicherstellen und zu einem gelungenen Neustart beitragen.
 
 Qualität als Maßstab: Die Weiterentwicklung der Qualität im Tourismus sichert Standortvorteile und setzt Innovationskraft frei. Von Bedeutung ist dabei nicht nur die Qualifizierung und Weiterbildung der Beschäftigten der Betriebe, sondern auch die zeit- und bedarfsgerechte Ausstattung der ganzjährigen touristischen Angebote. Durch die Einführung einheitlicher Service- und Prognoseportale fördern und sichern wir auch Angebote für die Einwohnerinnen und Einwohner der ländlichen Regionen.
 
-Regionalität, Nachhaltigkeit und Mobilität
+### Regionalität, Nachhaltigkeit und Mobilität
 
-Technische Innovation ist ein zentraler Aspekt für die nachhaltige Entwicklung von Reisedestinationen. Wir setzen uns dafür ein, bestehende Mobilitätslücken zu schließen und zusammen mit den Kommunen beim Ausbau des öffentlichen Nahverkehrs die Belange des Tourismus besser zu berücksichtigen. Wir werden uns dafür einsetzen,
-
-
-regionale Wertschöpfungsketten weiter auszubauen und noch stärker als bisher mit dem Tourismusbereich zu koppeln. Heimische Spezialitäten und charakteristische Souvenirs, aber auch individualisierte Genuss- und Weintouren werden wir verstärkt beim Marketing in den Blick nehmen. Das Tourismusinfrastrukturprogramm, das Tourismusfinanzierungsprogramm sowie das „Schmeck den Süden außer Haus“-Programm und „Urlaub auf dem Bauernhof“ werden wir fortsetzen, und dabei auch die Barrierefreiheit berücksichtigen. Die Stärkung und den Erhalt der Dorfgastronomie werden wir konsequent weiterverfolgen.
+Technische Innovation ist ein zentraler Aspekt für die nachhaltige Entwicklung von Reisedestinationen. Wir setzen uns dafür ein, bestehende Mobilitätslücken zu schließen und zusammen mit den Kommunen beim Ausbau des öffentlichen Nahverkehrs die Belange des Tourismus besser zu berücksichtigen. Wir werden uns dafür einsetzen, regionale Wertschöpfungsketten weiter auszubauen und noch stärker als bisher mit dem Tourismusbereich zu koppeln. Heimische Spezialitäten und charakteristische Souvenirs, aber auch individualisierte Genuss- und Weintouren werden wir verstärkt beim Marketing in den Blick nehmen. Das Tourismusinfrastrukturprogramm, das Tourismusfinanzierungsprogramm sowie das „Schmeck den Süden außer Haus“-Programm und „Urlaub auf dem Bauernhof“ werden wir fortsetzen, und dabei auch die Barrierefreiheit berücksichtigen. Die Stärkung und den Erhalt der Dorfgastronomie werden wir konsequent weiterverfolgen.
 
 Tourismus ist mehr als Reisen: Unser Ziel ist es, die unterschiedlichen Akteure zusammen zu bringen und dabei auch einen Mehrwert für die Handwerksbetriebe vor Ort, für tourismusnahe Dienstleister, aber auch den Einzelhandel sowie Kunst und Kultur zu erzielen. Wir wollen das Tourismusmarketing im Land passgenau auf die Bedürfnisse unserer Destinationen zuschneiden und weiterentwickeln. Unsere großen Destinationen wollen wir im Rahmen unserer Programme weiter stärken. Kleineren Destinationen wollen wir weiterhin Beratungs- und Unterstützungsangebote anbieten. Die Potenziale der Digitalisierung gilt es noch stärker zu nutzen. Mit der Weiterentwicklung und Umsetzung unserer Tourismuskonzeption werden die zentralen Tourismusbereiche in den Blick genommen.
 
-Genuss mit und in der Natur
+### Genuss mit und in der Natur
 
 Wir werden Kommunen und Destinationen bei Besucherlenkungsmaßnahmen unterstützen. Wir werden sensible Bereiche im Wald bewahren und zugleich Menschen ermöglichen, auch mit dem Rad den Wald zu erleben. Mountainbikerinnen und Mountainbiker sollen die Möglichkeit haben, auf dafür ausgewiesenen Wegen ihren Sport auszuüben. An einem Runden Tisch erarbeiten wir Lösungen für Nutzungskonflikte. In diesem Zuge werden wir auch prüfen, wie Umwelt und Landschaft, als wesentliche Grundlage für unsere Destinationen durch den effizienten Einsatz modernster Technik bestmöglich geschont werden können.
 
 Wir werden die Kooperation der Großschutzgebiete und ihre gemeinsame Vermarktung fördern. Baden-Württemberg ist Kur- und Heilbäderland. Wir wollen auch neue Entwicklungen aktiv unterstützen und Kooperationen fördern. Vor diesem Hintergrund streben wir an, gemeinsam mit allen relevanten Akteuren Modellregionen für die Einrichtung von Gesundheitswäldern und insbesondere von prädikatisierten Kur- und Heilwäldern auszuwählen und Qualitätskriterien festzulegen. Wir werden zudem eine „Modellregion konsequent nachhaltiger Tourismus“ konzipieren, ausweisen und fördern.
 
 
+# 10. Mobilität und Infrastruktur 
 
-121
-
-10 DAS LAND BEWEGEN:
-
-
-10. DAS LAND BEWEGEN: FÜR DIE MOBILITÄT VON MORGEN
+## 10 DAS LAND BEWEGEN: FÜR DIE MOBILITÄT VON MORGEN
 
 Mobilität ist die Voraussetzung für gesellschaftliche Teilhabe, für wirtschaftliche Entwicklung und Prosperität sowie Ausdruck persönlicher Freiheit. Sie ist für Baden-Württemberg von entscheidender Bedeutung und großem Wert.
 
@@ -3017,7 +2791,7 @@ In den vergangenen fünf Jahren haben wir das Land zum Vorreiter für nachhaltig
 
 In den kommenden Jahren verstehen wir gemeinsam nachhaltige Mobilität als wesentliches Schlüsselelement für Klimaschutz und die wirtschaftliche Zukunft unseres Landes. Wir setzen die Klimaschutzziele der Europäischen Union auch und gerade im Verkehrssektor in Baden-Württemberg um und setzen den Weg zu einer neuen Mobilitätskultur konsequent fort. Die Herausforderungen und Chancen des Klimaschutzlandes Baden-Württemberg werden wir nutzen, indem wir Ökonomie und Ökologie durch Innovation und technischen Fortschritt in Einklang bringen.
 
-Verlässlich und klimaschonend, barrierefrei und bezahlbar
+### Verlässlich und klimaschonend, barrierefrei und bezahlbar
 
 Wir werden eine klimafreundliche Mobilität und die Verkehrswende weiter vorantreiben und umsetzen. Dazu gehören die Mobilitätsgarantie mit öffentlichem Nahverkehr, der Mobilitätspass und günstige Tickets wie auch ein attraktives Radnetz, eine leistungsfähige Straßeninfrastruktur und die Förderung von klimafreundlichem Autoverkehr. Stadt und Land stehen vor tiefgreifenden Veränderungen: Digitalisierung und Corona-Pandemie führen zu nachhaltig verändertem Mobilitätsverhalten. Darauf reagieren wir und vernetzen Individual- und öffentlichen Verkehr zu einer übergreifenden und integrierten Mobilität im ganzen Land.
 
@@ -3027,7 +2801,7 @@ Als Wiege von Automobil und Fahrrad wollen wir in Baden-Württemberg dafür Sorg
 
 Aufgrund der angespannten Haushaltssituation stehen sämtliche zusätzlichen finanzwirksamen Maßnahmen auch in diesem Kapitel unter Haushaltsvorbehalt. Das bedeutet: Erst wenn es wieder finanzielle Spielräume gibt, können ausgewählte Maßnahmen – eventuell in Stufen – umgesetzt werden. Ordnungspolitische und nicht finanzrelevante Maßnahmen sind davon nicht berührt.
 
-### A. VERKEHRSINFRASTRUKTUR
+## A. VERKEHRSINFRASTRUKTUR
 
 Klimaschutz im Verkehr setzt ein entschlossenes Handeln voraus, bei dem Land und Kommunen eng zusammenwirken müssen. Dazu werden wir mit allen relevanten Akteuren ein Landesmobilitätskonzept entwickeln, dessen Maßnahmen wirtschaftlich priorisiert werden, sich nach den Erfordernissen in Städten und im Ländlichen Raum unterscheiden und quantitativ die erforderliche Wirkung erzeugen. Das Konzept schließt einen Investitionsplan und ein Monitoring ein.
 
@@ -3035,12 +2809,9 @@ Um klimafreundliche Energiequellen auszubauen und Eingriffe in die Natur möglic
 
 Wir werden ein Mobilitätsgesetz als Rahmengesetz mit den Leitlinien einer nachhaltigen, klimafreundlichen, leistungsfähigen und verlässlichen Mobilität verabschieden. Wir orientieren uns an den Zielen der Mobilitätswende der Bundesregierung, den EU-Klimaschutzzielen im Verkehr und an der Vision Zero zur Verkehrssicherheit.
 
-Leistungsfähige und intakte Straßen für klimafreundliche Mobilität
+### Leistungsfähige und intakte Straßen für klimafreundliche Mobilität
 
-Die Mobilität der Menschen und der Transport von Waren und Gütern hängen im Flächenland Baden-Württemberg von einer leistungsfähigen und intakten Straßeninfrastruktur ab. Auch moderne Mobilität mit autonomen Fahrzeugen und alternativen Antrieben ist auf eine gute und intelligente Straßeninfrastruktur angewiesen. Gleichzeitig
-
-
-gilt es, die Auswirkungen des Straßenverkehrs entscheidend zu reduzieren, um Umwelt und Klima – ebenso wie die Menschen – vor Lärm und Schadstoffen effektiv zu schützen.
+Die Mobilität der Menschen und der Transport von Waren und Gütern hängen im Flächenland Baden-Württemberg von einer leistungsfähigen und intakten Straßeninfrastruktur ab. Auch moderne Mobilität mit autonomen Fahrzeugen und alternativen Antrieben ist auf eine gute und intelligente Straßeninfrastruktur angewiesen. Gleichzeitig gilt es, die Auswirkungen des Straßenverkehrs entscheidend zu reduzieren, um Umwelt und Klima – ebenso wie die Menschen – vor Lärm und Schadstoffen effektiv zu schützen.
 
 Sanierung vor Aus- und Neubau: Auch in dieser Legislaturperiode gilt: „Sanierung vor Aus- und Neubau“. Wir setzen noch stärker den Schwerpunkt auf die nachholende Sanierung des „Landesvermögens Straße“ und sichern die Mobilität, indem wir Straßen und Brücken, Tunnel und Stützmauern sanieren.
 
@@ -3054,38 +2825,31 @@ Auch auf kommunaler Ebene ist ein leistungsfähiges Straßennetz von großer Bed
 
 Weniger Ressourcenverbrauch durch Wiederverwertung: Seit mehreren Jahren erprobt die Straßenbauverwaltung Baden-Württemberg verstärkt Asphaltbauweisen, die einen wesentlich erhöhten Recyclinganteil aufweisen.
 
-Ziel ist es einerseits, den Ressourcenverbrauch einzudämmen. Andererseits soll der durch den Vorrang der Erhaltung vor dem Neubau entstandenen, stark gestiegenen, Anteil an Ausbauasphalt effektiv wieder in Straßen verwendet werden. Wir fördern die Wiederverwertung beim Straßenbau; dabei speziell die Aufbereitung und umweltverträgliche Wiederverwertung von belastetem Ausbauasphalt. Durch die schadlose Aufbereitung und dem möglichen Wiedereinbau des Materials sparen wir CO
-
-2 und schonen die Ressourcen der Primärrohstoffe.
+Ziel ist es einerseits, den Ressourcenverbrauch einzudämmen. Andererseits soll der durch den Vorrang der Erhaltung vor dem Neubau entstandenen, stark gestiegenen, Anteil an Ausbauasphalt effektiv wieder in Straßen verwendet werden. Wir fördern die Wiederverwertung beim Straßenbau; dabei speziell die Aufbereitung und umweltverträgliche Wiederverwertung von belastetem Ausbauasphalt. Durch die schadlose Aufbereitung und dem möglichen Wiedereinbau des Materials sparen wir CO 2 und schonen die Ressourcen der Primärrohstoffe.
 
 Innovatives und digitales Planen und Bauen: Ein wesentlicher Bestandteil der Digitalisierung der Straßenverkehrsinfrastruktur ist die Anwendung von Building Information Modeling (BIM). BIM steht für eine komplett digitale Arbeitsmethode beim Planen, Bauen und Betreiben von Baumaßnahmen. Unser Ziel ist eine bedarfsgerechte und flächendeckende Implementierung von innovativen und digitalen Arbeitsmethoden. Daher werden wir sukzessive die Anzahl an BIM-Projekten erhöhen, um bestmögliche Synergieeffekte für die Bauwirtschaft und die Verwaltung zu erzeugen.
 
 Biotopverbund an Straßen: Wir werden das „Landeskonzept Wiedervernetzung an Straßen in Baden-Württemberg“ umsetzen und fortschreiben. Wir wollen den Biotopverbund durch Vernetzungsmaßnahmen stärken und es Tieren durch bauliche und naturschutzfachliche Hilfestellungen erleichtern, Verkehrswege zu queren. Die Vielfalt von Tieren und Pflanzen an und zwischen Straßen wollen wir durch Bepflanzung fördern.
 
-Digitalisierung und Verkehrssteuerung
+### Digitalisierung und Verkehrssteuerung
 
 Digitale Dienste und Daten: Zentraler Ansatz, um Individual- und öffentlichen Verkehr zu vernetzen, soll die Mobilitätsdatenplattform MobiData BW sein. Hierzu bauen wir sie in Fläche und Tiefe aus. Als Gründungsgesellschafter des bundesweiten Datenraums Mobilität denkt das Land Baden-Württemberg digitale Dienste und Daten über die Landesgrenzen hinaus. Datenbestände aus dem Land werden in den Datenraum eingebracht und für klimaverträgliche und leistungsfähige Mobilität genutzt. Dies gilt insbesondere für digitales Parkmanagement, digitale Buchung und Fahrzeug-Sharing. Auch das Mobilitätsbudget als nachhaltige Alternative im betrieblichen Mobilitätsmanagement wird erst mit der richtigen Datengrundlage möglich.
 
 Wir wollen auch den Datenraum Mobilität dazu nutzen, um die Effizienz des Mobilitätssystems in Baden-Württemberg zu steigern und Felder für neue Geschäftsmodelle zu eröffnen. Daten unter Beachtung europäischer Datenschutzstandards zu verknüpfen, verstehen wir als Grundlage für Innovationen und neue Beschäftigungsmöglichkeiten bei uns im Land.
 
-Baden-Württemberg setzt sich weiterhin für eine möglichst weitgehende Offenlegung von Mobilitätsdaten ein,
-
-
-auch von privaten Anbietern wie Sharing-Diensten und Parkraumbetreibern. Sollte hier keine bundeseinheitliche Regelung entstehen, werden wir eine landesweite Regelung prüfen.
+Baden-Württemberg setzt sich weiterhin für eine möglichst weitgehende Offenlegung von Mobilitätsdaten ein, auch von privaten Anbietern wie Sharing-Diensten und Parkraumbetreibern. Sollte hier keine bundeseinheitliche Regelung entstehen, werden wir eine landesweite Regelung prüfen.
 
 Mit der Mobilitätszentrale BW werden wir die intelligente Verkehrssteuerung aller Verkehrsmittel und deren Vernetzung im Land weiter auf- und ausbauen.
 
 Intelligente Verkehrssteuerung: Durch intelligente – auch intermodale und zeitliche – Verkehrssteuerung wollen wir Staus und Umweltbelastungen auf Straßen vermeiden. Um Regio- und Expressbusse zu beschleunigen, werden wir auch außerorts Bus- und Umweltspuren, also Spuren, die für mehrfachbesetzte oder klimafreundliche Fahrzeuge freigegeben sind, einrichten. Auch Vorrangschaltungen an Kreuzungen werden wir einsetzen. Die Straßenverkehrsbehörden des Landes werden die Bevorrechtigung des Fuß-, Rad- und Linienbusverkehrs und die erforderlichen Maßnahmen zum Abbau unverhältnismäßiger Verzögerungen und Behinderungen, insbesondere an Ampelanlagen, prüfen. Damit werden wir der Leichtigkeit des Verkehrs für alle Verkehrsträger, die in der Straßenverkehrsordnung angestrebt ist, gerecht.
 
-Bahninfrastruktur ausbauen und modernisieren
+### Bahninfrastruktur ausbauen und modernisieren
 
 Wir wollen das Angebot des Schienenverkehrs ausbauen und die Fahrgastzahlen verdoppeln. Dazu muss das Bahnnetz in Baden-Württemberg sowohl auf den Hauptachsen als auch in der Fläche konsequent modernisiert und ausgebaut werden. Flankiert wird dies durch die Reaktivierung und Elektrifizierung von Schienenstrecken und ein ergänzendes Angebot an Regiobussen.
 
 Um das Ziel der Verdopplung zu erreichen, bedarf es einer engen Abstimmung des Landes als Besteller des Schienenpersonennahverkehrs (SPNV) mit dem Bund beim Ausbau des bundeseigenen Schienennetzes. Wir begrüßen und unterstützen das wegweisende Konzept des Deutschlandtaktes und den Plan zur konsequenten Digitalisierung der Leit- und Sicherungstechnik, mit der die Leistungsfähigkeit des Netzes und die Stabilität des Betriebs gesteigert werden sollen. Eine Erhöhung der Investitionsmittel des Bundes schafft die Voraussetzungen für die Umsetzung. Laufende Projekte wie der Ausbau der Rheintalbahn müssen zudem möglichst schnell umgesetzt werden.
 
-Schieneninfrastruktur ausbauen und elektrifizieren: Wir werden den kapazitäts- und qualitätsorientierten Ausbau sowie die Elektrifizierung der Schieneninfrastruktur im Land auch abseits der Magistralen vorantreiben. Dazu werden wir die erweiterten Fördermöglichkeiten des Bundes-Gemeindeverkehrsfinanzierungsgesetzes (Bundes-GVFG) konsequent nutzen. Ausbau- und Elektrifizierungsprojekte wie die Regionalstadtbahn NeckarAlb mit Zollernbahn bis Sigmaringen, die Regio-S-Bahn Donau-Iller, den Ringzug Schwarzwald-Baar-Heuberg 2.0, die Hochrhein- und Bodenseegürtelbahn wollen wir in
-
-diesem Jahrzehnt realisieren. Wo eine Elektrifizierung mit Fahrdraht nicht wirtschaftlich oder zeitnah umsetzbar ist, wollen wir Fahrzeuge mit alternativen Antrieben einsetzen oder konventionelle Fahrzeuge entsprechend nachrüsten und die erforderliche Tank- und Ladeinfrastruktur bereitstellen.
+Schieneninfrastruktur ausbauen und elektrifizieren: Wir werden den kapazitäts- und qualitätsorientierten Ausbau sowie die Elektrifizierung der Schieneninfrastruktur im Land auch abseits der Magistralen vorantreiben. Dazu werden wir die erweiterten Fördermöglichkeiten des Bundes-Gemeindeverkehrsfinanzierungsgesetzes (Bundes-GVFG) konsequent nutzen. Ausbau- und Elektrifizierungsprojekte wie die Regionalstadtbahn NeckarAlb mit Zollernbahn bis Sigmaringen, die Regio-S-Bahn Donau-Iller, den Ringzug Schwarzwald-Baar-Heuberg 2.0, die Hochrhein- und Bodenseegürtelbahn wollen wir in diesem Jahrzehnt realisieren. Wo eine Elektrifizierung mit Fahrdraht nicht wirtschaftlich oder zeitnah umsetzbar ist, wollen wir Fahrzeuge mit alternativen Antrieben einsetzen oder konventionelle Fahrzeuge entsprechend nachrüsten und die erforderliche Tank- und Ladeinfrastruktur bereitstellen.
 
 Dazu werden wir die Förderkonditionen des Landes bei der Kofinanzierung des Bundes-GVFG im Fall von Eisenbahnvorhaben für den landesbestellten Schienenverkehr weiter verbessern. Hierzu wenden wir die anteilige Kofinanzierung des Landes auf alle bei den Kommunen verbleibenden Kosten an und teilen das Planungskostenrisiko vor einer Realisierung zur Hälfte mit der kommunalen Seite.
 
@@ -3097,14 +2861,11 @@ Das Land wird prüfen, ob mit dem Aufbau einer Landesschienenwegegesellschaft ei
 
 Die Nahverkehrsgesellschaft Baden-Württemberg wollen wir als Service- und Kompetenzstelle für alle Akteure beim Ausbau des Öffentlichen Verkehrs und seiner Infrastruktur einschließlich barrierefreiem Ausbau und einer Stationsoffensive weiter stärken.
 
-Eisenbahnknoten Stuttgart zukunftsfähig machen
+### Eisenbahnknoten Stuttgart zukunftsfähig machen
 
 Initiative „Eisenbahnknoten Stuttgart 2040“: Wir wollen in einem ständigen Prozess den Eisenbahnknoten Stuttgart für die Anforderungen weiterer Angebotssteigerungen in künftigen Jahrzehnten (z. B. auch über einer Verdoppelung der Fahrgastzahlen im Schienenverkehr bis 2030 hinaus) zukunftsfähig machen. Wir vereinbaren daher eine Initiative „Eisenbahnknoten Stuttgart 2040“. Dazu werden wir die aktuellen und künftigen Chancen nutzen, um das Bahnprojekt Stuttgart 21 noch in seiner Umsetzungsphase weiter fortzuentwickeln. Die von uns bereits eingeleiteten und unterstützten Projektverbesserungen wie die große Wendlinger Kurve, die Digitalisierung des Bahnknotens (ETCS) sowie den Erhalt der Panoramabahn werden wir umsetzen.
 
-Wir befürworten die Umsetzung der im Zuge des Deutschlandtaktes vorgesehenen Bundesprojekte des beschleunigten Nordzulaufs, der P-Option und des Ausbaus der Gäubahn zwischen Stuttgart und Singen mit dem langen Gäubahntunnel zum Flughafen. Wir setzen auf eine sehr zeitnahe Umsetzung der Planungen und der Finanzierung
-
-
-durch den Bund im Rahmen des Bundesverkehrswegeplanes. Zu einer für Projektänderungen notwendigen Anpassung des Finanzierungsvertrages zu Stuttgart 21 sind wir bereit, sofern eine gleichwertige Umsetzungs- und Finanzierungsabsicherung ohne Zusatzkosten für das Land gesichert und eine schnellstmögliche Umsetzung gegeben ist.
+Wir befürworten die Umsetzung der im Zuge des Deutschlandtaktes vorgesehenen Bundesprojekte des beschleunigten Nordzulaufs, der P-Option und des Ausbaus der Gäubahn zwischen Stuttgart und Singen mit dem langen Gäubahntunnel zum Flughafen. Wir setzen auf eine sehr zeitnahe Umsetzung der Planungen und der Finanzierung durch den Bund im Rahmen des Bundesverkehrswegeplanes. Zu einer für Projektänderungen notwendigen Anpassung des Finanzierungsvertrages zu Stuttgart 21 sind wir bereit, sofern eine gleichwertige Umsetzungs- und Finanzierungsabsicherung ohne Zusatzkosten für das Land gesichert und eine schnellstmögliche Umsetzung gegeben ist.
 
 Für weitere Kapazitäten: Wir setzen uns aktiv für weitere Ergänzungen ein, die die Kapazitäten von Regionalverkehr und S-Bahn einschließlich verbesserter Robustheit bei Störfällen erweitern. Dazu gehören für uns insbesondere die Nahverkehrs-Ergänzungsstation mit Zuläufen aus drei Richtungen sowie der perspektivische Ausbau des Nordkreuzes mit T-Spange und eine Filderspange mit Anbindung von Kirchheim (Teck).
 
@@ -3112,7 +2873,7 @@ Es gibt zusätzliche Infrastrukturelemente, die sich baulich nur noch während d
 
 Das Land Baden-Württemberg beteiligt sich an dem Projekt Stuttgart 21 mit einem Zuschuss entsprechend den Regelungen des Finanzierungsvertrags. Der von der Deutschen Bahn auf eine Beteiligung an den Mehrkosten erhobenen Klage tritt das Land entgegen und hält dabei an dem Ziel fest, dass über die im Vertrag genannten Kostenanteile in Höhe von 930,6 Millionen Euro hinaus von Seiten des Landes keine Zahlungen zu leisten sind.
 
-Kommunale Verkehrsinfrastruktur ausbauen
+### Kommunale Verkehrsinfrastruktur ausbauen
 
 Der Ausbaubedarf von kommunaler Verkehrsinfrastruktur, von Schnittstellen/Mobilitätsknoten sowie zur Herstellung von Barrierefreiheit ist groß. Für den Ausbau der kommunalen ÖPNV-Infrastruktur wollen wir einen hohen Anteil des aufgestockten Bundes-GVFG nach Baden-Württemberg holen. Das Land wird die Finanzmittel dazu sicherstellen, damit kein Bundes-GVFG-Projekt an der fehlenden Kofinanzierung des Landes scheitert. Den Ausbau wird das Land durch Mittel aus dem Landes-Gemeindeverkehrsfinanzierungsgesetz (LGVFG) unterstützen.
 
@@ -3120,7 +2881,7 @@ Wir behalten die Aufteilung im LGVFG zwischen Umweltverbund und Straße von 60:4
 
 Als Beitrag zur Entbürokratisierung werden wir eine pauschalierte Zuweisung von LGVFG-Mitteln für kleinere Vorhaben an die Kommunen prüfen.
 
-Infrastruktur für Radfahrerinnen und Radfahrer voranbringen
+### Infrastruktur für Radfahrerinnen und Radfahrer voranbringen
 
 Wir wollen bis 2030 eine Steigerung des Radverkehrsanteils auf 20 Prozent erreichen. Dafür werden wir unsere Anstrengungen fortsetzen und ausweiten. Dazu gehören die Umsetzung des Zielzustands im RadNETZ und dessen Fortentwicklung, die Verwirklichung von mindestens 20 Radschnellwegen bis 2030 für den Alltagsverkehr, die flächendeckende Fortführung der Kampagne RadKULTUR für Pendlerinnen und Pendler und eine Kampagne „Aktiv zur Schule“. Hierfür ist der Aufbau von Planungskapazitäten in den Regierungspräsidien erforderlich. Die Kommunen wollen wir durch verbindlich vorgesehene Kreiskoordinatorinnen und -koordinatoren unterstützen und mit dem LGVFG weiter effektiv das kommunale Radnetz fördern. Zudem wollen wir eine Bedarfsplanung für Radwege an Bundes- und Landesstraßen erstellen und dabei auch parallel vorhandene Wege beachten.
 
@@ -3134,12 +2895,9 @@ Die Zahl der sicheren Bike-and-Ride-Stellplätze wollen wir verdoppeln.
 
 Die Erstellung von Geh- und Radschulwegpläne werden wir zur Pflicht machen.
 
-Die Bedeutung des touristischen bzw. Sportradverkehrs steigt. Dem wollen wir Rechnung tragen, indem wir Radrouten ausbauen, mehr Mitnahmemöglichkeiten im
+Die Bedeutung des touristischen bzw. Sportradverkehrs steigt. Dem wollen wir Rechnung tragen, indem wir Radrouten ausbauen, mehr Mitnahmemöglichkeiten im Busverkehr und weiterhin eine durchgängige Beschilderung schaffen. Für die wachsende Gruppe der Mountainbikerinnen und Mountainbiker werden wir Lösungen finden, die den Interessen aller Nutzergruppen in der Natur gerecht werden. Dabei setzen wir auf gegenseitige Rücksichtnahme statt Verbote.
 
-
-Busverkehr und weiterhin eine durchgängige Beschilderung schaffen. Für die wachsende Gruppe der Mountainbikerinnen und Mountainbiker werden wir Lösungen finden, die den Interessen aller Nutzergruppen in der Natur gerecht werden. Dabei setzen wir auf gegenseitige Rücksichtnahme statt Verbote.
-
-Für klimafreundlichen Luft- und Schiffsverkehr
+### Für klimafreundlichen Luft- und Schiffsverkehr
 
 Zu einer funktionierenden Infrastruktur im Land gehört auch der Luftverkehr. Ein wettbewerbsfähiger Luftverkehrsstandort ist Grundlage des weltweiten Außenhandels sowie der Tourismuswirtschaft.
 
@@ -3157,11 +2915,11 @@ Wir unterstützen die Häfen im Land dabei, weitere Landstromanlagen zu errichte
 
 Die Umschlag-Terminals zur Stärkung des kombinierten Güterverkehrs zwischen Schiene, Straße und gegebenenfalls Binnenschiff im Land wollen wir deutlich ausbauen.
 
-### B. MOBILITÄT DER ZUKUNFT
+## B. MOBILITÄT DER ZUKUNFT
 
 Der klimafreundlichen Mobilität gehört die Zukunft – sowohl ökologisch als auch wirtschaftlich. Dazu werden die Angebote sich stark verändern, was wirtschaftliche Chancen und neue Arbeitsplätze bedeutet. Dies betrifft neue Mobilitätsdienstleistungen und Fahrzeugproduktion gleichermaßen.
 
-Mobilitätsgarantie im Öffentlichen Verkehr
+### Mobilitätsgarantie im Öffentlichen Verkehr
 
 Fahrgastzahlen bis 2030 verdoppeln: Ein zentraler Baustein der Verkehrswende ist es, die Fahrgastzahlen in allen öffentlichen Verkehrsmitteln bis zum Jahr 2030 im Vergleich zum Jahr 2010 zu verdoppeln. Die Landesregierung wird dieses Ziel auf Landesebene in den kommenden fünf Jahren konsequent verfolgen, die Planungen darauf ausrichten, mit Maßnahmen unterlegen und sich mit zusätzlichen Landesmitteln an der Finanzierung der ÖPNV-Offensive beteiligen.
 
@@ -3169,10 +2927,7 @@ Um das Verdopplungsziel zu erreichen, muss das Verkehrsangebot in den Verdichtun
 
 Erreichbarkeit von früh bis spät – garantiert: Wir werden eine Garantie für eine verlässliche Bedienung im öffentlichen Nahverkehr umsetzen; alle Orte (geschlossenen Ortschaften) in Baden-Württemberg werden von fünf Uhr früh bis Mitternacht mit dem öffentlichen Nahverkehr erreichbar sein. Zu den gängigen Verkehrszeiten soll im Ballungsraum mindestens ein 15-Minuten-Takt, im Ländlichen Raum ein 30-Minuten-Takt sichergestellt werden. In einer ersten Stufe soll dieser Takt bis 2026 in den Hauptverkehrszeiten des Berufsverkehrs erreicht sein, zu den übrigen Zeiten jeweils mindestens ein Stundentakt im Ländlichen Raum und in den Ballungsräumen ein 30-Minuten-Takt. Der ÖPNV-Ausbau erhält durch diese Standards eine zentrale und gewichtige Bedeutung. Wir wollen diese Mobilitätsgarantie im Dialog mit den kommunalen Partnern einlösen.
 
-Dieser ambitionierte Ausbau lässt sich in Räumen und zu Zeiten schwacher Verkehrsnachfrage wirtschaftlich tragfähig und ökologisch sinnvoll nur mit flexiblen und nachfragegesteuerten On-Demand-Angeboten realisieren. Hier helfen uns in besonderer Weise digitale Technologien. Den On-Demand-Verkehr wollen wir auf breiter Front fördern. Die Chancen eines automatisierten, fahrerlosen Busverkehrs werden wir mit Pilotprojekten unterstützen. Ehrenamtlich basierte Orts- und Bürgerbusse sowie soziale
-
-
-Fahrdienste sind eine wichtige Ergänzung im Mobilitätssystem, die wir weiterhin fördern und integrieren werden.
+Dieser ambitionierte Ausbau lässt sich in Räumen und zu Zeiten schwacher Verkehrsnachfrage wirtschaftlich tragfähig und ökologisch sinnvoll nur mit flexiblen und nachfragegesteuerten On-Demand-Angeboten realisieren. Hier helfen uns in besonderer Weise digitale Technologien. Den On-Demand-Verkehr wollen wir auf breiter Front fördern. Die Chancen eines automatisierten, fahrerlosen Busverkehrs werden wir mit Pilotprojekten unterstützen. Ehrenamtlich basierte Orts- und Bürgerbusse sowie soziale Fahrdienste sind eine wichtige Ergänzung im Mobilitätssystem, die wir weiterhin fördern und integrieren werden.
 
 Schienenpersonennahverkehr weiter ausbauen und verbessern: Eine zentrale Rolle bei der ÖPNV-Offensive spielt der Ausbau des Schienenpersonennahverkehrs. Wir werden ein Zielkonzept 2030 mit einem 15-MinutenTakt im Verdichtungsraum und einem 30 Minuten-Takt in ländlichen Räumen entwickeln, die infrastrukturellen Voraussetzungen angehen und die Umsetzung bis zum Ende des Jahrzehnts vorbereiten. Dazu werden wir uns beim Bund für eine entsprechend deutlich erhöhte Ausstattung mit Regionalisierungsmitteln einsetzen und bei Bedarf auch mit eigenen Mitteln in Vorleistung gehen. Die Aufgabenträgerschaft des Landes und des Verbandes Region Stuttgart hat sich bewährt und wird beibehalten. Das Land wird schrittweise seine gesetzliche Aufgabenträgerschaft für den Nahverkehr auf allen Eisenbahnstrecken wahrnehmen.
 
@@ -3182,15 +2937,13 @@ Ein guter ÖPNV braucht zufriedene und motivierte Mitarbeiterinnen und Mitarbeit
 
 Um zentrale Orte abseits der Schiene anzubinden und Lücken im Bahnnetz zu schließen, werden wir das Förderprogramm für Regiobusse und Schnellbusse fortführen.
 
-Günstige und digitale Ticketangebote für die ÖPNV-Offensive
+### Günstige und digitale Ticketangebote für die ÖPNV-Offensive
 
 Für attraktive Tarifangebote: Wir werden landesweit attraktivere und digital verfügbare Tarifangebote im Öffentlichen Personennahverkehr für alle Kundengruppen in Verbünden und im bw-Tarif prüfen mit dem Ziel, landesweit günstige Tickets einzuführen, wie zum Beispiel das „1-2-3 Ticket“.
 
 In einem ersten Schritt werden wir mit finanzieller Unterstützung des Landes die Einführung eines attraktiven Schüler-, Auszubildenden-, Studierenden- und Jugendtickets zum Preis von 365 Euro pro Jahr mit landesweiter Fahrtmöglichkeit anstreben.
 
-Mobilitätspass für Kommunen ermöglichen: Zur Finanzierung von Angebotsausbau und günstigen Tarifen
-
-soll die kommunale Ebene per Landesgesetz das Recht erhalten, auch mit einem Mobilitätspass Einnahmen zu erzielen. Dadurch sollen der ÖPNV gestärkt und das Mobilitätsverhalten geändert werden. Mit dem Mobilitätspass wird ein persönliches ÖPNV-Guthaben in gleicher Höhe verbunden, das beim Kauf von ÖPNV-Zeitkarten eingelöst werden kann. Durch eine Verrechnungspflicht werden wir sicherstellen, dass für Pendlerinnen und Pendler dieses Guthaben zwischen mehreren Abgabegebieten räumlich übertragbar ist und eine Doppelzahlung ausgeschlossen wird.
+Mobilitätspass für Kommunen ermöglichen: Zur Finanzierung von Angebotsausbau und günstigen Tarifen soll die kommunale Ebene per Landesgesetz das Recht erhalten, auch mit einem Mobilitätspass Einnahmen zu erzielen. Dadurch sollen der ÖPNV gestärkt und das Mobilitätsverhalten geändert werden. Mit dem Mobilitätspass wird ein persönliches ÖPNV-Guthaben in gleicher Höhe verbunden, das beim Kauf von ÖPNV-Zeitkarten eingelöst werden kann. Durch eine Verrechnungspflicht werden wir sicherstellen, dass für Pendlerinnen und Pendler dieses Guthaben zwischen mehreren Abgabegebieten räumlich übertragbar ist und eine Doppelzahlung ausgeschlossen wird.
 
 Verkehrsverbünde fortentwickeln: Die Verkehrsverbünde im Land wollen wir fortentwickeln und ihre ÖPNV-Angebote mit Carsharing und innovativen Mobilitätsangeboten vernetzen. Wir wollen die Zahl der kleinen Verkehrsverbünde im Land verringern und werden den Zusammenschluss zu leistungsfähigen Einheiten auch finanziell unterstützen. Die Initiativen dafür müssen vor Ort entstehen. Das Land als Aufgabenträger des Schienenverkehrs ist dabei ein wichtiger Partner und sieht sich in der Verantwortung, die Verbünde auch als Gesellschafter im Interesse der Fahrgäste mitzugestalten. Wir streben eine Dynamisierung der Verbundförderung des Landes an.
 
@@ -3200,12 +2953,9 @@ Die Corona-Pandemie stellt den ÖPNV vor besondere Herausforderungen. Wir stehen
 
 Im Rahmen der Verdopplung der Fahrgastzahlen des Öffentlichen Verkehrs unterstützen wir die Rolle von Fernbusangeboten und ihre Verzahnung mit dem ÖPNV und setzen uns für die Verbesserung der Haltestellen-Situation ein.
 
-Neue Mobilitätsangebote in Stadt und Land
+### Neue Mobilitätsangebote in Stadt und Land
 
-Moderne und vernetzte Angebote in Stadt und Land: Wir wollen, dass in ganz Baden-Württemberg moderne, vernetzte und geteilte Mobilitätsangebote verfügbar sind. Dazu wollen wir die Aufgabenträger des ÖPNV ermutigen, die Möglichkeiten des neuen Personenbeförderungsgesetzes zu nutzen, um Ridepoolingdienste als sinnvolle Ergänzung des Angebots klimafreundlicher Mobilität zu etablieren. Wo dies ohne finanzielle Beteiligung von Land und Kommunen möglich ist, setzen wir auf eigenwirtschaftliche Pooling-Angebote. Besonders für kleinere Kommunen oder Ortsteile und in Zeiten, in denen das
-
-
-konventionelle ÖPNV-Angebot nicht attraktiv ist, können die kommunalen Aufgabenträger mit flexiblen, innovativen Bedienformen ihren ÖPNV erweitern.
+Moderne und vernetzte Angebote in Stadt und Land: Wir wollen, dass in ganz Baden-Württemberg moderne, vernetzte und geteilte Mobilitätsangebote verfügbar sind. Dazu wollen wir die Aufgabenträger des ÖPNV ermutigen, die Möglichkeiten des neuen Personenbeförderungsgesetzes zu nutzen, um Ridepoolingdienste als sinnvolle Ergänzung des Angebots klimafreundlicher Mobilität zu etablieren. Wo dies ohne finanzielle Beteiligung von Land und Kommunen möglich ist, setzen wir auf eigenwirtschaftliche Pooling-Angebote. Besonders für kleinere Kommunen oder Ortsteile und in Zeiten, in denen das konventionelle ÖPNV-Angebot nicht attraktiv ist, können die kommunalen Aufgabenträger mit flexiblen, innovativen Bedienformen ihren ÖPNV erweitern.
 
 Wir wollen für die Anbieter Anreize setzen, das Carsharing-Angebot gemeinsam mit den Städten und Gemeinden in Baden-Württemberg deutlich auszubauen. Dabei soll das Angebot über die 200 heute angeschlossenen Orte hinaus weiter in die Fläche wachsen. Ebenso sollen mehr Stellplätze für Carsharing-Fahrzeuge eingerichtet werden.
 
@@ -3213,7 +2963,7 @@ Parken im öffentlichen Raum: Parken soll im öffentlichen Raum und auf öffentl
 
 Auf Landesliegenschaften wird beim Parken das Prinzip der Kostendeckung verbindlich eingeführt. Kostenloses Parken auf und in Landesliegenschaften mit mehr als fünf Stellplätzen ist bis 2030 auf klimaneutrale Fahrzeuge beschränkt.
 
-Schnittstellen als Basis für nachhaltige Mobilität für alle
+### Schnittstellen als Basis für nachhaltige Mobilität für alle
 
 Wir wollen unnötiges Verkehrsaufkommen, insbesondere Durchgangs- und Parksuchverkehre, in den Städten und in der Fläche vermeiden. Wir schaffen zusätzliche attraktive Park+Ride- und Bike+Ride-Angebote sowie Fahrradparkhäuser. Diese werden wir wie auch Bahnhöfe und andere Knotenpunkte zu Mobilitätsstationen ausbauen und mit Mobilitätssäulen kennzeichnen. Mit Lademöglichkeiten für Elektrofahrzeuge und E-Bikes sowie der Möglichkeit zum Umstieg auf ÖPNV oder moderne, digitale SharingAngebote setzen wir Anreize für einen komfortablen und klimafreundlichen innerstädtischen Verkehr. Das gesamte Mobilitätsangebot soll für die Bürgerinnen und Bürger in Mobilitäts-Apps unkompliziert zusammengefasst und digital buchbar sein.
 
@@ -3221,7 +2971,7 @@ Das Programm „Bahnhof der Zukunft” wollen wir im Rahmen bestehender Finanzie
 
 Mit dem Baden-Württemberg-Institut für Nachhaltige Mobilität gibt es in unserem Land eine deutschlandweit einmalige Einrichtung, die die Kompetenzen an den Hochschulen des Landes in Lehre, Forschung und Weiterbildung insbesondere für Kommunen bündelt. In den kommenden fünf Jahren werden wir das Institut aufbauen und die Finanzierung verstetigen.
 
-Strategiedialog Automobilwirtschaft als Innovationsmotor der Transformation
+### Strategiedialog Automobilwirtschaft als Innovationsmotor der Transformation
 
 Wir wollen Baden-Württemberg zum Leitanbieter nachhaltiger Mobilität machen und damit das Klima schützen, den Wohlstand erhalten und Arbeitsplätze langfristig sichern. Mit dem Strategiedialog Automobilwirtschaft Baden-Württemberg (SDA BW) haben wir ein einmaliges politisches Format zur Transformation des Automobilsektors in Baden-Württemberg auf den Weg gebracht. Mit der Fortsetzung des Strategiedialogs wollen wir nun von den wichtigen Modellprojekten zur flächendeckenden Umsetzung der erarbeiteten Ansätze kommen.
 
@@ -3235,10 +2985,7 @@ Die Landesagentur e-mobil BW werden wir bis 2030 als Transformationsagentur absi
 
 Grundlage des Ausbaus der Ladepunkte sind der Ausbau und die Ertüchtigung der Netze.
 
-Landesinitiative Elektromobilität IV: Zum Ausbau der Lade- und Schnellladeinfrastruktur legen wir eine Landesinitiative Elektromobilität IV auf. Ziel ist eine weitere Verdichtung des Netzes öffentlicher Ladepunkte und Schnellladesäulen im ganzen Land. Beim Ausbau setzen wir Schwerpunkte dort, wo der Bedarf an öffentlichen Ladepunkten und Schnellladesäulen besonders groß ist. In Siedlungs- und Gewerbegebieten soll der nächste öffentliche Ladepunkt möglichst fußläufig erreichbar und die nächste Schnelladesäule maximal fünf Kilometer entfernt
-
-
-sein. Alle öffentlichen Ladepunkte und Schnelladesäulen sollen einheitlich zugänglich gemacht werden. Um einen Flickenteppich beim Zugang zu Ladesäulen und beim Bezahlvorgang zu vermeiden, setzt sich Baden-Württemberg für einheitliche, digitale Bezahlmöglichkeiten ein. Zudem wollen wir über eine Kombiförderung für Elektrofahrzeuge mit Photovoltaikstrom einen Anreiz zum entsprechenden Ausbau der erneuerbaren Energien geben. Auch Wasserstofftankstellen für den Lkw-Verkehr sollen verfügbar sein.
+Landesinitiative Elektromobilität IV: Zum Ausbau der Lade- und Schnellladeinfrastruktur legen wir eine Landesinitiative Elektromobilität IV auf. Ziel ist eine weitere Verdichtung des Netzes öffentlicher Ladepunkte und Schnellladesäulen im ganzen Land. Beim Ausbau setzen wir Schwerpunkte dort, wo der Bedarf an öffentlichen Ladepunkten und Schnellladesäulen besonders groß ist. In Siedlungs- und Gewerbegebieten soll der nächste öffentliche Ladepunkt möglichst fußläufig erreichbar und die nächste Schnelladesäule maximal fünf Kilometer entfernt sein. Alle öffentlichen Ladepunkte und Schnelladesäulen sollen einheitlich zugänglich gemacht werden. Um einen Flickenteppich beim Zugang zu Ladesäulen und beim Bezahlvorgang zu vermeiden, setzt sich Baden-Württemberg für einheitliche, digitale Bezahlmöglichkeiten ein. Zudem wollen wir über eine Kombiförderung für Elektrofahrzeuge mit Photovoltaikstrom einen Anreiz zum entsprechenden Ausbau der erneuerbaren Energien geben. Auch Wasserstofftankstellen für den Lkw-Verkehr sollen verfügbar sein.
 
 reFuels und Wasserstoff: Eine wichtige Rolle bei der Erreichung der Klimaschutzziele im Verkehr können reFuels und Wasserstoff spielen. Für einen Einsatz von reFuels kommt der Luft-, Schiffs- und Schwerlastverkehr in Betracht. Daneben werden Potenziale für die PKWBestandsflotte gesehen.
 
@@ -3248,7 +2995,7 @@ Wir werden deshalb die Roadmap reFuels und die Aktivitäten der Landesregierung 
 
 Autonomes Fahren: Die Umstellung auf klimafreundliche Antriebsformen bietet, zusammen mit dem autonomen Fahren, die Chance einer komplett neuen Verbindung und Integration von Individualverkehr und öffentlichem Verkehr wie auch die Chance auf mehr Verkehrssicherheit. Schon heute muss deshalb dieser nächste Quantensprung bei moderner Mobilität mitgedacht und vorbereitet werden. Dies gilt sowohl bei Planung und Realisierung von Verkehrsinfrastrukturvorhaben als auch bei der Vernetzung der Verkehrsträger. Deshalb werden wir Modellprojekte für autonomes Fahren weiter unterstützen und die Erfahrungen nutzen, um den Ausbau in der Fläche voranzutreiben. Wir streben an, bundesweit Vorreiter bei Entwicklung, Erprobung und Einführung von autonomem Fahren, insbesondere im ÖPNV, zu werden.
 
-Klimafreundliche Anreize für den Liefer- und Güterverkehr setzen
+### Klimafreundliche Anreize für den Liefer- und Güterverkehr setzen
 
 Wir werden das Güterverkehrskonzept des Landes umsetzen und fortentwickeln. Die Verlagerung auf Schiene und Binnenschiff werden wir durch Infrastrukturförderung von Gleisinfrastruktur, intermodalen Schnittstellen und Umschlagterminals sowie durch Digitalisierungsprojekte fördern. Schienenanschlüsse sollten für große Gewerbegebiete (wieder)hergestellt und mit Umschlagplätzen für Lkw kombiniert werden. Eine starke Wirtschaft mit einem hohen Exportaufkommen zeichnet die Unternehmen in Baden-Württemberg aus. Waren sollen über weite Strecken und auf der letzten Meile schnell und zuverlässig, flexibel und umweltfreundlich befördert werden. Bis 2030 wollen wir ein Drittel des Transportaufkommens möglichst klimaneutral über Schiene und Wasserstraße abwickeln. Wir setzen dabei auf moderne Anlagen, die fortschreitende Digitalisierung des Güterverkehrs und zusätzliche Containerterminalkapazitäten für den kombinierten sowie für den Einzelwagenverkehr. Wir wollen unsere Maßnahmen zur Stärkung des Schienengüterverkehrs verstärken. Dazu gehören insbesondere der schnelle Netzausbau, die Reaktivierung von Güterverkehrsstrecken und die Unterstützung von Unternehmen beim Bau von Gleisanschlüssen.
 
@@ -3258,12 +3005,9 @@ Lkw-Maut auf Landes- und Kommunalstraßen: Der Schwerverkehr beansprucht das Str
 
 Soziale Verantwortung: Wir tragen für die Infrastruktur im (sozialen) Arbeitsumfeld der Beschäftigten im Transportwesen eine erhebliche Verantwortung. Indem wir diese Infrastruktur verbessern, steigern wir auch die Sicherheit im Straßenverkehr und leisten einen Beitrag zur Vision Zero. Deshalb wollen wir die mobile Beratung von Lkw-Fernfahrerinnen und Lkw-Fernfahrern sowie weitere Hilfsangebote an allen Autobahnraststätten und Autohöfen unterstützen. Besonders an mehrstreifigen Bundesstraßen sollen die Stellplatzkapazitäten für Lkw bedarfsgerecht erhöht und Rastanlagen mit WC-Anlagen ausgestattet werden.
 
-Wir werden den Einsatz von Lang-Lkw in Baden-Württemberg weiterhin anhand transparenter Kriterien ermöglichen. Dabei wollen wir aus Gründen der Verkehrssicherheit und des Erhalts unserer Straßeninfrastruktur die Durchfahrt von Lang-Lkw durch Ortschaften vermeiden,
+Wir werden den Einsatz von Lang-Lkw in Baden-Württemberg weiterhin anhand transparenter Kriterien ermöglichen. Dabei wollen wir aus Gründen der Verkehrssicherheit und des Erhalts unserer Straßeninfrastruktur die Durchfahrt von Lang-Lkw durch Ortschaften vermeiden, jedoch Unternehmen den Anschluss an die freigegebenen Bundesautobahnen ermöglichen.
 
-
-jedoch Unternehmen den Anschluss an die freigegebenen Bundesautobahnen ermöglichen.
-
-Das Land macht’s vor: Klimaschutz im Verkehrssektor
+### Das Land macht’s vor: Klimaschutz im Verkehrssektor
 
 Zur Umsetzung des Ziels, Klimaschutzlands im Verkehrssektor zu werden, brauchen wir zusätzliches Personal in der Landesverwaltung.
 
@@ -3271,7 +3015,7 @@ Die Elektrifizierung der Landesflotte werden wir mit Hilfe von Sammelausschreibu
 
 Wir werden uns in der Tarifgemeinschaft der Länder dafür einsetzen, dass das JobBikeBW auch den Tarifbeschäftigten beim Land angeboten werden kann.
 
-Verkehrssicherheit geht vor: sichere Wege für alle
+### Verkehrssicherheit geht vor: sichere Wege für alle
 
 Die Gestaltung der Verkehrsinfrastruktur und der Mobilitätsangebote ist wichtig für die Lebensqualität in Stadt und Land. Weniger Gefahren und Gesundheitsbelastungen sind dabei ebenso unser Ziel wie die Verfügbarkeit von Mobilität für alle Bürgerinnen und Bürger.
 
@@ -3287,13 +3031,13 @@ Ein Tempolimit kommt dort in Frage, wo es aus Gründen der Verkehrssicherheit od
 
 Außerdem ergänzen wir das Förderprogramm des Bundes für die Nachrüstung von Fahrzeugen mit Abbiegeassistenzsystemen für Lkw. Baden-Württemberg geht mit gutem Beispiel voran und wird die Fahrzeuge im eigenen Fuhrpark vollständig mit Abbiegeassistenzsystemen nachrüsten.
 
-Lärmbelastung durch Verkehr begrenzen
+### Lärmbelastung durch Verkehr begrenzen
 
 Auch wenn in den vergangenen Jahren auf Bundes- und Landesebene viel für den Lärmschutz getan wurde: Lärm bleibt ein wichtiges Umweltproblem unserer Gesellschaft. Wir wollen eine flächendeckende Begrenzung der Lärmbelastung durch die Verkehrsträger auf ein verträgliches Maß erreichen. Dazu wollen wir mit allen Beteiligten in einen gemeinsamen Dialog auf Augenhöhe eintreten. Auf Bundesebene setzen wir uns dafür ein, die Schwellenwerte für gesundheitsschädliche Belastungen zu überprüfen und eine Pflicht zur Lärmsanierung einzuführen. Die kommunale Initiative zur Reduzierung von Motorradlärm werden wir weiterhin unterstützen.
 
 Wir setzen uns mit Nachdruck dafür ein, die Flugverkehrsbelastungen durch den Flughafen Zürich in der Region Südbaden/Hochrhein deutlich zu reduzieren. Wir wollen gemeinsam mit dem Bund und der Region zu einer einvernehmlichen Lösung mit der Schweiz gelangen. Wir bekennen uns dabei zu den Inhalten der „Stuttgarter Erklärung“. Die Landesregierung wird sich gegenüber dem Bund insbesondere für eine Begrenzung der An- und Abflüge auf maximal 80.000 pro Jahr einsetzen.
 
-Für lebendige und verkehrsberuhigte Innenstädte, Stadtteilzentren und Ortsmitten
+### Für lebendige und verkehrsberuhigte Innenstädte, Stadtteilzentren und Ortsmitten
 
 Wir wollen mehr lebendige und verkehrsberuhigte Ortsmitten in Gemeinden, Städten, Stadtteilen und Teilorten. Dabei spielt die Sicherheit für den Rad- und Fußverkehr und die Barrierefreiheit eine entscheidende Rolle. Dafür setzen wir die Mittel zum Städtebau, zur Entwicklung des Ländlichen Raums und des LGVFG ein.
 
@@ -3306,27 +3050,21 @@ Unser Leitbild ist die Stadt der kurzen Wege. Wir wollen lebendige Innenstädte 
 Kommunen werden wir bei der Einführung von autofreien Innenstädten unterstützen. Mit Hilfe von Null-EmissionsZonen wollen wir in Wohnquartieren Lebensqualität und Klimaschutz zusammenbringen. Wir wollen die Lebensqualität in unseren Städten und Gemeinden durch mehr nachhaltige Mobilität erhöhen.
 
 
-Saubere Luft sorgt für bessere Lebensqualität
+### Saubere Luft sorgt für bessere Lebensqualität
 
 Mit einem ambitionierten Maßnahmenpaket haben wir die Luft rein und das Leben gesünder gemacht. Diesen Erfolg aus der vergangenen Legislaturperiode wollen wir dauerhaft absichern.
 
 Durch neue komfortable, digital vernetzte und klimafreundliche Verkehrsangebote schaffen wir Anreize, um die Luft- und damit die Lebensqualität der Menschen nachhaltig und deutlich zu verbessern – besonders in Ballungsräumen mit starker Luftverschmutzung. Dazu gehören der Ausbau des Fuß- und Radverkehrs sowie des ÖPNV genauso wie eine intelligente Verkehrssteuerung, Zuflussdosierungen sowie Geschwindigkeitsbegrenzungen. Weitere Maßnahmen sind die Umwidmung von Verkehrsflächen beispielsweise in Bus- und Radspuren sowie klimafreundliche Antriebsformen. Auch innovative Maßnahmen wie Filtersäulen können einen Beitrag für saubere Luft leisten.
 
-Akteure und Verkehrsarten noch besser vernetzen
+### Akteure und Verkehrsarten noch besser vernetzen
 
 Mobilität zu fördern und dabei die Klimaschutzziele und die nachhaltige Mobilität im Blick zu behalten, stellt uns vor große Herausforderungen. Durch die Beteiligung und die Zusammenarbeit von unterschiedlichen Akteuren bietet der Mobilitätspakt in einer Wirtschaftsregion eine Plattform, um tragfähige Mobilitäts- und Verkehrslösungen zu erarbeiten. Wir achten dabei die Planungshoheit der regionalen und kommunalen Planungsträger und gehen im Einvernehmen mit diesen in die Umsetzung.
 
 Wesentlich ist dabei die Betrachtung aller Verkehrsträger, also die Bereiche Öffentlicher Verkehr, Autoverkehr, Rad- und Fußverkehr und deren Vernetzung untereinander. Einen wichtigen Stellenwert hat dabei auch das betriebliche und behördliche Mobilitätsmanagement.
 
+# 11. Bauen und Wohnen
 
-133
-
-11 BAUEN NEU DENKEN:
-
-### FÜR BEZAHLBAREN UND
-
-
-11. BAUEN NEU DENKEN: FÜR BEZAHLBAREN UND ÖKOLOGISCHEN WOHNRAUM
+## 11 BAUEN NEU DENKEN: FÜR BEZAHLBAREN UND ÖKOLOGISCHEN WOHNRAUM
 
 Wohnen ist mehr als ein Dach über dem Kopf. Wohnen bedeutet ein Zuhause zu haben. Ausreichender und bezahlbarer Wohnraum in ansprechender Qualität sind für uns unerlässlich, denn Wohnen ist Heimat. Immer mehr Menschen haben es inzwischen schwer, angemessenen und für sie bezahlbaren Wohnraum zu finden. Deshalb ist die Schaffung ausreichend bezahlbaren Wohnraums die soziale Frage der Gegenwart. Dieser großen Herausforderungen stellen wir uns als Landesregierung umfassend – im geförderten wie im frei finanzierten Bereich – und machen sie zum wichtigen Ziel unserer Arbeit in den kommenden Jahren.
 
@@ -3336,13 +3074,11 @@ Baden-Württemberg ist attraktiv und landschaftlich einzigartig. Den Ausgleich z
 
 Der flächendeckende Ausbau der digitalen Infrastruktur von Glasfaser- und 5G-Netzen stellt eine unverzichtbare Basis für den digitalen Wandel dar. Deswegen haben wir uns das Ziel gesetzt, bis 2025 den flächendeckenden Ausbau der Gigabit-Netze zu erreichen. Damit Digitalisierung gelingt, sind uns dabei Transparenz und Aufklärung sehr wichtig.
 
-Aufgrund der angespannten Haushaltssituation stehen sämtliche zusätzlichen finanzwirksamen Maßnahmen auch in diesem Kapitel unter Haushaltsvorbehalt. Das bedeutet: Erst wenn es wieder finanzielle Spielräume gibt, können ausgewählte Maßnahmen – eventuell in Stufen – umgesetzt
+Aufgrund der angespannten Haushaltssituation stehen sämtliche zusätzlichen finanzwirksamen Maßnahmen auch in diesem Kapitel unter Haushaltsvorbehalt. Das bedeutet: Erst wenn es wieder finanzielle Spielräume gibt, können ausgewählte Maßnahmen – eventuell in Stufen – umgesetzt werden. Ordnungspolitische und nicht finanzrelevante Maßnahmen sind davon nicht berührt.
 
-werden. Ordnungspolitische und nicht finanzrelevante Maßnahmen sind davon nicht berührt.
+## A. WOHNEN
 
-### A. WOHNEN
-
-Strategiedialog „Bezahlbares Wohnen und innovatives Bauen”
+### Strategiedialog „Bezahlbares Wohnen und innovatives Bauen”
 
 Wir initiieren bis Jahresende unter Koordination des Staatsministeriums und unter Einbeziehung der zuständigen Ministerien einen ressortübergreifenden Strategiedialog „Bezahlbares Wohnen und innovatives Bauen” (SDB). Damit vernetzen wir alle relevanten Akteure und Verbände sowie herausragende Kompetenzen aus den Bereichen Architektur, Planung, Bauwirtschaft, Handwerk sowie der Vertreterinnen und Vertreter der Beschäftigten und Gewerkschaften, Verwaltung und Wissenschaft, um Innovationsimpulse für das Planen und Bauen von morgen zu setzen. Dadurch ist zugleich gewährleistet, dass die Impulse der bisherigen Wohnraumallianz in das neue Format eingehen können.
 
@@ -3352,7 +3088,7 @@ Wir unterstützen im Rahmen des Strategiedialogs eine mögliche Initiative aus B
 
 Der Strategiedialog soll auf mindestens sieben Jahre angelegt werden und in einer Geschäftsstelle umfassend gebündelt und operativ begleitet werden.
 
-Mehr bezahlbaren und nachhaltigen Wohnraum ermöglichen
+### Mehr bezahlbaren und nachhaltigen Wohnraum ermöglichen
 
 Landeswohnraumförderung passgenau weiterentwickeln: In der letzten Legislaturperiode haben wir den Trend gebremst, dass immer mehr Wohnungen aus der Bindung fallen. In den nächsten zehn Jahren werden wir den Anteil preisgünstiger Wohnungen konsequent erhöhen – sowohl im geförderten als auch im frei finanzierten Bereich. Unsere Förderprogramme wollen wir dafür attraktiv gestalten, gut ausstatten und beispielsweise längere Bindungsfristen erreichen. Um geförderten Wohnraum im Bestand zu unterstützen, wollen wir die Förderprogramme flexibilisieren und vereinfachen. Ziel sind mehr bezahlbare Wohnungen, die an verschiedene Bedürfnisse anpassbar sind.
 
@@ -3398,7 +3134,7 @@ Wohnungslosigkeit vermeiden: Unser Ziel ist die Überwindung der Wohnungslosigke
 
 Fachkräfteoffensive für Berufe im Bausektor: Wir sehen die Kapazitätsengpässe im deutschen Bausektor mit Sorge. Ein entscheidendes Problem für die Bauwirtschaft und Verwaltung ist der Fachkräftemangel. Wir wollen deshalb im Rahmen der Fachkräfteallianz mit den beteiligten Verbänden eine Ausbildungs-, Umschulungs- und Studienoffensive für Berufe im Bausektor starten und die Forschung im Bereich der Stadt- und Raumplanung und der Bauwirtschaft stärken.
 
-Lebendige Quartiere als Orte des guten Miteinanders
+### Lebendige Quartiere als Orte des guten Miteinanders
 
 Gelungene Quartiere nehmen alle gesellschaftlichen Gruppen und deren Bedürfnisse in den Blick: Alte und Junge, Familien und Singles – unabhängig von ihrer wirtschaftlichen Situation. Mit Sharing-Modellen und guten sozialen Infrastrukturen wie dem Programm „Wohnen Plus“ des Baden-Württembergischen Genossenschaftsverbands (BWGV) ermöglichen wir gegenseitige Unterstützung in lebendigen Quartieren.
 
@@ -3408,7 +3144,7 @@ Das bisherige Bundesprogramm „Soziale Integration im Quartier“ (SIQ) ist End
 
 Um das Mehrgenerationenwohnen zu fördern, wollen wir das Informations- und Beratungszentrum Mehrgenerationenhäuser (IBZ) fest etablieren.
 
-Für ein faires Mietrecht
+### Für ein faires Mietrecht
 
 Wir werden uns auf Bundesebene für ein starkes soziales und zwischen Mieterinnen und Mietern sowie Vermieterinnen und Vermietern ausgewogenes Mietrecht, auch zur Vermeidung von Mietwucher und Missbrauch, einsetzen.
 
@@ -3420,26 +3156,23 @@ Wir werden prüfen, wie ein Wohnungsaufsichtsgesetz für Baden-Württemberg auss
 
 Wir werden mit den Eigentümerinnen und Eigentümern der ehemaligen LBBW-Wohnungen in Verhandlungen treten mit dem Ziel, die Wohnungen nach Auslaufen der Sozialcharta zum Beispiel mittels Belegungsbindungen bezahlbar zu halten.
 
-### B. STÄDTEBAU
+## B. STÄDTEBAU
 
-Lebendige Innenstädte und Ortskerne
+### Lebendige Innenstädte und Ortskerne
 
 Wir werden den Städten und Gemeinden nach der CoronaPandemie eine neue Perspektive zur Stärkung der Innenstädte, zur attraktiven Gestaltung der Zentren, zur Förderung des Einzelhandels und zur Förderung von Kunst und Kultur geben. Dazu werden wir zusammen mit unseren Städten und Gemeinden ein Neustart-Programm auflegen.
 
-Flankierend wollen wir die Städtebauförderung zur Stärkung der Innenstädte und Ortskerne mit einer Innenstadtstrategie des Landes neu ausrichten. Wir wollen einen Fördervorrang für Innenstädte und Ortskerne bei der Städtebauförderung einführen und die nicht-investive Städtebauförderung fortsetzen und verstetigen. Durch
-
-
-letztere können zum Beispiel Projekte zur Betreuung von Kindern und Jugendlichen in der Freizeit, zur Integration von Migrantinnen und Migranten oder zur Inklusion von Menschen mit Behinderung gefördert werden. Dabei werden wir uns an der Leipzig-Charta 2020 und dem European Green Deal orientieren. Unser Ziel sind Zentren, die sicher, inklusiv, grün, smart, innovativ und nachhaltig sind.
+Flankierend wollen wir die Städtebauförderung zur Stärkung der Innenstädte und Ortskerne mit einer Innenstadtstrategie des Landes neu ausrichten. Wir wollen einen Fördervorrang für Innenstädte und Ortskerne bei der Städtebauförderung einführen und die nicht-investive Städtebauförderung fortsetzen und verstetigen. Durch letztere können zum Beispiel Projekte zur Betreuung von Kindern und Jugendlichen in der Freizeit, zur Integration von Migrantinnen und Migranten oder zur Inklusion von Menschen mit Behinderung gefördert werden. Dabei werden wir uns an der Leipzig-Charta 2020 und dem European Green Deal orientieren. Unser Ziel sind Zentren, die sicher, inklusiv, grün, smart, innovativ und nachhaltig sind.
 
 Weitere bestehende Förderprogramme werden wir dahingehend überprüfen, wie sie gezielt den Ortsmitten helfen können.
 
-Mobilität und Stadtentwicklung zum Wohle aller verbinden
+### Mobilität und Stadtentwicklung zum Wohle aller verbinden
 
 Im Sinne der „Stadt der kurzen Wege“ sollen Stadt- und Verkehrsplanung stärker zusammengedacht und integriert werden. So wollen wir Mobilität bedarfsgerecht gestalten und die Lebens- und Umweltqualität verbessern. Mit einer klimaorientierten Verkehrs- und Stadtentwicklung verbessern sich die Chancen vieler Personen auf gesellschaftliche Teilhabe durch gleichwertigen Zugang zu Wohnen und öffentlicher Mobilität. Auch der Einzelhandel profitiert davon, wenn die Aufenthaltsqualität in den Dorf- und Quartiersmitten steigt.
 
 Bis 2030 wollen wir viele zusätzliche lebendige und verkehrsberuhigte Orts- und Quartiersmitten schaffen. Kommunen werden in ihrem Anliegen unterstützt, wenn sie autofreie Innenstädte schaffen wollen. Das gilt auch für ortsangepasste Mobilitätskonzepte für attraktive (Teil-)Orte wie beispielsweise Nullemissionszonen, für die nachhaltige Umgestaltung des Verkehrsraums, verkehrsberuhigte Zonen, Shared Spaces oder Begegnungszonen. Neben einer finanziellen Unterstützung werden wir uns dafür einsetzen, den rechtlichen Rahmen zu vereinfachen. Zudem werden wir eine durchgängige Anbindung an den ÖPNV sicherstellen.
 
-Gelebte Klimaanpassung für mehr Lebensqualität
+### Gelebte Klimaanpassung für mehr Lebensqualität
 
 Aufgrund der Folgen des Klimawandels kommt den Grün- und Wasserflächen in den Städten im Sinne einer „doppelten Innenentwicklung“ eine immer größere Bedeutung zu. Deshalb müssen verschiedene Flächennutzungen zum Zwecke der Klimaresilienz miteinander verknüpft werden. Daher wollen wir Stadtgrün, Parks und Grünanlagen im Rahmen der Städtebauförderung berücksichtigen. Auch für den Rückbau überdimensionierter Verkehrsanlagen und nicht mehr benötigter Infrastruktur sowie für die Entsiegelung von Flächen und deren Umnutzung für mehr Aufenthaltsqualität werden wir eine Förderung anbieten und dafür Straßenbaumittel einsetzen. Gebäude(dächer), Grünflächen, aber auch Straßenräume sollen zukunftsfähig gestaltet werden, beispielsweise durch Nutzbarkeit als Retentionsflächen. Dadurch wird die Aufenthaltsfunktion und Klimaresilienz von Stadtquartieren erhöht. Gleiches gilt für die Freihaltung von Frischluftschneisen.
 
@@ -3449,7 +3182,7 @@ Lärmschutz beim Planen und Bauen ist Gesundheitsschutz. Wir wollen neben aktive
 
 Wir wollen Nachhaltigkeit in der Planung und Gestaltung von Gewerbegebieten und Gewerbebauten stärker verankern. Wir wollen, dass auch Gewerbegebiete flächensparsam und möglichst naturnah gestaltet werden und Pflanzen und Tiere Lebensräume auf Außenanlagen, Dachflächen und an Fassaden finden.
 
-Nachhaltig, digital, partizipativ: Smart Cities
+### Nachhaltig, digital, partizipativ: Smart Cities
 
 Den Weg zu nachhaltigen, digitalen, partizipativen und smarten Dörfern, Städten und Regionen werden wir von Landesseite unterstützen. Von Bürgerdiensten und Angeboten der Daseinsvorsorge bis zu integrierter Stadtplanung oder der Leitung von Verkehrsströmen möchten wir mit vernetzten Datenströmen Smart Cities und Regions ganzheitlich betrachten. Projekte und Initiativen zum Thema Smart City/Smart Regions und zur Erstellung digitaler Zwillinge werden in Baden-Württemberg vernetzt und befördert.
 
@@ -3457,14 +3190,11 @@ Im Bereich Smart Home und Living wollen wir Projekte und Reallabore für selbstb
 
 Wir prüfen mit Blick auf die Anforderungen des „Internets der Dinge“(IoT), wie wir ausgewählte Projekte zur Einführung eines LoRaWAN (Low Power Wide Area Network) unterstützen können – ein eigenes, stromsparendes Datenfunknetz, mit dem die Vernetzung im Rahmen von batteriebetriebenen, auf kleinen Datenmengen basierenden IoT-Anwendungen schnell, einfach und effizient möglich wird.
 
-Kommunale Instrumente für den sparsamen Umgang mit Flächen stärken
+### Kommunale Instrumente für den sparsamen Umgang mit Flächen stärken
 
 Unser Boden ist ein begrenztes Gut. Wir werden den anhaltend hohen Flächenverbrauch reduzieren. Unser Ziel ist die Netto-Null beim Flächenverbrauch. Die Sicherung von landwirtschaftlichen Flächen, notwendigen Grünflächen in Ballungsgebieten und Naturschutzflächen ist uns wichtig.
 
-Potenziale der Innenentwicklung ausschöpfen – Flächenverbrauch reduzieren: In den Städten Baden-Württembergs besteht nach wie vor großes Potenzial für (Nach-)Verdichtung und Wachstum, insbesondere auf
-
-
-bereits bebautem Stadtgebiet. Um den Bedarf an Wohnraum dennoch schnell und gleichzeitig flächensparend zu decken, sollen getreu dem Grundsatz „Innenvor Außenentwicklung“ bestehende Innenentwicklungspotenziale vorrangig vor der Neuausweisung von Wohnbauflächen genutzt werden. Dazu gehört die (Re-)Aktivierung von Brach-, Konversions- und Altlastenflächen ebenso wie eine dem Umfeld angepasste (auch nachträgliche) verdichtete Bebauung (etwa durch Aufstockungen). Die Städte und Gemeinden sollen bei diesen Maßnahmen rechtlich, organisatorisch, datenbasiert und finanziell durch einen Aktionsplan „Flächensparen“ und Förderprogramme unterstützt werden. So soll unter anderem das Förderprogramm „Flächen gewinnen durch Innenentwicklung“ in Förderspektrum (etwa im Hinblick auf Flächenrecycling), Volumen und Antragsberechtigung wesentlich ausgebaut werden.
+Potenziale der Innenentwicklung ausschöpfen – Flächenverbrauch reduzieren: In den Städten Baden-Württembergs besteht nach wie vor großes Potenzial für (Nach-)Verdichtung und Wachstum, insbesondere auf bereits bebautem Stadtgebiet. Um den Bedarf an Wohnraum dennoch schnell und gleichzeitig flächensparend zu decken, sollen getreu dem Grundsatz „Innenvor Außenentwicklung“ bestehende Innenentwicklungspotenziale vorrangig vor der Neuausweisung von Wohnbauflächen genutzt werden. Dazu gehört die (Re-)Aktivierung von Brach-, Konversions- und Altlastenflächen ebenso wie eine dem Umfeld angepasste (auch nachträgliche) verdichtete Bebauung (etwa durch Aufstockungen). Die Städte und Gemeinden sollen bei diesen Maßnahmen rechtlich, organisatorisch, datenbasiert und finanziell durch einen Aktionsplan „Flächensparen“ und Förderprogramme unterstützt werden. So soll unter anderem das Förderprogramm „Flächen gewinnen durch Innenentwicklung“ in Förderspektrum (etwa im Hinblick auf Flächenrecycling), Volumen und Antragsberechtigung wesentlich ausgebaut werden.
 
 Wir streben an, die quantitativen Potenziale der großen Wohnungsbestände der 1950er bis 1970er Jahre im Rahmen einer Sanierungswelle nutzbar zu machen und als gemischte, lebenswerte Quartiere für alle weiterzuentwickeln. Ebenso bieten die ortsbildprägenden Einfamilienhausgebiete Möglichkeiten der Nachverdichtung, der barrierefreien Umgestaltung sowie die Unterteilung in zwei oder mehr Wohneinheiten. Wir wollen die Kommunen bei der proaktiven Gestaltung des dort vielerorts stattfindenden Generationswechsels unterstützen, um da, wo es möglich ist, Einfamilienhausgebiete zu qualitätsvollen, generationengerechten, lebenswerten Quartieren umzugestalten.
 
@@ -3480,22 +3210,19 @@ Im Rahmen der Anpassung der Baunutzungsverordnung (BauNVO) wird sich Baden-Würt
 
 Wir wollen die Grundsteuer um eine Grundsteuer C auf Bauland erweitern, um den Kommunen Steuerungsinstrumente für unbebaute Grundstücke, z. B. für Nachverdichtungen im Innenbereich in die Hand zu geben.
 
-### C. LANDESUND REGIONALPLANUNG
+## C. LANDESUND REGIONALPLANUNG
 
-Landesentwicklungsplan und Landesplanungsgesetz erneuern
+### Landesentwicklungsplan und Landesplanungsgesetz erneuern
 
 Der Landesentwicklungsplan aus dem Jahre 2002 gibt weder einen Einblick in aktuelle Entwicklungstendenzen noch richtige Antworten auf zahlreiche Fragen und Probleme unserer Zeit. Deshalb werden wir auf Basis einer umfassenden Raumanalyse den Landesentwicklungsplan neu aufstellen. Ziele sind dabei unter anderem, die natürlichen Lebensgrundlagen zu schützen, die Wettbewerbsfähigkeit des Landes als Wirtschafts- und Wohnstandort zu sichern, die Funktion von Land- und Forstwirtschaft zu erhalten und angemessene Gestaltungsmöglichkeiten für kommende Generationen zu bewahren. Bei der Fortschreibung stehen die Erfordernisse der Bau-, Verkehrs- und Energiewende, des Klimaschutzes, der Klimaanpassung, der Eindämmung des Flächenverbrauchs (ambitioniertes Ziel: max. 2,5 Hektar pro Tag; bis 2035 Netto-Null), der Beseitigung des Wohnraummangels und des Ausbaus der digitalen Infrastruktur im Zentrum. Die Siedlungsentwicklung – auch die gewerbliche Entwicklung – werden wir an den Entwicklungsachsen und der Eisenbahninfrastruktur ausrichten.
 
 Wir wollen zudem eine rechtliche Verankerung und Regionalisierung eines Mindest-Flächenziels für Windenergieanlagen und Photovoltaikfreiflächenanlagen in Höhe von zwei Prozent der Landesfläche.
 
-Um für Transparenz zu sorgen und die Akzeptanz zu erhöhen, wollen wir ein breites Beteiligungsverfahren über das förmliche Verfahren hinaus durchführen. Mit der Erarbeitung der Grundlagen des Landesentwicklungsplans, unter anderem der Raumanalyse, werden wir unter Einbeziehung der Kommunen und Regionalverbände zeitnah beginnen. Wir suchen unter Beachtung der Ziele der Landesplanung mit den Kommunen nach Wegen, wie der Wohnungs-, Gewerbeflächen- und Industrieflächenbedarf in den Kommunen flächenschonend gedeckt werden kann. Neben den Aspekten des Flächensparens und Flächengewinnens
-
-
-müssen die Themen des Klimawandels und der Resilienz in der Landesâ€ und Regionalplanung stärker verankert werden. Die Strategien der Raumentwicklung werden wir mit der Förderpolitik des Landes besser verknüpfen.
+Um für Transparenz zu sorgen und die Akzeptanz zu erhöhen, wollen wir ein breites Beteiligungsverfahren über das förmliche Verfahren hinaus durchführen. Mit der Erarbeitung der Grundlagen des Landesentwicklungsplans, unter anderem der Raumanalyse, werden wir unter Einbeziehung der Kommunen und Regionalverbände zeitnah beginnen. Wir suchen unter Beachtung der Ziele der Landesplanung mit den Kommunen nach Wegen, wie der Wohnungs-, Gewerbeflächen- und Industrieflächenbedarf in den Kommunen flächenschonend gedeckt werden kann. Neben den Aspekten des Flächensparens und Flächengewinnens müssen die Themen des Klimawandels und der Resilienz in der Landesâ€ und Regionalplanung stärker verankert werden. Die Strategien der Raumentwicklung werden wir mit der Förderpolitik des Landes besser verknüpfen.
 
 Um die Planungsverfahren im Bereich der Raumplanung zu vereinfachen und zu beschleunigen, werden wir parallel zur Neuaufstellung des LEP auch das Landesplanungsgesetz (LPlG) umfassend novellieren. Dies ist nicht nur eine Voraussetzung für die Fortschreibung des Landesentwicklungsplans, sondern trägt auch zur Verständlichkeit des Raumordnungsrechts bei.
 
-Regionale Planungsebene stärken
+### Regionale Planungsebene stärken
 
 Wir werden die Regionalplanung in die Lage versetzen, Flächen für Freiflächenphotovoltaik zu sichern bzw. zu steuern.
 
@@ -3505,9 +3232,9 @@ Auch werden wir die Regionalverbände bei Förderprogrammen künftig stärker al
 
 Wir werden die regionale Planungsebene durch Erhöhung des Landeszuschusses orientiert am Zuschuss der kommunalen Ebene stärken und damit für zusätzliche Aufgaben angemessen ausstatten. Rolle, Befugnisse, Finanzierung und Struktur der Regionalverbände sollen überprüft und im Sinne einer Stärkung weiterentwickelt werden.
 
-### D. BAUEN
+## D. BAUEN
 
-Auf dem Weg zum klimaneutralen Wohnen und Bauen
+### Auf dem Weg zum klimaneutralen Wohnen und Bauen
 
 Nachhaltig bauen und ökologisch sanieren: Der Bausektor hat erhebliche Umwelt- und Klimaauswirkungen, zugleich hat er enorme Potenziale, sich zu einem nachhaltigen Wirtschaftssektor zu entwickeln – zum Nutzen aller. Wir wollen deshalb dem energie- und ressourceneffizienten, nachhaltigen Bauen zum Durchbruch verhelfen und regionale Wirtschaftskreisläufe stärken. Eine nachhaltige Baupolitik folgt dem Grundsatz Erhalt, Ausbau und Sanierung vor Neubau.
 
@@ -3529,12 +3256,9 @@ In einem Reallabor Klimastadt bündeln wir Hochtechnologie, Digitalisierungs- un
 
 Um dem aktuellen Rohstoffmangel entgegenzuwirken, setzen wir uns für die Schaffung von Verwendbarkeitsnachweisen für gebrauchte Bauprodukte ein. Zusätzlich fördern wir Recycling-Beton und prüfen eine RecyclingBeton-Quote für Neubauten des Landes.
 
-Wir wollen in Pilotprojekten einen Gebäuderessourcenausweis entwickeln und ein digitales Urban-Mining-Kataster
+Wir wollen in Pilotprojekten einen Gebäuderessourcenausweis entwickeln und ein digitales Urban-Mining-Kataster – ein Ressourcenkataster für Gebäude – in einer Pilotkommune erproben und wissenschaftlich begleiten.
 
-
-– ein Ressourcenkataster für Gebäude – in einer Pilotkommune erproben und wissenschaftlich begleiten.
-
-Nachhaltigkeit, Innovation und Vielfalt in der Baukultur erlebbar machen
+### Nachhaltigkeit, Innovation und Vielfalt in der Baukultur erlebbar machen
 
 Staatspreis Baukultur weiterführen: Wir streben eine hohe Baukultur in Stadt und Land an. Wir wollen den Staatspreis Baukultur weiterführen und damit hochwertige und dialogorientierte Planungs- und Baukultur leben und erlebbar machen. Dabei setzen wir einen neuen Schwerpunkt auf die digitale Aufbereitung und vor allem auf das Thema Nachhaltigkeit. Auch sollen weiterhin regionale Baukulturen gefördert und sichtbar gemacht werden.
 
@@ -3544,13 +3268,11 @@ Internationale Bauausstellungen in Baden-Württemberg: Wir sehen die großen Cha
 
 Die Erfahrungen der Internationalen Bauausstellungen Lörrach/Basel, Heidelberg und Stuttgart wollen wir bündeln und für alle Kommunen in Baden-Württemberg nutzbar machen.
 
-Bürgerinnen und Bürger beteiligen, Planungsprozesse und Genehmigungen beschleunigen
+### Bürgerinnen und Bürger beteiligen, Planungsprozesse und Genehmigungen beschleunigen
 
 Bürgerbeteiligung in der Planung: Partizipative Ansätze in der Bauleitplanung wollen wir unterstützen, insbesondere durch digitale Beteiligungsprozesse.
 
-Des Weiteren wollen wir bei der Bauleitplanung auch bereits vor der Aufstellung von Bebauungsplänen neue Beteiligungsformate wie zum Beispiel Bürgerforen oder die Beteiligung zufällig ausgewählter Bürgerinnen und Bürger ermöglichen. Die frühzeitige, konstruktive Einbindung der Bürgerschaft kann die Akzeptanz für Entwicklungsmaßnahmen fördern und zur Verfahrensbeschleunigung beitragen. Dafür wird das Kompetenzzentrum
-
-Wohnen einen Leitfaden für gelingende Bürgerbeteiligung erstellen.
+Des Weiteren wollen wir bei der Bauleitplanung auch bereits vor der Aufstellung von Bebauungsplänen neue Beteiligungsformate wie zum Beispiel Bürgerforen oder die Beteiligung zufällig ausgewählter Bürgerinnen und Bürger ermöglichen. Die frühzeitige, konstruktive Einbindung der Bürgerschaft kann die Akzeptanz für Entwicklungsmaßnahmen fördern und zur Verfahrensbeschleunigung beitragen. Dafür wird das Kompetenzzentrum Wohnen einen Leitfaden für gelingende Bürgerbeteiligung erstellen.
 
 Wir treten einer vielfach aufkommenden, rein an persönlichen Interessen orientierten Haltung („not in my backyard“) entgegen und werben für mehr Gemeinsinn und Gemeinwohl in den Städten und Gemeinden. Zusätzlich werden wir prüfen, welche rechtlichen Möglichkeiten zur effektiven Begrenzung solchen Verhaltens ergriffen werden können, damit die unter Beteiligung der Bevölkerung entwickelten Bauleitpläne möglichst schnell umgesetzt werden können.
 
@@ -3561,7 +3283,7 @@ Chancen der Digitalisierung beim Planen und Bauen nutzen: Die Digitalisierung bi
 Auch in der Baurechtsverwaltung wollen wir die Digitalisierung vorantreiben. Das „virtuelle Bauamt“ ist unser Ziel. Der erste Schritt dazu wurde in der letzten Legislaturperiode getan. Neben der Einreichung der Unterlagen muss allerdings auch sichergestellt werden, dass die Weiterbearbeitung und die Erteilung der Genehmigung medienbruchfrei digital und landesweit einheitlich erfolgen. Zu diesem Zweck werden wir den Baurechtsbehörden ein digitales Musterverfahren bis Anfang 2023 kostenfrei zur Verfügung stellen und die rechtssichere Kommunikation mit den Antragstellerinnen und Antragstellern inklusive der Bekanntmachung bzw. Zustellung der baurechtlichen Entscheidungen über Service-BW ermöglichen. Ebenfalls soll sichergestellt werden, dass alle Beteiligten und einzubindenden Verwaltungen zentralen Zugriff auf alle relevanten Daten erhalten und die Anbindung an Fachverfahren auf weitere Drittsysteme ermöglicht ist. Darüber hinaus werden wir sie dabei unterstützen, sich fit fürs BIM zu machen.
 
 
-Interesse an Denkmalschutz wecken, Weltkulturerbe erhalten
+### Interesse an Denkmalschutz wecken, Weltkulturerbe erhalten
 
 Mit einer Öffentlichkeitsoffensive für Denkmale in Baden-Württemberg wollen wir Identität stiften und Heimat leben. Mit öffentlich zugänglichen Denkmalinformationen in einem Denkmalportal schaffen wir Transparenz und wecken Interesse. Die Denkmalförderung werden wir fortführen und das Denkmalschutzgesetz modernisieren, um zeitgemäße und auch ökologische Nutzungen der Denkmale im Land noch besser zu ermöglichen. Darüber hinaus wollen wir ein Fach- und Netzwerkzentrum zur Sanierung von denkmalgeschützten Gebäuden aufbauen.
 
@@ -3569,17 +3291,17 @@ Wir wollen den universellen kulturellen Wert unserer bisher sechs UNESCO-Welterb
 
 Ein Welterbe-Förderprogramm für die Sicherung, den Schutz und die Vermittlung, insbesondere für die Unterstützung bei Einrichtung und Betrieb von Infozentren, werden wir mit zusätzlichen Mitteln einrichten. Ferner unterstützen wir die Bewerbung der Stadt Baden-Baden zum Weltkulturerbe.
 
-### E. DIGITALE INFRASTRUKTUR
+## E. DIGITALE INFRASTRUKTUR
 
 Wir wollen die Menschen auf dem Weg hin zu einer flächendeckenden Digitalisierung mitnehmen. Transparenz und Aufklärung sind uns deshalb sehr wichtig.
 
-Ultraschnelle Netze als Daseinsvorsorge
+### Ultraschnelle Netze als Daseinsvorsorge
 
 Digitale Technologien und Anwendungen sind wesentliche Treiber für grundlegende Veränderungen in allen Lebensbereichen. Unser Anspruch ist es, den digitalen Wandel verantwortungsvoll und zukunftsorientiert zu gestalten.
 
 Basis für eine erfolgreiche Digitalisierung sind Breitbandanschlüsse und Mobilfunk. Nicht erst die Corona-Pandemie hat uns vor Augen geführt, wie wichtig ultraschnelle Datennetze für unser Hightech-Land und unsere Wirtschaft sind. Darum werden wir die flächendeckende Versorgung mit gigabitfähigen Netzen und Mobilfunk weiter mit Hochdruck vorantreiben und Lücken im Mobilfunknetz zügig schließen.
 
-Wir bringen den Breitbandausbau voran
+### Wir bringen den Breitbandausbau voran
 
 Baden-Württemberg steht vor der großen Herausforderung, eine im internationalen Vergleich wettbewerbsfähige digitale Infrastruktur zu schaffen.
 
@@ -3595,14 +3317,11 @@ Kommunalen Breitbandausbau beschleunigen: Der Ausbau der Glasfaser- und Mobilfun
 
 Alternative Verlegemethoden: Um die Versorgung mit zukunftsfähiger Breitbandinfrastruktur möglichst schnell und gut, aber auch ressourcenschonend und wirtschaftlich zu gestalten, soll das Potenzial alternativer und innovativer Verlegetechniken ausgeschöpft werden. Wir werden daher prüfen, wie wir diese Verfahren im Rahmen der Breitbandförderung optimal berücksichtigen können. Wir werden dazu innerhalb der Gigabit-Allianz geeignete alternative Verlegemethoden verstärkt zur Anwendung bringen.
 
-Nachfrageorientierte Förderung prüfen: Zur möglichst wirtschaftlichen Nutzung von Fördergeldern werden wir darüber hinaus prüfen, ob durch eine nachfrageorientierte
-
-
-Förderung („Voucher-Förderung“) die Anschlussquote in Ausbaugebieten erhöht und der privatwirtschaftliche Ausbau damit gesteigert werden kann.
+Nachfrageorientierte Förderung prüfen: Zur möglichst wirtschaftlichen Nutzung von Fördergeldern werden wir darüber hinaus prüfen, ob durch eine nachfrageorientierte Förderung („Voucher-Förderung“) die Anschlussquote in Ausbaugebieten erhöht und der privatwirtschaftliche Ausbau damit gesteigert werden kann.
 
 Komplementärtechnologien einbeziehen: Für Haushalte in Einzellagen, in denen der Breitbandausbau mit unverhältnismäßig hohen Kosten einhergeht, können ergänzende Technologien (beispielsweise Breitbandinternet via Satelliten, Richtfunk oder Mobilfunk) eine sinnvolle und wirtschaftliche Alternative zur tiefbaugestützten Erschließung darstellen. Wir werden daher prüfen, welche Alternativen für abgelegene Haushalte in Einzel- oder Randlagen, die ansonsten in den nächsten Jahren unversorgt blieben, zielführend sind und wie solche Lösungen gefördert werden können.
 
-Mobilfunkinfrastruktur der Zukunft
+### Mobilfunkinfrastruktur der Zukunft
 
 Um Städte und Gemeinden attraktiv zu halten, müssen „weiße Flecken“ im Mobilfunknetz in Baden-Württemberg schnellstmöglich der Vergangenheit angehören. Neben dem Glasfaserausbau werden wir daher auch den Mobilfunkstandard 5G in den Mittelpunkt unserer Anstrengungen rücken. Nur damit ist unser Land zukunftsfähig aufgestellt. Wir werden daher ergebnisoffen prüfen, welche Maßnahmen erforderlich sind, um eine möglichst flächendeckende Versorgung zu erreichen.
 
@@ -3613,13 +3332,9 @@ Mobilfunkinfrastruktur als Teil moderner Daseinsvorsorge: Um eine bessere Netzab
 WLAN-Förderung: Wir werden einen Fördermechanismus für die Einrichtung von öffentlich zugänglichen WLAN-Hotspots im öffentlichen Raum und in öffentlichen Einrichtungen in unsere Förderprogramme aufnehmen.
 
 
+# 12. Europa und Internationales
 
-145
-
-12 GRENZEN ÜBERWINDEN:
-
-
-12. GRENZEN ÜBERWINDEN: FÜR EIN EUROPÄISCHES MITEINANDER
+## 12 GRENZEN ÜBERWINDEN: FÜR EIN EUROPÄISCHES MITEINANDER
 
 Baden-Württemberg trägt Europa im Herzen. Für uns ist die Einigung Europas ein Glücksfall der Geschichte und zentral, um kommende Herausforderungen – Klimaschutz, Digitalisierung, Globalisierung – bewältigen zu können. Eine aktive und konstruktive Europapolitik ist daher Teil unserer Staatsräson und eine gute Tradition.
 
@@ -3633,9 +3348,9 @@ Nicht nur der dramatische Klimawandel, sondern auch die Corona-Pandemie führen 
 
 Aufgrund der angespannten Haushaltssituation stehen sämtliche zusätzlichen finanzwirksamen Maßnahmen auch in diesem Kapitel unter Haushaltsvorbehalt. Das bedeutet: Erst wenn es wieder finanzielle Spielräume gibt, können ausgewählte Maßnahmen – eventuell in Stufen – umgesetzt werden. Ordnungspolitische und nicht finanzrelevante Maßnahmen sind davon nicht berührt.
 
-### A. EUROPAPOLITIK DES LANDES
+## A. EUROPAPOLITIK DES LANDES
 
-Wir wollen die Zukunft Europas mitgestalten
+### Wir wollen die Zukunft Europas mitgestalten
 
 Baden-Württemberg versteht sich traditionell als Motor der europäischen Integration. Daher hat die Landesregierung einen landesweiten Europadialog ins Leben gerufen, mit dem wir in einem breit angelegten Beteiligungsprozess mit dem sogenannten Zufallsbürgerprinzip über die Zukunft der Europäischen Union ins Gespräch gegangen sind. Die Ergebnisse dieses Dialogprozesses sind in das Europa-Leitbild der Landesregierung eingeflossen. Das Europa-Leitbild fasst unsere grundsätzliche Zukunftsvision von der Europäischen Union zusammen und ist weiterhin eine gute Basis für unsere Europapolitik.
 
@@ -3660,9 +3375,7 @@ Der „dynamische Europapool“ wird weiterentwickelt. Entsendungen in EU-Instit
 
 Gemeinsam mit der Führungsakademie des Landes werden wir für alle Ressorts Strategien entwickeln, um in den Personalentwicklungskonzepten der Ministerien Kenntnisse des EU-Rechts, der europäischen Institutionen und von Entscheidungsabläufen systematisch festzuschreiben. Die Europafähigkeit der Mitarbeiterinnen und Mitarbeiter der Landesverwaltung werden wir durch Fortbildungsmaßnahmen, Hospitations- und Besuchsprogramme fördern. Europakompetenz und Sprachkompetenz werden wir als maßgebliche Beurteilungskriterien und in die Beurteilungsrichtlinie aufnehmen. Europa-, Auslandserfahrung und Sprachkenntnisse werden wir bei der Besetzung von Abteilungsleitungen und anderen Leitungspositionen oberster Landesbehörden zu einem relevanten Auswahlkriterium machen.
 
-Wir stärken unsere Landesvertretung bei der EU: Die Vertretung des Landes bei der EU spielt bei unserer
-
-Europapolitik eine zentrale Rolle. Sie informiert die Landesregierung frühzeitig über europapolitische Entwicklungen und trägt mit ihren besonderen Kompetenzen zur Formulierung von Landespositionen bei. Sie vertritt proaktiv die europapolitischen Interessen der Landesregierung bei den EU-Organen. Wir werden das Profil der Landesvertretung noch stärker an den strategischen europapolitischen Schwerpunktthemen des Landes ausrichten, Potenziale aus Baden-Württemberg zielgerichtet einbringen sowie Best Practices aus anderen Regionen und der EU-Ebene sowie europapolitische Debatten ins Land tragen. Mit den Kommunen im Land und ihren Spitzenverbänden bleiben wir in Bezug auf relevante EU-Vorhaben in engem Austausch.
+Wir stärken unsere Landesvertretung bei der EU: Die Vertretung des Landes bei der EU spielt bei unserer Europapolitik eine zentrale Rolle. Sie informiert die Landesregierung frühzeitig über europapolitische Entwicklungen und trägt mit ihren besonderen Kompetenzen zur Formulierung von Landespositionen bei. Sie vertritt proaktiv die europapolitischen Interessen der Landesregierung bei den EU-Organen. Wir werden das Profil der Landesvertretung noch stärker an den strategischen europapolitischen Schwerpunktthemen des Landes ausrichten, Potenziale aus Baden-Württemberg zielgerichtet einbringen sowie Best Practices aus anderen Regionen und der EU-Ebene sowie europapolitische Debatten ins Land tragen. Mit den Kommunen im Land und ihren Spitzenverbänden bleiben wir in Bezug auf relevante EU-Vorhaben in engem Austausch.
 
 Aufgrund der steigenden Präsenz anderer Akteure in Brüssel, der zusätzlichen europapolitischen Handlungsfelder des Landes sowie der baulichen Erweiterung der Landesvertretung soll die Entwicklung der personellen und sächlichen Ausstattung der Landesvertretung der vergangenen Jahre auch in Zukunft bedarfsgerecht fortgesetzt werden. Freiwerdende Stellen sollen unverzüglich nachbesetzt werden.
 
@@ -3670,10 +3383,7 @@ Wir werden zum Musterland für den European Green Deal: Wir werden Baden-Württe
 
 Wir wirken im Bundesrat auf eine Revision des einseitig auf die Nutzung der Atomenergie ausgerichteten EURATOM-Vertrags hin. Wir setzen uns dafür ein, eine Erneuerbare-Energien-Union zu schaffen, die die umfassende Nutzung erneuerbarer Energien fördert und koordiniert.
 
-Mit Europa den digitalen und ökologischen Wandel gestalten: Der regulatorische Rahmen für die ökologischen und digitalen Transformationsprozesse wird maßgeblich auf europäischer Ebene gesetzt. Darum werden wir unseren Aktivitäten in strategisch wichtigen Themenfeldern des Landes wie beim Strategiedialog Automobilwirtschaft, dem Forum Gesundheitsstandort Baden-Württemberg oder der Vernetzung der KI-Exzellenzzentren (ELLIS-Initiative) in viel stärkerem Maße auf der EU-Ebene Gehör verschaffen und mit anderen europäischen Akteuren Innovationsprojekte entwickeln. Bei der Forschung zu Künstlicher Intelligenz fördern wir den grenzüberschreitenden Austausch zwischen Wissenschaftlerinnen und Wissenschaftlern sowie grenzüberschreitende Forschungsprojekte. Wir setzen uns dafür ein, das EU-Rahmenprogramm für Forschung und Innovation „Horizon Europe“ ambitionierter auszugestalten und unterstützen aktiv digitale Initiativen wie GaiaX. Eine
-
-
-europäische Digitalstrategie soll Datensicherheit, Datensouveränität und Transparenz sicherstellen.
+Mit Europa den digitalen und ökologischen Wandel gestalten: Der regulatorische Rahmen für die ökologischen und digitalen Transformationsprozesse wird maßgeblich auf europäischer Ebene gesetzt. Darum werden wir unseren Aktivitäten in strategisch wichtigen Themenfeldern des Landes wie beim Strategiedialog Automobilwirtschaft, dem Forum Gesundheitsstandort Baden-Württemberg oder der Vernetzung der KI-Exzellenzzentren (ELLIS-Initiative) in viel stärkerem Maße auf der EU-Ebene Gehör verschaffen und mit anderen europäischen Akteuren Innovationsprojekte entwickeln. Bei der Forschung zu Künstlicher Intelligenz fördern wir den grenzüberschreitenden Austausch zwischen Wissenschaftlerinnen und Wissenschaftlern sowie grenzüberschreitende Forschungsprojekte. Wir setzen uns dafür ein, das EU-Rahmenprogramm für Forschung und Innovation „Horizon Europe“ ambitionierter auszugestalten und unterstützen aktiv digitale Initiativen wie GaiaX. Eine europäische Digitalstrategie soll Datensicherheit, Datensouveränität und Transparenz sicherstellen.
 
 Das erweiterte ERASMUS+-Programm nutzen wir, um den Austausch für alle Schularten und Auszubildenden auszubauen. Die Landesregierung wird die Lehrpläne daraufhin überprüfen, ob sie mit dem Ziel einer stärkeren Vermittlung europapolitischer Inhalte angepasst werden müssen. Wir werden die Präsenz europapolitischer Themen im Schulleben verstärken und zum Beispiel Klassenfahrten zu europäischen Institutionen oder Stätten der europäischen Geschichte verankern. Den EU-Projekttag werden wir noch stärker nutzen.
 
@@ -3685,9 +3395,7 @@ Wir unterstützen einen möglichen Übergang von der Einstimmigkeit zur qualifiz
 
 Baden-Württemberg – vielfältig und eng mit dem Vereinigten Königreich verbunden: Die durch den Brexit veränderten Beziehungen festigen wir mit einer Auslandsrepräsentanz in London, zu der wir andere Regionen als Partner einladen, sowie mit einer verstärkten Vernetzung und regionaler Kooperation.
 
-Handelsabkommen für den Menschen und die Umwelt gestalten: Als Grundlage für unsere Bewertung und das Abstimmungsverhalten im Bundesrat über bereits abgeschlossene Abkommen dienen das Eckpunktepapier der Landesregierung vom 17. März 2015, die seither beschlossenen Pariser Klimaziele und Ziele der Agenda 2030 der Vereinten Nationen sowie die Rechtsprechung des Bundesverfassungsgerichts. Wir setzen uns auf EU-Ebene und im Bund dafür ein, dass alle künftigen Freihandelsabkommen Verpflichtungen zur Einhaltung der Pariser Klimaziele und der Ziele der Agenda 2030 der Vereinten Nationen
-
-enthalten und für bereits abgeschlossene Abkommen eine solche Verpflichtung verbindlich ergänzt wird, und werden das Eckpunktepapier entsprechend weiterentwickeln.
+Handelsabkommen für den Menschen und die Umwelt gestalten: Als Grundlage für unsere Bewertung und das Abstimmungsverhalten im Bundesrat über bereits abgeschlossene Abkommen dienen das Eckpunktepapier der Landesregierung vom 17. März 2015, die seither beschlossenen Pariser Klimaziele und Ziele der Agenda 2030 der Vereinten Nationen sowie die Rechtsprechung des Bundesverfassungsgerichts. Wir setzen uns auf EU-Ebene und im Bund dafür ein, dass alle künftigen Freihandelsabkommen Verpflichtungen zur Einhaltung der Pariser Klimaziele und der Ziele der Agenda 2030 der Vereinten Nationen enthalten und für bereits abgeschlossene Abkommen eine solche Verpflichtung verbindlich ergänzt wird, und werden das Eckpunktepapier entsprechend weiterentwickeln.
 
 Einsatz für Rechtsstaatlichkeit: Der Einsatz für die Achtung der Rechtsstaatlichkeit ist elementar für die Europapolitik des Landes. Dies gilt auf EU-Ebene, im Rahmen der EU-Donauraumstrategie (z. B. über eine Weiterentwicklung der Donau-Justizministerkonferenz) und als Richtschnur bei unseren bilateralen Kontakten (z. B. in den gemischten Regierungskommissionen und im Dialog auf Regierungsebene). Sollten sich die vorhandenen Instrumente der EU zur Kontrolle der Einhaltung rechtsstaatlicher Standards auf Dauer als unwirksam erweisen, muss über neue, wirksamere Instrumente auch in Form von Vertragsänderungen nachgedacht werden.
 
@@ -3704,15 +3412,13 @@ Wir setzen uns für die Stärkung existierender Einrichtungen der EU in Baden-W�
 
 Nach der Zustimmung des Bundestags zum EU-Wahlrechtsakt werden wir diesem im Bundesrat zustimmen.
 
-Grenzüberschreitende Zusammenarbeit ausbauen
+### Grenzüberschreitende Zusammenarbeit ausbauen
 
 Unser Land ist eng mit seinen Nachbarn verbunden. Die grenzüberschreitenden Kooperationsräume Oberrhein, Hochrhein und Bodensee zählen zu den innovativsten Regionen in Europa. Hier wird der Mehrwert Europas für die Menschen spürbar. Wir werden unsere grenzüberschreitende Zusammenarbeit weiter vertiefen und bei Gesetzgebungsvorhaben die Auswirkungen auf unsere Grenzregionen stärker berücksichtigen. Dabei setzen wir die INTERREG-Programme für den Bodensee, Hoch- und Oberrhein weiter um und stärken sie.
 
 Grenzüberschreitende Modellregionen im Gesundheitsbereich: Wir werden nach den Erfahrungen der Corona-Pandemie grenzüberschreitende Modellregionen im Gesundheitsbereich schaffen, in denen wir institutionelle Neuerungen und eine Vorsorgeplanung aufbauen, um auf Gesundheitskrisen und Katastrophenfälle besser reagieren zu können. Dazu zählen gemeinsame Präventions- und Eindämmungsstrategien, Frühwarnsysteme, Kontaktnachverfolgungen, ein Nachweissystem für Krankenhausbetten, Datenaustausch und ein einfacher Zugang zu ambulanten und stationären Leistungen. Daher wird das Land den mit dafür ins Leben gerufenen Beistandspakt zwischen Grand Est, Baden-Württemberg, Rheinland-Pfalz und Saarland mit Leben füllen. Einen wertvollen Beitrag leisten das EPI-Rhin-Netzwerk und das trinationale Kompetenzzentrum für Gesundheitsprojekte TRISAN, die wir weiterentwickeln werden. Wir wollen den gemeinsamen Gesundheitsraum durch den Aufbau eines gemeinsamen Lehrkrankenhauses am Universitätsklinikum Freiburg grundsätzlich stärken. Die noch bestehenden grenzüberschreitenden Hindernisse beim Rettungsdienstabkommen von 2009 werden wir durch eine Novellierung beseitigen.
 
-Grenzüberschreitende Bahnverbindungen: Wir treiben den Ausbau der grenzüberschreitenden Bahnverbindungen Rastatt-Haguenau-Saarbrücken sowie Colmar-Freiburg durch den Wiederaufbau der Rheinbrücke unter
-
-Maßgabe der Machbarkeitsstudie weiter voran. Wir setzen uns dafür ein, dass die Bundesregierung eine EU-Finanzförderung für „Missing Links“ beim grenzüberschreitenden Schienenverkehr beschleunigt. Dazu unterstützen wir die Planungen für die Bahnverbindung Straßburg-Flughafen Frankfurt. Wir setzen uns ferner für die Anbindung des Landes ans europäische Nachtzugnetz ein. Wir werden die grenzüberschreitende Verknüpfung der Verkehrsträger durch eine zweisprachige App mit Ticketbuchung fördern (Öffentlicher Nahverkehr, Carsharing, Bikesharing etc.).
+Grenzüberschreitende Bahnverbindungen: Wir treiben den Ausbau der grenzüberschreitenden Bahnverbindungen Rastatt-Haguenau-Saarbrücken sowie Colmar-Freiburg durch den Wiederaufbau der Rheinbrücke unter Maßgabe der Machbarkeitsstudie weiter voran. Wir setzen uns dafür ein, dass die Bundesregierung eine EU-Finanzförderung für „Missing Links“ beim grenzüberschreitenden Schienenverkehr beschleunigt. Dazu unterstützen wir die Planungen für die Bahnverbindung Straßburg-Flughafen Frankfurt. Wir setzen uns ferner für die Anbindung des Landes ans europäische Nachtzugnetz ein. Wir werden die grenzüberschreitende Verknüpfung der Verkehrsträger durch eine zweisprachige App mit Ticketbuchung fördern (Öffentlicher Nahverkehr, Carsharing, Bikesharing etc.).
 
 Zukunftsprozess Fessenheim: Mit dem Zukunftsprozess Fessenheim zur Nachnutzung des Gebiets des ehemaligen Atomkraftwerks soll ein Leuchtturmprojekt der deutschfranzösischen Zusammenarbeit in der Energiewende entstehen. Mit der Schaffung eines deutsch-französischen Wirtschafts- und Innovationsparks wollen wir gemeinsam mit unseren französischen Freunden Projekte umsetzen, insbesondere in den Bereichen alternative Energiequellen, nachhaltige Mobilitätssysteme und auf grünem Wasserstoff basierende Kraftstoffe. Wir setzen uns dafür ein, dass die Landesregierung bei der Entscheidung über die Mittelverwendung des EU-Wiederaufbaufonds einbezogen wird.
 
@@ -3722,10 +3428,7 @@ Grenzüberschreitende Lösungen für den Tourismus am Oberrhein und am Bodensee-
 
 Vive la WIR – Frankreich ist unser Partner: Mit der Partnerschaftskonzeption Baden-Württemberg & Frankreich „Vive la WIR“ haben wir eine nachhaltige Strategie mit unseren französischen Partnern entwickelt, um ambitionierte Projekte in allen Lebensbereichen gemeinsam voranzubringen, so etwa den Mikroprojektefonds, die Zusammenarbeit im Gesundheitsbereich, die neue Service- und Online-Plattform für die deutsch-französische und grenzüberschreitende Zusammenarbeit sowie den jährlichen Kongress für Städtepartnerschaften. Unser Netzwerk im Bereich der Künstlichen Intelligenz (insbesondere Cyber Valley/ELLIS) wollen wir weiter ausbauen.
 
-Vertrag von Aachen aktiv umsetzen: Wir wollen den Vertrag von Aachen mit seiner Vorhabenliste aktiv mit umsetzen, um das Potenzial der Grenzräume sozial, ökologisch, wirtschaftlich und kulturell mit unseren Partnern in Frankreich auszuschöpfen. Im Sinne des Vertrages werden wir uns dafür einsetzen, dass unter Achtung der jeweiligen verfassungsrechtlichen Regeln der beiden Staaten die Gebietskörperschaften der Grenzregionen sowie
-
-
-der grenzüberschreitenden Einheiten wie Eurodistrikte mit angemessenen Kompetenzen, zweckgerichteten Mitteln und beschleunigten Verfahren ausgestattet werden. So wollen wir Hindernisse bei der Umsetzung grenzüberschreitender Vorhaben überwinden, zum Beispiel durch die Novellierung des Mondorfer Abkommens über die Zusammenarbeit der Polizei- und Zollbehörden, die Einführung einer gemeinsamen Luftreinhalteplakette und durch die Zusammenarbeit im öffentlichen Nahverkehr. Sofern kein anderes Instrument dies ermöglicht, sollen explizit angepasste Rechts- und Verwaltungsvorschriften einschließlich Ausnahmeregelungen vorgesehen werden. Gemeinsame Lösungsansätze anhand konkreter Problemstellungen werden wir im deutsch-französischen Ausschuss für grenzüberschreitende Zusammenarbeit erarbeiten. Wir werden den Ausschuss auf höchster Ebene begleiten.
+Vertrag von Aachen aktiv umsetzen: Wir wollen den Vertrag von Aachen mit seiner Vorhabenliste aktiv mit umsetzen, um das Potenzial der Grenzräume sozial, ökologisch, wirtschaftlich und kulturell mit unseren Partnern in Frankreich auszuschöpfen. Im Sinne des Vertrages werden wir uns dafür einsetzen, dass unter Achtung der jeweiligen verfassungsrechtlichen Regeln der beiden Staaten die Gebietskörperschaften der Grenzregionen sowie der grenzüberschreitenden Einheiten wie Eurodistrikte mit angemessenen Kompetenzen, zweckgerichteten Mitteln und beschleunigten Verfahren ausgestattet werden. So wollen wir Hindernisse bei der Umsetzung grenzüberschreitender Vorhaben überwinden, zum Beispiel durch die Novellierung des Mondorfer Abkommens über die Zusammenarbeit der Polizei- und Zollbehörden, die Einführung einer gemeinsamen Luftreinhalteplakette und durch die Zusammenarbeit im öffentlichen Nahverkehr. Sofern kein anderes Instrument dies ermöglicht, sollen explizit angepasste Rechts- und Verwaltungsvorschriften einschließlich Ausnahmeregelungen vorgesehen werden. Gemeinsame Lösungsansätze anhand konkreter Problemstellungen werden wir im deutsch-französischen Ausschuss für grenzüberschreitende Zusammenarbeit erarbeiten. Wir werden den Ausschuss auf höchster Ebene begleiten.
 
 European Campus weiterentwickeln: Wir entwickeln den European Campus (EUCOR) am Oberrhein zu einer echten grenzüberschreitenden Europäischen Universität weiter, stärken die Internationale Bodenseehochschule und führen ein grenzüberschreitendes Semesterticket ein. Darüber hinaus unterstützen wir generell die Beteiligung unserer Hochschulen an europäischen Universitätsverbünden.
 
@@ -3735,19 +3438,11 @@ Unsere Nachbarn – Partnerschaft mit der Schweiz: Mit unseren Nachbarn in der S
 
 Wir setzen uns weiterhin dafür ein, die Flugverkehrsbelastungen durch den Flughafen Zürich in der Region Südbaden/Hochrhein deutlich zu reduzieren, und arbeiten gemeinsam mit dem Bund und der Region an einer einvernehmlichen Lösung gemeinsam mit der Schweiz.
 
-Wir werden die Endlagersuche in der Schweiz auch zukünftig intensiv begleiten und setzen uns dafür ein, dass die Beteiligung und die Interessen der baden-württembergischen Grenzregion gewahrt bleiben. Der sicherheitstechnisch beste Standort muss ohne Vorfestlegungen gewählt werden. Bei der Suche müssen Bürgerinnen und Bürger
-
-sowie Körperschaften in Deutschland gleichberechtigt beteiligt werden.
+Wir werden die Endlagersuche in der Schweiz auch zukünftig intensiv begleiten und setzen uns dafür ein, dass die Beteiligung und die Interessen der baden-württembergischen Grenzregion gewahrt bleiben. Der sicherheitstechnisch beste Standort muss ohne Vorfestlegungen gewählt werden. Bei der Suche müssen Bürgerinnen und Bürger sowie Körperschaften in Deutschland gleichberechtigt beteiligt werden.
 
 Die Landesregierung wird sich bei der Bundesregierung dafür einsetzen, dass ein digitaler Ausfuhrschein in Form einer App geschaffen wird, um die Mehrwertsteuererstattung an der Schweizer Grenze zu digitalisieren. Dies wäre eine Entlastung für den Zoll und würde den grenzüberschreitenden Einkaufsverkehr wesentlich vereinfachen.
 
-Wir werden prüfen, inwieweit die Weiterentwicklung des grenzüberschreitenden „Wasserstoff Valley Hochrhein“ und die Gründung eines „Ultraeffizienzzentrums für H2“ als deren zentrales Element unterstützt werden kann, beispielsweise über den EU-Wiederaufbaufonds. Ziel ist es, die vorhanden Kompetenzen und Erfahrungen für diese Schlüsseltechnologie in der Region Hochrhein grenzüberschreitend zu bündeln.
-
-Bodenseeregion weiterentwickeln: Die Bodenseeregion soll sich zu einem CO
-
-2 -neutralen Kultur-, Natur- und Wirt-
-
-schaftsstandort weiterentwickeln. Wir wollen dabei klimafreundliche, grenzüberschreitende Verkehrskonzepte rund um den See entwickeln und forcieren. Das Land wird sich weiterhin aktiv im Rahmen der Internationalen Bodenseekonferenz (IBK) in die Gestaltung der Zusammenarbeit in der Grenzregion einbringen.
+Wir werden prüfen, inwieweit die Weiterentwicklung des grenzüberschreitenden „Wasserstoff Valley Hochrhein“ und die Gründung eines „Ultraeffizienzzentrums für H2“ als deren zentrales Element unterstützt werden kann, beispielsweise über den EU-Wiederaufbaufonds. Ziel ist es, die vorhanden Kompetenzen und Erfahrungen für diese Schlüsseltechnologie in der Region Hochrhein grenzüberschreitend zu bündeln. Bodenseeregion weiterentwickeln: Die Bodenseeregion soll sich zu einem CO 2 -neutralen Kultur-, Natur- und Wirt- schaftsstandort weiterentwickeln. Wir wollen dabei klimafreundliche, grenzüberschreitende Verkehrskonzepte rund um den See entwickeln und forcieren. Das Land wird sich weiterhin aktiv im Rahmen der Internationalen Bodenseekonferenz (IBK) in die Gestaltung der Zusammenarbeit in der Grenzregion einbringen.
 
 Der Alpenraum verfügt über eine hohe Dichte an innovations- und wirtschaftsstarken Regionen. Die Landesregierung wird ihr Engagement in der EUSALP-Strategie fortsetzen.
 
@@ -3755,16 +3450,13 @@ Vier Motoren für Europa modernisieren: Die Kooperation mit unseren Partnern der
 
 Donauraumstrategie fortsetzen: Die Landesregierung setzt ihr Engagement in der EU-Donauraumstrategie fort – entsprechend der Nachhaltigkeitsstrategie des Landes in den Schwerpunkten Wettbewerbsfähigkeit der kleinen und mittleren Unternehmen (KMU) und darüber hinaus insbesondere in den Bereichen Bildung und Ausbildung, Jugend, Digitalisierung, Umwelt, Energie, Mobilität, Forschung und Kultur, Zivilgesellschaft, Sicherheit, Korruptionsbekämpfung und Rechtsstaatlichkeit.
 
-Die Mittelvergabe und Auswahl der Kooperationspartner unterziehen wir einem Demokratie- und MenschenrechteCheck. Damit wollen wir sicherstellen, dass keine Akteure Gelder erhalten, die Demokratie, Rechtsstaatlichkeit oder Menschenrechte in Frage stellen oder unterminieren. Mit Projekten wie dem Participation Day stärken wir die Zivilgesellschaft und damit auch die demokratischen Strukturen in den Donauländern. Unser Engagement bei der Andrássy-Universität in Budapest zur Stärkung der Freiheit der akademischen Ausbildung – und damit
-
-
-der liberalen Zivilgesellschaft – setzen wir fort. Auch die Gleichberechtigung der Geschlechter ist ein wichtiges Anliegen. Wir werden weiterhin Projekte für Sinti und Roma in Südosteuropa unterstützen.
+Die Mittelvergabe und Auswahl der Kooperationspartner unterziehen wir einem Demokratie- und MenschenrechteCheck. Damit wollen wir sicherstellen, dass keine Akteure Gelder erhalten, die Demokratie, Rechtsstaatlichkeit oder Menschenrechte in Frage stellen oder unterminieren. Mit Projekten wie dem Participation Day stärken wir die Zivilgesellschaft und damit auch die demokratischen Strukturen in den Donauländern. Unser Engagement bei der Andrássy-Universität in Budapest zur Stärkung der Freiheit der akademischen Ausbildung – und damit der liberalen Zivilgesellschaft – setzen wir fort. Auch die Gleichberechtigung der Geschlechter ist ein wichtiges Anliegen. Wir werden weiterhin Projekte für Sinti und Roma in Südosteuropa unterstützen.
 
 Die Landesregierung setzt sich für eine glaubwürdige EUBeitrittsperspektive für die Staaten des Westbalkan ein. Im Rahmen der EU-Donauraumstrategie und der Gemischten Regierungskommissionen werden wir die Zusammenarbeit auf vielen Politikfeldern fortführen und mit neuen Impulsen voranbringen. Die vollständige Erfüllung der Beitrittskriterien bleibt jedoch Voraussetzung für einen Beitritt.
 
-### B. INTERNATIONALES UND ENTWICKLUNGSPOLITIK
+## B. INTERNATIONALES UND ENTWICKLUNGSPOLITIK
 
-Internationale Netzwerke und Partnerschaften ausbauen
+### Internationale Netzwerke und Partnerschaften ausbauen
 
 Mit unseren Technologiepartnerschaften wollen wir die nachhaltige und digitale Transformation voranbringen. Unser Engagement im Klimaschutzbündnis Under2Coalition wollen wir fortführen und die Kooperation in der International Zero-Emission Vehicle Alliance (ZEV Alliance) weiter ausbauen. Wir richten die bestehenden Landespartnerschaften auf die Schwerpunkte Klimaschutz, Innovation, Wissenschaftskooperation und Digitalisierung neu aus. Wir stärken die Ausrichtung von bw-i in den Bereichen nachhaltige Wirtschaft, Wissenschaft, Klimaschutz und Digitalisierung und treiben den laufenden Strategieprozess weiter voran.
 
@@ -3772,15 +3464,13 @@ Transatlantische Zusammenarbeit erneuern: Die transatlantischen Partnerschaften 
 
 Partnerschaft zu Asien weiterentwickeln: Mit Blick auf die hohe Dynamik in Asien wollen wir die bestehenden Partnerschaften mit China, Japan und Indien weiterentwickeln. Wir wollen die Expertise über Asien im Land verbessern und hierzu die Netzwerke aus Wissenschaft, Wirtschaft, Gesellschaft und Kultur ausbauen. Zudem streben wir an, gemeinsam mit Expertinnen und Experten, Interessenträgern und der Zivilgesellschaft eine OstasienStrategie des Landes zu entwickeln.
 
-Globale Verantwortung: Baden-Württemberg verbindet eine langjährige Kooperation mit Israel und den palästinensischen Gebieten, besonders in der beruflichen Aus- und Weiterbildung. Diese Partnerschaften werden wir fortführen und weiterentwickeln. Globale Verantwortung heißt für uns auch, humanitäre Hilfe und Solidarität in
-
-Notsituationen zu leben und nachzuhalten. In der nordirakischen Provinz Dohuk wollen wir unser Engagement weiterführen.
+Globale Verantwortung: Baden-Württemberg verbindet eine langjährige Kooperation mit Israel und den palästinensischen Gebieten, besonders in der beruflichen Aus- und Weiterbildung. Diese Partnerschaften werden wir fortführen und weiterentwickeln. Globale Verantwortung heißt für uns auch, humanitäre Hilfe und Solidarität in Notsituationen zu leben und nachzuhalten. In der nordirakischen Provinz Dohuk wollen wir unser Engagement weiterführen.
 
 Unsere internationalen Partnerschaften richten wir auf der Grundlage der Chancen und Risiken für unsere Wirtschaft, der Einhaltung der Menschenrechte sowie hoher Standards im Bereich Klimaschutz und Umwelt aus.
 
 Baden-Württemberg unterhält in verschiedenen Ländern wie den USA, China, Indien, Japan, und Israel Auslandsrepräsentanzen. Dieses Netz wollen wir – wo erforderlich – weiter ausbauen und für eine verbesserte strategische Steuerung bei bw-i bündeln.
 
-Entwicklungspolitische Akteure und Zusammenarbeit im Land stärken
+### Entwicklungspolitische Akteure und Zusammenarbeit im Land stärken
 
 Entwicklungspolitik ist für uns Querschnittsaufgabe und wesentlicher Bestandteil einer an Nachhaltigkeit ausgerichteten Landespolitik. Grundlage unserer Entwicklungspolitik ist die Verpflichtung, die Nachhaltigkeitsziele der Agenda 2030 und das Pariser Klimaabkommen global umzusetzen. In unseren bestehenden Partnerschaften mit Ländern des globalen Südens und in Baden-Württemberg übernehmen wir als Klimaschutzland globale Verantwortung für nachhaltige Entwicklung und Klimagerechtigkeit.
 
@@ -3788,10 +3478,7 @@ Auf Grundlage der Entwicklungspolitischen Leitlinien des Landes wollen wir die P
 
 Das Beteiligungsprojekt „Welt:Bürger gefragt“ und die Zusammenarbeit mit dem Rat für Entwicklungszusammenarbeit werden wir fortsetzen und stärken. Dieses Engagement werden wir mit der Arbeit des Rats der Klimaweisen verknüpfen, um eine internationale „Kopierfähigkeit“ von Lösungen zu gewährleisten, die dazu beiträgt, dass Klimaschutz „made in BW“ zum Exportschlager auch im globalen Süden werden kann. Auch zum Strategiedialog zur Zukunft der Landwirtschaft (Gesellschaftsvertrag) prüfen wir mit Fairtrade, eine globale Komponente beizutragen.
 
-Wir wollen die Arbeit des Partnerschaftszentrums der Stiftung Entwicklungszusammenarbeit (SEZ) über die BWirkt-Förderlinien für Graswurzelprojekte stärken, um einen Mehrwert für die beteiligten Partner vor Ort zu schaffen. Dabei wollen wir prüfen, wie wir diese Förderlinien stärker als bisher an Klimaschutz und Digitalisierung ausrichten können. Zudem werden wir die SEZ mit ihren Formaten entwicklungspolitischer Bewusstseinsbildung
-
-
-im Inland und der Ausrichtung der Messe FAIR HANDELN sichern und weiterentwickeln.
+Wir wollen die Arbeit des Partnerschaftszentrums der Stiftung Entwicklungszusammenarbeit (SEZ) über die BWirkt-Förderlinien für Graswurzelprojekte stärken, um einen Mehrwert für die beteiligten Partner vor Ort zu schaffen. Dabei wollen wir prüfen, wie wir diese Förderlinien stärker als bisher an Klimaschutz und Digitalisierung ausrichten können. Zudem werden wir die SEZ mit ihren Formaten entwicklungspolitischer Bewusstseinsbildung im Inland und der Ausrichtung der Messe FAIR HANDELN sichern und weiterentwickeln.
 
 Wir finanzieren zusammen mit dem Bund das Eine-WeltPromotoren-Programm als wichtige Ressource für die zivilgesellschaftlichen Organisationen und die entwicklungspolitische Bewusstseinsbildung im Land.
 
@@ -3801,7 +3488,7 @@ Kommunale Entwicklungspolitik: Das Handlungskonzept Kommunale Entwicklungspoliti
 
 Bildung für nachhaltige Entwicklung: Ein wichtiger Baustein der Nachhaltigkeitsstrategie des Landes ist die Bildung für nachhaltige Entwicklung (BNE). Die Verankerung von BNE soll mit Vielfalt und Diversität einen wichtigen Beitrag zum Landesaktionsplan gegen Rassismus und Diskriminierung leisten. Dabei soll auch die kritische Auseinandersetzung mit unserer und der europäischen Kolonialvergangenheit berücksichtigt werden.
 
-Afrika im Blick
+### Afrika im Blick
 
 Unser Konzept „Afrika im Blick“ wollen wir gemeinsam mit unseren Partnern in Afrika entlang unserer Schwerpunkte Klimawandel, Innovation, Digitalisierung und gesellschaftlichen Zusammenhalt Schritt für Schritt umsetzen.
 
@@ -3809,15 +3496,11 @@ Die in der Konzeption angeregte, regionale und thematische Fokussierung auf Buru
 
 Gemeinsam mit unseren Partnern der Wirtschaft aus Baden-Württemberg und Nordafrika prüfen wir eine Energiepartnerschaft im Bereich grüner Wasserstoff. Damit nutzen wir erneuerbare Energien dort, wo das Potenzial am größten ist.
 
-Partnerschaft des Landes mit Burundi weiterführen
+### Partnerschaft des Landes mit Burundi weiterführen
 
-Wir gewährleisten die Arbeit des Kompetenzzentrums der Stiftung Entwicklungszusammenarbeit (SEZ), insbesondere auch seinen Einsatz in Burundi. Wir erhalten die Förderlinie für Partnerschaftsprojekte im Rahmen der Graswurzelpartnerschaft. Das Agro-Forst-Cluster, bei dem Klimaschutz mit wirtschaftlicher Entwicklung verbunden wird, wollen wir als effiziente und nachhaltige Form der Zusammenarbeit verstetigen. Dafür wollen wir eine Verwendung von Mitteln aus der Klimaschutzstiftung bzw. der CO
+Wir gewährleisten die Arbeit des Kompetenzzentrums der Stiftung Entwicklungszusammenarbeit (SEZ), insbesondere auch seinen Einsatz in Burundi. Wir erhalten die Förderlinie für Partnerschaftsprojekte im Rahmen der Graswurzelpartnerschaft. Das Agro-Forst-Cluster, bei dem Klimaschutz mit wirtschaftlicher Entwicklung verbunden wird, wollen wir als effiziente und nachhaltige Form der Zusammenarbeit verstetigen. Dafür wollen wir eine Verwendung von Mitteln aus der Klimaschutzstiftung bzw. der CO 2 Kompensation von Ministerien prüfen. In Abstimmung mit den burundischen Partnern wollen wir weitere Cluster aufbauen, etwa in den Bereichen Wissenschaft, Gesundheit und dem globalen Einsatz gegen die Corona-Pandemie.
 
-2 Kompensation von Ministerien prüfen. In
-
-Abstimmung mit den burundischen Partnern wollen wir weitere Cluster aufbauen, etwa in den Bereichen Wissenschaft, Gesundheit und dem globalen Einsatz gegen die Corona-Pandemie.
-
-Nachhaltige Beschaffung und Lieferketten unterstützen
+### Nachhaltige Beschaffung und Lieferketten unterstützen
 
 Global verantwortlich zu wirtschaften, ist ein zentrales Element unserer Entwicklungspolitik. Wir wollen daher alle Spielräume der reformierten Verwaltungsvorschrift Beschaffung der öffentlichen Hand für eine faire, sozialökologische Beschaffung ausschöpfen, perspektivisch weiterentwickeln und dabei auch Mittelstand und Start-ups im Blick haben. Die Verantwortlichen im Beschaffungswesen auf Landes- und kommunaler Ebene wollen wir durch Schulungsangebote dafür fit machen und dabei ein Vorbild für Unternehmen sein.
 
@@ -3826,54 +3509,47 @@ Wir wollen Pioniere nachhaltiger Beschaffung und nachhaltiger Lieferketten stär
 Im Bund und auf EU-Ebene setzen wir uns für ein ambitioniertes, unbürokratisches und rechtsklares Lieferkettengesetz auf der Basis der Nachhaltigkeitsziele der Agenda 2030 der Vereinten Nationen ein, das verbindlich menschenrechtliche Sorgfaltspflichten verankert. Zentral ist für uns dabei eine europaweit einheitliche Lösung.
 
 
+# 13. Föderalismus
 
-155
-
-13 FÜR EINEN LEBENDIGEN
-
-
-13. FÜR EINEN LEBENDIGEN FÖDERALISMUS
+## 13 FÜR EINEN LEBENDIGEN FÖDERALISMUS
 
 Wir setzen uns weiter für einen lebendigen Föderalismus in Deutschland ein. Denn wir sind überzeugt, dass sich die Herausforderungen des Klimawandels, der Transformation der Wirtschaft und der Digitalisierung in allen Lebensbereichen wesentlich besser lösen lassen, wenn wir die Vorteile des föderalen Systems ausspielen. Auch die Folgen der Pandemie können wir so effizienter bekämpfen. Mit flexiblen Strukturen, die nah an den Bürgerinnen und Bürgern und anpassungsfähiger als zentrale hierarchische Systeme sind, wollen wir den Wandel gestalten.
 
-Für eine dritte Föderalismuskommission unter Einbeziehung der Landtage
+### Für eine dritte Föderalismuskommission unter Einbeziehung der Landtage
 
 Dafür müssen wir das Zusammenspiel von Bund und Ländern neu und tiefgreifend justieren. Wir setzen uns für eine dritte Föderalismuskommission unter Einbeziehung der Landtage ein. Ihre Aufgabe muss es sein, die intransparenten Verflechtungen der Verantwortlichkeiten bzw. die Aufgaben-, Einnahmen- und Ausgabenverteilung zwischen den föderalen Ebenen aufzulösen. Es müssen aber auch die legislativen und vor allem die administrativen Prozesse analysiert, reformiert und vor allem beschleunigt werden. Bund und Länder müssen ihre Verwaltungen dazu befähigen, rascher zu handeln und Experimentierräume zu eröffnen. Sie müssen aber auch bereit sein, die Verantwortungen dafür zu tragen. Die Corona-Pandemie hat Schwachstellen und Handlungsfelder deutlich vor Augen geführt.
 
-Stärkung und Ausweitung der Länderkompetenzen
+### Stärkung und Ausweitung der Länderkompetenzen
 
 Wir wollen uns für eine Stärkung und Ausweitung der Länderkompetenzen und damit auch der Länderparlamente einsetzen. Was sich vorwiegend örtlich oder im engen regionalen Umkreis auswirkt, soll wieder in Landeskompetenz gegeben werden. Es geht aber vor allem darum, die Zuständigkeiten der verschiedenen Ebenen klar zu adressieren, politische Entscheidungen und deren administrative Umsetzung transparent zu machen, aktiv zu kommunizieren und diese Verantwortung dann auch für alle Bürgerinnen und Bürger sichtbar zu tragen. Wir wollen eine neue Kultur des Föderalismus als wesentlichen Bestandteil der politischen Kultur in Deutschland etablieren. Bürgerinnen und Bürger müssen die Vorzüge in ihrem Alltag bemerken.
 
-Aufgabengerechte Finanzierung der Länder: Das Geld muss der Aufgabe folgen, nicht umgekehrt
+### Aufgabengerechte Finanzierung der Länder: Das Geld muss der Aufgabe folgen, nicht umgekehrt
 
 Die aufgabengerechte Finanzierung der Länder sehen wir als Kernelement des Föderalismus. Der vom Grundgesetz dafür gewählte Weg ist nach Artikel 106 Absatz 3 ein originärer Anspruch der Länder auf einen aufgabengerechten Anteil am Steueraufkommen, insbesondere an den aufkommensstarken Gemeinschaftssteuern. Wenn neue Aufgaben entstehen, deren Bewältigung in der Kompetenz der Länder liegt, oder gesetzliche Standards insbesondere in der Sozialpolitik qualitativ durch Bundesgesetz substanziell erweitert werden, müssen Gemeinschaftssteuern entsprechend neu ausgerichtet werden. Das Geld muss hier der Aufgabe folgen, nicht umgekehrt.
 
-Mindestmaß an Steuerautonomie der Länder
+### Mindestmaß an Steuerautonomie der Länder
 
 Ein Mindestmaß an Steuerautonomie der Länder sehen wir als den richtigen Weg. Wir werden uns dafür einsetzen, die Gesetzgebungszuständigkeit für diejenigen Steuern, die den Ländern bzw. Kommunen vollständig zustehen, auch vollständig auf die Länder zu übertragen. Flankierend soll den Ländern ein ausreichender Spielraum eröffnet werden, auch die Höhe der Steuereinnahmen durch Zuschläge bei den aufkommensstarken Gemeinschaftssteuern (insbesondere den Einkommens- und Körperschaftssteuern) zumindest teilweise in eigener Verantwortung bestimmen zu können.
 
-Länder müssen auf Ebene des Bundes wieder präsenter werden
+### Länder müssen auf Ebene des Bundes wieder präsenter werden
 
 Aber auch auf der Ebene des Bundes müssen die Länder wieder präsenter werden und ihre gesamtstaatliche Verantwortung wahrnehmen. Sei es über die Initiativen im Bundesrat, durch die aktive Mitwirkung an der Entstehung von Gesetzen oder der Teilhabe an den parlamentarischen Debatten: Sie haben die Chance, ihre Bürgernähe, ihre Kompetenzen und ihre Verantwortung konstruktiv einzubringen und so dieses Land mitzugestalten.
 
 
 
-159
+# 14. Zusammenarbeit 
 
-14 ZUSAMMENARBEIT
+## 14 ZUSAMMENARBEIT IN DER KOALITION
 
-
-14. ZUSAMMENARBEIT IN DER KOALITION
-
-Baden-Württemberg mit starker Stimme im Bund
+### Baden-Württemberg mit starker Stimme im Bund
 
 Wir werden Baden-Württemberg auch stärker auf Bundesebene in Stellung bringen und Debatten aktiv anstoßen und mitbestimmen.
 
-Bundesrat: transparent, lebendig, effizient und digital
+### Bundesrat: transparent, lebendig, effizient und digital
 
 Dem Bundesrat kommt als Herzstück des föderalen Bundesstaates für die Mitwirkung der Länder an der Gesetzgebung des Bundes die zentrale Rolle zu. Wir setzen uns gemeinsam dafür ein, dass der Bundesrat transparenter, lebendiger, effizienter und digitaler wird, um die Stärken und Vorzüge des Föderalismus sichtbar zu machen. Zum Beispiel wollen wir eine verfassungsrechtlich verankerte Frist für die Behandlung von Bundesratsinitiativen im Deutschen Bundestag gemeinsam voranbringen. Bei der Besetzung von Gremien über den Bundesrat wollen wir die politischen Mehrheitsverhältnisse abbilden.
 
-Aktive Mitwirkung des Landes an der Gesetzgebung des Bundes
+### Aktive Mitwirkung des Landes an der Gesetzgebung des Bundes
 
 Baden-Württemberg wird aktiv und konstruktiv an der Gesetzgebung des Bundes mitwirken. Das Abstimmungsverhalten im Bundesrat wird im gegenseitigen Einvernehmen der Koalitionspartner festgelegt. Gerade auch bei Abstimmungen im Bundesrat wollen wir in der Regel eine Positionierung des Landes herbeiführen. Enthaltungen soll es nur noch in Ausnahmefällen geben.
 
@@ -3887,7 +3563,7 @@ Zur besseren Koordinierung und Vorbereitung des Abstimmungsverhaltens des Landes
 
 Dabei sind auch die Chancen der Konsensfindung auf dem Verhandlungsweg zwischen Bund und Ländern sowie durch Anrufung des Vermittlungsausschusses zu berücksichtigen.
 
-Zusammenarbeit der Fraktionen
+### Zusammenarbeit der Fraktionen
 
 Die Koalitionspartner werden im Landtag und in seinen Ausschüssen nicht mit wechselnden Mehrheiten abstimmen. Dies gilt auch für Fragen, die nicht Gegenstand der vereinbarten Politik sind, und für Petitionen. Davon ausgenommen sind Gewissensentscheidungen und Angelegenheiten der Abgeordneten, die hier nicht gesondert geregelt sind.
 
@@ -3897,33 +3573,34 @@ Themen für Aktuelle Debatten sowie Regierungsbefragungen werden dem Koalitionsp
 
 Zur Abstimmung über die parlamentarische Zusammenarbeit findet zwischen beiden Fraktionen ein enger und regelmäßiger Informationsaustausch statt. Vor den Sitzungen der Ausschüsse des Landtags findet grundsätzlich eine gemeinsame Sitzung der beiden Arbeitskreise statt. An der jeweiligen Sitzung der gemeinsamen Arbeitskreise nehmen die Regierungsmitglieder teil. Hier werden ebenfalls Planungen des jeweiligen Ressorts vorgestellt.
 
-Koalitionsausschuss
+### Koalitionsausschuss
 
 Die Koalitionspartner bilden einen Koalitionsausschuss. Je Seite gehören ihm sieben Mitglieder aus Partei, Fraktion und Regierung an. Der Koalitionsausschuss berät Angelegenheiten von grundsätzlicher Bedeutung, die zwischen den Koalitionspartnern abgestimmt werden müssen. Er tritt regelmäßig oder auf Antrag eines Koalitionspartners zusammen.
 
 
-### HERAUSGEBER:
+HERAUSGEBER:
+Bündnis 90/Die Grünen Baden-Württemberg Königstraße 78 70173 Stuttgart www.gruene-bw.de,
+CDU Baden-Württemberg Heilbronner Straße 43 70191 Stuttgart www.cdu-bw.de
 
-Bündnis 90/Die Grünen Baden-Württemberg Königstraße 78 70173 Stuttgart
-
-www.gruene-bw.de
-
-CDU Baden-Württemberg Heilbronner Straße 43 70191 Stuttgart
-
-www.cdu-bw.de
-
-Struktur der Landesregierung
+### Struktur der Landesregierung
 
 Die Koalitionsparteien vereinbaren folgende Struktur der Landesregierung. BÜNDNIS 90/DIE GRÜNEN stellen den Ministerpräsidenten mit dem Staatsministerium inklusive des Bevollmächtigten des Landes Baden-Württemberg beim Bund und der Zuständigkeit für Europa, benennt eine Staatsrätin oder einen Staatsrat und stellt die Leitung folgender Ministerien:
 
-* Ministerium für Finanzen · Ministerium für Kultus · Ministerium für Umwelt · Ministerium für Wissenschaft und Kunst · Ministerium für Soziales · Ministerium für Verkehr
+* Ministerium für Finanzen
+* Ministerium für Kultus
+* Ministerium für Umwelt
+* Ministerium für Wissenschaft und Kunst
+* Ministerium für Soziales
+* Ministerium für Verkehr
 
 Die CDU stellt den stellvertretenden Ministerpräsidenten und die Leitung folgender Ministerien:
 
-* Ministerium des Innern · Ministerium für Wirtschaft · Ministerium für Ländlichen Raum · Ministerium der Justiz · Ministerium für Landesentwicklung und Wohnen
+* Ministerium des Innern
+* Ministerium für Wirtschaft
+* Ministerium für Ländlichen Raum
+* Ministerium der Justiz
+* Ministerium für Landesentwicklung und Wohnen
 
 Die genaue Ressortierung wird im Rahmen der Regierungsbildung festgelegt.
-
-14. Zusammenarbeit
 
 
