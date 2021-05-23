@@ -17,7 +17,7 @@
 
 * zu PDF wandeln (via `pandoc`)
 
-    ./mdtopdf.sh
+    ./mdtopdf.sh 210506_Koalitionsvertrag_2021-2026.md
 
 
 # Koalitionsvertrag Baden-Württemberg 2016

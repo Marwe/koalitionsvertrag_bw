@@ -3,29 +3,56 @@
 % BÜNDNIS 90/DIE GRÜNEN BADEN-WÜRTTEMBERG \
   CDU BADEN-WÜRTTEMBERG
 
-Über diesen Entwurf des Koalitionsvertrags 2021-2026 von BÜNDNIS 90/DIE GRÜNEN Baden-Württemberg und der CDU Baden-Württemberg wird auf den digitalen Parteitagen am 8. Mai 2021 beraten und abgestimmt.
+Über diesen Entwurf des Koalitionsvertrags 2021-2026 von BÜNDNIS 90/DIE GRÜNEN Baden-Württemberg und der CDU Baden-Württemberg wird auf den digitalen Parteitagen am 8. Mai 2021 beraten und abgestimmt. \
+Inhaltsverzeichnis^[Anmerkung: dieses Inhaltsverzeichnis entspricht der Textversion im [original PDF vom 2021-05-19](https://www.baden-wuerttemberg.de/fileadmin/redaktion/dateien/PDF/210506_Koalitionsvertrag_2021-2026.pdf), Haupttitel wurden im Text ergänzt, damit diese ein funktionales Inhaltsverzeichnis ergeben, Untertitel als Unterkapitel gesetzt]
 
-JETZT FÜR MORGEN DER ERNEUERUNGSVERTRAG
+0. Präambel *6 \
+    Jetzt für morgen – Der Erneuerungsvertrag für Baden-Württemberg*
+1. Haushalt und Verwaltung *13 \
+    Die nächsten Generationen im Blick: Für nachhaltige Finanzen und eine moderne Verwaltung \
+    A. Haushalt, Liegenschaften und Beteiligungen, B. Finanzpolitik, C. Öffentlicher Dienst*
+2. Klima- und Naturschutz *23 \
+    Erhalten, was uns erhält: Für ein klimaneutrales Baden-Württemberg \
+    A. Klimaschutz und Energiepolitik, B. Umweltschutz, C. Naturschutz und Artenvielfalt, D. Nachhaltigkeit*
+3. Wirtschaft und Arbeit *35 \
+    Mutig den Wandel gestalten: Für eine Wirtschaft mit Zukunft \
+    A. Wirtschaft und Innovation, B. Mittelstand, Handel, Handwerk und Dienstleistungen, C. Arbeit, D. Baden-Württemberg im weltweiten Wettbewerb*
+4. Wissenschaft, Kultur und Medien *49 \
+    Neues wagen: Für eine starke Wissenschaft, innovative Forschung und kreative Freiräume \
+    A. Wissenschaft, B. Kunst und Kultur, C. Medienpolitik*
+5. Frühkindliche Bildung und Schule *59 \
+    Lernen mit Perspektive: Für beste Bildung für alle \
+    A. Bildungspolitische Grundziele, B. Frühkindliche Bildung, C. Grundschulen, D. Weiterführende Schulen und berufliche Bildung, E. Weiterbildung und Lebenslanges Lernen, F. Schulische Rahmenbedingungen*
+6. Gesundheit und Soziales *71 \
+    Nah am Menschen: Für ein gesundes und selbstbestimmtes Leben \
+    A. Folgen der Corona-Pandemie, B. Gesundheit, C. Pflege, D. Soziales und Teilhabe, E. Kinder-, Jugend- und Familienpolitik*
+7. Gesellschaft und Integration *81 \
+    Gemeinsam Vielfalt leben: Für echten Zusammenhalt \
+    A. Migration und Integration, B. Kirchen, Religionen und Weltanschauungen, C. Offene Gesellschaft und Antidiskriminierung, D. Zusammenhalt und Beteiligung*
+8. Inneres und Verfassung *93 \
+    Sicher und frei leben: Für eine lebendige Demokratie \
+    A. Demokratie und Verfassung, B. Sicherheit, C. Justiz*
+9. Ländlicher Raum und Landwirtschaft *107 \
+    Unsere liebenswerte Heimat: Für starke ländliche Räume \
+    A. Ländlicher Raum, B. Landwirtschaft, C. Tierschutz, D. Verbraucherschutz, E. Wald und Wildtiere, F. Bioökonomie, G. Tourismus*
+10. Mobilität und Infrastruktur *121 \
+    Das Land bewegen: Für die Mobilität von morgen \
+    A. Verkehrsinfrastruktur, B. Mobilität der Zukunft*
+11. Bauen und Wohnen *133 \
+    Bauen neu denken: Für bezahlbaren und ökologischen Wohnraum \
+    A. Wohnen, B. Städtebau, C. Landes- und Regionalplanung, D. Bauen, E. Digitale Infrastruktur*
+12. Europa und Internationales *145 \
+    Grenzen überwinden: Für ein europäisches Miteinander \
+    A. Europapolitik des Landes, B. Internationales und Entwicklungspolitik*
+13. Föderalismus *155 \
+    Für einen lebendigen Föderalismus*
+14. Zusammenarbeit *159 \
+    Zusammenarbeit in der Koalition*
 
-0. Präambel 6 Jetzt für morgen – Der Erneuerungsvertrag für Baden-Württemberg
-1. Haushalt und Verwaltung 13 Die nächsten Generationen im Blick: Für nachhaltige Finanzen und eine moderne Verwaltung A. Haushalt, Liegenschaften und Beteiligungen, B. Finanzpolitik, C. Öffentlicher Dienst
-2. Klima- und Naturschutz 23 Erhalten, was uns erhält: Für ein klimaneutrales Baden-Württemberg A. Klimaschutz und Energiepolitik, B. Umweltschutz, C. Naturschutz und Artenvielfalt, D. Nachhaltigkeit
-3. Wirtschaft und Arbeit 35 Mutig den Wandel gestalten: Für eine Wirtschaft mit Zukunft A. Wirtschaft und Innovation, B. Mittelstand, Handel, Handwerk und Dienstleistungen, C. Arbeit, D. Baden-Württemberg im weltweiten Wettbewerb
-4. Wissenschaft, Kultur und Medien 49 Neues wagen: Für eine starke Wissenschaft, innovative Forschung und kreative Freiräume A. Wissenschaft, B. Kunst und Kultur, C. Medienpolitik
-5. Frühkindliche Bildung und Schule 59 Lernen mit Perspektive: Für beste Bildung für alle A. Bildungspolitische Grundziele, B. Frühkindliche Bildung, C. Grundschulen, D. Weiterführende Schulen und berufliche Bildung, E. Weiterbildung und Lebenslanges Lernen, F. Schulische Rahmenbedingungen
-6. Gesundheit und Soziales 71 Nah am Menschen: Für ein gesundes und selbstbestimmtes Leben A. Folgen der Corona-Pandemie, B. Gesundheit, C. Pflege, D. Soziales und Teilhabe, E. Kinder-, Jugend- und Familienpolitik
-7. Gesellschaft und Integration 81 Gemeinsam Vielfalt leben: Für echten Zusammenhalt A. Migration und Integration, B. Kirchen, Religionen und Weltanschauungen, C. Offene Gesellschaft und Antidiskriminierung, D. Zusammenhalt und Beteiligung
-8. Inneres und Verfassung 93 Sicher und frei leben: Für eine lebendige Demokratie A. Demokratie und Verfassung, B. Sicherheit, C. Justiz
-9. Ländlicher Raum und Landwirtschaft 107 Unsere liebenswerte Heimat: Für starke ländliche Räume A. Ländlicher Raum, B. Landwirtschaft, C. Tierschutz, D. Verbraucherschutz, E. Wald und Wildtiere, F. Bioökonomie, G. Tourismus
-10. Mobilität und Infrastruktur 121 Das Land bewegen: Für die Mobilität von morgen A. Verkehrsinfrastruktur, B. Mobilität der Zukunft
-11. Bauen und Wohnen 133 Bauen neu denken: Für bezahlbaren und ökologischen Wohnraum A. Wohnen, B. Städtebau, C. Landes- und Regionalplanung, D. Bauen, E. Digitale Infrastruktur
-12. Europa und Internationales 145 Grenzen überwinden: Für ein europäisches Miteinander A. Europapolitik des Landes, B. Internationales und Entwicklungspolitik
-13. Föderalismus 155 Für einen lebendigen Föderalismus
-14. Zusammenarbeit 159 Zusammenarbeit in der Koalition
 
 # Präambel
 
-## JETZT FÜR MORGEN DER ERNEUERUNGSVERTRAG FÜR BADEN-WÜRTTEMBERG
+## JETZT FÜR MORGEN - DER ERNEUERUNGSVERTRAG FÜR BADEN-WÜRTTEMBERG
 
 Baden-Württemberg ist ein einzigartiges Land mit großartigen Menschen und wunderschöner Natur. Wir alle leben gerne hier. Wir schätzen den Zusammenhalt – dass man füreinander da ist und dass man sich gegenseitig unterstützt. Nirgendwo sonst in Deutschland engagieren sich so viele Menschen ehrenamtlich im Sportverein, in der Nachbarschaftshilfe, in der Freiwilligen Feuerwehr oder in Parteien und Bürgerinitiativen. Wir schätzen den Wohlstand, der auf dem Fleiß und dem Erfindungsreichtum der Menschen, der Unternehmen und Betriebe gründet. Und wir leben in einer der sichersten Regionen der Welt.
 
