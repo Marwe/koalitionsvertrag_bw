@@ -1,6 +1,7 @@
-% JETZT FÜR MORGEN DER ERNEUERUNGSVERTRAG FÜR BADEN-WÜRTTEMBERG
-% BÜNDNIS 90/DIE GRÜNEN BADEN-WÜRTTEMBERG \\CDU BADEN-WÜRTTEMBERG
-% 
+% JETZT FÜR MORGEN
+% DER ERNEUERUNGSVERTRAG FÜR BADEN-WÜRTTEMBERG
+% BÜNDNIS 90/DIE GRÜNEN BADEN-WÜRTTEMBERG \
+  CDU BADEN-WÜRTTEMBERG
 
 Über diesen Entwurf des Koalitionsvertrags 2021-2026 von BÜNDNIS 90/DIE GRÜNEN Baden-Württemberg und der CDU Baden-Württemberg wird auf den digitalen Parteitagen am 8. Mai 2021 beraten und abgestimmt.
 
@@ -216,9 +217,9 @@ Ressourcen und Energieverbrauch begrenzen: Durch eine effizientere Nutzung der G
 
 Wir vollenden die Digitalisierung des Gebäudebestands des Landes und streben im Laufe der Legislaturperiode die Nutzung von „Building Information Modeling“ (BIM) bei größeren Bauprojekten des Landes an. Der BIM-Prozess ermöglicht eine vernetzte Planung und Bewirtschaftung der 8.000 landeseigenen Gebäude.
 
-### Wir planen mit einem realistischen CO 2 -Preis
+### Wir planen mit einem realistischen CO~2~-Preis
 
-Unser Ziel ist, als Bauherr und bei Vergaben einen CO 2 - Schattenpreis von mindestens 180 Euro pro Tonne CO 2 systematisch zu berücksichtigen. Die ökologischen Kosten sind bei der Entscheidung über Baumaßnahmen – beispielsweise zur Wärmeversorgung oder der Entscheidung Sanierung/Neubau – und Beschaffungen in der Wirtschaftlichkeitsberechnung zu berücksichtigen.
+Unser Ziel ist, als Bauherr und bei Vergaben einen CO~2~- Schattenpreis von mindestens 180 Euro pro Tonne CO~2~\ systematisch zu berücksichtigen. Die ökologischen Kosten sind bei der Entscheidung über Baumaßnahmen – beispielsweise zur Wärmeversorgung oder der Entscheidung Sanierung/Neubau – und Beschaffungen in der Wirtschaftlichkeitsberechnung zu berücksichtigen.
 
 ### Einsatz für Arten- und Klimaschutz
 
@@ -234,7 +235,7 @@ Wir wollen die Beteiligungsverwaltung stärken. Damit diese ihre Aufgabe im Inte
 
 Wir sorgen für umfassende Transparenz bei allen Landeseinrichtungen. So werden künftig auch die Gehälter der Leiterinnen und Leiter von Staatstheatern, Museen etc. veröffentlicht.
 
-Klimaschutzstiftung als Drehscheibe für Kompensation: Auf dem Weg zur dauerhaften Klimaneutralität durch CO 2 -Reduktion kommt der Klimaschutzstiftung eine wichti- ge Rolle zu. Sie fungiert als Drehschreibe für die Kompensation der aktuell noch unvermeidbaren CO 2 -Emissionen. Über die Maßnahmen, die über die Stiftung realisierten werden, soll der Atmosphäre CO 2 entnommen werden. Ziel ist es, möglichst viel des in Baden-Württemberg verursachten CO 2 über die Beteiligung von Kommunen, Firmen sowie Bürgerinnen und Bürgern zu kompensieren. Das Land und seine Verwaltung haben dabei eine Vorbildfunktion.
+Klimaschutzstiftung als Drehscheibe für Kompensation: Auf dem Weg zur dauerhaften Klimaneutralität durch CO~2~-Reduktion kommt der Klimaschutzstiftung eine wichti- ge Rolle zu. Sie fungiert als Drehschreibe für die Kompensation der aktuell noch unvermeidbaren CO~2~-Emissionen. Über die Maßnahmen, die über die Stiftung realisierten werden, soll der Atmosphäre CO~2~\ entnommen werden. Ziel ist es, möglichst viel des in Baden-Württemberg verursachten CO~2~\ über die Beteiligung von Kommunen, Firmen sowie Bürgerinnen und Bürgern zu kompensieren. Das Land und seine Verwaltung haben dabei eine Vorbildfunktion.
 
 Staatsbäder als kulturelles Erbe: Wir wissen um die Bedeutung der vier Staatsbäder des Landes, erhalten diese und schützen dieses kulturelle Erbe. Hierbei konzentriert sich das Land auf die denkmalgeschützten historischen Bauten. Wir setzen uns für eine zukunftsfähige Weiterentwicklung der Staatsbäder ein.
 
@@ -278,7 +279,7 @@ Wir sagen Geldwäsche und Terrorfinanzierung den Kampf an. Wir wollen Kompetenze
 
 Auf Bundesebene setzen wir uns für Steuergerechtigkeit und Steuerrechtsvereinfachungen ein.
 
-Nachhaltige Steuern und Subventionen: Uns sind eine Ökologisierung des Steuerrechts sowie die Überprüfung und der Abbau ökologisch schädlicher Subventionen wichtig. So wird sich Baden-Württemberg auf Bundesebene für eine deutliche Steigerung des CO 2 -Preises über die Verabredungen im Vermittlungsausschuss im Herbst 2019 hinaus einsetzen. Dieser muss eine stärkere Lenkungswirkung entfalten. Mit den entstehenden Mehreinnahmen möchten wir Bürgerinnen und Bürger und Unternehmen entlasten.
+Nachhaltige Steuern und Subventionen: Uns sind eine Ökologisierung des Steuerrechts sowie die Überprüfung und der Abbau ökologisch schädlicher Subventionen wichtig. So wird sich Baden-Württemberg auf Bundesebene für eine deutliche Steigerung des CO~2~-Preises über die Verabredungen im Vermittlungsausschuss im Herbst 2019 hinaus einsetzen. Dieser muss eine stärkere Lenkungswirkung entfalten. Mit den entstehenden Mehreinnahmen möchten wir Bürgerinnen und Bürger und Unternehmen entlasten.
 
 Bei umfangreichen Reformvorhaben im Steuerrecht (z. B. Unternehmenssteuerreform) setzt sich Baden-Württemberg für eine angemessene Gegenfinanzierung des Bundes für Mindereinnahmen bei Ländern und Kommunen ein.
 
@@ -399,7 +400,7 @@ Unmittelbar nach der Regierungsbildung werden wir ein Sofortprogramm für Klimas
 
 * Den Einsatz für den Ausbau von Freiflächen-Photovoltaik: Dabei wollen wir unter anderem auch Projekte entlang von Autobahnen, Zugstrecken, auf ehemaligen Mülldeponien und auf Baggerseen vorantreiben. Zudem werden wir die Agri-Photovoltaik (PV) fest etablieren und uns für eine rechtliche Klarstellung einsetzen, dass ein Miteinander von landwirtschaftlicher Nutzung und Energieerzeugung keine nachteiligen Auswirkungen auf die Inanspruchnahme von EU-Zahlungen hat. Regelungen auf Landesebene werden wir anpassen. Unser Ziel ist es, möglichst viele Agri- und Floating-PV-Projekte aus dem neuen EEG-Ausschreibungsregime im Land zu realisieren.
 
-* Die Einführung eines CO 2 -Schattenpreises von 180 Euro für die Sanierung und den Neubau von Landesliegenschaften.
+* Die Einführung eines CO~2~-Schattenpreises von 180 Euro für die Sanierung und den Neubau von Landesliegenschaften.
 
 * Klimavorbehalt: Wir werden prüfen, wie ein Klimavorbehalt für neue und fortzuschreibende Förderprogramme des Landes eingeführt werden kann und wie die Klima- und Nachhaltigkeitsziele in der Gesetzgebung des Landes berücksichtigt werden können. Im Anschluss streben wir eine schnelle Umsetzung an.
 
@@ -412,7 +413,7 @@ Unmittelbar nach der Regierungsbildung werden wir ein Sofortprogramm für Klimas
 
 * Rat der Klimaweisen: Wir werden den bestehenden Klimabeirat der Landesregierung zu einem Rat der Klimaweisen aufwerten – analog zum Rat der Wirtschaftsweisen. Dieser wird als unabhängiges wissenschaftliches Gremium fungieren. Er kann die Landesregierung und den Landtag zu Fragen des Klimaschutzes beraten. Darüber hinaus erstellt der Rat der Klimaweisen regelmäßig einen Klimabericht, in dem er die Klimaschutzaktivitäten des Landes bewertet und Maßnahmen für die Landespolitik vorschlägt. Der Rat berichtet direkt dem Landtag und kann auch selbstständig tätig werden.
 
-* Wir werden die Einführung eines CO 2 -Budgets für das Land auf der Basis der entsprechenden Arbeiten des Weltklimarats und des Sachverständigenrats für Umweltfragen prüfen.
+* Wir werden die Einführung eines CO~2~-Budgets für das Land auf der Basis der entsprechenden Arbeiten des Weltklimarats und des Sachverständigenrats für Umweltfragen prüfen.
 
 * Ein Förderprogramm für besonders innovative, klimaneutrale Wohngebiete.
 
@@ -444,21 +445,21 @@ Wir werden die Anpassungsstrategie des Landes fortschreiben, indem wir für alle
 
 ### Das integrierte Energie- und Klimaschutzkonzept weiterentwickeln
 
-Begleitend zu einem novellierten Klimaschutzgesetz werden wir auf Basis der neuen Klimaziele der EU und des 1,5-Grad-Pfads das integrierte Energie- und Klimaschutzkonzept (IEKK) weiterentwickeln. Dabei werden wir die Prozentziele des neuen Klimaschutzgesetzes sowie die Sektorziele auch als kumulierte CO 2 -Emissionen darstellen. In diesem Rahmen wird festgelegt, dass jedes Ressort eigenverantwortlich die erforderlichen Klimaschutzmaßnahmen zu ergreifen hat, um im jeweiligen Sektor das Sektorziel zu erreichen. Diese Ziele werden kontinuierlich überprüft; bei Abweichungen muss nachgebessert werden.
+Begleitend zu einem novellierten Klimaschutzgesetz werden wir auf Basis der neuen Klimaziele der EU und des 1,5-Grad-Pfads das integrierte Energie- und Klimaschutzkonzept (IEKK) weiterentwickeln. Dabei werden wir die Prozentziele des neuen Klimaschutzgesetzes sowie die Sektorziele auch als kumulierte CO~2~-Emissionen darstellen. In diesem Rahmen wird festgelegt, dass jedes Ressort eigenverantwortlich die erforderlichen Klimaschutzmaßnahmen zu ergreifen hat, um im jeweiligen Sektor das Sektorziel zu erreichen. Diese Ziele werden kontinuierlich überprüft; bei Abweichungen muss nachgebessert werden.
 
-### Für einen höheren CO 2 -Preis
+### Für einen höheren CO~2~-Preis
 
-Baden-Württemberg wird sich auf Bundesebene für eine deutliche Steigerung des CO 2 -Preises über die Verabredungen im Vermittlungsausschuss im Herbst 2019 hinaus einsetzen. Dieser muss eine stärkere Lenkungswirkung entfalten. Mit den entstehenden Mehreinnahmen möchten wir Bürgerinnen und Bürger und Unternehmen entlasten.
+Baden-Württemberg wird sich auf Bundesebene für eine deutliche Steigerung des CO~2~-Preises über die Verabredungen im Vermittlungsausschuss im Herbst 2019 hinaus einsetzen. Dieser muss eine stärkere Lenkungswirkung entfalten. Mit den entstehenden Mehreinnahmen möchten wir Bürgerinnen und Bürger und Unternehmen entlasten.
 
 ### Klimaschutz in der Verwaltung verankern
 
-Insbesondere die Landesverwaltung nimmt beim Klimaschutz eine Vorbildrolle ein. Wir wollen sie bis 2030 klimaneutral machen. Dabei halten wir uns an den Grundsatz: Vermeiden vor Reduzieren vor Kompensieren. Wir werden die Ausweitung des bei der Sanierung und beim Neubau von Liegenschaften eingeführten CO 2 -Schattenpreises auf weitere Bereiche prüfen.
+Insbesondere die Landesverwaltung nimmt beim Klimaschutz eine Vorbildrolle ein. Wir wollen sie bis 2030 klimaneutral machen. Dabei halten wir uns an den Grundsatz: Vermeiden vor Reduzieren vor Kompensieren. Wir werden die Ausweitung des bei der Sanierung und beim Neubau von Liegenschaften eingeführten CO~2~-Schattenpreises auf weitere Bereiche prüfen.
 
 Wir stärken das Kompetenzzentrum Klimawandel der Landesanstalt für Umwelt Baden-Württemberg (LUBW), um Anpassungsmaßnahmen an den Klimawandel voranzutreiben. Dabei sind beispielsweise Vulnerabilitätsanalysen, insbesondere auch unter Nutzung von Geodaten, einzubeziehen. Wir werden die Kommunen auch weiterhin bei Klimaanpassungsmaßnahmen über das Förderprogramm KLIMOPASS unterstützen. Ein Förderprogramm für mehr Bäume in der Stadt werden wir prüfen.
 
 Der Klimaschutz soll im Verwaltungshandeln und in den bestehenden Verwaltungsstrukturen angemessen verankert werden.
 
-Ziel unserer Klimaschutzmaßnahmen ist stets, Treibhausgasemissionen zu vermeiden und zu vermindern. Sollte eine angestrebte Minderung der Emissionen kurzfristig nicht zu erreichen sein, kann allenfalls vorübergehend zum Mittel der Kompensation gegriffen werden. Dies muss allerdings verbunden sein mit einer konkreten Planung, die Emissionen zu reduzieren. Kompensationsprojekte müssen mindestens international anerkannten Standards wie dem CDM Goldstandard genügen. Sie müssen also ihre zusätzliche CO 2 -Minderung unter Beweis stellen und einen über den Klimaschutz hinausgehenden Mehrwert entsprechend der Ziele für nachhaltige Entwicklung der Vereinten Nationen (Sustainable Development Goals) generieren. Diese Grundsätze für Kompensationsmaßnahmen wird auch die Klimaschutzstiftung Baden-Württemberg bei all ihren Aktivitäten im In- und Ausland zugrunde legen.
+Ziel unserer Klimaschutzmaßnahmen ist stets, Treibhausgasemissionen zu vermeiden und zu vermindern. Sollte eine angestrebte Minderung der Emissionen kurzfristig nicht zu erreichen sein, kann allenfalls vorübergehend zum Mittel der Kompensation gegriffen werden. Dies muss allerdings verbunden sein mit einer konkreten Planung, die Emissionen zu reduzieren. Kompensationsprojekte müssen mindestens international anerkannten Standards wie dem CDM Goldstandard genügen. Sie müssen also ihre zusätzliche CO~2~-Minderung unter Beweis stellen und einen über den Klimaschutz hinausgehenden Mehrwert entsprechend der Ziele für nachhaltige Entwicklung der Vereinten Nationen (Sustainable Development Goals) generieren. Diese Grundsätze für Kompensationsmaßnahmen wird auch die Klimaschutzstiftung Baden-Württemberg bei all ihren Aktivitäten im In- und Ausland zugrunde legen.
 
 ### Klimaschutz stärken – von der globalen bis zur kommunalen Ebene
 
@@ -476,7 +477,7 @@ Wir wollen Bioenergiedörfer auch in Zukunft im Rahmen der bestehenden Förderpr
 
 ### Auf dem Weg zu einer klimaneutralen Wirtschaft
 
-Wir wollen den Unternehmen in Baden-Württemberg bei dem Transformationsprozess hin zu einer nachhaltigen und klimaneutralen Wirtschaft ein starker Partner sein. Dazu wird die Wirtschaftsinitiative Nachhaltigkeit eine Plattform „Nachhaltige Produktion“ einrichten und im Rahmen des Klimabündnisses Baden-Württemberg die Klimaschutzvereinbarung mit dem Ziel der Klimaneutralität in Unternehmen forcieren. Wir bringen Investorinnen und Investoren von Erneuerbaren-Energien-Projekten mit Grundeigentümerinnen und Grundeigentümern und Unternehmen zusammen, um gemeinsame Projekte marktwirtschaftlich voranzutreiben. Wir werden im Rahmen eines Pilotprojekts erproben, welche Chancen die Digitalisierung bei der Erfassung von CO 2 -Emissionen in Unternehmen bieten kann.
+Wir wollen den Unternehmen in Baden-Württemberg bei dem Transformationsprozess hin zu einer nachhaltigen und klimaneutralen Wirtschaft ein starker Partner sein. Dazu wird die Wirtschaftsinitiative Nachhaltigkeit eine Plattform „Nachhaltige Produktion“ einrichten und im Rahmen des Klimabündnisses Baden-Württemberg die Klimaschutzvereinbarung mit dem Ziel der Klimaneutralität in Unternehmen forcieren. Wir bringen Investorinnen und Investoren von Erneuerbaren-Energien-Projekten mit Grundeigentümerinnen und Grundeigentümern und Unternehmen zusammen, um gemeinsame Projekte marktwirtschaftlich voranzutreiben. Wir werden im Rahmen eines Pilotprojekts erproben, welche Chancen die Digitalisierung bei der Erfassung von CO~2~-Emissionen in Unternehmen bieten kann.
 
 Wir setzen uns außerdem auf Bundesebene für eine Verbesserung der Rahmenbedingungen für Power-Purchase-Agreements (PPA) ein. Durch PPA können Geschäftsmodelle ohne EEG-Förderung einen zentralen Beitrag zur Energiewende in der Wirtschaft leisten.
 
@@ -694,7 +695,7 @@ Dazu rufen wir eine von der Wirtschaft getragene „Green Tech Allianz“ ins Le
 
 Wir wollen eine Green-Tech-Forschungs- und Bildungsoffensive an Hochschulen, beruflichen Schulen, anwendungsorientierten Forschungsinstituten und anderen Einrichtungen starten. Gerade die ökologischen Potenziale von Digitalisierung und Künstlicher Intelligenz wollen wir heben. Wir rufen ein Modellprojekt ins Leben, mit dem wir Rechenzentren klimaneutral aufstellen. Daneben wird ein besonderer Fokus auf dem Thema Kreislaufwirtschaft liegen.
 
-Innovationsoffensive für klimaneutrale Produktion: Als führendes Industrieland setzen wir uns das Ziel, weltweit die erste Region mit einer klimaneutralen Produktion zu werden. Dies ist eine große Chance, vor allem für unsere industriellen Kernbranchen. Mit einer Innovationsoffensive für klimaneutrale Produktion wollen wir gezielt unsere kleinen und mittleren Unternehmen auf ihrem Weg zur Klimaneutralität fördern. Wir wollen ein neues wirtschaftsnahes Zentrum für klimaneutrale Produktion einrichten und dabei CO 2 als Rohstoff ins Visier nehmen.
+Innovationsoffensive für klimaneutrale Produktion: Als führendes Industrieland setzen wir uns das Ziel, weltweit die erste Region mit einer klimaneutralen Produktion zu werden. Dies ist eine große Chance, vor allem für unsere industriellen Kernbranchen. Mit einer Innovationsoffensive für klimaneutrale Produktion wollen wir gezielt unsere kleinen und mittleren Unternehmen auf ihrem Weg zur Klimaneutralität fördern. Wir wollen ein neues wirtschaftsnahes Zentrum für klimaneutrale Produktion einrichten und dabei CO~2~\ als Rohstoff ins Visier nehmen.
 
 Wir entwickeln eine Recyclingstrategie und ergreifen Maßnahmen, um den Rohstoffbedarf und die Importabhängigkeit des Landes zu senken und den Standort resilienter zu machen. Dazu werden wir den Rohstoffdialog Baden-Württemberg wieder aufnehmen und die Forschung für innovative Recyclinglösungen und den Ersatz kritischer Rohstoffe fördern. Das Zukunftsthema Leichtbau wollen wir voranbringen. In Modellprojekten zeigen wir, was heute schon möglich ist: der digitale Materialpass für Immobilien, die digitalisierte Recyclingfabrik und die Rückgewinnung gebrauchter Rohstoffe. Erfolgreiche Projekte werden wir skalieren. Wir unterstützen Ansätze für fair produzierte, reparierbare Geräte und suchen nach Möglichkeiten, Tausch- und Verleihplattformen zu unterstützen.
 
@@ -2825,7 +2826,7 @@ Auch auf kommunaler Ebene ist ein leistungsfähiges Straßennetz von großer Bed
 
 Weniger Ressourcenverbrauch durch Wiederverwertung: Seit mehreren Jahren erprobt die Straßenbauverwaltung Baden-Württemberg verstärkt Asphaltbauweisen, die einen wesentlich erhöhten Recyclinganteil aufweisen.
 
-Ziel ist es einerseits, den Ressourcenverbrauch einzudämmen. Andererseits soll der durch den Vorrang der Erhaltung vor dem Neubau entstandenen, stark gestiegenen, Anteil an Ausbauasphalt effektiv wieder in Straßen verwendet werden. Wir fördern die Wiederverwertung beim Straßenbau; dabei speziell die Aufbereitung und umweltverträgliche Wiederverwertung von belastetem Ausbauasphalt. Durch die schadlose Aufbereitung und dem möglichen Wiedereinbau des Materials sparen wir CO 2 und schonen die Ressourcen der Primärrohstoffe.
+Ziel ist es einerseits, den Ressourcenverbrauch einzudämmen. Andererseits soll der durch den Vorrang der Erhaltung vor dem Neubau entstandenen, stark gestiegenen, Anteil an Ausbauasphalt effektiv wieder in Straßen verwendet werden. Wir fördern die Wiederverwertung beim Straßenbau; dabei speziell die Aufbereitung und umweltverträgliche Wiederverwertung von belastetem Ausbauasphalt. Durch die schadlose Aufbereitung und dem möglichen Wiedereinbau des Materials sparen wir CO~2~\ und schonen die Ressourcen der Primärrohstoffe.
 
 Innovatives und digitales Planen und Bauen: Ein wesentlicher Bestandteil der Digitalisierung der Straßenverkehrsinfrastruktur ist die Anwendung von Building Information Modeling (BIM). BIM steht für eine komplett digitale Arbeitsmethode beim Planen, Bauen und Betreiben von Baumaßnahmen. Unser Ziel ist eine bedarfsgerechte und flächendeckende Implementierung von innovativen und digitalen Arbeitsmethoden. Daher werden wir sukzessive die Anzahl an BIM-Projekten erhöhen, um bestmögliche Synergieeffekte für die Bauwirtschaft und die Verwaltung zu erzeugen.
 
@@ -3442,7 +3443,7 @@ Wir werden die Endlagersuche in der Schweiz auch zukünftig intensiv begleiten u
 
 Die Landesregierung wird sich bei der Bundesregierung dafür einsetzen, dass ein digitaler Ausfuhrschein in Form einer App geschaffen wird, um die Mehrwertsteuererstattung an der Schweizer Grenze zu digitalisieren. Dies wäre eine Entlastung für den Zoll und würde den grenzüberschreitenden Einkaufsverkehr wesentlich vereinfachen.
 
-Wir werden prüfen, inwieweit die Weiterentwicklung des grenzüberschreitenden „Wasserstoff Valley Hochrhein“ und die Gründung eines „Ultraeffizienzzentrums für H2“ als deren zentrales Element unterstützt werden kann, beispielsweise über den EU-Wiederaufbaufonds. Ziel ist es, die vorhanden Kompetenzen und Erfahrungen für diese Schlüsseltechnologie in der Region Hochrhein grenzüberschreitend zu bündeln. Bodenseeregion weiterentwickeln: Die Bodenseeregion soll sich zu einem CO 2 -neutralen Kultur-, Natur- und Wirt- schaftsstandort weiterentwickeln. Wir wollen dabei klimafreundliche, grenzüberschreitende Verkehrskonzepte rund um den See entwickeln und forcieren. Das Land wird sich weiterhin aktiv im Rahmen der Internationalen Bodenseekonferenz (IBK) in die Gestaltung der Zusammenarbeit in der Grenzregion einbringen.
+Wir werden prüfen, inwieweit die Weiterentwicklung des grenzüberschreitenden „Wasserstoff Valley Hochrhein“ und die Gründung eines „Ultraeffizienzzentrums für H2“ als deren zentrales Element unterstützt werden kann, beispielsweise über den EU-Wiederaufbaufonds. Ziel ist es, die vorhanden Kompetenzen und Erfahrungen für diese Schlüsseltechnologie in der Region Hochrhein grenzüberschreitend zu bündeln. Bodenseeregion weiterentwickeln: Die Bodenseeregion soll sich zu einem CO~2~-neutralen Kultur-, Natur- und Wirt- schaftsstandort weiterentwickeln. Wir wollen dabei klimafreundliche, grenzüberschreitende Verkehrskonzepte rund um den See entwickeln und forcieren. Das Land wird sich weiterhin aktiv im Rahmen der Internationalen Bodenseekonferenz (IBK) in die Gestaltung der Zusammenarbeit in der Grenzregion einbringen.
 
 Der Alpenraum verfügt über eine hohe Dichte an innovations- und wirtschaftsstarken Regionen. Die Landesregierung wird ihr Engagement in der EUSALP-Strategie fortsetzen.
 
@@ -3498,7 +3499,7 @@ Gemeinsam mit unseren Partnern der Wirtschaft aus Baden-Württemberg und Nordafr
 
 ### Partnerschaft des Landes mit Burundi weiterführen
 
-Wir gewährleisten die Arbeit des Kompetenzzentrums der Stiftung Entwicklungszusammenarbeit (SEZ), insbesondere auch seinen Einsatz in Burundi. Wir erhalten die Förderlinie für Partnerschaftsprojekte im Rahmen der Graswurzelpartnerschaft. Das Agro-Forst-Cluster, bei dem Klimaschutz mit wirtschaftlicher Entwicklung verbunden wird, wollen wir als effiziente und nachhaltige Form der Zusammenarbeit verstetigen. Dafür wollen wir eine Verwendung von Mitteln aus der Klimaschutzstiftung bzw. der CO 2 Kompensation von Ministerien prüfen. In Abstimmung mit den burundischen Partnern wollen wir weitere Cluster aufbauen, etwa in den Bereichen Wissenschaft, Gesundheit und dem globalen Einsatz gegen die Corona-Pandemie.
+Wir gewährleisten die Arbeit des Kompetenzzentrums der Stiftung Entwicklungszusammenarbeit (SEZ), insbesondere auch seinen Einsatz in Burundi. Wir erhalten die Förderlinie für Partnerschaftsprojekte im Rahmen der Graswurzelpartnerschaft. Das Agro-Forst-Cluster, bei dem Klimaschutz mit wirtschaftlicher Entwicklung verbunden wird, wollen wir als effiziente und nachhaltige Form der Zusammenarbeit verstetigen. Dafür wollen wir eine Verwendung von Mitteln aus der Klimaschutzstiftung bzw. der CO~2~\ Kompensation von Ministerien prüfen. In Abstimmung mit den burundischen Partnern wollen wir weitere Cluster aufbauen, etwa in den Bereichen Wissenschaft, Gesundheit und dem globalen Einsatz gegen die Corona-Pandemie.
 
 ### Nachhaltige Beschaffung und Lieferketten unterstützen
 
@@ -3579,8 +3580,17 @@ Die Koalitionspartner bilden einen Koalitionsausschuss. Je Seite gehören ihm si
 
 
 HERAUSGEBER:
-Bündnis 90/Die Grünen Baden-Württemberg Königstraße 78 70173 Stuttgart www.gruene-bw.de,
-CDU Baden-Württemberg Heilbronner Straße 43 70191 Stuttgart www.cdu-bw.de
+
+Bündnis 90/Die Grünen \
+Baden-Württemberg \
+Königstraße 78 70173 \
+Stuttgart \
+[www.gruene-bw.de](https://www.gruene-bw.de),
+
+CDU Baden-Württemberg \
+Heilbronner Straße 43 \
+70191 Stuttgart \
+[www.cdu-bw.de](https://www.cdu-bw.de)
 
 ### Struktur der Landesregierung
 

@@ -7,12 +7,18 @@
     sed -i -f postproc_wordwrap.sed tmp.txt
     sed -i -f postproc_pagenumtit.sed tmp.txt
     sed -i -f postproc_uppercasetitles.sed tmp.txt
+    sed -i -f postproc_possibletit.sed tmp.txt
 
 * manuelle Zeilenzusammenführungen
 * Überschriften-Markup überarbeitet
-* Kapitelüberschriften im Text ergänzt, da dort nur Subtitel als Überschriften, Extraktion mit 210506_Koalitionsvertrag_2021-2026.md
+* Kapitelüberschriften im Text ergänzt, da dort nur Subtitel als Überschriften, Extraktion aus 210506_Koalitionsvertrag_2021-2026.md
 
     grep -o '^[0-9]\.\+ [^0-9]*' 
+
+* zu PDF wandeln (via `pandoc`)
+
+    ./mdtopdf.sh
+
 
 # Koalitionsvertrag Baden-Württemberg 2016
 
