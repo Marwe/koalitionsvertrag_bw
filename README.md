@@ -19,6 +19,11 @@
 
     ./mdtopdf.sh 210506_Koalitionsvertrag_2021-2026.md
 
+* Keywords extrahieren:
+
+    ./extract_keywords.sh 'keyword1\|keyword2' # OR, any match of the keywords
+    ./extract_keywords.sh 'keyword1.*keyword2' # keyword1[any text]keyword2
+    
 
 # Koalitionsvertrag Baden-Württemberg 2016
 
