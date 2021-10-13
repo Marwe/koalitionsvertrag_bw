@@ -62,6 +62,8 @@ Es sind sicher noch Fehler enthalten, für deren Behebung gerne Pull-Requests ge
 
 ### creation of wordcloud
 
+Use the script `wordcloud.sh` or use commands below
+
 * prepare a python environment
 
 ```
