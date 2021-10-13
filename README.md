@@ -57,6 +57,7 @@ Es sind sicher noch Fehler enthalten, für deren Behebung gerne Pull-Requests ge
 
 
 ![Wordcloud Koalitionsvertrag 2016](wordcloud_koalitionsvertrag_2016.png)
+
 ![Wordcloud Koalitionsvertrag 2021](wordcloud_koalitionsvertrag_2021.png)
 
 ### creation of wordcloud
@@ -79,7 +80,7 @@ cat ./stopwords_de_koalitionsvertrag.txt ./stopwords-de/raw/stop-words-german.tx
 * compute a wordcloud
 
 ```
-# compute wordcloud
+wordcloud_cli --text 160509_Koalitionsvertrag_B-W_2016-2021_final.md --stopwords stopwords --imagefile wordcloud_koalitionsvertrag_2016.png --width 1200 --height 600
 wordcloud_cli --text 210506_Koalitionsvertrag_2021-2026.md --stopwords stopwords --imagefile wordcloud_koalitionsvertrag_2021.png --width 1200 --height 600
 ```
 
