@@ -1,4 +1,12 @@
-# Koalitionsvertrag 2021
+# Koalitionsvertrag Ampel 2021-2025
+
+* wget -o koalitionsvertrag-ampel-2021-2025.pdf https://www.spd.de/fileadmin/Dokumente/Koalitionsvertrag/Koalitionsvertrag_2021-2025.pdf
+* Text Extraktion via tika http://givemetext.okfnlabs.org/
+* remove page numbers in kate editor (regex replace): ´\n[\n0-9]*\n´
+* 
+
+
+# Koalitionsvertrag Baden-Württemberg 2021
 
 * source: [210506_Koalitionsvertrag_2021-2026.pdf, Download am 2021-05-19](https://www.baden-wuerttemberg.de/fileadmin/redaktion/dateien/PDF/210506_Koalitionsvertrag_2021-2026.pdf)
 * Text Extraktion via tika http://givemetext.okfnlabs.org/
