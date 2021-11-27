@@ -2,8 +2,9 @@
 
 * wget -o koalitionsvertrag-ampel-2021-2025.pdf https://www.spd.de/fileadmin/Dokumente/Koalitionsvertrag/Koalitionsvertrag_2021-2025.pdf
 * Text Extraktion via tika http://givemetext.okfnlabs.org/
-* remove page numbers in kate editor (regex replace): ´\n[\n0-9]*\n´
-* 
+* remove page numbers in kate editor (regex replace, multiline match): ´\n[\n0-9]*\n´
+* `sed -i -f postproc_sentence_newline.sed  koalitionsvertrag-ampel-2021-2025.pdf.txt´
+* manual cleanup: Headers identified and set according to contents, Title
 
 
 # Koalitionsvertrag Baden-Württemberg 2021
