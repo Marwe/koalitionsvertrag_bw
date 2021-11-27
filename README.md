@@ -87,6 +87,7 @@ pip3 install wordcloud
 git clone https://github.com/stopwords-iso/stopwords-de.git
 # compile a stopwords file from a selection
 cat ./stopwords_de_koalitionsvertrag.txt ./stopwords-de/raw/stop-words-german.txt ./stopwords-de/raw/language-resource-stopwords.txt ./stopwords-de/raw/stopwords-filter-de.txt > stopwords
+dos2unix stopwords
 ```
 
 * compute a wordcloud
