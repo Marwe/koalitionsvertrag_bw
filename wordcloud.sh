@@ -1,15 +1,16 @@
 #!/bin/bash
 
 if [ -z "$(which wordcloud_cli)" ] ;then
+    echo "workon wordcloud # forgotten?"
     echo "install wordcloud first, e.g. with"
-    echo "mkvirtualenf wordcloud"
+    echo "mkvirtualenv wordcloud"
     echo "pip3 install wordcloud"
     exit 1
 fi
 tmpf="$(mktemp)"
 #dialog --radiolist "select .md file" 16 70 10 $(find . -maxdepth 0 -type f -name '*.md' | awk 'BEGIN{chk="on "}{printf " "$0" \"" $0 "\" " chk;chk="off "}') 2>"$tmpf"
 #lbl=$(<"$tmpf")
-ifile=$(dialog --stdout --title "Please choose input text file" --fselect ./ 30 70)
+ifile=$(dialog --stdout --title "Please choose input text file" --fselect ./ 50 120)
 echo "filesection: $ifile"
 if [ -z "$ifile" ] ; then
     exit 1

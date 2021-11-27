@@ -6,7 +6,6 @@
 * `sed -i -f postproc_sentence_newline.sed  koalitionsvertrag-ampel-2021-2025.pdf.txt´
 * manual cleanup: Headers identified and set according to contents, Title
 
-
 # Koalitionsvertrag Baden-Württemberg 2021
 
 * source: [210506_Koalitionsvertrag_2021-2026.pdf, Download am 2021-05-19](https://www.baden-wuerttemberg.de/fileadmin/redaktion/dateien/PDF/210506_Koalitionsvertrag_2021-2026.pdf)
@@ -69,6 +68,8 @@ Es sind sicher noch Fehler enthalten, für deren Behebung gerne Pull-Requests ge
 
 ![Wordcloud Koalitionsvertrag 2021](wordcloud_koalitionsvertrag_2021.png)
 
+![Wordcloud Koalitionsvertrag Ampel 2021-2025](./wordcloud_koalitionsvertrag-ampel-2021-2025.pdf.txt.png)
+
 ### creation of wordcloud
 
 Use the script `wordcloud.sh` or use commands below
@@ -93,5 +94,6 @@ cat ./stopwords_de_koalitionsvertrag.txt ./stopwords-de/raw/stop-words-german.tx
 ```
 wordcloud_cli --text 160509_Koalitionsvertrag_B-W_2016-2021_final.md --stopwords stopwords --imagefile wordcloud_koalitionsvertrag_2016.png --width 1200 --height 600
 wordcloud_cli --text 210506_Koalitionsvertrag_2021-2026.md --stopwords stopwords --imagefile wordcloud_koalitionsvertrag_2021.png --width 1200 --height 600
+wordcloud_cli --text ./koalitionsvertrag-ampel-2021-2025.pdf.txt --stopwords stopwords --imagefile wordcloud_koalitionsvertrag-ampel-2021-2025.pdf.txt.png --width 1200 --height 600
 ```
 

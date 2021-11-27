@@ -1,7 +1,12 @@
 #!/bin/bash
 
+if [ -z "$md" ] ; then
+    echo "md=210506_Koalitionsvertrag_2021-2026.md $0 $@"
+    md="210506_Koalitionsvertrag_2021-2026.md"
+fi
+
 srcdir=$(dirname ${BASH_SOURCE[0]})
-srcmd="$srcdir/210506_Koalitionsvertrag_2021-2026.md"
+srcmd="$srcdir/$md"
 
 if [ -z "$1" ] ; then
     echo 'use grep syntax like keyword1\|keyword2, better add single quotes'
