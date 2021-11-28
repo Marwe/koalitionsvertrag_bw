@@ -1506,27 +1506,40 @@ Für den massiven Ausbau der Erneuerbaren Energien brauchen wir mehr Tempo und V
 Netzinfrastrukturen wollen wir in Zukunft auf allen politischen Ebenen stärker gemeinsam und vorausschauend planen.
 Dazu werden wir Bundesnetzagentur und Netzbetreiber umgehend beauftragen, einen über die aktuellen Netzentwicklungsplanungen hinausgehenden Plan für ein Klimaneutralitätsnetz zu berechnen und den Bundesbedarfsplan entsprechend fortschreiben.
 Besonderes Augenmerk muss bei allen Maßnahmen auf den Stromautobahnen liegen.
+
 Im Rahmen des Klimaschutz-Sofortprogramms werden wir weitere Maßnahmen auf den Weg bringen.
 Wir werden die Planungs- und Genehmigungsverfahren für eine schnellere Planung und Realisierung von Strom- und Wasserstoffnetzen beschleunigen.
-Wir gewährleisten eine klare Zuordnung derpolitischen Verantwortung für gute frühzeitige Bürgerbeteiligung beim Netzausbau.
+Wir gewährleisten eine klare Zuordnung der politischen Verantwortung für gute frühzeitige Bürgerbeteiligung beim Netzausbau.
 Wir legen bis Mitte 2023 eine „Roadmap Systemstabilität“ vor.
 Wir werden die Verteilnetze modernisieren und digitalisieren, u. a. durch eine vorausschauende Planung und mehr Steuerbarkeit.
 Den Rollout intelligenter Messsysteme als Voraussetzung für Smart Grids werden wir unter Gewährleistung des Datenschutzes und der IT-Sicherheit erheblich beschleunigen.
 Wir werden Speicher als eigenständige Säule des Energiesystems rechtlich definieren.
 Die Bereitstellung von Kapital für die Netzinfrastruktur braucht im europäischen Vergleich auch zukünftig attraktive Investitionsbedingungen.
 Wir werden im Einklang mit europäischem Recht den staatlichen Einfluss auf kritische Infrastruktur sicherstellen, wenn Sicherheitsinteressen berührt sind.
-Strommarktdesign Im Zuge des Ausbaus der Erneuerbaren Energien werden wir ein neues Strommarktdesign erarbeiten.
+
+### Strommarktdesign
+
+Im Zuge des Ausbaus der Erneuerbaren Energien werden wir ein neues Strommarktdesign erarbeiten.
 Dazu setzen wir gemeinsam als Bundesregierung und Koalitionsfraktionen eine Plattform „Klimaneutrales Stromsystem“ ein, die 2022 konkrete Vorschläge macht und Stakeholder aus Wissenschaft, Wirtschaft und Zivilgesellschaft einbezieht.
 Dabei bekennen wir uns zu einer weiteren Integration des europäischen Energiebinnenmarktes.
+
 Um den zügigen Zubau gesicherter Leistung anzureizen und den Atom- und Kohleausstieg abzusichern, werden wir in diesem Rahmen bestehende Instrumente evaluieren sowie wettbewerbliche und technologieoffene Kapazitätsmechanismen und Flexibilitäten prüfen.
 Dazu zählen u. a. gesicherte Erneuerbaren-Leistungen, hocheffiziente Gaskraftwerke mit Kraft-Wärme-Kopplung im Rahmen der Weiterentwicklung des entsprechenden Gesetzes, ein Innovationsprogramm, um H2-ready- Gaskraftwerke auch an Kohlekraftwerkstandorten anreizen zu können, Speicher, Energieeffizienzmaßnahmen und Lastmanagement.
+
 Wir werden Marktpreise bei der künftigen KWK-Förderung angemessen berücksichtigen.
+
 Außerdem bedarf es einer raschen und umfassenden Reform der Finanzierungsarchitektur des Energiesystems.
 Der Weg muss darin bestehen, Anreize für die sektorübergreifende Nutzung von Erneuerbaren Energien, dezentrale Erzeugungsmodelle sowie die Vermeidung von Treibhausgasemissionen konsequent zu stärken.
-Wir gewährleisten, dass erneuerbarer Strom wirtschaftlich für die Sektorenkopplung genutzt wird, anstatt die Anlagen wegen Netzengpässen abzuschalten.Wir werden die staatlich induzierten Preisbestandteile im Energiesektor grundlegend reformieren und dabei auf systematische, konsistente, transparente und möglichst verzerrungsfreie Wettbewerbsbedingungen abzielen, Sektorenkopplung ermöglichen und so ein Level-Playing-Field für alle Energieträger und Sektoren schaffen.
+Wir gewährleisten, dass erneuerbarer Strom wirtschaftlich für die Sektorenkopplung genutzt wird, anstatt die Anlagen wegen Netzengpässen abzuschalten.
+
+Wir werden die staatlich induzierten Preisbestandteile im Energiesektor grundlegend reformieren und dabei auf systematische, konsistente, transparente und möglichst verzerrungsfreie Wettbewerbsbedingungen abzielen, Sektorenkopplung ermöglichen und so ein Level-Playing-Field für alle Energieträger und Sektoren schaffen.
 Dabei spielt der CO2-Preis eine zentrale Rolle.
+
 Wir treiben eine Reform der Netzentgelte voran, die die Transparenz stärkt, die Transformation zur Klimaneutralität fördert und die Kosten der Integration der Erneuerbaren Energien fair verteilt.
-Sozial gerechte Energiepreise Um – auch angesichts höherer CO2-Preiskomponenten – für sozial gerechte und für die Wirtschaft wettbewerbsfähige Energiepreise zu sorgen, werden wir die Finanzierung der EEG-Umlage über den Strompreis beenden.
+
+### Sozial gerechte Energiepreise
+
+Um – auch angesichts höherer CO2-Preiskomponenten – für sozial gerechte und für die Wirtschaft wettbewerbsfähige Energiepreise zu sorgen, werden wir die Finanzierung der EEG-Umlage über den Strompreis beenden.
 Wir werden sie daher zum 1.
 Januar 2023 in den Haushalt übernehmen.
 Die Finanzierung übernimmt der EKF, der aus den Einnahmen der Emissionshandelssysteme (BEHG und ETS) und einem Zuschuss aus dem Bundeshaushalt gespeist wird.
