@@ -1,4 +1,6 @@
 #!/bin/bash
+maskfile="mask.png"
+
 
 if [ -z "$(which wordcloud_cli)" ] ;then
     echo "workon wordcloud # forgotten?"
@@ -26,5 +28,14 @@ if [ ! -f "stopwords" ] ; then
     cat ./stopwords_de_koalitionsvertrag.txt ./stopwords-de/raw/stop-words-german.txt ./stopwords-de/raw/language-resource-stopwords.txt ./stopwords-de/raw/stopwords-filter-de.txt > stopwords
 fi
 
-wordcloud_cli --text "$ifile" --stopwords "stopwords" --imagefile "wordcloud_$(basename ${ifile}).png" --width 1200 --height 600
+maskopt=""
+if [ -f "$maskfile" ] ; then
+    echo "using maskfile $maskfile"
+    maskopt="--contour_width=1 --contour_color=white --mask=$maskfile"
+    wordcloud_cli --text "$ifile" --stopwords "stopwords" $maskopt --imagefile "wordcloud_mask_$(basename ${ifile}).png" --width 1200 --height 600
+else
+    echo "no maskfile $maskfile"
+fi
+
+wordcloud_cli --text "$ifile" --stopwords "stopwords" $maskopt --imagefile "wordcloud_$(basename ${ifile}).png" --width 1200 --height 600
 
