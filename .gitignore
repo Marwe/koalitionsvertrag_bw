@@ -3,3 +3,11 @@ tmp.*
 koalitionsvertrag-ampel-2021-2025.pdf
 stopwords
 stopwords-de/
+
+# exclude things starting with nogit
+nogit*
+
+# exclude invalid filename patterns
+*[ äüöÄÜÖß]*
+*[!A-Za-z0-9._-]*
+
